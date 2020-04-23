@@ -4,8 +4,8 @@ module.exports = {
     themeConfig: {
         sidebar: [
             '/',
-            '/universal-dashboard',
-            '/interim'
+            '/interim',
+            '/universal-dashboard'
         ]
     }
 }

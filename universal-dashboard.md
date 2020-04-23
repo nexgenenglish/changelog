@@ -6,6 +6,7 @@ meta:
 ---
 
 # Neo Universal Dashboard Changelog
+[[toc]]
 
 ## Unreleased
 - [UD-214] Enabled checklist option for students with C1 PT result in organisation with Plus Plan

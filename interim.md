@@ -6,5 +6,4 @@ meta:
 ---
 
 # Neo Interim Changelog
-
-...
+[[toc]]
