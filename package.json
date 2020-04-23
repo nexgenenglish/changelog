@@ -1,0 +1,14 @@
+{
+  "name": "changelog",
+  "version": "0.1.0",
+  "description": "Microsite for neo ecosystem changelog",
+  "main": "index.js",
+  "repository": "https://github.com/nexgenenglish/changelog.git",
+  "author": "Jogi Silalahi <jsilalahi@dyned.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  }
+}
