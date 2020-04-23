@@ -1,8 +1,5 @@
 ---
 title: Home
-meta:
-  - name: neo, changelog, microsite
-  - content: microsite for neo ecosystem changelog 
 ---
 
 # Changelog

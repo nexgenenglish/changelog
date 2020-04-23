@@ -1,8 +1,5 @@
 ---
 title: Universal Dashboard
-meta:
-  - name: neo, universal dashboard
-  - content: changelog for neo universal dashboard
 ---
 
 # Neo Universal Dashboard Changelog
