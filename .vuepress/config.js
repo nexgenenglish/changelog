@@ -5,7 +5,6 @@ module.exports = {
         sidebar: [
             '/',
             '/interim',
-            '/nsa-app-ios',
             '/universal-dashboard'
         ]
     }
