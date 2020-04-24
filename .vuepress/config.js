@@ -1,11 +1,10 @@
 module.exports = {
-    title: 'Changelog',
+    title: 'neo Changelog',
     description: 'Microsite for neo ecosystem changelog',
     themeConfig: {
         sidebar: [
             '/',
             '/interim',
-            '/nsa-app-ios',
             '/universal-dashboard'
         ]
     }

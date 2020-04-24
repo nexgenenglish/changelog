@@ -2,13 +2,8 @@
 title: Universal Dashboard
 ---
 
-# Neo Universal Dashboard Changelog
-[[toc]]
-
-## Unreleased
-- [UD-214] Enabled checklist option for students with C1 PT result in organisation with Plus Plan
-- [UD-213] Used laravel mix instead asset for clear caches when update assets
-- [UD-223] Separated default student token between null(default) and zero(0)
+# Neo Universal Dashboard
+An universal dashboard to manage neo ecosystem.
 
 ## [v1.0.22] on April 14th, 2020
 - [hotfix] Fixed billing for students with an empty username

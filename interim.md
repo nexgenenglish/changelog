@@ -2,5 +2,5 @@
 title: Interim
 ---
 
-# Neo Interim Changelog
-[[toc]]
+# Neo Interim
+neo Interim is a microsite that provides middleware for neo Ecosystem.
