@@ -1,9 +1,9 @@
 ---
-title: neo Study API
+title: neo Study App API
 ---
 
-# neo Study API
-Service (API) to manage neo study apps.
+# neo Study App API
+Service (API) to manage neo Study App.
 
 ## [v1.7.4] on May 05th, 2020
 - [DSAAPI-150](https://dyned.myjetbrains.com/youtrack/issue/DSAAPI-150) Add some fileds to summary report for all students under an org
