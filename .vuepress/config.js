@@ -5,6 +5,7 @@ module.exports = {
         sidebar: [
             '/',
             '/interim',
+            '/live',
             '/universal-dashboard'
         ]
     }
