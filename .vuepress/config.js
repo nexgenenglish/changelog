@@ -9,7 +9,11 @@ module.exports = {
             '/interim',
             '/live',
             '/nsa-api',
-            '/universal-dashboard'
+            '/universal-dashboard',
+            '/nsa-android',
+            '/nsa-ios',
+            '/mna-android',
+            '/mna-ios'
         ]
     }
 }
