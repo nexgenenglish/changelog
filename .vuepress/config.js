@@ -4,8 +4,11 @@ module.exports = {
     themeConfig: {
         sidebar: [
             '/',
+            '/etest',
+            '/etest-api',
             '/interim',
             '/live',
+            '/nsa-api',
             '/universal-dashboard'
         ]
     }
