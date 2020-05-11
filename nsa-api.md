@@ -2,7 +2,7 @@
 title: neo Study API
 ---
 
-# neo ETest Widget and Cloud
+# neo Study API
 Service (API) to manage neo study apps.
 
 ## [v1.7.4] on May 05th, 2020

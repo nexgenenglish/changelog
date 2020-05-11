@@ -2,7 +2,7 @@
 title: ETest API
 ---
 
-# neo ETest Widget and Cloud
+# neo ETest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
 ## [v1.3.5] on May 05th, 2020
