@@ -1,7 +1,15 @@
 module.exports = {
-    title: 'neo Changelog',
+    title: '',
     description: 'Microsite for neo ecosystem changelog',
     themeConfig: {
+        logo: 'https://assets.neotebet.de/assets/img/logo_neo.svg',
+        nav: [
+            { text: 'myneo Portal', link: 'https://myneo.space' },
+        ],
+        lastUpdated: 'Last Updated',
+        nextLinks: false,
+        prevLinks: false,
+        smoothScroll: true,
         sidebar: [
             '/',
             '/etest',
@@ -10,7 +18,11 @@ module.exports = {
             '/live-b2i',
             '/live-b2c',
             '/nsa-api',
-            '/universal-dashboard'
+            '/universal-dashboard',
+            '/nsa-android',
+            '/nsa-ios',
+            '/mna-android',
+            '/mna-ios'
         ]
     }
 }
