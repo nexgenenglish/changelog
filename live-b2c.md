@@ -1,9 +1,9 @@
 ---
-title: Live
+title: neo Live B2C
 ---
 
-# Live V1
-A website for DynEd/neo students study using Live Session.
+# Live B2C
+A website for neo students to study using Live Session.
 
 ## [v1.0.196] on April 30th, 2020
 - [DELB2C-829] Added New Mapping Script with flow_id
@@ -14,6 +14,3 @@ A website for DynEd/neo students study using Live Session.
 - [DELB2C-863] Added New Trigger Step for Pro and Plus Level
 - [DELB2C-873] Fixed Coaching Script Plus Level based on feedback from China
 - [DELB2C-897] Added Find Coach based on Plus Student Cert Level
-- [Live-1054] Fixed Live Session Coaching Script and Study Dashboard Display
-- [Live-1059] Added New Mapping Script for non regular student
-- [Live-1060] Added New Page for Agora Recording
