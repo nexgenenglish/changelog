@@ -7,7 +7,8 @@ module.exports = {
             '/etest',
             '/etest-api',
             '/interim',
-            '/live',
+            '/live-b2i',
+            '/live-b2c',
             '/nsa-api',
             '/universal-dashboard'
         ]
