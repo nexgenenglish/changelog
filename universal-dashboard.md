@@ -5,6 +5,11 @@ title: Universal Dashboard
 # Neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [v1.0.24] on April 28th, 2020
+- [UD-225] Using internal font in local system
+- [UD-202] Enable super admin configuration for trial duration more than 21 days
+- [UD-195] Add configuration to send Certificate to student's email or not
+
 ## [v1.0.23] on April 20th, 2020
 - [UD-214] Enable C1 candidate to be onboarded
 - [UD-213] Prevent clear cache on browser
