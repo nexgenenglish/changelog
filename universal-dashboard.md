@@ -5,6 +5,11 @@ title: Universal Dashboard
 # Neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [v1.0.23] on April 20th, 2020
+- [UD-214] Enable C1 candidate to be onboarded
+- [UD-213] Prevent clear cache on browser
+- [UD-223] Allow to configure 0 amount for token organization
+
 ## [v1.0.22] on April 14th, 2020
 - [hotfix] Fixed billing for students with an empty username
 
