@@ -5,6 +5,19 @@ title: Universal Dashboard
 # Neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [v1.0.26] on May 6th, 2020
+- [UD-206] Added download student's summary report in Student Page
+
+## [v1.0.25] on May 6th, 2020
+- [UD-220] Fixed change expired date function
+- [UD-221/UD-233/UD-243] Fixed download PT report
+- [UD-222] Fixed download trial student list in excel format
+- [UD-228] FIxed to load student in Candidate
+- [UD-232] Hide Global Etest and Global Live for all roles except Super Admin
+- [UD-234] Fixed date picker field for Safari browser
+- [UD-238] Fixed local font
+- [UD-245] Fixed create SSO after register without taking Placement Test
+
 ## [v1.0.24] on April 28th, 2020
 - [UD-225] Using internal font in local system
 - [UD-202] Enable super admin configuration for trial duration more than 21 days
