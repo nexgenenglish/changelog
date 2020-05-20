@@ -2,8 +2,15 @@
 title: Universal Dashboard
 ---
 
-# Neo Universal Dashboard
+# neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
+
+## [1.0.27] on May 19th, 2020
+- [UD-207] Update billing report conditionals for students
+- [UD-226] Update labels of dial code field
+- [UD-247] Update send certification checkbox
+- [UD-256] Fix generate study record date issue
+- [NBRG-411] Matched total students between report list and students list on student menu
 
 ## [v1.0.26] on May 6th, 2020
 - [UD-206] Added download student's summary report in Student Page
