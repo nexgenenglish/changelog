@@ -5,7 +5,7 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
-## [1.0.27] on May 19th, 2020
+## [v1.0.27] on May 19th, 2020
 - [[UD-207](https://dyned.myjetbrains.com/youtrack/issue/UD-207)] Update billing report conditionals for students
 - [[UD-226](https://dyned.myjetbrains.com/youtrack/issue/UD-226)] Update labels of dial code field
 - [[UD-247](https://dyned.myjetbrains.com/youtrack/issue/UD-247)] Update send certification checkbox
