@@ -5,6 +5,10 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## [v1.3.6] on May 13th, 2020
+- [ET-316](https://dyned.myjetbrains.com/youtrack/issue/ET-316) Fixed API issue for attem result
+- [ET-318](https://dyned.myjetbrains.com/youtrack/issue/ET-318) Improved the API with status message 
+
 ## [v1.3.5] on May 05th, 2020
 - [ET-311](https://dyned.myjetbrains.com/youtrack/issue/ET-311) Get candidate PT result without taking PT
 
