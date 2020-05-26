@@ -5,6 +5,10 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+## [v1.6.3 1102005191712] on May 21st, 2020
+- [DSA-2309](https://dyned.myjetbrains.com/youtrack/issue/DSA-2309) iOS V1.6.2: SL not inherited when repeating a lesson step
+- [DSA-2312](https://dyned.myjetbrains.com/youtrack/issue/DSA-2312) iOS：released version : NeoP+ >NDE M7U1> Harry's Accident>step2: when running this lesson, there is a blank screen and the APP stuck
+
 ## [v1.6.2 1102005141306] on May 14th, 2020
 - [NBRG-313](https://dyned.myjetbrains.com/youtrack/issue/NBRG-313) HengXing-----------When the repetition key is used in the course, the picture flashes directly without sound.
 - [DSA-2264](https://dyned.myjetbrains.com/youtrack/issue/DSA-2264) iOS: NDE M5U2>city directions>step 5: Points won't add after recognizing several sentences.  
