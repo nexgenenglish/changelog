@@ -5,7 +5,7 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
-## [v1.6.3 1102005191712] on May 21st, 2020
+## [v1.6.3 1102005242301] on May 21st, 2020
 - [DSA-2309](https://dyned.myjetbrains.com/youtrack/issue/DSA-2309) iOS V1.6.2: SL not inherited when repeating a lesson step
 - [DSA-2312](https://dyned.myjetbrains.com/youtrack/issue/DSA-2312) iOS：released version : NeoP+ >NDE M7U1> Harry's Accident>step2: when running this lesson, there is a blank screen and the APP stuck
 
