@@ -5,6 +5,10 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.6.2223.2020.06.04] on June 4th, 2020
+- [DSA-2310](https://dyned.myjetbrains.com/youtrack/issue/DSA-2310) Error: NO ENCRYPTED JSON FILE EXIST
+- [DSA-2319](https://dyned.myjetbrains.com/youtrack/issue/DSA-2319) https://myneo.zendesk.com/agent/tickets/1936
+
 ## [v1.6.2.2020.05.14] on May 14th, 2020
 - [DSA-2296](https://dyned.myjetbrains.com/youtrack/issue/DSA-2296) [Android] Fix SL issue based on DSA-2292
 - [DSA-2299](https://dyned.myjetbrains.com/youtrack/issue/DSA-2299) Android : Questions are missed directly, or sometimes it stuck and it continues after clicking on Resume
