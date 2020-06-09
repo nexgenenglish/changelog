@@ -5,6 +5,12 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [v1.0.28] on June 2nd, 2020
+- [[UD-207](https://dyned.myjetbrains.com/youtrack/issue/UD-207)] Update billing report conditionals for students
+- [[UD-251](https://dyned.myjetbrains.com/youtrack/issue/UD-251)] Update synchronize account type with live system
+- [[UD-253](https://dyned.myjetbrains.com/youtrack/issue/UD-253)] Update acl disable/enable format value
+- [[UD-259](https://dyned.myjetbrains.com/youtrack/issue/UD-259)] Remove dummy text
+
 ## [v1.0.27] on May 19th, 2020
 - [[UD-207](https://dyned.myjetbrains.com/youtrack/issue/UD-207)] Update billing report conditionals for students
 - [[UD-226](https://dyned.myjetbrains.com/youtrack/issue/UD-226)] Update labels of dial code field
