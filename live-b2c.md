@@ -5,6 +5,16 @@ title: neo Live B2C
 # Live B2C
 A website for neo students to study using Live Session.
 
+## [v1.0.197] on May 28th, 2020
+- [DELB2C-854](https://dyned.myjetbrains.com/youtrack/issue/DELB2C-854) Fixed Sending Email But No Appointment Booked
+- [DELB2C-862](https://dyned.myjetbrains.com/youtrack/issue/DELB2C-862) Added Log When Student Join Session
+- [DELB2C-884](https://dyned.myjetbrains.com/youtrack/issue/DELB2C-884) Added Log When Token History Not Updated
+- [DELB2C-916](https://dyned.myjetbrains.com/youtrack/issue/DELB2C-916) Fixed Load Student Data
+- [DELB2C-920](https://dyned.myjetbrains.com/youtrack/issue/DELB2C-920) Fixed Missing Script
+- [DELB2C-921](https://dyned.myjetbrains.com/youtrack/issue/DELB2C-921) Added Agora Recording Page
+- [DELB2C-933](https://dyned.myjetbrains.com/youtrack/issue/DELB2C-933) Added Event To Record Attendance
+- [DELB2C-945](https://dyned.myjetbrains.com/youtrack/issue/DELB2C-945) Added New Field To Store Attendance From Event
+
 ## [v1.0.196] on April 30th, 2020
 - [DELB2C-829](https://dyned.myjetbrains.com/youtrack/issue/DELB2C-829) Added New Mapping Script with flow_id
 - [DELB2C-837](https://dyned.myjetbrains.com/youtrack/issue/DELB2C-837) Fixed Dynamic Coaching Dots
