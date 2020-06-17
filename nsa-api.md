@@ -5,6 +5,10 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+## [v1.7.7] on May 27th, 2020
+- [NB2B-241](https://dyned.myjetbrains.com/youtrack/issue/NB2B-241) update format date SSO
+- change lowercase when the first character (Update Profile SSO)
+
 ## [v1.7.6] on May 27th, 2020
 - [DSAAPI-162](https://dyned.myjetbrains.com/youtrack/issue/DSAAPI-162) Fixed issue to set expired date greater than today's date
 
