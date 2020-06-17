@@ -5,6 +5,9 @@ title: eTest Widget and Cloud
 # eTest Widget and Cloud
 Application for Assessment Tests (Placement Tests or Certification Tests) systems on neo.
 
+## [2.8.0] on June 17th, 2020
+- [ET-334](https://dyned.myjetbrains.com/youtrack/issue/ET-334) Add email confirmation on etest cloud
+
 ## [v2.7.7] on May 17th, 2020
 - [ET-309](https://dyned.myjetbrains.com/youtrack/issue/ET-309) Fixed Certificate Test audio issue 
 - [ET-314](https://dyned.myjetbrains.com/youtrack/issue/ET-314) Fixed Kazakhstan dial code
