@@ -17,6 +17,7 @@ module.exports = {
             '/interim',
             '/live-b2i',
             '/live-b2c',
+            '/jct',
             '/nsa-api',
             '/universal-dashboard',
             '/nsa-android',
