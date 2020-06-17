@@ -12,6 +12,7 @@ module.exports = {
         smoothScroll: true,
         sidebar: [
             '/',
+            '/cmsmda',
             '/etest',
             '/etest-api',
             '/interim',
