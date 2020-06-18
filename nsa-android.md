@@ -5,9 +5,11 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
-## [v1.6.2223.2020.06.04] on June 4th, 2020
+## [v1.6.2224.2020.06.12] on June 16th, 2020
 - [DSA-2310](https://dyned.myjetbrains.com/youtrack/issue/DSA-2310) Error: NO ENCRYPTED JSON FILE EXIST
 - [DSA-2319](https://dyned.myjetbrains.com/youtrack/issue/DSA-2319) https://myneo.zendesk.com/agent/tickets/1936
+- [NSA-2380](https://dyned.myjetbrains.com/youtrack/issue/NSA-2380) Android > 1.6.2224.2020.06.09: some Q banks are missed in a step when playing 2 Qs
+- [NSA-2381](https://dyned.myjetbrains.com/youtrack/issue/NSA-2381) Android > 1.6.2224.2020.06.10 > Step 4: engine crashed if clicking Pause right before playing my recording
 
 ## [v1.6.2.2020.05.14] on May 14th, 2020
 - [DSA-2296](https://dyned.myjetbrains.com/youtrack/issue/DSA-2296) [Android] Fix SL issue based on DSA-2292
