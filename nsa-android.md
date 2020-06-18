@@ -8,6 +8,7 @@ neo Study application for Android
 ## [v1.6.2224.2020.06.12] on June 16th, 2020
 - [DSA-2310](https://dyned.myjetbrains.com/youtrack/issue/DSA-2310) Error: NO ENCRYPTED JSON FILE EXIST
 - [DSA-2319](https://dyned.myjetbrains.com/youtrack/issue/DSA-2319) https://myneo.zendesk.com/agent/tickets/1936
+- [DSA-2316](https://dyned.myjetbrains.com/youtrack/issue/DSA-2316) DBE U4 > Product Comparison > The SX: it crashed when testing Steps 2, 3 & 5
 - [NSA-2380](https://dyned.myjetbrains.com/youtrack/issue/NSA-2380) Android > 1.6.2224.2020.06.09: some Q banks are missed in a step when playing 2 Qs
 - [NSA-2381](https://dyned.myjetbrains.com/youtrack/issue/NSA-2381) Android > 1.6.2224.2020.06.10 > Step 4: engine crashed if clicking Pause right before playing my recording
 
