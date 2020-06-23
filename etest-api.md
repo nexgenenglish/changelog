@@ -8,8 +8,9 @@ Service (API) to manage all the Assements Test (Placement test or the Certificat
 ## [v1.3.7] on June 17th, 2020
 - Make a pop up message "Email already registered, please use another email address"
 for candidate that used the registered e-mail when taking PT.
-- Improve labelling for some words in generating test token
-- Improve API to accept user with “support” role
+- Improve labelling for some words in generating test token.
+- Improve API to accept user with “support” role.
+- Question numbering on A1+ CT not showing properly.
 
 ## [v1.3.6] on May 13th, 2020
 - Fixed API call for student whose PT status is complete.
