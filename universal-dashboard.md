@@ -5,7 +5,23 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [v1.0.29] on June 23th, 2020
+- Add 'organization_admin' value on roles
+- Update certificate set, certificate plan on issued certificate 
+- Add condition of deactivated/reactivated students into billing report
+- Unable to create a User with Read only privileges
+- Make API to get B2C plus organization
+- Dashboard date entry using DD-MM-YYYY
+- Typos in New Dashboard
+- Add role 'agent' to users details
+- Update auto sort of question flow and certification plan on PT generated token
+- Update wrong certification plan value on PT generated token
+- Update issued certificate for level Pre A1
+- Update user privileges
+- API consumed by Interim for MNA and NSA download url
+
 ## [v1.0.28] on June 2nd, 2020
+- Prevent user to update student expiration date to previous date
 - Add some conditional for billing report exemption.
 - Sync account type (trial and regular) with Live system.
 - Update the ACL format for enabled/disabled account.
@@ -13,6 +29,7 @@ An universal dashboard to manage neo ecosystem.
 
 ## [v1.0.27] on May 19th, 2020
 - Add some conditional for billing report exemption. 
+- Add dropdown for dial code in student registration form
 - Change dial code label to country code.
 - Fixed the checkbox for “Issues certificate automatically after Certification Test?”  to be able to edit by user. The edit means (check or uncheck the checkbox).
 - Fixed period date picker when generate study record.
