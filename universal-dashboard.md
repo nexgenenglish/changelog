@@ -5,6 +5,9 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [v1.0.30] on June 23th, 2020
+- Fixed date format required using datepicker js
+
 ## [v1.0.29] on June 23th, 2020
 - Add 'organization_admin' value on roles
 - Update certificate set, certificate plan on issued certificate 
