@@ -12,9 +12,11 @@ module.exports = {
         smoothScroll: true,
         sidebar: [
             '/',
+            '/cmsmda',
             '/etest',
             '/etest-api',
             '/interim',
+            '/jct',
             '/live-b2i',
             '/live-b2c',
             '/nsa-api',
