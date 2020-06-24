@@ -6,26 +6,26 @@ title: eTest Widget and Cloud
 Application for Assessment Tests (Placement Tests or Certification Tests) systems on neo.
 
 ## [2.8.0] on June 17th, 2020
-- Add second e-mail field to confirm e-mail that does not allow to copy/paste function and include candidate’s phone number in PT report.
+- [ET-334](https://dyned.myjetbrains.com/youtrack/issue/ET-334) Add second e-mail field to confirm e-mail that does not allow to copy/paste function and include candidate’s phone number in PT report.
 
 ## [v2.7.7] on May 17th, 2020
-- Fixed audio issue on Certificate Test.
-- Fixed Kazakhstan dial code.
-- Fixed API issue for fetching students data with complete “status”.
-- Fixed audio issue on Certificate Test.
-- Improved Notification messaging.
-- Fixed audio not played issue on iPhone.
-- Disabled translation in PT.
+- [ET-309](https://dyned.myjetbrains.com/youtrack/issue/ET-309) Fixed audio issue on Certificate Test.
+- [ET-314](https://dyned.myjetbrains.com/youtrack/issue/ET-314) Fixed Kazakhstan dial code.
+- [ET-316](https://dyned.myjetbrains.com/youtrack/issue/ET-316) Fixed API issue for fetching students data with complete “status”.
+- [ET-312](https://dyned.myjetbrains.com/youtrack/issue/ET-312) Fixed audio issue on Certificate Test.
+- [ET-318](https://dyned.myjetbrains.com/youtrack/issue/ET-318) Improved Notification messaging.
+- [NBRG-408](https://dyned.myjetbrains.com/youtrack/issue/NBRG-408) Fixed audio not played issue on iPhone.
+- [ET-320 ](https://dyned.myjetbrains.com/youtrack/issue/ET-320 ) Disabled translation in PT.
 
 ## [v2.7.6] on May 15th, 2020
-- Fixed home button url on result page.
+- [ET-310](https://dyned.myjetbrains.com/youtrack/issue/ET-310) Fixed home button url on result page.
 
 ## [v2.7.5] on Apr 29th, 2020
-- Fixed audio issues when taking neo Plus PT on phone and computer browser.
-- Next button can’t be clicked when taking neo Plus PT on phone and computer browser.
-- Make cloud e-test usable for multiple users that access on the same browser.
-- Fixed reload button that didn’t return to the question after it clicked.
-- Improve for displayed icon if the page is refreshed.
+- [ET-292](https://dyned.myjetbrains.com/youtrack/issue/ET-292) Fixed audio issues when taking neo Plus PT on phone and computer browser.
+- [ET-296](https://dyned.myjetbrains.com/youtrack/issue/ET-296) Next button can’t be clicked when taking neo Plus PT on phone and computer browser.
+- [ET-298](https://dyned.myjetbrains.com/youtrack/issue/ET-298) Make cloud e-test usable for multiple users that access on the same browser.
+- [ET-304](https://dyned.myjetbrains.com/youtrack/issue/ET-304) Fixed reload button that didn’t return to the question after it clicked.
+- [ET-307](https://dyned.myjetbrains.com/youtrack/issue/ET-307) Improve for displayed icon if the page is refreshed.
 
 ## [v2.7.2] on Apr 24th, 2020
 - Add feature for student to make test able for multiple users within same browsers.
