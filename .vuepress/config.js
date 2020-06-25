@@ -24,7 +24,8 @@ module.exports = {
             '/nsa-android',
             '/nsa-ios',
             '/mna-android',
-            '/mna-ios'
+            '/mna-ios',
+            '/sso-api'
         ]
     }
 }
