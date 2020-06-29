@@ -5,6 +5,12 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [v1.0.31] on June 26th, 2020
+- [UD-318](https://dyned.myjetbrains.com/youtrack/issue/UD-318) Update test token mass generator feature
+
+## [v1.0.30] on June 23th, 2020
+- [hotfix] Fixed date format required using datepicker js
+
 ## [v1.0.29] on June 23th, 2020
 - [UD-242](https://dyned.myjetbrains.com/youtrack/issue/UD-242) Added 'organization_admin' value on roles.
 - [UD-254](https://dyned.myjetbrains.com/youtrack/issue/UD-254) Updated value for certificate set, certificate plan on issued certificate 
