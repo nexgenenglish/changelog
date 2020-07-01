@@ -5,8 +5,11 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## [v1.3.8] on June 29th, 2020
+- [ETAPI-13](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-13) Updated configuration for email that have been registered in NSADB and eTest.
+
 ## [v1.3.7] on June 17th, 2020
-- [ET-324](https://dyned.myjetbrains.com/youtrack/issue/ET-324) Make a pop up message "Email already registered, please use another email address"
+- [ET-324](https://dyned.myjetbrains.com/youtrack/issue/ET-324) Made a pop up message "Email already registered, please use another email address"
 for candidate that used the registered e-mail when taking PT.
 - [ET-335](https://dyned.myjetbrains.com/youtrack/issue/ET-335) Improve labelling for some words in generating test token.
 - [ETAPI-5](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-5) Improve API to accept user with “support” role.

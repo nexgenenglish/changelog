@@ -5,8 +5,11 @@ title: eTest Widget and Cloud
 # eTest Widget and Cloud
 Application for Assessment Tests (Placement Tests or Certification Tests) systems on neo.
 
-## [2.8.0] on June 17th, 2020
-- [ET-334](https://dyned.myjetbrains.com/youtrack/issue/ET-334) Add second e-mail field to confirm e-mail that does not allow to copy/paste function and include candidate’s phone number in PT report.
+## [v2.8.1] on June 29th, 2020
+- [ET-356](https://dyned.myjetbrains.com/youtrack/issue/ET-356) Syncronized dial code data between eTest and MNS.
+
+## [v2.8.0] on June 17th, 2020
+- [ET-334](https://dyned.myjetbrains.com/youtrack/issue/ET-334) Added second e-mail field to confirm e-mail that does not allow to copy/paste function and include candidate’s phone number in PT report.
 
 ## [v2.7.7] on May 17th, 2020
 - [ET-309](https://dyned.myjetbrains.com/youtrack/issue/ET-309) Fixed audio issue on Certificate Test.
