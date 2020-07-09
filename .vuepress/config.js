@@ -25,7 +25,8 @@ module.exports = {
             '/nsa-ios',
             '/mna-android',
             '/mna-ios',
-            '/sso-api'
+            '/sso-api',
+            '/voucher generator'
         ]
     }
 }
