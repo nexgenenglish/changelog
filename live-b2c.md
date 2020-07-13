@@ -5,12 +5,38 @@ title: neo Live B2C
 # Live B2C
 A website for neo students to study using Live Session.
 
+## [v1.0.199] on July 10th, 2020
+- [NELB2C-640](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-640) Fixed typo message
+- [NELB2C-671](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-671) Added simulator message
+- [NELB2C-780](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-780) Fixed student cannot see coach
+- [NELB2C-877](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-877) Fixed sending double email
+- [NELB2C-924](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-924) Added Agora student simulator page
+- [NELB2C-939](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-939) Added record user time when join channel
+- [NELB2C-968](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-968) Fixed student waiting coach
+- [NELB2C-969](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-969), [NELB2C-970](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-970) Fixed missing email and SMS reminder
+- [NELB2C-998](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-998) Fixed discrepancy session
+- [NELB2C-1012](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1012) Added registration number for China page
+- [NELB2C-1015](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1015) Fixed reload twice when change local timezone
+- [NELB2C-1017](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1017) Fixed saving local timezone on MNA
+- [NELB2C-1019](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1019) Fixed page loading too long
+- [NELB2C-1022](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1022) Added Agora simulator dynamic URL
+- [NELB2C-1024](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1024) Fixed MNA update timezone
+- [NELB2C-1026](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1026) Fixed token expired when join session on MNA
+- [NELB2C-1029](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1029) Fixed token expired when join session on MNA
+- [NELB2C-1031](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1031) Fixed absent student
+- [NELB2C-1032](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1032) Added coach star rating on MNA
+- [NELB2C-1033](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1033) Fixed loading page when click country and language
+- [NELB2C-1034](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1034) Fixed wording on dashboard page
+- [NELB2C-1035](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1035) Added Agora simulator redirect page for student
+- [NELB2C-1036](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1036), [NELB2C-1039](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1039) Fixed null token on MNA
+- [NELB2C-1040](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1040) Fixed token generation after countdown end
+
 ## [v1.0.198] on June 24th, 2020
 - [NELB2C-599](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-599) Fixed typo for connecting message on Live session.
 - [NELB2C-621](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-621) Added improvement of sharing PPT presentation on Agora.
 - [NELB2C-622](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-622) Changed typo from goal to sync with guarantee.
 - [NELB2C-761](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-761) Fixed intro video for Europe region.
-- [NELB2C-814](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-814) Fixed color dot in student point to matched the student's attendance on coaching session. 
+- [NELB2C-814](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-814) Fixed color dot in student point to matched the student's attendance on coaching session.
 - [NELB2C-885](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-885) Fixed coach rating calculation.
 - [NELB2C-940](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-940) Fixed student attendance in session summaries report.
 - [NELB2C-954](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-954) Fixed issue of automatically returning back to home page when booking in MNA.
@@ -25,20 +51,20 @@ A website for neo students to study using Live Session.
 
 ## [v1.0.197] on May 28th, 2020
 - [DELB2C-854](https://dyned.myjetbrains.com/youtrack/issue/DELB2C-854) Fixed issue of booked session which not showing in upcoming session page.
-- [DELB2C-862](https://dyned.myjetbrains.com/youtrack/issue/DELB2C-862) Added log in DB for student attend session. 
+- [DELB2C-862](https://dyned.myjetbrains.com/youtrack/issue/DELB2C-862) Added log in DB for student attend session.
 - [DELB2C-884](https://dyned.myjetbrains.com/youtrack/issue/DELB2C-884) Fixed token issue that not showing in the history after live session.
 - [DELB2C-916](https://dyned.myjetbrains.com/youtrack/issue/DELB2C-916) Fixed issue for cannot loading student data.
-- [DELB2C-920](https://dyned.myjetbrains.com/youtrack/issue/DELB2C-920) Fixed missing script during live session. 
-- [DELB2C-921](https://dyned.myjetbrains.com/youtrack/issue/DELB2C-921) Added page to view china students recording. 
-- [DELB2C-933](https://dyned.myjetbrains.com/youtrack/issue/DELB2C-933) Added student/coach attendance time based on join time (ROW Students). 
+- [DELB2C-920](https://dyned.myjetbrains.com/youtrack/issue/DELB2C-920) Fixed missing script during live session.
+- [DELB2C-921](https://dyned.myjetbrains.com/youtrack/issue/DELB2C-921) Added page to view china students recording.
+- [DELB2C-933](https://dyned.myjetbrains.com/youtrack/issue/DELB2C-933) Added student/coach attendance time based on join time (ROW Students).
 - [DELB2C-945](https://dyned.myjetbrains.com/youtrack/issue/DELB2C-945) Added student/coach attendance time based on join time (China Students) .
 
 ## [v1.0.196] on April 30th, 2020
-- [DELB2C-829](https://dyned.myjetbrains.com/youtrack/issue/DELB2C-829) Fixed coaching scipt mapping for Professional plan students. 
-- [DELB2C-837](https://dyned.myjetbrains.com/youtrack/issue/DELB2C-837) Fixed dynamic coaching dots to matched the number of coaching sessions. 
+- [DELB2C-829](https://dyned.myjetbrains.com/youtrack/issue/DELB2C-829) Fixed coaching scipt mapping for Professional plan students.
+- [DELB2C-837](https://dyned.myjetbrains.com/youtrack/issue/DELB2C-837) Fixed dynamic coaching dots to matched the number of coaching sessions.
 - [DELB2C-843](https://dyned.myjetbrains.com/youtrack/issue/DELB2C-843) Fixed display on study dashboard.
-- [DELB2C-844](https://dyned.myjetbrains.com/youtrack/issue/DELB2C-844) Added new coaching script plus level. 
+- [DELB2C-844](https://dyned.myjetbrains.com/youtrack/issue/DELB2C-844) Added new coaching script plus level.
 - [DELB2C-851](https://dyned.myjetbrains.com/youtrack/issue/DELB2C-851) Add retrieve student data function from API.  
 - [DELB2C-863](https://dyned.myjetbrains.com/youtrack/issue/DELB2C-863) Add new coaching script mapping for Professional plan.
-- [DELB2C-873](https://dyned.myjetbrains.com/youtrack/issue/DELB2C-873) Fixed coaching script that not showing in the page. 
+- [DELB2C-873](https://dyned.myjetbrains.com/youtrack/issue/DELB2C-873) Fixed coaching script that not showing in the page.
 - [DELB2C-897](https://dyned.myjetbrains.com/youtrack/issue/DELB2C-897) Added searching coach based on plus student certification level.
