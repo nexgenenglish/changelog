@@ -5,6 +5,26 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [v1.0.32] on July 13th, 2020
+- [UD-224](https://dyned.myjetbrains.com/youtrack/issue/UD-224) Add configuration token limit for trial student
+- [UD-248](https://dyned.myjetbrains.com/youtrack/issue/UD-248) Update student PT level
+- [UD-250](https://dyned.myjetbrains.com/youtrack/issue/UD-250) Hide organization code from organization tree
+- [UD-279](https://dyned.myjetbrains.com/youtrack/issue/UD-279) Misspelling in settings during onboarding process
+- [UD-285](https://dyned.myjetbrains.com/youtrack/issue/UD-285) Include dashboard candidates's phone information in the PT report
+- [UD-288](https://dyned.myjetbrains.com/youtrack/issue/UD-288) Add token balance in dashboard student detail
+- [UD-293](https://dyned.myjetbrains.com/youtrack/issue/UD-293) Remove "Day of Study" in the student detail
+- [UD-313](https://dyned.myjetbrains.com/youtrack/issue/UD-313) Update activated voucher module on dashboard
+- [UD-320](https://dyned.myjetbrains.com/youtrack/issue/UD-320) Update generate date after generating PT report
+- [UD-321](https://dyned.myjetbrains.com/youtrack/issue/UD-321) Update label
+- [UD-323](https://dyned.myjetbrains.com/youtrack/issue/UD-323) Store number on etest database
+- [UD-325](https://dyned.myjetbrains.com/youtrack/issue/UD-325) Use default trial token onboard
+- [UD-331](https://dyned.myjetbrains.com/youtrack/issue/UD-331) Update generate billing report
+- [UD-333](https://dyned.myjetbrains.com/youtrack/issue/UD-333) Add phone number in dashboard student detail
+- [UD-334](https://dyned.myjetbrains.com/youtrack/issue/UD-334) Add student onboard method details
+- [UD-341](https://dyned.myjetbrains.com/youtrack/issue/UD-341) Update billing rules
+- [UD-342](https://dyned.myjetbrains.com/youtrack/issue/UD-342) Update display activated and deactivated date
+- [UD-343](https://dyned.myjetbrains.com/youtrack/issue/UD-343) Add organization name on billing report
+
 ## [v1.0.31] on June 26th, 2020
 - [UD-318](https://dyned.myjetbrains.com/youtrack/issue/UD-318) Update test token mass generator feature
 
