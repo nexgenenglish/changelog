@@ -5,6 +5,14 @@ title: Interim
 # Neo Interim
 neo Interim is a microsite that provides middleware for neo Ecosystem.
 
+
+## [v1.0.8] on July 14th, 2020
+- [UD-369](https://dyned.myjetbrains.com/youtrack/issue/UD-369) Increase Request Time out
+
+## [v1.0.7] on July 14th, 2020
+- [UD-368](https://dyned.myjetbrains.com/youtrack/issue/UD-368) Add informative log on onboard student
+- [UD-363](https://dyned.myjetbrains.com/youtrack/issue/UD-363) Removing "https" for SVELTE shorten link
+
 ## [v1.0.6] on July 13th, 2020
 - [UD-219](https://dyned.myjetbrains.com/youtrack/issue/UD-219) Added version info on footer label
 - [UD-229](https://dyned.myjetbrains.com/youtrack/issue/UD-229) Update display using MNA or NSA url page
