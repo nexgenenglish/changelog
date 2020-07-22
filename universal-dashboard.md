@@ -5,6 +5,16 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [v1.0.33] on July 22nd, 2020
+- [UD-335](https://dyned.myjetbrains.com/youtrack/issue/UD-335) Set voucher default access to read only
+- [UD-337](https://dyned.myjetbrains.com/youtrack/issue/UD-337) Update label text
+- [UD-346](https://dyned.myjetbrains.com/youtrack/issue/UD-346) Change start date and expiration date to time period type
+- [UD-347](https://dyned.myjetbrains.com/youtrack/issue/UD-347) Remove start and expiration date from organization form
+- [UD-348](https://dyned.myjetbrains.com/youtrack/issue/UD-348) Clone onboard API for general use
+- [UD-356](https://dyned.myjetbrains.com/youtrack/issue/UD-356) Add option to send notification to email after finished PT
+- [UD-367](https://dyned.myjetbrains.com/youtrack/issue/UD-367) Update default trial to 14 days
+- [UD-374](https://dyned.myjetbrains.com/youtrack/issue/UD-374) Add Role 'Reseller' to Universal Dashboard admin/users creation
+
 ## [v1.0.32] on July 13th, 2020
 - [UD-224](https://dyned.myjetbrains.com/youtrack/issue/UD-224) Add configuration token limit for trial student
 - [UD-248](https://dyned.myjetbrains.com/youtrack/issue/UD-248) Update student PT level

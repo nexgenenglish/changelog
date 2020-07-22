@@ -6,6 +6,12 @@ title: Interim
 neo Interim is a microsite that provides middleware for neo Ecosystem.
 
 
+## [v1.0.9] on July 22nd, 2020
+- [UD-371](https://dyned.myjetbrains.com/youtrack/issue/UD-371) Custom domain for shorten link
+- [UD-372](https://dyned.myjetbrains.com/youtrack/issue/UD-372) Add a progress bar when uploading images on the onboard student
+- [UD-381](https://dyned.myjetbrains.com/youtrack/issue/UD-381) Change SMS wording for PT Result
+- [UD-383](https://dyned.myjetbrains.com/youtrack/issue/UD-383) Change Old Failure Notification API
+
 ## [v1.0.8] on July 14th, 2020
 - [UD-369](https://dyned.myjetbrains.com/youtrack/issue/UD-369) Increase Request Time out
 
