@@ -5,6 +5,11 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## [v1.4.0] on July 13th, 2020
+- [ETAPI-14](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-14) Send a notification email after completion of PT
+- [ETAPI-15](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-15) Add information to continue the package or not after completing the Certification Test
+- [ETAPI-18](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-18) Add a flag to identify sending notifications to clients
+
 ## [v1.3.8] on June 29th, 2020
 - [ETAPI-13](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-13) Updated configuration for email that have been registered in NSADB and eTest.
 
