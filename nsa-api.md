@@ -5,20 +5,20 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
-## [v1.8.2]
+## [v1.8.2] on July 20th, 2020
 - [NSAAPI-226](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-226) Student study data disappeared in a UD Organizations
 
-## [v1.8.1]
+## [v1.8.1] on July 15th, 2020
 - [NSAAPI-147](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-147) Reminder to book a coaching session.
 - [NSAAPI-224](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-224) Fix review share MT lesson
 - [NSAAPI-225](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-225) display token information when a student hasn't started studies.
 - [MNA-242](https://dyned.myjetbrains.com/youtrack/issue/MNA-242) Update Status code 400 when token is expired to handle user stuck
 
-## [v1.8.0]
+## [v1.8.0] on July 14th, 2020
 - Add version name to mobile
   ### add new keys with names are VERSION_NAME_ANDROID and VERSION_NAME_IOS
 
-## [v1.7.9]
+## [v1.7.9] on July 03th, 2020
 - [NSAAPI-50](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-50) Update student cert_exit_exam_complete to 1 when students pass CT
 
 ## [v1.7.8] on June 20th, 2020
