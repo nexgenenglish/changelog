@@ -5,6 +5,10 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+## [v1.8.3] on July 24th, 2020
+- [NSAAPI-228](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-228) Set to unlock CT after Review a Lesson
+- Set disable the Reminder Live feature for tester account
+
 ## [v1.8.2] on July 20th, 2020
 - [NSAAPI-226](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-226) Student study data disappeared in a UD Organizations
 
