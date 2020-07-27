@@ -5,6 +5,22 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.7.0] on July 23rd, 2020
+- [JCT-153](https://dyned.myjetbrains.com/youtrack/issue/JCT-153) How to better support various course packages and different levels?
+- [NSA-890](https://dyned.myjetbrains.com/youtrack/issue/NSA-890) Android: It is more convenient for users to haul out green bar at any place on screen.
+- [NSA-1982](https://dyned.myjetbrains.com/youtrack/issue/NSA-1982) RFS Android: some sentences turn into black from grey while playing TR for no reason
+- [NSA-2036](https://dyned.myjetbrains.com/youtrack/issue/NSA-2036) Android: the progress bar is not fully filled when playing 'that's enough for now"
+- [NSA-2227](https://dyned.myjetbrains.com/youtrack/issue/NSA-2227) improvement for EFS (odd units) >Speaking up
+- [DSA-2304](https://dyned.myjetbrains.com/youtrack/issue/DSA-2304) SL: suggest playing new Qs first when conditions met
+- [NSA-2333](https://dyned.myjetbrains.com/youtrack/issue/NSA-2333?p=DSA-2333) Make neo exit choice screen semi-transparent
+- [NSA-2379](https://dyned.myjetbrains.com/youtrack/issue/NSA-2379) Message suggestion when there's no internet connection
+- [NSA-2407](https://dyned.myjetbrains.com/youtrack/issue/NSA-2407) [ANDROID] Fix read error response from NSA API
+- [NSA-2408](https://dyned.myjetbrains.com/youtrack/issue/NSA-2408) Pls don't ask repeated Qs in the same question bank 
+- [NSA-2412](https://dyned.myjetbrains.com/youtrack/issue/NSA-2412) iOS & Android: it shouldn't highlight correct answer or play audio after my first SR failure 
+- [NSA-2414](https://dyned.myjetbrains.com/youtrack/issue/NSA-2414) NSA - Lesson Freeze - Lesson Vocabulary Food (FEU6) 
+- [NSA-2420](https://dyned.myjetbrains.com/youtrack/issue/MNA-251?p=NSA-2420) (redirected to: MNA-251) Fix version wording when force update app
+- [NSA-2421](https://dyned.myjetbrains.com/youtrack/issue/NSA-2421) Android: engine crashed after playing the 1st sentence in section 2 of NDE M2U1>Bob's schedule 
+
 ## [v1.6.2224.2020.06.12] on June 16th, 2020
 - [DSA-2310](https://dyned.myjetbrains.com/youtrack/issue/DSA-2310) Error: NO ENCRYPTED JSON FILE EXIST
 - [DSA-2319](https://dyned.myjetbrains.com/youtrack/issue/DSA-2319) https://myneo.zendesk.com/agent/tickets/1936

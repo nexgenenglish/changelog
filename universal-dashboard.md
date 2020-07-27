@@ -5,25 +5,35 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [v1.0.33] on July 22nd, 2020
+- [UD-335](https://dyned.myjetbrains.com/youtrack/issue/UD-335) Changed voucher access for admin organization to read only by default.
+- [UD-337](https://dyned.myjetbrains.com/youtrack/issue/UD-337) Changed label in add tokens modal.
+- [UD-346](https://dyned.myjetbrains.com/youtrack/issue/UD-346) Changed start date and expiration date to time period type.
+- [UD-347](https://dyned.myjetbrains.com/youtrack/issue/UD-347) Removed start and expiration date from organization form.
+- [UD-348](https://dyned.myjetbrains.com/youtrack/issue/UD-348) Clone onboard API for general use.
+- [UD-356](https://dyned.myjetbrains.com/youtrack/issue/UD-356) Added option to send notification to email after finishing PT.
+- [UD-367](https://dyned.myjetbrains.com/youtrack/issue/UD-367) Changed default trial duration to 14 days.
+- [UD-374](https://dyned.myjetbrains.com/youtrack/issue/UD-374) Added Role 'Reseller' to Universal Dashboard admin/user creation.
+
 ## [v1.0.32] on July 13th, 2020
-- [UD-224](https://dyned.myjetbrains.com/youtrack/issue/UD-224) Add configuration token limit for trial student
-- [UD-248](https://dyned.myjetbrains.com/youtrack/issue/UD-248) Update student PT level
-- [UD-250](https://dyned.myjetbrains.com/youtrack/issue/UD-250) Hide organization code from organization tree
-- [UD-279](https://dyned.myjetbrains.com/youtrack/issue/UD-279) Misspelling in settings during onboarding process
-- [UD-285](https://dyned.myjetbrains.com/youtrack/issue/UD-285) Include dashboard candidates's phone information in the PT report
-- [UD-288](https://dyned.myjetbrains.com/youtrack/issue/UD-288) Add token balance in dashboard student detail
-- [UD-293](https://dyned.myjetbrains.com/youtrack/issue/UD-293) Remove "Day of Study" in the student detail
-- [UD-313](https://dyned.myjetbrains.com/youtrack/issue/UD-313) Update activated voucher module on dashboard
-- [UD-320](https://dyned.myjetbrains.com/youtrack/issue/UD-320) Update generate date after generating PT report
-- [UD-321](https://dyned.myjetbrains.com/youtrack/issue/UD-321) Update label
-- [UD-323](https://dyned.myjetbrains.com/youtrack/issue/UD-323) Store number on etest database
-- [UD-325](https://dyned.myjetbrains.com/youtrack/issue/UD-325) Use default trial token onboard
-- [UD-331](https://dyned.myjetbrains.com/youtrack/issue/UD-331) Update generate billing report
-- [UD-333](https://dyned.myjetbrains.com/youtrack/issue/UD-333) Add phone number in dashboard student detail
-- [UD-334](https://dyned.myjetbrains.com/youtrack/issue/UD-334) Add student onboard method details
-- [UD-341](https://dyned.myjetbrains.com/youtrack/issue/UD-341) Update billing rules
-- [UD-342](https://dyned.myjetbrains.com/youtrack/issue/UD-342) Update display activated and deactivated date
-- [UD-343](https://dyned.myjetbrains.com/youtrack/issue/UD-343) Add organization name on billing report
+- [UD-224](https://dyned.myjetbrains.com/youtrack/issue/UD-224) Added configuration token limit for trial student.
+- [UD-248](https://dyned.myjetbrains.com/youtrack/issue/UD-248) Fixed student's PT level.
+- [UD-250](https://dyned.myjetbrains.com/youtrack/issue/UD-250) Hide organization code from organization tree.
+- [UD-279](https://dyned.myjetbrains.com/youtrack/issue/UD-279) Fixed misspelling words in settings during onboarding process.
+- [UD-285](https://dyned.myjetbrains.com/youtrack/issue/UD-285) Added candidates's phone information in PT report.
+- [UD-288](https://dyned.myjetbrains.com/youtrack/issue/UD-288) Added token balance in dashboard student detail.
+- [UD-293](https://dyned.myjetbrains.com/youtrack/issue/UD-293) Remove "Day of Study" in the student detail.
+- [UD-313](https://dyned.myjetbrains.com/youtrack/issue/UD-313) Fixed issue to activate voucher in Dashboard.
+- [UD-320](https://dyned.myjetbrains.com/youtrack/issue/UD-320) Fixed issue on generate date after generating PT report.
+- [UD-321](https://dyned.myjetbrains.com/youtrack/issue/UD-321) Updated label in student certificate table.
+- [UD-323](https://dyned.myjetbrains.com/youtrack/issue/UD-323) Fixed issue to save phone number on etest database.
+- [UD-325](https://dyned.myjetbrains.com/youtrack/issue/UD-325) Use default trial token onboard.
+- [UD-331](https://dyned.myjetbrains.com/youtrack/issue/UD-331) Fixed issue for generate billing report.
+- [UD-333](https://dyned.myjetbrains.com/youtrack/issue/UD-333) Added phone number in dashboard student detail.
+- [UD-334](https://dyned.myjetbrains.com/youtrack/issue/UD-334) Added student onboard method details.
+- [UD-341](https://dyned.myjetbrains.com/youtrack/issue/UD-341) Updated billing rules.
+- [UD-342](https://dyned.myjetbrains.com/youtrack/issue/UD-342) Updated display activated and deactivated date.
+- [UD-343](https://dyned.myjetbrains.com/youtrack/issue/UD-343) Added organization name on billing report.
 
 ## [v1.0.31] on June 26th, 2020
 - [UD-318](https://dyned.myjetbrains.com/youtrack/issue/UD-318) Update test token mass generator feature
