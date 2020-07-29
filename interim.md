@@ -5,6 +5,8 @@ title: Interim
 # Neo Interim
 neo Interim is a microsite that provides middleware for neo Ecosystem.
 
+## [v1.0.10] on July 28th, 2020
+- [UD-384](https://dyned.myjetbrains.com/youtrack/issue/UD-384) Change receiver for e-mail failure notification from student to nexgen support
 
 ## [v1.0.9] on July 22nd, 2020
 - [UD-371](https://dyned.myjetbrains.com/youtrack/issue/UD-371) Custom domain for shorten link.
