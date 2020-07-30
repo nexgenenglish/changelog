@@ -5,6 +5,11 @@ title: Interim
 # Neo Interim
 neo Interim is a microsite that provides middleware for neo Ecosystem.
 
+## [v1.0.11] on July 30th, 2020
+- [UD-328](https://dyned.myjetbrains.com/youtrack/issue/UD-328) Update certification result mail template
+- [UD-355](https://dyned.myjetbrains.com/youtrack/issue/UD-355) NCW email for partner form
+- [UD-382](https://dyned.myjetbrains.com/youtrack/issue/UD-382) NCW email for contact us form
+
 ## [v1.0.10] on July 28th, 2020
 - [UD-384](https://dyned.myjetbrains.com/youtrack/issue/UD-384) Change receiver for e-mail failure notification from student to nexgen support
 
