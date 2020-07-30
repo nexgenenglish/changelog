@@ -5,6 +5,15 @@ title: eTest Widget and Cloud
 # eTest Widget and Cloud
 Application for Assessment Tests (Placement Tests or Certification Tests) systems on neo.
 
+## [v2.8.4] on June 30th, 2020
+- [ET-365](https://dyned.myjetbrains.com/youtrack/issue/ET-365) Change TOEFL title result to TOEFL iBT
+
+## [v2.8.3] on June 30th, 2020
+- [ET-364](https://dyned.myjetbrains.com/youtrack/issue/ET-364) Fixed incomplete information message for CT
+
+## [v2.8.2] on June 30th, 2020
+- [ET-363](https://dyned.myjetbrains.com/youtrack/issue/ET-363) sound and image appear together in the CT
+
 ## [v2.8.1] on June 29th, 2020
 - [ET-356](https://dyned.myjetbrains.com/youtrack/issue/ET-356) Syncronized dial code data between eTest and MNS.
 
