@@ -5,21 +5,19 @@ title: neo Live B2I
 # Live B2I
 A website for DynEd students and coaches to study using Live Session and also for admins and affiliates to manage DynEd Live's environment.
 
-## [v1.1.4] on July 10th, 2020
-- [DELB2I-991](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-991) Fixed contact us email address form validation
-- [DELB2I-1016](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1016) Fixed coach and student see different graphs
-- [DELB2I-1070](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1070),  [DELB2I-1086](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1086),  [DELB2I-1109](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1109) Fixed coach on leave still can be booked
-- [DELB2I-1096](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1096) Added registration number for China page
-- [DELB2I-1098](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1098),
-[DELB2I-1110](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1110) Fixed coach leave request appear on another partner
-- [DELB2I-1099](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1099) Fixed coach booked when schedule not available
-- [DELB2I-1100](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1100) Fixed error running live session
-- [DELB2I-1107](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1107) Added Agora simulator redirect page for coach
-- [DELB2I-1108](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1108),
-[DELB2I-1114](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1114) Fixed session summaries show student attend but not joining live session
-- [DELB2I-1119](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1119) Added Agora simulator redirect page for student
-- [DELB2I-1123](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1123) Fixed error in superadmin on coach upcoming session page
-- [DELB2I-1124](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1124) Fixed generate Opentok token after countdown end
+## [v1.1.5] on August 5th, 2020
+- [DELB2I-939](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-939) Fixed coach notes cover student info
+- [DELB2I-953](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-953) Fixed incomplete mobile menu
+- [DELB2I-1000](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1000) Fixed circle graphic not full
+- [DELB2I-1009](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1009) Added total in coach summary
+- [DELB2I-1043](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1043) Fixed wrong date on upcoming session monitor role
+- [DELB2I-1106](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1106) Fixed error message when cannot connect to database
+- [DELB2I-1112](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1112) Fixed misspelling
+- [DELB2I-1125](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1125) Added Live session improvement
+- [DELB2I-1126](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1126) Fixed Live session stop screen sharing
+- [DELB2I-1178](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1178) Added new reschedule policy for student
+- [DELB2I-1187](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1187) Fixed session string for Agora
+- [DELB2I-1189](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1189) Fixed Zendesk script
 
 ## [v1.1.3] on June 23rd, 2020
 - [DELB2I-994](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-994) Removed text to install screen sharing extension.

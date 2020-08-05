@@ -5,6 +5,22 @@ title: neo Live B2C
 # Live B2C
 A website for neo students to study using Live Session.
 
+## [v1.0.200] on August 5th, 2020
+- [NELB2C-661](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-661) Added minimum system requirements
+- [NELB2C-814](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-814) Fixed white point become red on the study graph
+- [NELB2C-1037](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1037) Fixed error search coach on MNA
+- [NELB2C-1038](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1038) Fixed student and coach cannot see and hear each other
+- [NELB2C-1045](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1045) Added new reschedule policy for student
+- [NELB2C-1047](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1047), [NELB2C-1134](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1134) Fixed Live session no show student or coach
+- [NELB2C-1049](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1049) Added recording session Agora button on MNA
+- [NELB2C-1050](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1050) Fixed student id and coach id in Agora session
+- [NELB2C-1051](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1051) Fixed generate Opentok token when user join session
+- [NELB2C-1053](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1053) Added Bugsnag for logging Live session
+- [NELB2C-1069](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1069) Added log for student event
+- [NELB2C-1138](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1138) Added recording session Opentok button on MNA
+- [NELB2C-1148](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1148) Fixed Zendesk script
+- [NELB2C-1149](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1149) Fixed session string for Agora
+
 ## [v1.0.199] on July 10th, 2020
 - [NELB2C-640](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-640) Fixed typo message
 - [NELB2C-671](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-671) Added simulator message
