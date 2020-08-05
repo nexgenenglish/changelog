@@ -5,6 +5,12 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.8.4 on August 05th, 2020
+- [NSAAPI-231](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-231) Change live session points condition.
+- [NSAAPI-232](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-232) Handle when students are active (submit) on two different devices
+- [NSAAPI-233](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-233) Display the maximum points per unit in the summary report if students get more.
+- [NSAAPI-234](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-234) Add First and Last name list on the student summary report
+
 ## [v1.8.3] on July 24th, 2020
 - [NSAAPI-228](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-228) Set to unlock CT after Review a Lesson
 - Set disable the Reminder Live feature for tester account
