@@ -1,4 +1,4 @@
----
+--- 
 title: neo Live B2I
 ---
 
@@ -6,18 +6,18 @@ title: neo Live B2I
 A website for DynEd students and coaches to study using Live Session and also for admins and affiliates to manage DynEd Live's environment.
 
 ## [v1.1.5] on August 5th, 2020
-- [DELB2I-939](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-939) Fixed coach notes cover student info
-- [DELB2I-953](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-953) Fixed incomplete mobile menu
-- [DELB2I-1000](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1000) Fixed circle graphic not full
-- [DELB2I-1009](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1009) Added total in coach summary
-- [DELB2I-1043](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1043) Fixed wrong date on upcoming session monitor role
-- [DELB2I-1106](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1106) Fixed error message when cannot connect to database
-- [DELB2I-1112](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1112) Fixed misspelling
-- [DELB2I-1125](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1125) Added Live session improvement
-- [DELB2I-1126](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1126) Fixed Live session stop screen sharing
-- [DELB2I-1178](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1178) Added new reschedule policy for student
-- [DELB2I-1187](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1187) Fixed session string for Agora
-- [DELB2I-1189](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1189) Fixed Zendesk script
+- [DELB2I-939](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-939) Fixed coach notes which cover student info.
+- [DELB2I-953](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-953) Fixed incomplete mobile menu.
+- [DELB2I-1000](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1000) Fixed circle graphic that not matched with the actual student point.
+- [DELB2I-1009](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1009) Added total in coach summary.
+- [DELB2I-1043](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1043) Fixed wrong date on upcoming session monitor role.
+- [DELB2I-1106](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1106) Fixed error message when cannot connect to database.
+- [DELB2I-1112](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1112) Fixed misspelling.
+- [DELB2I-1125](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1125) Added Live session improvement.
+- [DELB2I-1126](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1126) Fixed Live session that stop screen sharing.
+- [DELB2I-1178](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1178) Added new reschedule policy for student.
+- [DELB2I-1187](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1187) Fixed session string for Agora.
+- [DELB2I-1189](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1189) Fixed Zendesk script.
 
 ## [v1.1.3] on June 23rd, 2020
 - [DELB2I-994](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-994) Removed text to install screen sharing extension.

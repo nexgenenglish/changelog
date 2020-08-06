@@ -6,46 +6,46 @@ title: neo Live B2C
 A website for neo students to study using Live Session.
 
 ## [v1.0.200] on August 5th, 2020
-- [NELB2C-661](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-661) Added minimum system requirements
-- [NELB2C-814](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-814) Fixed white point become red on the study graph
-- [NELB2C-1037](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1037) Fixed error search coach on MNA
-- [NELB2C-1038](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1038) Fixed student and coach cannot see and hear each other
-- [NELB2C-1045](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1045) Added new reschedule policy for student
-- [NELB2C-1047](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1047), [NELB2C-1134](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1134) Fixed Live session no show student or coach
-- [NELB2C-1049](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1049) Added recording session Agora button on MNA
-- [NELB2C-1050](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1050) Fixed student id and coach id in Agora session
-- [NELB2C-1051](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1051) Fixed generate Opentok token when user join session
-- [NELB2C-1053](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1053) Added Bugsnag for logging Live session
-- [NELB2C-1069](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1069) Added log for student event
-- [NELB2C-1138](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1138) Added recording session Opentok button on MNA
-- [NELB2C-1148](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1148) Fixed Zendesk script
-- [NELB2C-1149](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1149) Fixed session string for Agora
+- [NELB2C-661](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-661) Added minimum system requirements.
+- [NELB2C-814](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-814) Fixed color dot in student point on the study graph.
+- [NELB2C-1037](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1037) Fixed error search coach on MNA.
+- [NELB2C-1038](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1038) Fixed issue for student and coach who cannot see and hear each other during Live session.
+- [NELB2C-1045](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1045) Added new reschedule policy for student.
+- [NELB2C-1047](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1047), [NELB2C-1134](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1134) Fixed issue where student and coach cannot see and hear each other although both of them attend Live session.
+- [NELB2C-1049](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1049) Added recording session Agora button on MNA.
+- [NELB2C-1050](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1050) Fixed student id and coach id in Agora session.
+- [NELB2C-1051](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1051) Fixed generate Opentok token when user join session.
+- [NELB2C-1053](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1053) Added Bugsnag for logging Live session.
+- [NELB2C-1069](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1069) Added log for student event.
+- [NELB2C-1138](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1138) Added recording session Opentok button on MNA.
+- [NELB2C-1148](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1148) Fixed Zendesk script.
+- [NELB2C-1149](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1149) Fixed session string for Agora.
 
 ## [v1.0.199] on July 10th, 2020
-- [NELB2C-640](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-640) Fixed typo message
-- [NELB2C-671](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-671) Added simulator message
-- [NELB2C-780](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-780) Fixed student cannot see coach
-- [NELB2C-877](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-877) Fixed sending double email
-- [NELB2C-924](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-924) Added Agora student simulator page
-- [NELB2C-939](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-939) Added record user time when join channel
-- [NELB2C-968](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-968) Fixed student waiting coach
-- [NELB2C-969](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-969), [NELB2C-970](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-970) Fixed missing email and SMS reminder
-- [NELB2C-998](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-998) Fixed discrepancy session
-- [NELB2C-1012](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1012) Added registration number for China page
-- [NELB2C-1015](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1015) Fixed reload twice when change local timezone
-- [NELB2C-1017](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1017) Fixed saving local timezone on MNA
-- [NELB2C-1019](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1019) Fixed page loading too long
-- [NELB2C-1022](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1022) Added Agora simulator dynamic URL
-- [NELB2C-1024](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1024) Fixed MNA update timezone
-- [NELB2C-1026](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1026) Fixed token expired when join session on MNA
-- [NELB2C-1029](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1029) Fixed token expired when join session on MNA
-- [NELB2C-1031](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1031) Fixed absent student
-- [NELB2C-1032](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1032) Added coach star rating on MNA
-- [NELB2C-1033](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1033) Fixed loading page when click country and language
-- [NELB2C-1034](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1034) Fixed wording on dashboard page
-- [NELB2C-1035](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1035) Added Agora simulator redirect page for student
-- [NELB2C-1036](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1036), [NELB2C-1039](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1039) Fixed null token on MNA
-- [NELB2C-1040](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1040) Fixed token generation after countdown end
+- [NELB2C-640](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-640) Fixed typo message.
+- [NELB2C-671](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-671) Added simulator message.
+- [NELB2C-780](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-780) Fixed issue for student who cannot see the coach.
+- [NELB2C-877](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-877) Fixed sending double email.
+- [NELB2C-924](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-924) Added new session simulator for Agora student.
+- [NELB2C-939](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-939) Added record user time when join channel.
+- [NELB2C-968](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-968) Fixed issue for student who wait the coach for an hour.
+- [NELB2C-969](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-969), [NELB2C-970](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-970) Fixed missing email and SMS reminder.
+- [NELB2C-998](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-998) Fixed discrepancy session.
+- [NELB2C-1012](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1012) Added registration number for China page.
+- [NELB2C-1015](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1015) Fixed reload twice when change local timezone.
+- [NELB2C-1017](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1017) Fixed saving local timezone on MNA.
+- [NELB2C-1019](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1019) Fixed issue for loading page that takes a lot of time.
+- [NELB2C-1022](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1022) Added Agora simulator dynamic URL.
+- [NELB2C-1024](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1024) Fixed MNA update timezone.
+- [NELB2C-1026](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1026) Fixed token expired when join session on MNA.
+- [NELB2C-1029](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1029) Fixed issue for cannot login to myneo from browser.
+- [NELB2C-1031](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1031) Fixed issue for student who labeled as absent eventhough student attend Live session.
+- [NELB2C-1032](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1032) Added coach star rating on MNA.
+- [NELB2C-1033](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1033) Fixed loading page when click searching a coach by country and language.
+- [NELB2C-1034](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1034) Fixed wording on dashboard page.
+- [NELB2C-1035](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1035) Added Agora simulator redirect page for student.
+- [NELB2C-1036](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1036), [NELB2C-1039](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1039) Fixed null token on MNA.
+- [NELB2C-1040](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1040) Fixed token generation after countdown end.
 
 ## [v1.0.198] on June 24th, 2020
 - [NELB2C-599](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-599) Fixed typo for connecting message on Live session.
