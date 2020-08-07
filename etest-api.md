@@ -6,19 +6,19 @@ title: eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
 ## [v1.4.2] on August 06th, 2020
-- [ETAPI-20](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-20) Add some new field to organization info
+- [ETAPI-20](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-20) Added some new field for organization information.
 
 ## [v1.4.1] on July 23th, 2020
-- [ETAPI-21](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-21) Send a notification email after completion of CT Failed
+- [ETAPI-21](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-21) Fixed issue for sending email notification after failed on CT.
 
 ## [v1.4.0] on July 13th, 2020
-- [ETAPI-14](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-14) Send a notification email after completion of PT
-- [ETAPI-15](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-15) Add information to continue the package or not after completing the Certification Test
-- [ETAPI-18](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-18) Add a flag to identify sending notifications to clients
+- [ETAPI-14](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-14) Send email notification after complete PT.
+- [ETAPI-15](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-15) Add information whether to continue the package or not after completing the Certification Test.
+- [ETAPI-18](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-18) Add a flag to identify sending notifications to clients.
 
 ## [v1.3.9] on June 06th, 2020
-- [ETAPI-16](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-16) Update status CT to be passed before issued the certificate
-- [ETAPI-17](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-17) Question for CT PRE A1 is wrong
+- [ETAPI-16](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-16) Update status CT to pass before issued the certificate.
+- [ETAPI-17](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-17) Fixed wrong question for CT PRE A1.
 
 ## [v1.3.8] on June 29th, 2020
 - [ETAPI-13](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-13) Updated configuration for email that have been registered in NSADB and eTest.
