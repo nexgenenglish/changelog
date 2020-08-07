@@ -5,7 +5,7 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
-##[v1.7.1 2008051912001] on August 6th, 2020
+## [v1.7.1 2008051912001] on August 6th, 2020
 - [NSA-2428](https://dyned.myjetbrains.com/youtrack/issue/NSA-2428) Tencent requires User Agreement and Privacy Policy whthin the App.
 - [NSA-2429](https://dyned.myjetbrains.com/youtrack/issue/NSA-2429) Add EULA and Privacy Policy
 - [NSA-2431](https://dyned.myjetbrains.com/youtrack/issue/NSA-2431) Add EULA and Privacy Policy in NSA
