@@ -5,6 +5,17 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+##[v1.7.1 2008051912001] on August 6th, 2020
+- [NSA-2428](https://dyned.myjetbrains.com/youtrack/issue/NSA-2428) Tencent requires User Agreement and Privacy Policy whthin the App.
+- [NSA-2429](https://dyned.myjetbrains.com/youtrack/issue/NSA-2429) Add EULA and Privacy Policy
+- [NSA-2431](https://dyned.myjetbrains.com/youtrack/issue/NSA-2431) Add EULA and Privacy Policy in NSA
+- [NSA-2434](https://dyned.myjetbrains.com/youtrack/issue/NSA-2434) app crashed on ios device with 1.7.0 22200721
+- [NSA-2442](https://dyned.myjetbrains.com/youtrack/issue/NSA-2442) iOS 1.7.1: EULA & Privacy Policy issues
+- [NSA-2445](https://dyned.myjetbrains.com/youtrack/issue/NSA-2445) app crash when clicking "try now" on ios device
+- [NSA-2446](https://dyned.myjetbrains.com/youtrack/issue/NSA-2446) App quits during this section- Four Cities
+- [NSA-2447](https://dyned.myjetbrains.com/youtrack/issue/NSA-2447) Fix bug in the lesson "Four Cities" (Lesson: 027_feu2_listening_fourcities)
+- [NSA-2449](https://dyned.myjetbrains.com/youtrack/issue/NSA-2449) app crashed on ios device with 1.7.0 22200721
+
 ## [v1.7.0] on July 23rd, 2020
 - [JCT-153](https://dyned.myjetbrains.com/youtrack/issue/JCT-153) How to better support various course packages and different levels?
 - [DSA-673](https://dyned.myjetbrains.com/youtrack/issue/DSA-673) Entry screen: Font size for lesson subtitle should be larger

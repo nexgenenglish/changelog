@@ -5,6 +5,19 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+##[v1.7.1.2020.08.06] on August 6th, 2020
+- [NSA-2428](https://dyned.myjetbrains.com/youtrack/issue/NSA-2428) Tencent requires User Agreement and Privacy Policy whthin the App.
+- [NSA-2429](https://dyned.myjetbrains.com/youtrack/issue/NSA-2429) Add EULA and Privacy Policy
+- [NSA-2431](https://dyned.myjetbrains.com/youtrack/issue/NSA-2431) Add EULA and Privacy Policy in NSA
+- [NSA-2433](https://dyned.myjetbrains.com/youtrack/issue/NSA-2433) app crashed on android device with 1.7.0 2020.7.23
+- [NSA-2435](https://dyned.myjetbrains.com/youtrack/issue/NSA-2435) quiz button did not appear on android device with 1.7.0 2020.7.23 
+- [NSA-2437](https://dyned.myjetbrains.com/youtrack/issue/NSA-2437) the same sentence is always repeated
+- [NSA-2439](https://dyned.myjetbrains.com/youtrack/issue/NSA-2439) Android 1.7.1: highlighting issues with FE Letters & Numbers
+- [NSA-2441](https://dyned.myjetbrains.com/youtrack/issue/NSA-2441) Android: Graphics are missed in FEU1>Everyday objects
+- [NSA-2448](https://dyned.myjetbrains.com/youtrack/issue/NSA-2448) Discussion - Vocabulary - Everyday objects 1
+- [NSA-2450](https://dyned.myjetbrains.com/youtrack/issue/NSA-2450) Error in comprehension questions - Vocabulary - Body Parts - Review - Certification Level A1
+- [NSA-2453](https://dyned.myjetbrains.com/youtrack/issue/NSA-2453) Question item is skipped when asnwered wrong when it should allow for 2nd attemp for answer
+
 ## [v1.7.0] on July 23rd, 2020
 - [JCT-153](https://dyned.myjetbrains.com/youtrack/issue/JCT-153) How to better support various course packages and different levels?
 - [NSA-890](https://dyned.myjetbrains.com/youtrack/issue/NSA-890) Android: It is more convenient for users to haul out green bar at any place on screen.
