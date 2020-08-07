@@ -5,6 +5,11 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+
+## [v1.0.35] on Aug 7th, 2020
+- [UD-402](https://dyned.myjetbrains.com/youtrack/issue/UD-402) Using neo logo as avatar
+- [UD-405](https://dyned.myjetbrains.com/youtrack/issue/UD-405) neo Universal Dashboard is not working
+
 ## [v1.0.34] on Aug 6th, 2020
 - [UD-184](https://dyned.myjetbrains.com/youtrack/issue/UD-184) Separate alert for create user
 - [UD-373](https://dyned.myjetbrains.com/youtrack/issue/UD-373) Double record in student summary report
