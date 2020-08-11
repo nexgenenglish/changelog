@@ -10,17 +10,17 @@ Service (API) to manage neo Study App.
 - [NSAAPI-238](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-238) Handle the Repeat and Next buttons on the Summary screen in Study APP When mt is open but lesson score less than 80%
 
 # 1.8.4 on August 05th, 2020
-- [NSAAPI-231](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-231) Change live session points condition.
-- [NSAAPI-232](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-232) Handle when students are active (submit) on two different devices
-- [NSAAPI-233](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-233) Display the maximum points per unit in the summary report if students get more.
-- [NSAAPI-234](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-234) Add First and Last name list on the student summary report
+- [NSAAPI-231](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-231) Changed live session points condition.
+- [NSAAPI-232](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-232) Handled student when active (submit) on two different devices.
+- [NSAAPI-233](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-233) Show the maximum points per unit in the summary report if students get more.
+- [NSAAPI-234](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-234) Added First and Last name list on the student summary report.
 
 ## [v1.8.3] on July 24th, 2020
-- [NSAAPI-228](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-228) Set to unlock CT after Review a Lesson
+- [NSAAPI-228](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-228) Fixed set to unlock CT after Review a Lesson.
 - Set disable the Reminder Live feature for tester account
 
 ## [v1.8.2] on July 20th, 2020
-- [NSAAPI-226](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-226) Student study data disappeared in a UD Organizations
+- [NSAAPI-226](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-226) Fixed issue for zero point of student in UD Organization does not matched with point in MNA.
 
 ## [v1.8.1] on July 15th, 2020
 - [NSAAPI-147](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-147) Reminder to book a coaching session.

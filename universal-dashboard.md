@@ -5,6 +5,19 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+
+## [v1.0.35] on Aug 7th, 2020
+- [UD-402](https://dyned.myjetbrains.com/youtrack/issue/UD-402) Using neo logo as avatar.
+- [UD-405](https://dyned.myjetbrains.com/youtrack/issue/UD-405) Fixed issue for neo Universal Dashboard that does not working.
+
+## [v1.0.34] on Aug 6th, 2020
+- [UD-184](https://dyned.myjetbrains.com/youtrack/issue/UD-184) Separate alert for create user.
+- [UD-373](https://dyned.myjetbrains.com/youtrack/issue/UD-373) Fixed the double record in student summary report.
+- [UD-379](https://dyned.myjetbrains.com/youtrack/issue/UD-379) Added more feature for both PT and CT token information in test page.
+- [UD-380](https://dyned.myjetbrains.com/youtrack/issue/UD-380) Updated user module.
+- [UD-390](https://dyned.myjetbrains.com/youtrack/issue/UD-390) Updated billing report.
+- [UD-391](https://dyned.myjetbrains.com/youtrack/issue/UD-391) Allow UD Admin (Regional, Country) to also set Trial token default to zero.
+
 ## [v1.0.33] on July 22nd, 2020
 - [UD-335](https://dyned.myjetbrains.com/youtrack/issue/UD-335) Changed voucher access for admin organization to read only by default.
 - [UD-337](https://dyned.myjetbrains.com/youtrack/issue/UD-337) Changed label in add tokens modal.
