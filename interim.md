@@ -5,6 +5,9 @@ title: Interim
 # Neo Interim
 neo Interim is a microsite that provides middleware for neo Ecosystem.
 
+## [v1.0.13] on Aug 12th, 2020
+- [UD-413](https://dyned.myjetbrains.com/youtrack/issue/UD-413) Update Personal Access Token Not Display
+
 ## [v1.0.12] on Aug 12th, 2020
 - [UD-396](https://dyned.myjetbrains.com/youtrack/issue/UD-396) Change URL shortener service to Rebrand.ly
 - [UD-298](https://dyned.myjetbrains.com/youtrack/issue/UD-298) Make enter_voucher_link optional
