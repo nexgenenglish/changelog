@@ -5,6 +5,8 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [v1.0.37] on Aug 18th, 2020
+- [hotfix] Update assets url location
 
 ## [v1.0.36] on Aug 18th, 2020
 - [UD-339](https://dyned.myjetbrains.com/youtrack/issue/UD-339) Add feature to update student avatar
