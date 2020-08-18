@@ -5,6 +5,10 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+## [v1.8.6] on August 18th, 2020
+- [NSAAPI-236](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-236) Add new key to search report summary data
+- [NSAAPI-239](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-239) Fix index of pending_exit_test
+
 ## [v1.8.5] on August 12th, 2020
 - [NSAAPI-237](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-237) app ask student do MT repeatly.
 - [NSAAPI-238](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-238) Handle the Repeat and Next buttons on the Summary screen in Study APP When mt is open but lesson score less than 80%
