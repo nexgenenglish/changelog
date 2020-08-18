@@ -6,6 +6,13 @@ title: Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
 
+## [v1.0.36] on Aug 18th, 2020
+- [UD-339](https://dyned.myjetbrains.com/youtrack/issue/UD-339) Add feature to update student avatar
+- [UD-387](https://dyned.myjetbrains.com/youtrack/issue/UD-387) Fixed re onboard on trial account
+- [UD-408](https://dyned.myjetbrains.com/youtrack/issue/UD-408) Fixed onboard general after voucher
+- [UD-409](https://dyned.myjetbrains.com/youtrack/issue/UD-409) Update student module
+- [UD-418](https://dyned.myjetbrains.com/youtrack/issue/UD-418) Disable snippet (widget and cloud) for CT type
+
 ## [v1.0.35] on Aug 7th, 2020
 - [UD-402](https://dyned.myjetbrains.com/youtrack/issue/UD-402) Using neo logo as avatar.
 - [UD-405](https://dyned.myjetbrains.com/youtrack/issue/UD-405) Fixed issue for neo Universal Dashboard that does not working.
