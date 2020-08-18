@@ -5,6 +5,9 @@ title: Interim
 # Neo Interim
 neo Interim is a microsite that provides middleware for neo Ecosystem.
 
+## [v1.0.14] on Aug 18th, 2020
+- [UD-410](https://dyned.myjetbrains.com/youtrack/issue/UD-410) SMS Activation when applicant resend expire confirmation link
+
 ## [v1.0.13] on Aug 12th, 2020
 - [UD-413](https://dyned.myjetbrains.com/youtrack/issue/UD-413) Update Personal Access Token Not Display
 
