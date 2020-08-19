@@ -6,22 +6,22 @@ title: Interim
 neo Interim is a microsite that provides middleware for neo Ecosystem.
 
 ## [v1.0.14] on Aug 18th, 2020
-- [UD-410](https://dyned.myjetbrains.com/youtrack/issue/UD-410) SMS Activation when applicant resend expire confirmation link
+- [UD-410](https://dyned.myjetbrains.com/youtrack/issue/UD-410) Updated resend expired confirmation link to e-mail and sms.
 
 ## [v1.0.13] on Aug 12th, 2020
-- [UD-413](https://dyned.myjetbrains.com/youtrack/issue/UD-413) Update Personal Access Token Not Display
+- [UD-413](https://dyned.myjetbrains.com/youtrack/issue/UD-413) Updated personal access token that not show.
 
 ## [v1.0.12] on Aug 12th, 2020
-- [UD-396](https://dyned.myjetbrains.com/youtrack/issue/UD-396) Change URL shortener service to Rebrand.ly
-- [UD-298](https://dyned.myjetbrains.com/youtrack/issue/UD-298) Make enter_voucher_link optional
+- [UD-396](https://dyned.myjetbrains.com/youtrack/issue/UD-396) Change URL shortener service to Rebrand.ly.
+- [UD-298](https://dyned.myjetbrains.com/youtrack/issue/UD-298) Fixed wrong generate token for neop plus. 
 
 ## [v1.0.11] on July 30th, 2020
-- [UD-328](https://dyned.myjetbrains.com/youtrack/issue/UD-328) Update certification result mail template
-- [UD-355](https://dyned.myjetbrains.com/youtrack/issue/UD-355) NCW email for partner form
-- [UD-382](https://dyned.myjetbrains.com/youtrack/issue/UD-382) NCW email for contact us form
+- [UD-328](https://dyned.myjetbrains.com/youtrack/issue/UD-328) Updated certification result mail template.
+- [UD-355](https://dyned.myjetbrains.com/youtrack/issue/UD-355) Updated NCW e-mail template for partner.
+- [UD-382](https://dyned.myjetbrains.com/youtrack/issue/UD-382) Updated NCW contact us e-mail template.
 
 ## [v1.0.10] on July 28th, 2020
-- [UD-384](https://dyned.myjetbrains.com/youtrack/issue/UD-384) Change receiver for e-mail failure notification from student to nexgen support
+- [UD-384](https://dyned.myjetbrains.com/youtrack/issue/UD-384) Change receiver for e-mail failure notification from student to nexgen support.
 
 ## [v1.0.9] on July 22nd, 2020
 - [UD-371](https://dyned.myjetbrains.com/youtrack/issue/UD-371) Custom domain for shorten link.
