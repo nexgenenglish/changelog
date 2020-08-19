@@ -5,6 +5,9 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [v1.0.38] on Aug 19th, 2020
+- [hotfix/[UD-420](https://dyned.myjetbrains.com/youtrack/issue/UD-420)/[UD-422](https://dyned.myjetbrains.com/youtrack/issue/UD-422)/[UD-423](https://dyned.myjetbrains.com/youtrack/issue/UD-423)] Update ACL and SSO token crossing server
+
 ## [v1.0.37] on Aug 18th, 2020
 - [hotfix] Update assets url location
 
