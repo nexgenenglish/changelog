@@ -5,6 +5,9 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+## [v1.8.7] on August 19th, 2020
+- [NSAAPI-240](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-240) [summary] Shared token for multiple server
+
 ## [v1.8.6] on August 18th, 2020
 - [NSAAPI-236](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-236) Add new key to search report summary data.
 - [NSAAPI-239](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-239) Fixed repeating study the same lesson for review.  
