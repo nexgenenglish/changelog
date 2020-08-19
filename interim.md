@@ -5,6 +5,10 @@ title: Interim
 # Neo Interim
 neo Interim is a microsite that provides middleware for neo Ecosystem.
 
+
+## [v1.0.15] on Aug 19th, 2020
+- [UD-424](https://dyned.myjetbrains.com/youtrack/issue/UD-424) Change SMS wording
+
 ## [v1.0.14] on Aug 18th, 2020
 - [UD-410](https://dyned.myjetbrains.com/youtrack/issue/UD-410) Updated resend expired confirmation link to e-mail and sms.
 
