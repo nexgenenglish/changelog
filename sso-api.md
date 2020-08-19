@@ -3,6 +3,8 @@ title: SSO API
 ---
 
 # SSO API
+## [1.2.2] on August 19th, 2020
+- [SSO-36](https://dyned.myjetbrains.com/youtrack/issue/SSO-36) Shared token for multiple server
 
 ## [1.2.1] on August 06th, 2020
 - [SSO-34](https://dyned.myjetbrains.com/youtrack/issue/SSO-34) create a new SSO middleware authentication model for other services
