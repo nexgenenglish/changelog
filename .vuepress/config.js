@@ -26,7 +26,8 @@ module.exports = {
             '/mna-android',
             '/mna-ios',
             '/sso-api',
-            '/voucher-generator'
+            '/voucher-generator',
+            '/b2c-portal'
         ]
     }
 }
