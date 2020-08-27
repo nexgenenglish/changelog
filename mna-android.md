@@ -4,7 +4,7 @@ title: myneo App - Android
 
 # myneo App - Android
 myneo Application for Android
-## [v1.5.2020.08.14] on Augustus 14th, 2020
+## [v1.5.3.2020.08.14] on Augustus 14th, 2020
 - [MNA-224](https://dyned.myjetbrains.com/youtrack/issue/MNA-224) it lasts a little long time to enter live from myneo on ios device for 1.5.1
 - [MNA-201](https://dyned.myjetbrains.com/youtrack/issue/MNA-201) myneo app: After finishing the four introduction pages, it crashes.
 - [MNA-83](https://dyned.myjetbrains.com/youtrack/issue/MNA-83)neo with capital letter (N) in -> Sign In -> in myneo App (Android Device)
