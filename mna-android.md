@@ -4,7 +4,17 @@ title: myneo App - Android
 
 # myneo App - Android
 myneo Application for Android
-
+## [v1.5.2020.08.14] on Augustus 14th, 2020
+- [MNA-224](https://dyned.myjetbrains.com/youtrack/issue/MNA-224) it lasts a little long time to enter live from myneo on ios device for 1.5.1
+- [MNA-201](https://dyned.myjetbrains.com/youtrack/issue/MNA-201) myneo app: After finishing the four introduction pages, it crashes.
+- [MNA-83](https://dyned.myjetbrains.com/youtrack/issue/MNA-83)neo with capital letter (N) in -> Sign In -> in myneo App (Android Device)
+- [MNA-259](https://dyned.myjetbrains.com/youtrack/issue/MNA-259) Please fix this incorrectly written sentence
+- [MNA-239](https://dyned.myjetbrains.com/youtrack/issue/MNA-239) [Android] Change the http protocol to https for CMSMDA and MDC
+- [MNA-230](https://dyned.myjetbrains.com/youtrack/issue/MNA-230) Mna is craching on Huawei P20 Pro
+- [MNA-253](https://dyned.myjetbrains.com/youtrack/issue/MNA-253) MNA keep stopping on Samsung tab S5e, android ver 9
+- [MNA-228](https://dyned.myjetbrains.com/youtrack/issue/MNA-228) App crashes on Nexus Phone 6
+- [MNA-260](ttps://dyned.myjetbrains.com/youtrack/issue/MNA-260) Add EULA and Privacy Policy
+- [MNA-227](https://dyned.myjetbrains.com/youtrack/issue/MNA-227) Add Download Certificate Function on myneo app
 
 ## [v1.5.2020.07.10] on July 10th, 2020
 - [hotfix] add hide/show password in login page
