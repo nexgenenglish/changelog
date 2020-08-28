@@ -5,6 +5,10 @@ title: eTest Widget and Cloud
 # eTest Widget and Cloud
 Application for Assessment Tests (Placement Tests or Certification Tests) systems on neo.
 
+## [v2.8.5] on August 27th, 2020
+- [ET-366](https://dyned.myjetbrains.com/youtrack/issue/ET-366) Make phone number as required field in PT Registration page.
+- [ET-367](https://dyned.myjetbrains.com/youtrack/issue/ET-367) Fixed image resoulition
+
 ## [v2.8.4] on June 30th, 2020
 - [ET-365](https://dyned.myjetbrains.com/youtrack/issue/ET-365) Changed TOEFL title result to TOEFL iBT.
 
