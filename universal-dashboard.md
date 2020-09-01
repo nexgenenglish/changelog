@@ -5,6 +5,18 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [v1.0.39] on Sep 1st, 2020
+- [UD-352](https://dyned.myjetbrains.com/youtrack/issue/UD-352) Limit trial account expiration date
+- [UD-366](https://dyned.myjetbrains.com/youtrack/issue/UD-366) Advanced search module
+- [UD-388](https://dyned.myjetbrains.com/youtrack/issue/UD-388) Update candidate module
+- [UD-426](https://dyned.myjetbrains.com/youtrack/issue/UD-426) Display student certificate for cross server
+- [UD-428](https://dyned.myjetbrains.com/youtrack/issue/UD-428) Can't generate student certificate
+- [UD-431](https://dyned.myjetbrains.com/youtrack/issue/UD-431) Fix register student issue on dashboard
+- [UD-433](https://dyned.myjetbrains.com/youtrack/issue/UD-433) Add onboard flag B2C
+- [UD-434](https://dyned.myjetbrains.com/youtrack/issue/UD-434) Fix download certificate menu
+- [UD-435](https://dyned.myjetbrains.com/youtrack/issue/UD-435) Fix resend certificate menu
+- [UD-437](https://dyned.myjetbrains.com/youtrack/issue/UD-437) Fix onboard issue
+
 ## [v1.0.38] on Aug 19th, 2020
 - [hotfix/[UD-420](https://dyned.myjetbrains.com/youtrack/issue/UD-420)/[UD-422](https://dyned.myjetbrains.com/youtrack/issue/UD-422)/[UD-423](https://dyned.myjetbrains.com/youtrack/issue/UD-423)] Update ACL and SSO token crossing server
 
