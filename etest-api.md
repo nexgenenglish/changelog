@@ -6,9 +6,9 @@ title: eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
 ## [v1.4.4] on September 02nd, 2020
-- [ETAPI-25](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-25) Update candidate search inherintance UIC
-- [ETAPI-24](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-24) Update candidate search method
-- [ETAPI-19](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-19) Certification Tests (CTs) for neo Academic courseware
+- [ETAPI-25](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-25) Updated searching method by inherintance UIC.
+- [ETAPI-24](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-24) Update candidate search method by username, email and level.
+- [ETAPI-19](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-19) Added Certification Tests (CTs) for neo Academic courseware.
 
 ## [v1.4.3] on August 18th, 2020
 - [ETAPI-22](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-22) Send a notification email to student after completion of CT
