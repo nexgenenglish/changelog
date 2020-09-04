@@ -6,12 +6,12 @@ title: neo Study App API
 Service (API) to manage neo Study App.
 
 ## [v1.8.8] on September 02nd, 2020
-- [NSAAPI-245](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-245) Update student [summary] search
-- [NSAAPI-242](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-242) Problematic sequence of steps will still occur in the learning process
-- [NSAAPI-247](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-247) The student page doesn't updated with the curent student level after the student changed level
-- [NSAAPI-248](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-248) Student certification test data not appear
-- [NSAAPI-249](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-249) Can't unlocked CT for C1-Bridge after finished certification test review
-- [NSAAPI-251](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-251) Double data when change level to previous level
+- [NSAAPI-245](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-245) Updated student search method.
+- [NSAAPI-242](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-242) Fixed wrong study steps issue sequence.
+- [NSAAPI-247](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-247) Fixed issue for level information after a change.
+- [NSAAPI-248](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-248) Fixed issue for student certification test data which does not appear.
+- [NSAAPI-249](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-249) Fixed CT for C1-Bridge issue that still locked after finished certification test review.
+- [NSAAPI-251](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-251) Fixed double data when change level to previous level.
 
 ## [v1.8.7] on August 19th, 2020
 - [NSAAPI-240](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-240) [summary] Shared token for multiple server
