@@ -5,6 +5,14 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [v1.0.40] on Sep 7th, 2020
+- [UD-236](https://dyned.myjetbrains.com/youtrack/issue/UD-236) Add bugsnag configuration to maintain errors
+- [UD-255](https://dyned.myjetbrains.com/youtrack/issue/UD-255) Update failed message on billing report
+- [UD-386](https://dyned.myjetbrains.com/youtrack/issue/UD-386) Update change password location
+- [UD-393](https://dyned.myjetbrains.com/youtrack/issue/UD-393) Add fullname on summary report
+- [UD-441](https://dyned.myjetbrains.com/youtrack/issue/UD-441) Fix date format on student certificates list
+- [UD-444](https://dyned.myjetbrains.com/youtrack/issue/UD-444) Fix hidden register button
+
 ## [v1.0.39] on Sep 1st, 2020
 - [UD-352](https://dyned.myjetbrains.com/youtrack/issue/UD-352) Changed the limit of trial account expiration date.
 - [UD-366](https://dyned.myjetbrains.com/youtrack/issue/UD-366) Advanced search module.
