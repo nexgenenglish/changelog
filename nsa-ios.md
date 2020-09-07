@@ -5,6 +5,10 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+## [v1.7.2] on September 7th, 2020 :
+- [NSA-2465](https://dyned.myjetbrains.com/youtrack/issue/NSA-2465?p=NBRG-520) The student had a problem with the courseware dropping out automatically while studying the course.
+- [NSA-2471](https://dyned.myjetbrains.com/youtrack/issue/NSA-2471) Students feedback that if the courseware is run in the background and then opened, the courseware will exit automatically.
+
 ## [v1.7.1 2008051912001] on August 6th, 2020
 - [NSA-2428](https://dyned.myjetbrains.com/youtrack/issue/NSA-2428) Tencent requires User Agreement and Privacy Policy whthin the App.
 - [NSA-2429](https://dyned.myjetbrains.com/youtrack/issue/NSA-2429) Add EULA and Privacy Policy
