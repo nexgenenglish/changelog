@@ -4,6 +4,20 @@ title: B2C Portal
 
 # B2C Portal
 
+## [v1.1.12] on September 7th, 2020
+- [MNS-730](https://dyned.myjetbrains.com/youtrack/issue/MNS-730) Added split Live token.
+- [MNS-732](https://dyned.myjetbrains.com/youtrack/issue/MNS-732) Added photo to generate sample certificate API.
+- [MNS-739](https://dyned.myjetbrains.com/youtrack/issue/MNS-739) Added admin role authorize for API.
+- [MNS-740](https://dyned.myjetbrains.com/youtrack/issue/MNS-740) Updated Planet Payment credentials.
+- [MNS-741](https://dyned.myjetbrains.com/youtrack/issue/MNS-741) Fixed certificate font to suit for all languages.
+
+## [v1.1.11] on August 28th, 2020
+- Changed PT result to Lottie.
+- Eula Page.
+- Default trial duration to 14 days.
+- Verified token to other server (global and CN).
+- Added more accepted roles for API authorize.
+
 ## [v1.1.10] on June 22th, 2020
 - [MNS-668](https://dyned.myjetbrains.com/youtrack/issue/MNS-668) Added new requirements for Plus plan.
 - [MNS-669](https://dyned.myjetbrains.com/youtrack/issue/MNS-669) Added default PT and payment is pro plus plan.
