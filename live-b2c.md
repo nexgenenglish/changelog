@@ -5,6 +5,20 @@ title: neo Live B2C
 # Live B2C
 A website for neo students to study using Live Session.
 
+## [v1.1.0] on September 9th, 2020
+- [NELB2C-965](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-965) Fixed notifications showed up late
+- [NELB2C-1018](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1018) Fixed long time when using myneo
+- [NELB2C-1044](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1044) Added new rule for tokens
+- [NELB2C-1151](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1151) Added inserting token_histories for new token rules
+- [NELB2C-1152](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1152) Fixed method insert std_attend for webview
+- [NELB2C-1154](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1154) Fixed student reschedule on MNA
+- [NELB2C-1155](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1155) Fixed error URI when reschedule on MNA
+- [NELB2C-1156](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1156) Fixed coach info area before a session
+- [NELB2C-1157](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1157) Fixed student cant change the course date
+- [NELB2C-1159](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1159) Added certification level to token history
+- [NELB2C-1161](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1161) Added token to coach
+- [NELB2C-1167](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1167) Fixed error after reschedule on MNA
+
 ## [v1.0.200] on August 5th, 2020
 - [NELB2C-661](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-661) Added minimum system requirements.
 - [NELB2C-814](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-814) Fixed color dot in student point on the study graph.

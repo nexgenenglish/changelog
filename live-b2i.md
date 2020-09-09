@@ -1,9 +1,20 @@
---- 
+---
 title: neo Live B2I
 ---
 
 # Live B2I
 A website for DynEd students and coaches to study using Live Session and also for admins and affiliates to manage DynEd Live's environment.
+
+## [v1.1.6] on September 9th, 2020
+- [DELB2I-947](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-947) Fixed text doesn't wrap in Opentok session
+- [DELB2I-1101](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1101) Fixed countries and languages list when find a coach
+- [DELB2I-1112](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1112) Fixed misspelling typo availability
+- [DELB2I-1185](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1185) Added open coach PDF in new window
+- [DELB2I-1190](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1190) Fixed coach admin reschedule
+- [DELB2I-1192](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1192) Added Pusher for MNA
+- [DELB2I-1193](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1193) Fixed DB table b2c_script change target blank to new window
+- [DELB2I-1194](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1194) Fixed DB table script change target blank to new window
+- [DELB2I-1196](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1196) Fixed error when find a coach by date
 
 ## [v1.1.5] on August 5th, 2020
 - [DELB2I-939](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-939) Fixed coach notes which cover student info.
