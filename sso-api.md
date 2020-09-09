@@ -4,7 +4,7 @@ title: SSO API
 
 # SSO API
 ## [1.2.3] on September 08th, 2020
-- [SSO-37](https://dyned.myjetbrains.com/youtrack/issue/SSO-37) Log to change levels and plans on SSO
+- [SSO-37](https://dyned.myjetbrains.com/youtrack/issue/SSO-37) Added log to see the changes of levels and plans on SSO.
 
 ## [1.2.2] on August 19th, 2020
 - [SSO-36](https://dyned.myjetbrains.com/youtrack/issue/SSO-36) Shared token for multiple server.

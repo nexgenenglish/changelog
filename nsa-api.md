@@ -5,13 +5,13 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 ## [v1.8.9] on September 08th, 2020
-- [NSAAPI-250](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-250) Allow Update Phone Number from MNA Apps
-- [NSAAPI-253](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-253) Reset live token after change level
-- [NSAAPI-254](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-254) validate student changes the avatar and fullname
-- [NSAAPI-255](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-255) Master Test lessons not found for internal testing when changing certificate packages
-- [NSAAPI-256](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-256) inconsistency between Student page and student detail
-- [NSAAPI-258](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-258) Save Certificate Levels and Plan in SSO
-- [NSAAPI-259](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-259) Update Calculation token balance Scheme
+- [NSAAPI-250](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-250) Allowed update Phone Number from MNA Apps.
+- [NSAAPI-253](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-253) Reset live token after change level.
+- [NSAAPI-254](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-254) Added a validation for student to changes the avatar and fullname by limited time.
+- [NSAAPI-255](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-255) Fixed issue for Master Test lessons that not found for internal testing after changing certificate packages.
+- [NSAAPI-256](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-256) Fixed a mismatch  between Student page and student detail.
+- [NSAAPI-258](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-258) Save Certificate Levels and Plan in SSO.
+- [NSAAPI-259](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-259) Updated calculation token balance scheme.
 
 ## [v1.8.8] on September 02nd, 2020
 - [NSAAPI-245](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-245) Updated student search method.
