@@ -4,6 +4,10 @@ title: neo Study App API
 
 # neo Study App API
 Service (API) to manage neo Study App.
+## [v1.8.10] on September 10th, 2020
+- [NSAAPI-260](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-260) Failed to update avatar with Admin mode
+- [NSAAPI-261](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-261) Cannot change level when all levels have passed
+
 ## [v1.8.9] on September 08th, 2020
 - [NSAAPI-250](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-250) Allowed update Phone Number from MNA Apps.
 - [NSAAPI-253](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-253) Reset live token after change level.
