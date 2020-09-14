@@ -5,6 +5,9 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [v1.0.42] on Sep 14th, 2020
+- [hotfix/[UD-453](https://dyned.myjetbrains.com/youtrack/issue/UD-453)] Fix voucher default value on creation form only
+
 ## [v1.0.41] on Sep 14th, 2020
 - [UD-375](https://dyned.myjetbrains.com/youtrack/issue/UD-375) Standardize datetime formatting
 - [UD-399](https://dyned.myjetbrains.com/youtrack/issue/UD-399) Add duration to response organization value for interim consumed
