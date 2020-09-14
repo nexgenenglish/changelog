@@ -5,6 +5,13 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [v1.0.41] on Sep 14th, 2020
+- [UD-375](https://dyned.myjetbrains.com/youtrack/issue/UD-375) Standardize datetime formatting
+- [UD-399](https://dyned.myjetbrains.com/youtrack/issue/UD-399) Add duration to response organization value for interim consumed
+- [UD-446](https://dyned.myjetbrains.com/youtrack/issue/UD-446) Remove boldface formatting on student summary report
+- [UD-449](https://dyned.myjetbrains.com/youtrack/issue/UD-449) Fix display avatar withour image extension format
+- [UD-453](https://dyned.myjetbrains.com/youtrack/issue/UD-453) Fix voucher default value on creation form only
+
 ## [v1.0.40] on Sep 7th, 2020
 - [UD-236](https://dyned.myjetbrains.com/youtrack/issue/UD-236) Added bugsnag configuration to maintain errors.
 - [UD-255](https://dyned.myjetbrains.com/youtrack/issue/UD-255) Updated failed message on billing report.

@@ -5,6 +5,9 @@ title: Interim
 # Neo Interim
 neo Interim is a microsite that provides middleware for neo Ecosystem.
 
+## [v1.0.16] on Sep 14th, 2020
+- [UD-339](https://dyned.myjetbrains.com/youtrack/issue/UD-339) Use duration to extend student trial duration days
+- [UD-400](https://dyned.myjetbrains.com/youtrack/issue/UD-400) Update student avatar upload with certifiate example
 
 ## [v1.0.15] on Aug 19th, 2020
 - [UD-424](https://dyned.myjetbrains.com/youtrack/issue/UD-424) Change SMS wording
