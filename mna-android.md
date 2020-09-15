@@ -4,6 +4,25 @@ title: myneo App - Android
 
 # myneo App - Android
 myneo Application for Android
+## [v1.5.4.2020.09.11] on September 11th, 2020
+- [MNA-267](https://dyned.myjetbrains.com/youtrack/issue/MNA-267) can't enter live through myneo
+- [MNA-266](https://dyned.myjetbrains.com/youtrack/issue/MNA-266) MNA 1.5.3: app crashing in the login page
+- [MNA-265](https://dyned.myjetbrains.com/youtrack/issue/MNA-265) Add a message when coach disconnected detected (opentok)
+- [MNA-264](https://dyned.myjetbrains.com/youtrack/issue/MNA-264) Add messaging whenever coach joined detected (opentok)
+- [MNA-281](https://dyned.myjetbrains.com/youtrack/issue/MNA-281) Add a message when coach disconnected detected (agora)
+- [MNA-280](https://dyned.myjetbrains.com/youtrack/issue/MNA-280) Add messaging whenever coach joined detected (agora)
+- [MNA-270](https://dyned.myjetbrains.com/youtrack/issue/MNA-270) Android: media>Documents can't show
+- [MNA-287](https://dyned.myjetbrains.com/youtrack/issue/MNA-287) Changes allowed to neo students' profile thru MNA
+- [MNA-272](https://dyned.myjetbrains.com/youtrack/issue/MNA-272) Update avatar profile MNA
+- [MNA-282](https://dyned.myjetbrains.com/youtrack/issue/MNA-282) Android new version clicking on Journey So Far, APP crashed
+- [MNA-285](https://dyned.myjetbrains.com/youtrack/issue/MNA-285) Android: Wrong message showed in FAQ for some accounts
+- [MNA-284](https://dyned.myjetbrains.com/youtrack/issue/MNA-284) Android 1.5.4.2020.09.01 > PROD: middle part blank in PT page
+- [MNA-273](https://dyned.myjetbrains.com/youtrack/issue/MNA-273) Update phone number profile from MNA
+- [MNA-160](https://dyned.myjetbrains.com/youtrack/issue/MNA-160) Red dot displaying rules?
+- [hotfix] hide menu download certificate on long journey
+- [hotfix] increase timeout webview 
+- [hotfix] localize myneo zendesk based on device language
+
 ## [v1.5.3.2020.08.14] on Augustus 14th, 2020
 - [MNA-224](https://dyned.myjetbrains.com/youtrack/issue/MNA-224) it lasts a little long time to enter live from myneo on ios device for 1.5.1
 - [MNA-201](https://dyned.myjetbrains.com/youtrack/issue/MNA-201) myneo app: After finishing the four introduction pages, it crashes.

@@ -4,6 +4,21 @@ title: myneo App - iOS
 
 # myneo App - iOS
 myneo Application for iOS
+## [v1.5.4] on September 11th, 2020
+- [MNA-278](https://dyned.myjetbrains.com/youtrack/issue/MNA-278) old connection destroyed or not : 1500 (for ios)
+- [MNA-265](https://dyned.myjetbrains.com/youtrack/issue/MNA-265) Add a message when coach disconnected detected (opentok)
+- [MNA-264](https://dyned.myjetbrains.com/youtrack/issue/MNA-264) Add messaging whenever coach joined detected (opentok)
+- [MNA-281](https://dyned.myjetbrains.com/youtrack/issue/MNA-281) Add a message when coach disconnected detected (agora)
+- [MNA-280](https://dyned.myjetbrains.com/youtrack/issue/MNA-280) Add messaging whenever coach joined detected (agora)
+- [MNA-287](https://dyned.myjetbrains.com/youtrack/issue/MNA-287) Changes allowed to neo students' profile thru MNA
+- [MNA-272](https://dyned.myjetbrains.com/youtrack/issue/MNA-272) Update avatar profile MNA
+- [MNA-288](https://dyned.myjetbrains.com/youtrack/issue/MNA-288) App crash (iOS) when trying to change the phone number for the 2nd 
+- [MNA-289](https://dyned.myjetbrains.com/youtrack/issue/MNA-289) MNA V1.5.4 on iOS: journey became horizontal on the PT pagetime
+- [MNA-273](https://dyned.myjetbrains.com/youtrack/issue/MNA-273) Update phone number profile from MNA
+- [MNA-160](https://dyned.myjetbrains.com/youtrack/issue/MNA-160) Red dot displaying rules?
+- [hotfix] hide menu download certificate on long journey
+- [hotfix] localize myneo zendesk based on device language
+
 ## [v1.5.3] on Augustus 14th, 2020
 - [MNA-242](https://dyned.myjetbrains.com/youtrack/issue/MNA-242) it pops up the 'infufficient permissions..' error
 - [MNA-224](https://dyned.myjetbrains.com/youtrack/issue/MNA-224) it lasts a little long time to enter live from myneo on ios device for 1.5.1
