@@ -4,6 +4,11 @@ title: neo Study App API
 
 # neo Study App API
 Service (API) to manage neo Study App.
+
+## [v1.8.11] on September 14th, 2020
+- [NSAAPI-262](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-262) Fixed error when access student information.
+- [NSAAPI-263](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-263) Fixed issue for student data who already passed ET in student summary.
+
 ## [v1.8.10] on September 10th, 2020
 - [NSAAPI-260](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-260) Failed to update avatar with Admin mode
 - [NSAAPI-261](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-261) Cannot change level when all levels have passed
