@@ -4,6 +4,12 @@ title: eTest API
 
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
+## [v1.4.5] on September 22th, 2020
+- [ETAPI-28](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-28) students received 20 emails  after finishing ept
+- Add config plan name
+```
+copy the plan.json file to the files directory
+```
 
 ## [v1.4.4] on September 02nd, 2020
 - [ETAPI-25](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-25) Updated searching method by inherintance UIC.
