@@ -5,6 +5,12 @@ title: Interim
 # Neo Interim
 neo Interim is a microsite that provides middleware for neo Ecosystem.
 
+## [v1.0.17] on Sep 29th, 2020
+- [UD-450](https://dyned.myjetbrains.com/youtrack/issue/UD-450) Use dashboard setting to send certificate by email
+- [UD-457](https://dyned.myjetbrains.com/youtrack/issue/UD-457) Prevent upload image on invalid fields validation
+- [UD-466](https://dyned.myjetbrains.com/youtrack/issue/UD-466) Add API to display applicant information
+- [UD-467](https://dyned.myjetbrains.com/youtrack/issue/UD-467) Prevent email to send twice
+
 ## [v1.0.16] on Sep 14th, 2020
 - [UD-339](https://dyned.myjetbrains.com/youtrack/issue/UD-339) Use duration to extend student trial duration days
 - [UD-400](https://dyned.myjetbrains.com/youtrack/issue/UD-400) Update student avatar upload with certifiate example

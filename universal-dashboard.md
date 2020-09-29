@@ -5,6 +5,17 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [v1.0.43] on Sep 29th, 2020
+- [UD-317](https://dyned.myjetbrains.com/youtrack/issue/UD-317) Add button to view confirmation link
+- [UD-340](https://dyned.myjetbrains.com/youtrack/issue/UD-340) Use live coaching ON as default on organization form
+- [UD-401](https://dyned.myjetbrains.com/youtrack/issue/UD-401) Allowed admin to change student fullname
+- [UD-436](https://dyned.myjetbrains.com/youtrack/issue/UD-436) Hide total user column
+- [UD-445](https://dyned.myjetbrains.com/youtrack/issue/UD-445) Change certificate filename on download
+- [UD-455](https://dyned.myjetbrains.com/youtrack/issue/UD-455) Display all student level on summary report
+- [UD-459](https://dyned.myjetbrains.com/youtrack/issue/UD-459) Improve test tab choices
+- [UD-460](https://dyned.myjetbrains.com/youtrack/issue/UD-460) Add UTF-8 Unicode on neo Certificate
+- [UD-461](https://dyned.myjetbrains.com/youtrack/issue/UD-461) Change token and base url displayed on Etest widget
+
 ## [v1.0.42] on Sep 14th, 2020
 - [hotfix/[UD-453](https://dyned.myjetbrains.com/youtrack/issue/UD-453)] Fixed voucher default value on creation form only.
 
