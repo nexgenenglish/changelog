@@ -5,7 +5,7 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
-## [v1.8.12] on September 30th, 2020
+## [v1.8.12] on September 29th, 2020
 - [NSAAPI-262](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-262) Access student information in dashboard error, prompt 500.
 - [NSAAPI-263](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-263) No data of student who certified on untiversal dashboard.
 
