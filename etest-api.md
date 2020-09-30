@@ -4,7 +4,7 @@ title: eTest API
 
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
-## [v1.4.6] on September 23th, 2020
+## [v1.4.6] on September 29th, 2020
 - [ETAPI-30](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-30) Change data type from string to "0 / 1"
 - [ETAPI-31](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-31) Mapping Question Flow based on the Certificate Plan
 
