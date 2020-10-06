@@ -6,17 +6,17 @@ title: Interim
 neo Interim is a microsite that provides middleware for neo Ecosystem.
 
 ## [v1.0.17] on Sep 29th, 2020
-- [UD-450](https://dyned.myjetbrains.com/youtrack/issue/UD-450) Use dashboard setting to send certificate by email
-- [UD-457](https://dyned.myjetbrains.com/youtrack/issue/UD-457) Prevent upload image on invalid fields validation
-- [UD-466](https://dyned.myjetbrains.com/youtrack/issue/UD-466) Add API to display applicant information
-- [UD-467](https://dyned.myjetbrains.com/youtrack/issue/UD-467) Prevent email to send twice
+- [UD-450](https://dyned.myjetbrains.com/youtrack/issue/UD-450) Fixed sending certificate by using dashboard setting.
+- [UD-457](https://dyned.myjetbrains.com/youtrack/issue/UD-457) Prevent to upload image on invalid fields validation.
+- [UD-466](https://dyned.myjetbrains.com/youtrack/issue/UD-466) Added API to display applicant information.
+- [UD-467](https://dyned.myjetbrains.com/youtrack/issue/UD-467) Fixed sending email twice after resend confirmation.
 
 ## [v1.0.16] on Sep 14th, 2020
-- [UD-339](https://dyned.myjetbrains.com/youtrack/issue/UD-339) Use duration to extend student trial duration days
-- [UD-400](https://dyned.myjetbrains.com/youtrack/issue/UD-400) Update student avatar upload with certifiate example
+- [UD-339](https://dyned.myjetbrains.com/youtrack/issue/UD-339) Added change avatar using API.
+- [UD-400](https://dyned.myjetbrains.com/youtrack/issue/UD-400) Updated student avatar upload with sample certifiate.
 
 ## [v1.0.15] on Aug 19th, 2020
-- [UD-424](https://dyned.myjetbrains.com/youtrack/issue/UD-424) Change SMS wording
+- [UD-424](https://dyned.myjetbrains.com/youtrack/issue/UD-424) Changed SMS wording.
 
 ## [v1.0.14] on Aug 18th, 2020
 - [UD-410](https://dyned.myjetbrains.com/youtrack/issue/UD-410) Updated resend expired confirmation link to e-mail and sms.

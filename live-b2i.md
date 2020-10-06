@@ -5,16 +5,30 @@ title: neo Live B2I
 # Live B2I
 A website for DynEd students and coaches to study using Live Session and also for admins and affiliates to manage DynEd Live's environment.
 
+## [v1.1.7] on September 30th, 2020
+- [DELB2I-387](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-387) Fixed error in reading timezone & date.
+- [DELB2I-951](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-951) Fixed booked session on Safari that couldn't see the coach when have Live session.
+- [DELB2I-979](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-979) Fixed lose information when students move up a level.
+- [DELB2I-1195](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1195) Added CMS for neo Academic Coaching script.
+- [DELB2I-1198](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1198) Fixed cannot save unit order on CMS.
+- [DELB2I-1202](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1202) Added auto update unit list after add new.
+- [DELB2I-1204](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1204) Added Student certification plan on live session.
+- [DELB2I-1205](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1205) Fixed load neoPrep+ coaching script on Live Session.
+- [DELB2I-1206](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1206) Disabled the horizontal scrollbar for coaching scripts.
+- [DELB2I-1207](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1207) Added new pointing url for new site.
+- [DELB2I-1208](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1208) Added agora check record controllers for student and coach.
+- [DELB2I-1209](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1209) Added logs for email and sms reminder.
+
 ## [v1.1.6] on September 9th, 2020
-- [DELB2I-947](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-947) Fixed text doesn't wrap in Opentok session
-- [DELB2I-1101](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1101) Fixed countries and languages list when find a coach
-- [DELB2I-1112](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1112) Fixed misspelling typo availability
-- [DELB2I-1185](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1185) Added open coach PDF in new window
-- [DELB2I-1190](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1190) Fixed coach admin reschedule
-- [DELB2I-1192](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1192) Added Pusher for MNA
-- [DELB2I-1193](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1193) Fixed DB table b2c_script change target blank to new window
-- [DELB2I-1194](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1194) Fixed DB table script change target blank to new window
-- [DELB2I-1196](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1196) Fixed error when find a coach by date
+- [DELB2I-947](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-947) Fixed text doesn't wrap in Opentok session.
+- [DELB2I-1101](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1101) Fixed countries and languages list when find a coach.
+- [DELB2I-1112](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1112) Fixed misspelling.
+- [DELB2I-1185](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1185) Added open coach PDF in new window.
+- [DELB2I-1190](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1190) Fixed coach admin reschedule.
+- [DELB2I-1192](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1192) Added Pusher for MNA.
+- [DELB2I-1193](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1193) Changed DB table b2c_script to new window.
+- [DELB2I-1194](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1194) Fixed DB table script change target blank to new window.
+- [DELB2I-1196](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1196) Fixed error when find a coach by date.
 
 ## [v1.1.5] on August 5th, 2020
 - [DELB2I-939](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-939) Fixed coach notes which cover student info.

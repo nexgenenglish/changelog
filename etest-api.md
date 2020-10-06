@@ -15,7 +15,7 @@ Service (API) to manage all the Assements Test (Placement test or the Certificat
 - [ETAPI-31](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-31) Mapping Question Flow based on the Certificate Plan
 
 ## [v1.4.5] on September 22th, 2020
-- [ETAPI-28](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-28) students received 20 emails  after finishing ept
+- [ETAPI-28](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-28) Fixed issue about receiving 20 emails  after finishing ept.
 - Add config plan name
 ```
 copy the plan.json file to the files directory

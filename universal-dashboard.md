@@ -6,19 +6,24 @@ title: Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
 
+## [v1.0.45] on Oct 5th, 2020
+- [UD-304](https://dyned.myjetbrains.com/youtrack/issue/UD-304) Fix bug on filter function in the "Tests" and "Students" lists
+- [UD-315](https://dyned.myjetbrains.com/youtrack/issue/UD-315) Fix wrong date and time for study records
+- [UD-464](https://dyned.myjetbrains.com/youtrack/issue/UD-464) Fix the time to more localized
+
 ## [v1.0.44] on Sep 29th, 2020
 - [hotfix] Display logo on generate cloud.
 
 ## [v1.0.43] on Sep 29th, 2020
-- [UD-317](https://dyned.myjetbrains.com/youtrack/issue/UD-317) Add button to view confirmation link
-- [UD-340](https://dyned.myjetbrains.com/youtrack/issue/UD-340) Use live coaching ON as default on organization form
-- [UD-401](https://dyned.myjetbrains.com/youtrack/issue/UD-401) Allowed admin to change student fullname
-- [UD-436](https://dyned.myjetbrains.com/youtrack/issue/UD-436) Hide total user column
-- [UD-445](https://dyned.myjetbrains.com/youtrack/issue/UD-445) Change certificate filename on download
-- [UD-455](https://dyned.myjetbrains.com/youtrack/issue/UD-455) Display all student level on summary report
-- [UD-459](https://dyned.myjetbrains.com/youtrack/issue/UD-459) Improve test tab choices
-- [UD-460](https://dyned.myjetbrains.com/youtrack/issue/UD-460) Add UTF-8 Unicode on neo Certificate
-- [UD-461](https://dyned.myjetbrains.com/youtrack/issue/UD-461) Change token and base url displayed on Etest widget
+- [UD-317](https://dyned.myjetbrains.com/youtrack/issue/UD-317) Added view button to see confirmation link.
+- [UD-340](https://dyned.myjetbrains.com/youtrack/issue/UD-340) Made live coaching ON as default on organization form.
+- [UD-401](https://dyned.myjetbrains.com/youtrack/issue/UD-401) Allowed admin to change student fullname.
+- [UD-436](https://dyned.myjetbrains.com/youtrack/issue/UD-436) Added requirement for voucher information. 
+- [UD-445](https://dyned.myjetbrains.com/youtrack/issue/UD-445) Changed certificate filename on download.
+- [UD-455](https://dyned.myjetbrains.com/youtrack/issue/UD-455) Display all student level on summary report.
+- [UD-459](https://dyned.myjetbrains.com/youtrack/issue/UD-459) Improved test tab choices.
+- [UD-460](https://dyned.myjetbrains.com/youtrack/issue/UD-460) Added UTF-8 Unicode on neo Certificate.
+- [UD-461](https://dyned.myjetbrains.com/youtrack/issue/UD-461) Changed token and base url displayed on Etest widget.
 
 ## [v1.0.42] on Sep 14th, 2020
 - [hotfix/[UD-453](https://dyned.myjetbrains.com/youtrack/issue/UD-453)] Fixed voucher default value on creation form only.
