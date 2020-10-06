@@ -5,7 +5,7 @@ title: eTest Widget and Cloud
 # eTest Widget and Cloud
 Application for Assessment Tests (Placement Tests or Certification Tests) systems on neo.
 
-## [v2.8.5] on October 06th, 2020
+## [v2.8.6] on October 06th, 2020
 - [ET-372](https://dyned.myjetbrains.com/youtrack/issue/ET-372) Prevent scrolling on mobile viewport
 - [ET-374](https://dyned.myjetbrains.com/youtrack/issue/ET-374) Move the timer to the center of the navbar
 
