@@ -7,9 +7,9 @@ An universal dashboard to manage neo ecosystem.
 
 
 ## [v1.0.45] on Oct 5th, 2020
-- [UD-304](https://dyned.myjetbrains.com/youtrack/issue/UD-304) Fix bug on filter function in the "Tests" and "Students" lists
-- [UD-315](https://dyned.myjetbrains.com/youtrack/issue/UD-315) Fix wrong date and time for study records
-- [UD-464](https://dyned.myjetbrains.com/youtrack/issue/UD-464) Fix the time to more localized
+- [UD-304](https://dyned.myjetbrains.com/youtrack/issue/UD-304) Fixed 'Seacrhing' issue in the "Tests" and "Students" lists.
+- [UD-315](https://dyned.myjetbrains.com/youtrack/issue/UD-315) Fixed wrong date and time for study records.
+- [UD-464](https://dyned.myjetbrains.com/youtrack/issue/UD-464) Fixed the time to be more localized (based on user time zone).
 
 ## [v1.0.44] on Sep 29th, 2020
 - [hotfix] Display logo on generate cloud.
