@@ -6,6 +6,11 @@ title: Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
 
+## [v1.0.46] on Oct 12th, 2020
+- [UD-474](https://dyned.myjetbrains.com/youtrack/issue/UD-474) Fixed student summary report.
+- [UD-475](https://dyned.myjetbrains.com/youtrack/issue/UD-475) Fixed prevent admin access student from different organization.
+
+
 ## [v1.0.45] on Oct 5th, 2020
 - [UD-304](https://dyned.myjetbrains.com/youtrack/issue/UD-304) Fixed 'Seacrhing' issue in the "Tests" and "Students" lists.
 - [UD-315](https://dyned.myjetbrains.com/youtrack/issue/UD-315) Fixed wrong date and time for study records.
