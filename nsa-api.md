@@ -5,6 +5,8 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+## [v1.8.14] on October 06th, 2020
+-[NSAAPI-269](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-269) Handle If the Live Session completed is more than minimum to pass
 ## [v1.8.13] on October 06th, 2020
 - [NSAAPI-266](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-266) coach scores are not added
 - [NSAAPI-268](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-266) Add Step Completion Bonus to "Review lessons"
