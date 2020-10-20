@@ -5,6 +5,12 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## [v1.4.9] on October 19th, 2020
+- [ETAPI-37](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-37) Add endpoint to query candidates by selected email
+
+## [v1.4.8] on October 12th, 2020
+- [ETAPI-36](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-36) some fields turn 0 after updating candidate
+
 ## [v1.4.7] on October 06th, 2020
 - [ETAPI-33](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-33) The etest api does not work properly
 - [ETAPI-34](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-34) Prevents Admins from getting Student Info from other UICs that are not at the same or below
