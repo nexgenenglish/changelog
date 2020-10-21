@@ -6,19 +6,19 @@ title: eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
 ## [v1.4.9] on October 19th, 2020
-- [ETAPI-37](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-37) Add endpoint to query candidates by selected email
+- [ETAPI-37](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-37) Added endpoint to query candidates by selected email.
 
 ## [v1.4.8] on October 12th, 2020
-- [ETAPI-36](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-36) some fields turn 0 after updating candidate
+- [ETAPI-36](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-36) Fixed issue for dial code and phone number that turn to 0 after updating candidate.
 
 ## [v1.4.7] on October 06th, 2020
-- [ETAPI-33](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-33) The etest api does not work properly
-- [ETAPI-34](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-34) Prevents Admins from getting Student Info from other UICs that are not at the same or below
-- [ETAPI-35](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-35) Add flag for hide or unhide candidate
+- [ETAPI-33](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-33) eTest api does not work properly.
+- [ETAPI-34](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-34) Prevented Admins from getting Student Info from other UICs that are not at the same or below.
+- [ETAPI-35](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-35) Added flag for hide or unhide candidate.
 
 ## [v1.4.6] on September 29th, 2020
-- [ETAPI-30](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-30) Change data type from string to "0 / 1"
-- [ETAPI-31](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-31) Mapping Question Flow based on the Certificate Plan
+- [ETAPI-30](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-30) Changed data type from string to "0 / 1".
+- [ETAPI-31](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-31) Mapping Question Flow based on the Certificate Plan.
 
 ## [v1.4.5] on September 22th, 2020
 - [ETAPI-28](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-28) Fixed issue about receiving 20 emails  after finishing ept.

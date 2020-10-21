@@ -6,7 +6,7 @@ title: Interim
 neo Interim is a microsite that provides middleware for neo Ecosystem.
 
 ## [v1.0.18] on Oct 19th, 2020
-- [UD-479](https://dyned.myjetbrains.com/youtrack/issue/UD-479) Add multiple cc for CT failed notification
+- [UD-479](https://dyned.myjetbrains.com/youtrack/issue/UD-479) Added multiple e-mail address as cc for CT failed notification
 
 ## [v1.0.17] on Sep 29th, 2020
 - [UD-450](https://dyned.myjetbrains.com/youtrack/issue/UD-450) Fixed sending certificate by using dashboard setting.
