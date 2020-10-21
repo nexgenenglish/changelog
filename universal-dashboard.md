@@ -6,7 +6,7 @@ title: Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
 
-## [v1.0.47] on Oct 19th, 2020
+## [v1.0.48] on Oct 20th, 2020
 ### Hotfix for [#UD-471](https://dyned.myjetbrains.com/youtrack/issue/UD-471)
 - Fixed hidden candidate
 - Fixed onboard status
