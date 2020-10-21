@@ -7,6 +7,13 @@ An universal dashboard to manage neo ecosystem.
 
 
 ## [v1.0.47] on Oct 19th, 2020
+### Hotfix for [#UD-471](https://dyned.myjetbrains.com/youtrack/issue/UD-471)
+- Fixed hidden candidate
+- Fixed onboard status
+- Fixed search when change page
+- Fixed duplicate data affected by PT and CT
+
+## [v1.0.47] on Oct 19th, 2020
 - [UD-471](https://dyned.myjetbrains.com/youtrack/issue/UD-471) Add disable candidate button in test page
 - [UD-476](https://dyned.myjetbrains.com/youtrack/issue/UD-476) Fix datatable conflict request data on filter
 - [UD-478](https://dyned.myjetbrains.com/youtrack/issue/UD-478) Fix cached issue
