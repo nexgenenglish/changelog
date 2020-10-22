@@ -5,6 +5,13 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.8.0] on October 19th, 2020
+- [NSA-2455](https://dyned.myjetbrains.com/youtrack/issue/NSA-2455) Insert a Level specific journey map in NSA (new Home Screen design)
+- New Summary, CT, MT Screen design
+- [DSA-2061](https://dyned.myjetbrains.com/youtrack/issue/DSA-2061) RFS > Step 4: pls play audio after users are not recognized for the 1st & 2nd times
+- [NSA-2403](https://dyned.myjetbrains.com/youtrack/issue/NSA-2403) RFS Readings: after playing the audio, pls keep both Repeat and Record buttons active onscreen
+- [NSA-2480](https://dyned.myjetbrains.com/youtrack/issue/NSA-2480) Android: need space betweeen "UnitedStates"
+
 ## [v1.7.1.2020.08.06] on August 6th, 2020
 - [NSA-2428](https://dyned.myjetbrains.com/youtrack/issue/NSA-2428) Tencent requires User Agreement and Privacy Policy whthin the App.
 - [NSA-2429](https://dyned.myjetbrains.com/youtrack/issue/NSA-2429) Add EULA and Privacy Policy

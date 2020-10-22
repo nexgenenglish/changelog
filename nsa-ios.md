@@ -5,6 +5,12 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+## [v1.8.0] on October 19th, 2020
+- [NSA-2455](https://dyned.myjetbrains.com/youtrack/issue/NSA-2455) Insert a Level specific journey map in NSA (new Home Screen design)
+- New Summary, CT, MT Screen design
+- [DSA-2061](https://dyned.myjetbrains.com/youtrack/issue/DSA-2061) RFS > Step 4: pls play audio after users are not recognized for the 1st & 2nd times
+- [NSA-2403](https://dyned.myjetbrains.com/youtrack/issue/NSA-2403) RFS Readings: after playing the audio, pls keep both Repeat and Record buttons active onscreen
+
 ## [v1.7.2] on September 7th, 2020 :
 - [NSA-2465](https://dyned.myjetbrains.com/youtrack/issue/NSA-2465?p=NBRG-520) The student had a problem with the courseware dropping out automatically while studying the course.
 - [NSA-2471](https://dyned.myjetbrains.com/youtrack/issue/NSA-2471) Students feedback that if the courseware is run in the background and then opened, the courseware will exit automatically.
