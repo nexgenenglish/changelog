@@ -6,10 +6,11 @@ title: Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
 
-## [v1.0.49] on Nov 9th, 2020
+<!-- ## [v1.0.49] on Nov 9th, 2020
 - [UD-485](https://dyned.myjetbrains.com/youtrack/issue/UD-485) Fixed redirect page on search page
 - [UD-487](https://dyned.myjetbrains.com/youtrack/issue/UD-487) Update PT report
 - [UD-491](https://dyned.myjetbrains.com/youtrack/issue/UD-491) Fixed undisplayed trial students on trial report
+-->
 
 ## [v1.0.48] on Oct 20th, 2020
 ### Hotfix for [#UD-471](https://dyned.myjetbrains.com/youtrack/issue/UD-471)
