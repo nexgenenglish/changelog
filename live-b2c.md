@@ -5,6 +5,13 @@ title: neo Live B2C
 # Live B2C
 A website for neo students to study using Live Session.
 
+## [v1.1.2] on November 3th, 2020
+- [NELB2C-1150](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1150) Fixed API to get Live token info.
+- [NELB2C-1210](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1210) Fixed booking time (delete 24hours for booking coach).
+- [NELB2C-1215](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1215) Fixed different time session on both iOS and Android.
+- [NELB2C-1217](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1217) Fixed hiding language selection.
+
+
 ## [v1.1.1] on September 30th, 2020
 - [NELB2C-1150](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1150) Added API for getting token info.
 - [NELB2C-1163](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1163) Added digital clock on top center on every page.
