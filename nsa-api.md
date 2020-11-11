@@ -5,6 +5,19 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.8.17 on Novmber 09th, 2020
+- fix summary point [role tester]
+
+# 1.8.16 on Novmber 04th, 2020
+- [NSAAPI-270](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-270) iOS&Android: improvement when it's "0 points to next test"
+- [NSAAPI-271](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-271) For the units following, the points before starting is different from the previous one
+- [NSAAPI-272](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-272) neoPrep+>A1: the target points of the last unit is wrong, and the rocket exceed the rock
+
+## [v1.8.15] on October 19th, 2020
+ - update condition point interactivity
+ - update review unlocked CT
+ - update CT pending screen
+
 ## [v1.8.14] on October 14th, 2020
 -[NSAAPI-269](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-269) Handle If the Live Session completed is more than minimum to pass
 
