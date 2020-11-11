@@ -5,6 +5,14 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.8.1] on November 6th, 2020
+- [NSA-2525](https://dyned.myjetbrains.com/youtrack/issue/NSA-2525) Fixed issues for reduced points after update the application.
+- [NSA-2517](https://dyned.myjetbrains.com/youtrack/issue/NSA-2517) Made improvement when it is 0 point to next test.
+- [NSA-1959](https://dyned.myjetbrains.com/youtrack/issue/NSA-1959) Replaced text into audio.
+- [NSA-2531](https://dyned.myjetbrains.com/youtrack/issue/NSA-2531) Made MT score in the rock smaller.
+- [NSA-2538](https://dyned.myjetbrains.com/youtrack/issue/NSA-2538) Fixed issue for MT which often showing when student studying.
+- [NSA-2547](https://dyned.myjetbrains.com/youtrack/issue/NSA-2547) Fixed issue for student who unable to run the courseware 
+
 ## [v1.8.0] on October 19th, 2020
 - [NSA-2455](https://dyned.myjetbrains.com/youtrack/issue/NSA-2455) Insert a Level specific journey map in NSA (new Home Screen design)
 - New Summary, CT, MT Screen design
