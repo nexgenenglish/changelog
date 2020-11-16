@@ -5,6 +5,29 @@ title: neo Live B2I
 # Live B2I
 A website for DynEd students and coaches to study using Live Session and also for admins and affiliates to manage DynEd Live's environment.
 
+## [v1.1.8] on November 14th, 2020
+- [DELB2I-383](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-383) Added search student & coach by name in Student Affiliate & Coach Affiliate accounts.
+- [DELB2I-413](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-413) Fixed issue to prevent the same group name.
+- [DELB2I-434](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-434) Changed "Elite Coach" to "Native English Speaker".
+- [DELB2I-485](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-485) Added function to deactivate coach from Superadmin and Region Admin.
+- [DELB2I-669](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-669) Fixed coach schedule.
+- [DELB2I-1195](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1195) Added new CMS for neo Academic coaching script.
+- [DELB2I-1205](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1205) Added neoPrep+ coaching script on Live session.
+- [DELB2I-1214](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1214) Added  search student & coach by name in Region Admin accounts.
+- [DELB2I-1215](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1215) Added search student & coach by name in Affiliate Monitor accounts.
+- [DELB2I-1218](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1218) Added new clock and timezone for coach.
+- [DELB2I-1219](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1219) Updated for minimum 24 hours from user current time to book a coach.
+- [DELB2I-1220](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1220) Fixed some neo coaches current stars to 5 stars.
+- [DELB2I-1221](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1221) Updated  delete time 24 hours from current time to prevent booking coach.
+- [DELB2I-1222](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1222) Fixed Live session display.
+- [DELB2I-1223](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1223) Fixed map error in contact us page.
+- [DELB2I-1225](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1225) Fixed coach session dots.
+- [DELB2I-1226](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1226) Fixed coaching list style script bullet and numbering.
+- [DELB2I-1228](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1228) Fixed error redeclare function.
+- [DELB2I-1229](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1229) Fixed error in page coach for upcoming session from Superadmin role.
+- [DELB2I-1235](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1235) Fixed double functions in time conversion library for china dev.
+- [DELB2I-1236](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1236) Fixed refund token based on user cl_id.
+
 ## [v1.1.7] on September 30th, 2020
 - [DELB2I-387](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-387) Fixed error in reading timezone & date.
 - [DELB2I-951](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-951) Fixed booked session on Safari that couldn't see the coach when have Live session.
