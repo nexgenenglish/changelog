@@ -6,6 +6,20 @@ title: Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
 
+
+
+<h3>Released v1.0.51 on Nov 12th, 2020</h3>
+<ol>
+    <li>[Hotifx] Reverse neoprep+ logic</li>
+</ol>
+
+## [v1.0.51] on Nov 12th, 2020
+### Hotfix for [#UD-496](https://dyned.myjetbrains.com/youtrack/issue/UD-496)
+- Reverse allowing neoprep+, hide from organization except test region
+
+## [v1.0.50] on Nov 12th, 2020
+- [UD-496](https://dyned.myjetbrains.com/youtrack/issue/UD-496) Added hard code to allowing neoprep+ on test region
+
 ## [v1.0.49] on Nov 9th, 2020
 - [UD-485](https://dyned.myjetbrains.com/youtrack/issue/UD-485) Fixed redirect page on search page
 - [UD-487](https://dyned.myjetbrains.com/youtrack/issue/UD-487) Update PT report
