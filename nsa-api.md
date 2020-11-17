@@ -5,6 +5,10 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.8.18 on Novmber 13th, 2020
+- set env assets files location
+- update mt review page
+
 # 1.8.17 on Novmber 09th, 2020
 - fix summary point [role tester]
 
