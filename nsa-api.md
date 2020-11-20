@@ -5,6 +5,16 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.8.19 on Novmber 19th, 2020
+- implement acctual point capped on summary screen
+- add goal name
+- NSAAPI-273 Add a new actual point capped on summary response
+- NSAAPI-275 Android: neoPrep+>B1>EFS U10>step1: after finishing this lesson by setting points, it shows 'Mastery Test Failed' which is wrong.
+- NSAAPI-277 neoPrep+>A1+: error message showed while reviewing lessons after failing an MT
+- NSAAPI-278 iOS: 1.8.1(2011101459000): issues when going through unit sequences of neoPrep+ > C1
+- NSAAPI-279 iOS V1.8.1 & Android V1.8.2: met various pages before an MT is unlocked
+- NSAAPI-280 iOS V1.8.2(201118114500): Qs about points on summary screen in A1
+
 # 1.8.18 on Novmber 13th, 2020
 - set env assets files location
 - update mt review page
