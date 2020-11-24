@@ -4,6 +4,8 @@ title: neo Study App API
 
 # neo Study App API
 Service (API) to manage neo Study App.
+# 1.8.20 on Novmber 20th, 2020
+- NSAAPI-276 Some fields are incorrectly displayed on the Get current progress api
 
 # 1.8.19 on Novmber 19th, 2020
 - implement acctual point capped on summary screen
