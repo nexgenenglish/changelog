@@ -5,6 +5,16 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.8.2] on November 24th, 2020
+- [NSA-2530](https://dyned.myjetbrains.com/youtrack/issue/NSA-2530) Android neoPrep+>A2+>EFS U7>step1: when testing unit sequence by setting points, app crashed
+- [NSA-2544](https://dyned.myjetbrains.com/youtrack/issue/NSA-2544) Android>neoPrep+: there is space between the rocket and the stone after MT opened
+- [NSA-2560](https://dyned.myjetbrains.com/youtrack/issue/NSA-2560) Android: neoPrep+>B2+>RFS U18> Memory Game: the same item being asked twice
+- [NSA-2562](https://dyned.myjetbrains.com/youtrack/issue/NSA-2562) Some accounts expire but can still log in to study--------Istone (Buy Now button should open web browser)
+- points_capped in summary to use as reducing point (remain_to_test - points_capped)
+- [NSA-2573](https://dyned.myjetbrains.com/youtrack/issue/NSA-2573) No response on Vocabulary lesson Transportation.
+- [NSA-2578](https://dyned.myjetbrains.com/youtrack/issue/NSA-2578) Android: neoPrep+>B2+>RFS U18>Memory Game: the two items in one group being asked in the same step
+- fix go to MT page after review lesson voluntary
+
 ## [v1.8.1] on November 6th, 2020
 - [NSA-2525](https://dyned.myjetbrains.com/youtrack/issue/NSA-2525) Fixed issues for reduced points after update the application.
 - [NSA-2517](https://dyned.myjetbrains.com/youtrack/issue/NSA-2517) Made improvement when it is 0 point to next test.
