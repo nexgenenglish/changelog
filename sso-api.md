@@ -3,6 +3,9 @@ title: SSO API
 ---
 
 # SSO API
+## [1.2.4] on November 26th, 2020
+- [SSO-38](https://dyned.myjetbrains.com/youtrack/issue/SSO-38) Log the password chnages in u_log in SSO database
+
 ## [1.2.3] on September 08th, 2020
 - [SSO-37](https://dyned.myjetbrains.com/youtrack/issue/SSO-37) Added log to see the changes of levels and plans on SSO.
 
