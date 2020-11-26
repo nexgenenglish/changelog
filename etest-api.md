@@ -5,6 +5,10 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## [v1.4.11] on November 26th, 2020
+- [ETAPI-41](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-41) Area for improvement not display sequently on PT report
+- [ETAPI-43](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-43) Prevent error when Candidate's result is null
+
 ## [v1.4.10] on November 11th, 2020
 - [ETAPI-32](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-32) Institutional "Can't Do" Statements based on ePT
 - [ETAPI-40](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-40) Create an API that generate excel report that include student PT/CT response based on the student email address
