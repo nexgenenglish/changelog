@@ -4,6 +4,12 @@ title: neo Study App API
 
 # neo Study App API
 Service (API) to manage neo Study App.
+
+# 1.8.21 on Novmber 26th, 2020
+- NSAAPI-282 end user didn't get step completion bonus though interactivity points are over 50
+- NSAAPI-283 Can't take CT even though the points are enough
+- NSAAPI-284 MT share review support from multiple studypaths
+
 # 1.8.20 on Novmber 20th, 2020
 - NSAAPI-276 Some fields are incorrectly displayed on the Get current progress api
 
