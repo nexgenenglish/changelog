@@ -6,12 +6,9 @@ title: Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
 
-
-
-<h3>Released v1.0.51 on Nov 12th, 2020</h3>
-<ol>
-    <li>[Hotifx] Reverse neoprep+ logic</li>
-</ol>
+## [v1.0.52] on Dec 1st, 2020
+### Hotfix for [#UD-504](https://dyned.myjetbrains.com/youtrack/issue/UD-504)
+- Activated neoprep+
 
 ## [v1.0.51] on Nov 12th, 2020
 ### Hotfix for [#UD-496](https://dyned.myjetbrains.com/youtrack/issue/UD-496)
