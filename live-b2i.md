@@ -5,6 +5,13 @@ title: neo Live B2I
 # Live B2I
 A website for DynEd students and coaches to study using Live Session and also for admins and affiliates to manage DynEd Live's environment.
 
+## [v1.1.9] on December 2nd, 2020
+- [DELB2I-386](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-386) Fixed partner's notification details.
+- [DELB2I-1114](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1114) Fixed issue for coach who couldn't see student join the session.
+- [DELB2I-1231](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1231) Fixed issue for cannot leave notes after session.
+- [DELB2I-1237](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1237) Fixed error in approve token for student partner.
+- [DELB2I-1240](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1240) Fixed error in coaching script.
+
 ## [v1.1.8] on November 14th, 2020
 - [DELB2I-383](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-383) Added search student & coach by name in Student Affiliate & Coach Affiliate accounts.
 - [DELB2I-413](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-413) Fixed issue to prevent the same group name.
