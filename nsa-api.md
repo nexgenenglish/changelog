@@ -5,6 +5,16 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.8.23 on December 01st, 2020
+- NSAAPI-285 Hanlde unit point not enough to pass
+- NSAAPI-286 Make Decrypt data collection per lesson
+- NSAAPI-290 button didn't change to "review lesson" when CT status is pending
+- NSAAPI-291 ET status open when the last MT unloked
+
+# 1.8.22 on Novmber 27th, 2020
+- NSAAPI-287 handle Review MT error
+- Add country_admin and region_admin as new admin guard
+
 # 1.8.21 on Novmber 26th, 2020
 - NSAAPI-282 end user didn't get step completion bonus though interactivity points are over 50
 - NSAAPI-283 Can't take CT even though the points are enough
