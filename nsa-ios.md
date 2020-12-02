@@ -5,6 +5,9 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+## [v1.8.3] on December 1st, 2020
+- [NSA-2590](https://dyned.myjetbrains.com/youtrack/issue/NSA-2590) Fixed SR result which doesn't work properly.
+
 ## [v1.8.2] on November 24th, 2020
 - [NSA-2562](https://dyned.myjetbrains.com/youtrack/issue/NSA-2562) Some accounts expire but can still log in to study--------Istone (Buy Now button should open web browser)
 - [NSA-2576](https://dyned.myjetbrains.com/youtrack/issue/NSA-2576) iOS: wrong message showed in neoPrep+>B1+, and MT was taken twice

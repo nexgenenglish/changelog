@@ -5,6 +5,9 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+##[v1.8.3] on December 1st, 2020
+- [NSA-2599](https://dyned.myjetbrains.com/youtrack/issue/NSA-2599) Question items change when user do it wrongly.
+
 ## [v1.8.2] on November 24th, 2020
 - [NSA-2530](https://dyned.myjetbrains.com/youtrack/issue/NSA-2530) Android neoPrep+>A2+>EFS U7>step1: when testing unit sequence by setting points, app crashed
 - [NSA-2544](https://dyned.myjetbrains.com/youtrack/issue/NSA-2544) Android>neoPrep+: there is space between the rocket and the stone after MT opened

@@ -5,6 +5,16 @@ title: neo Live B2C
 # Live B2C
 A website for neo students to study using Live Session.
 
+## [v1.1.4] on December 2nd, 2020
+- [NELB2C-1212](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1212) Fixed issue for coach who attend but token were not given.
+- [NELB2C-1223](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1223) Added token to Elite student.
+- [NELB2C-1224](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1224) Fixed get_partner API for dashboard.
+- [NELB2C-1234](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1234) Added Agora RTM with encode and decode base64.
+- [NELB2C-1236](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1236) Updated change level API.
+
+## [v1.1.3] on November 12th, 2020
+- [Hotfix NELB2C-1150](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1150) Fixed initial_token value in token API.
+
 ## [v1.1.2] on November 3th, 2020
 - [NELB2C-1150](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1150) Fixed API to get Live token info.
 - [NELB2C-1210](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1210) Fixed booking time (delete 24hours for booking coach).

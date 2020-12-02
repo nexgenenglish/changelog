@@ -10,7 +10,7 @@ A website for DynEd students and coaches to study using Live Session and also fo
 - [DELB2I-1114](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1114) Fixed issue for coach who couldn't see student join the session.
 - [DELB2I-1231](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1231) Fixed issue for cannot leave notes after session.
 - [DELB2I-1237](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1237) Fixed error in approve token for student partner.
-- [DELB2I-1240](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1240) Fixed error in coaching script.
+- [DELB2I-1240](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1240) Fixed error in loading coaching script.
 
 ## [v1.1.8] on November 14th, 2020
 - [DELB2I-383](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-383) Added search student & coach by name in Student Affiliate & Coach Affiliate accounts.
