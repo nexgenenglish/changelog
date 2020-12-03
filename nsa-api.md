@@ -5,6 +5,9 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.8.24 on December 02nd, 2020
+- NSAAPI-294 app let student do MT serveral times (unit case)
+
 # 1.8.23 on December 01st, 2020
 - NSAAPI-285 Hanlde unit point not enough to pass
 - NSAAPI-286 Make Decrypt data collection per lesson
