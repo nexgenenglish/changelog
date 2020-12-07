@@ -4,6 +4,11 @@ title: myneo App - Android
 
 # myneo App - Android
 myneo Application for Android
+## [v1.5.5.2020.12.07] on December 7th, 2020
+- [MNA-254](https://dyned.myjetbrains.com/youtrack/issue/MNA-254) MNA Media Tile Language selection
+- [MNA-291](https://dyned.myjetbrains.com/youtrack/issue/MNA-291) Error: Invalid/ missing authorization token
+- [MNA-299](https://dyned.myjetbrains.com/youtrack/issue/MNA-299) Update Mobile SDK Agora (messaging feature) from using signaling to RTM
+
 ## [v1.5.4.2020.09.11] on September 11th, 2020
 - [MNA-267](https://dyned.myjetbrains.com/youtrack/issue/MNA-267) can't enter live through myneo
 - [MNA-266](https://dyned.myjetbrains.com/youtrack/issue/MNA-266) MNA 1.5.3: app crashing in the login page

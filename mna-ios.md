@@ -4,6 +4,11 @@ title: myneo App - iOS
 
 # myneo App - iOS
 myneo Application for iOS
+## [v1.5.5] on December 7th, 2020
+- [MNA-295](https://dyned.myjetbrains.com/youtrack/issue/MNA-295) Error to add the photo in myneo App in iOS
+- [MNA-254](https://dyned.myjetbrains.com/youtrack/issue/MNA-254) MNA Media Tile Language selection
+- [MNA-299](https://dyned.myjetbrains.com/youtrack/issue/MNA-299) Update Mobile SDK Agora (messaging feature) from using signaling to RTM
+
 ## [v1.5.4] on September 11th, 2020
 - [MNA-278](https://dyned.myjetbrains.com/youtrack/issue/MNA-278) old connection destroyed or not : 1500 (for ios)
 - [MNA-265](https://dyned.myjetbrains.com/youtrack/issue/MNA-265) Add a message when coach disconnected detected (opentok)
