@@ -5,6 +5,15 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.8.26 on December 09th, 2020
+- NSAAPI-288 Save My Lesson
+- NSAAPI-289 Delete My Lesson
+- NSAAPI-292 Get My lesson data
+- NSAAPI-293 Set to disable when My lesson has played
+
+# 1.8.25 on December 07th, 2020
+- NSAAPI-295 mt is not open though finishing mt review
+
 # 1.8.24 on December 02nd, 2020
 - NSAAPI-294 app let student do MT serveral times (unit case)
 
