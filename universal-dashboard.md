@@ -5,6 +5,30 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [v1.0.56] on Dec 15th, 2020
+- [Hotfix] Change migration class name
+
+## [v1.0.55] on Dec 15th, 2020
+- [UD-528](https://dyned.myjetbrains.com/youtrack/issue/UD-528) Fixed error on organisation creation
+- [UD-529](https://dyned.myjetbrains.com/youtrack/issue/UD-529) Fixed live partner label and validation
+
+## [v1.0.54] on Dec 15th, 2020
+- [UD-520](https://dyned.myjetbrains.com/youtrack/issue/UD-520) Fixed separate partner and group live id for each server available
+
+## [v1.0.53] on Dec 15th, 2020
+- [UD-469](https://dyned.myjetbrains.com/youtrack/issue/UD-469) Added field under organization to manage partner and group from live
+- [UD-492](https://dyned.myjetbrains.com/youtrack/issue/UD-492) Added assign partner and group from live into organization
+- [UD-493](https://dyned.myjetbrains.com/youtrack/issue/UD-493) Added partner and group id into payload sent to Portal
+- [UD-501](https://dyned.myjetbrains.com/youtrack/issue/UD-501) Fixed live value after update by organization admin
+- [UD-502](https://dyned.myjetbrains.com/youtrack/issue/UD-502) Fixed PT level empty after register student
+- [UD-504](https://dyned.myjetbrains.com/youtrack/issue/UD-504) Updated activated neoprep+
+- [UD-505](https://dyned.myjetbrains.com/youtrack/issue/UD-505) Updated remove onboard note on neoplus / neopreplus
+- [UD-507](https://dyned.myjetbrains.com/youtrack/issue/UD-507) Updated hide use_nsa checkbox
+- [UD-508](https://dyned.myjetbrains.com/youtrack/issue/UD-508) Updated display live organisation configs to country admin and up
+- [UD-510](https://dyned.myjetbrains.com/youtrack/issue/UD-510) Fixed tests tab cant open, it's always circling
+- [UD-515](https://dyned.myjetbrains.com/youtrack/issue/UD-515) Updated allowing region, country admin, coach and support on dsa roles
+- [UD-517](https://dyned.myjetbrains.com/youtrack/issue/UD-517) Updated change label warning for datatables
+- [UD-519](https://dyned.myjetbrains.com/youtrack/issue/UD-519) Updated change url for download student CT score attempt
 
 ## [v1.0.52] on Dec 1st, 2020
 ### Hotfix for [#UD-504](https://dyned.myjetbrains.com/youtrack/issue/UD-504)
