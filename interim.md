@@ -5,6 +5,13 @@ title: Interim
 # Neo Interim
 neo Interim is a microsite that provides middleware for neo Ecosystem.
 
+## [v1.0.20] on Dec 15th, 2020
+- [UD-520](https://dyned.myjetbrains.com/youtrack/issue/UD-520) Fixed separate partner and group live id for each server available
+- [UD-526](https://dyned.myjetbrains.com/youtrack/issue/UD-526) Added config to separate interim server location
+
+## [v1.0.19] on Dec 15th, 2020
+- [UD-493](https://dyned.myjetbrains.com/youtrack/issue/UD-493) Add partner and group id into payload sent to Portal
+
 ## [v1.0.18] on Oct 19th, 2020
 - [UD-479](https://dyned.myjetbrains.com/youtrack/issue/UD-479) Added multiple e-mail address as cc for CT failed notification
 
