@@ -5,6 +5,9 @@ title: Interim
 # Neo Interim
 neo Interim is a microsite that provides middleware for neo Ecosystem.
 
+## [v1.0.21] on Dec 15th, 2020
+- [Hotifx] Undetected server name
+
 ## [v1.0.20] on Dec 15th, 2020
 - [UD-520](https://dyned.myjetbrains.com/youtrack/issue/UD-520) Fixed separate partner and group live id for each server available
 - [UD-526](https://dyned.myjetbrains.com/youtrack/issue/UD-526) Added config to separate interim server location
