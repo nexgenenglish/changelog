@@ -6,74 +6,74 @@ title: neo Study App API
 Service (API) to manage neo Study App.
 
 # 1.8.27 on December 16th, 2020
-- NSAAPI-296 Fix user et data (b2cp_user_et)
-- NSAAPI-297 When passed the last MT on level B1 message error appears.
+- [NSAAPI-296](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-296) Fixed user et data (b2cp_user_et).
+- [NSAAPI-297](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-297) Fixed issue for error message that show after student passed last MT on Level B1. 
 - Show alert myLessons only once on Home Screen
 - Disable myLessons when Account is expired, CT passed (buy more package)
 
 # 1.8.26 on December 09th, 2020
-- NSAAPI-288 Save My Lesson
-- NSAAPI-289 Delete My Lesson
-- NSAAPI-292 Get My lesson data
-- NSAAPI-293 Set to disable when My lesson has played
+- [NSAAPI-288](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-288) Save My Lesson.
+- [NSAAPI-289](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-289) Delete My Lesson.
+- [NSAAPI-292](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-292) Get My lesson data.
+- [NSAAPI-293](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-293) Set to disable when My lesson has played.
 
 # 1.8.25 on December 07th, 2020
-- NSAAPI-295 mt is not open though finishing mt review
+- [NSAAPI-295](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-295) Fixed issue for MT that is not open although finishing MT Review.
 
 # 1.8.24 on December 02nd, 2020
-- NSAAPI-294 app let student do MT serveral times (unit case)
+- [NSAAPI-294](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-294) Fixed issue for the app which allowing student do MT serveral times (unit case).
 
 # 1.8.23 on December 01st, 2020
-- NSAAPI-285 Hanlde unit point not enough to pass
-- NSAAPI-286 Make Decrypt data collection per lesson
-- NSAAPI-290 button didn't change to "review lesson" when CT status is pending
-- NSAAPI-291 ET status open when the last MT unloked
+- [NSAAPI-285](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-285) Hanlde unit point not enough to pass.
+- [NSAAPI-286](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-286) Make Decrypt data collection per lesson.
+- [NSAAPI-290](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-290) Fixed issue for button that doesn't change to "review lesson" when CT status is pending.
+- [NSAAPI-291](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-291) Fixed issue for ET which status is open although the last MT is unlocked.
 
 # 1.8.22 on Novmber 27th, 2020
-- NSAAPI-287 handle Review MT error
-- Add country_admin and region_admin as new admin guard
+- [NSAAPI-287](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-287) Review MT error.
+- Added country_admin and region_admin as new admin guard.
 
 # 1.8.21 on Novmber 26th, 2020
-- NSAAPI-282 end user didn't get step completion bonus though interactivity points are over 50
-- NSAAPI-283 Can't take CT even though the points are enough
-- NSAAPI-284 MT share review support from multiple studypaths
+- [NSAAPI-282](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-282) Issue on end user who didn't get step completion bonus though interactivity points are over 50.
+- [NSAAPI-283](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-283) Fixed issue on can't take CT even though the points are enough.
+- [NSAAPI-284](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-284)  MT share review support from multiple studypaths.
 
 # 1.8.20 on Novmber 20th, 2020
-- NSAAPI-276 Some fields are incorrectly displayed on the Get current progress api
+- [NSAAPI-276](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-276)  Fixed issue for incorrectly display fields on the Get current progress api.
 
 # 1.8.19 on Novmber 19th, 2020
-- implement acctual point capped on summary screen
-- add goal name
-- NSAAPI-273 Add a new actual point capped on summary response
-- NSAAPI-275 Android: neoPrep+>B1>EFS U10>step1: after finishing this lesson by setting points, it shows 'Mastery Test Failed' which is wrong.
-- NSAAPI-277 neoPrep+>A1+: error message showed while reviewing lessons after failing an MT
-- NSAAPI-278 iOS: 1.8.1(2011101459000): issues when going through unit sequences of neoPrep+ > C1
-- NSAAPI-279 iOS V1.8.1 & Android V1.8.2: met various pages before an MT is unlocked
-- NSAAPI-280 iOS V1.8.2(201118114500): Qs about points on summary screen in A1
+- Implemented acctual point capped on summary screen.
+- Added goal name.
+- [NSAAPI-273](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-273)  Add a new actual point capped on summary response.
+- [NSAAPI-275](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-275)  Android: neoPrep+>B1>EFS U10>step1: Fixed issue for showing 'Mastery Test Failed". The MT should be open.
+- [NSAAPI-277](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-277)  neoPrep+>A1+: error message showed while reviewing lessons after failing an MT.
+- [NSAAPI-278](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-278)  iOS: 1.8.1(2011101459000): issues when going through unit sequences of neoPrep+ > C1.
+- [NSAAPI-279](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-279)  iOS V1.8.1 & Android V1.8.2: Issues on various pages before an MT is unlocked.
+- [NSAAPI-280](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-280)  iOS V1.8.2(201118114500): Issues about points on summary screen in A1.
 
 # 1.8.18 on Novmber 13th, 2020
-- set env assets files location
-- update mt review page
+- Set env assets files location.
+- Updated MT review page.
 
 # 1.8.17 on Novmber 09th, 2020
-- fix summary point [role tester]
+- Fixed summary point [role tester].
 
 # 1.8.16 on Novmber 04th, 2020
-- [NSAAPI-270](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-270) iOS&Android: improvement when it's "0 points to next test"
-- [NSAAPI-271](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-271) For the units following, the points before starting is different from the previous one
-- [NSAAPI-272](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-272) neoPrep+>A1: the target points of the last unit is wrong, and the rocket exceed the rock
+- [NSAAPI-270](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-270) iOS&Android: improvement showing "Mastery Test Open" instead of "0 points to next test".
+- [NSAAPI-271](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-271) Fixed issue for the differences points.
+- [NSAAPI-272](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-272) neoPrep+>A1: Fixed issue for target point and rocket animation.
 
 ## [v1.8.15] on October 19th, 2020
- - update condition point interactivity
- - update review unlocked CT
- - update CT pending screen
+ - Updated condition point interactivity.
+ - Updated review unlocked CT.
+ - Updated CT pending screen.
 
 ## [v1.8.14] on October 14th, 2020
--[NSAAPI-269](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-269) Handle If the Live Session completed is more than minimum to pass
+-[NSAAPI-269](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-269) Handled if the Live Session completed is more than minimum to pass.
 
 ## [v1.8.13] on October 06th, 2020
-- [NSAAPI-266](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-266) coach scores are not added
-- [NSAAPI-268](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-266) Add Step Completion Bonus to "Review lessons"
+- [NSAAPI-266](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-266) coach scores are not added.
+- [NSAAPI-268](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-266) Added Step Completion Bonus to "Review lessons".
 
 ## [v1.8.12] on September 29th, 2020
 - [NSAAPI-262](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-262) Access student information in dashboard error, prompt 500.
