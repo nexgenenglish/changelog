@@ -5,6 +5,12 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.8.27 on December 16th, 2020
+- NSAAPI-296 Fix user et data (b2cp_user_et)
+- NSAAPI-297 When passed the last MT on level B1 message error appears.
+- Show alert myLessons only once on Home Screen
+- Disable myLessons when Account is expired, CT passed (buy more package)
+
 # 1.8.26 on December 09th, 2020
 - NSAAPI-288 Save My Lesson
 - NSAAPI-289 Delete My Lesson
