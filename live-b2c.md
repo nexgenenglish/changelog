@@ -5,6 +5,9 @@ title: neo Live B2C
 # Live B2C
 A website for neo students to study using Live Session.
 
+## [v1.1.6] on December 16th, 2020
+- [Hotfix NELB2C-1245](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1245) Fixed get_partner API on production server.
+
 ## [v1.1.5] on December 10th, 2020
 - [Hotfix NELB2C-1241](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1241) Fixed issue for email which doesn't receive notification after booked live session.
 
