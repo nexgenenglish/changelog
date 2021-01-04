@@ -5,6 +5,14 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.9.1 on December, 2020
+- add acl access informastion on sp
+- disable alert no saved lessons home screen
+
+# 1.9.0 on December, 2020
+- compres file when change the avatar
+- save point my lesson for 1.9.x versions or more than
+
 # 1.8.27 on December 16th, 2020
 - [NSAAPI-296](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-296) Fixed user et data (b2cp_user_et).
 - [NSAAPI-297](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-297) Fixed issue for error message that show after student passed last MT on Level B1. 
