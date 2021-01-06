@@ -5,19 +5,26 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.9.2 on January 4th, 2021
+- Added session (live) active, session (live) upcoming, percentage points, is trial expired on sp (MNA).
+- Save ct logs question per level and attempt.
+- [NSAAPI-301](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-301) Fixed issue on student account who got  error on prompt CT.
+- Added end point to check student is on db or not.
+
+
 # 1.9.1 on December, 2020
-- add acl access informastion on sp
-- disable alert no saved lessons home screen
+- Added acl access informastion on sp.
+- Disabled alert no saved lessons home screen.
 
 # 1.9.0 on December, 2020
-- compres file when change the avatar
-- save point my lesson for 1.9.x versions or more than
+- Compressed file when change the avatar.
+- Save point my lesson for 1.9.x versions or more than.
 
 # 1.8.27 on December 16th, 2020
 - [NSAAPI-296](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-296) Fixed user et data (b2cp_user_et).
 - [NSAAPI-297](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-297) Fixed issue for error message that show after student passed last MT on Level B1. 
 - Show alert myLessons only once on Home Screen
-- Disable myLessons when Account is expired, CT passed (buy more package)
+- Disabled myLessons when Account is expired, CT passed (buy more package)
 
 # 1.8.26 on December 09th, 2020
 - [NSAAPI-288](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-288) Save My Lesson.
