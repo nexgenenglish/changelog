@@ -5,6 +5,15 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.9.0] on January 5th, 2021
+- [NSA-2271](https://dyned.myjetbrains.com/youtrack/issue/NSA-2271) Capture and analyze neo question and MT data in order to improve tests and support AI in neo courseware
+- [NSA-2597](https://dyned.myjetbrains.com/youtrack/issue/NSA-2597) Add Liked-Lesson List to NSA
+- [NSA-2615](https://dyned.myjetbrains.com/youtrack/issue/NSA-2615) Fireworks after passed MT for Android
+- new SR tolerance value based on WSA
+- [NSA-2628](https://dyned.myjetbrains.com/youtrack/issue/NSA-2628) Android: neoPrep+>A1>FE U8>Grammar: can/can't...>step2: after clicking on the box twice, app crashed
+- [NSA-2630](https://dyned.myjetbrains.com/youtrack/issue/NSA-2630) Android: neoPrep+>A2>RFS U9 MT: after finishing this MT, it jumps to blank screen and can do nothing
+- [NSA-2640](https://dyned.myjetbrains.com/youtrack/issue/NSA-2640) Android v1.9.0.2020.12.24-DEV: crashing issue with DynEd City
+
 ##[v1.8.3] on December 1st, 2020
 - [NSA-2599](https://dyned.myjetbrains.com/youtrack/issue/NSA-2599) Question items change when user do it wrongly.
 

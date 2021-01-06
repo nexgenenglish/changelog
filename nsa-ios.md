@@ -5,6 +5,14 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+## [v1.9.0] on January 5th, 2021
+- [NSA-2271](https://dyned.myjetbrains.com/youtrack/issue/NSA-2271) Capture and analyze neo question and MT data in order to improve tests and support AI in neo courseware
+- [NSA-2597](https://dyned.myjetbrains.com/youtrack/issue/NSA-2597) Add Liked-Lesson List to NSA
+- new SR tolerance value based on WSA
+- Fireworks after passed MT for iOS
+- [NSA-2625](https://dyned.myjetbrains.com/youtrack/issue/NSA-2625) iOS V1.9.0(201208170100): text onscrren suddenly disappeared while doing comparison
+- [NSA-2627](https://dyned.myjetbrains.com/youtrack/issue/NSA-2627) iOS: exit button doesn't work after finishing a level sequence.
+
 ## [v1.8.3] on December 1st, 2020
 - [NSA-2590](https://dyned.myjetbrains.com/youtrack/issue/NSA-2590) Fixed SR result which doesn't work properly.
 
