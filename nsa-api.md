@@ -5,7 +5,12 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
-# 1.9.2 on January 4th, 2021
+# 1.9.3 on January 06th, 2021
+- NSAAPI-303 The progress of students without learning records after learning the course remains unchanged
+- NSAAPI-304 Can't download contentt
+- NSAAPI-305 Prevent duplicate data study records
+
+# 1.9.2 on January 04th, 2021
 - Added session (live) active, session (live) upcoming, percentage points, is trial expired on sp (MNA).
 - Save ct logs question per level and attempt.
 - [NSAAPI-301](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-301) Fixed issue on student account who got  error on prompt CT.
