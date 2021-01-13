@@ -5,6 +5,9 @@ title: neo Live B2I
 # Live B2I
 A website for DynEd students and coaches to study using Live Session and also for admins and affiliates to manage DynEd Live's environment.
 
+## [v.1.1.10] on January 13th, 2021
+- [DELB2I-1242](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1242) Fixed move agora auth to config.
+
 ## [v1.1.9] on December 6th, 2020
 - [DELB2I-386](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-386) Fixed partner's notification details.
 - [DELB2I-1114](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1114) Fixed issue for coach who couldn't see student join the session.

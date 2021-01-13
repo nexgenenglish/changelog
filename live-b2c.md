@@ -5,6 +5,16 @@ title: neo Live B2C
 # Live B2C
 A website for neo students to study using Live Session.
 
+## [v1.1.7] on January 13th, 2021
+- [NELB2C-1240](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1240) Fixed issue for coach who cannot apply dayoff.
+- [NELB2C-1242](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1242) Added log for email booking.
+- [NELB2C-1243](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1243) Fixed save device_token API.
+- [NELB2C-1244](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1244) Fixed issue for student who can't see shared PPT and picture.
+- [NELB2C-1248](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1248) Fixed issue on coach's session summary which didn't show student attendance. 
+- [NELB2C-1249](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1249) Fixed move Mandrill key to env.
+- [NELB2C-1251](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1251) Fixed Agora chat on Live session.
+- [NELB2C-1253](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1253) Fixed recorded session not clickable. 
+
 ## [v1.1.6] on December 16th, 2020
 - [Hotfix NELB2C-1245](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1245) Fixed get_partner API on production server.
 

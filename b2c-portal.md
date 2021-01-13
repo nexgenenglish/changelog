@@ -4,6 +4,14 @@ title: B2C Portal
 
 # B2C Portal
 
+## [v.1.1.13] on November 17th, 2020
+- Retreived subgroup_id and partner_id (create user API).
+- Fixed amount of given coin (create user API).
+- Fixed error on fetch etest API (create user API).
+- Fixed error on reset coin.
+- Set default picture on certificate when profile picture file not found.
+- Docker version to 1.1.13.
+
 ## [v1.1.12] on September 7th, 2020
 - [MNS-730](https://dyned.myjetbrains.com/youtrack/issue/MNS-730) Added split Live token.
 - [MNS-732](https://dyned.myjetbrains.com/youtrack/issue/MNS-732) Added photo to generate sample certificate API.
