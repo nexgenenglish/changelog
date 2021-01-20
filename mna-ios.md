@@ -4,6 +4,10 @@ title: myneo App - iOS
 
 # myneo App - iOS
 myneo Application for iOS
+## [v1.5.6] on January 18th, 2020
+- [MNA-301](https://dyned.myjetbrains.com/youtrack/issue/MNA-301) The student can log in "my neo app" even deactivated
+- [hotfix] handle user expired without logout the application
+
 ## [v1.5.5] on December 7th, 2020
 - [MNA-295](https://dyned.myjetbrains.com/youtrack/issue/MNA-295) Error to add the photo in myneo App in iOS
 - [MNA-254](https://dyned.myjetbrains.com/youtrack/issue/MNA-254) MNA Media Tile Language selection

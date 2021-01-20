@@ -4,6 +4,12 @@ title: myneo App - Android
 
 # myneo App - Android
 myneo Application for Android
+## [v1.5.6] on January 18th, 2020
+- [MNA-301](https://dyned.myjetbrains.com/youtrack/issue/MNA-301) The student can log in "my neo app" even deactivated
+- [hotfix] handle user expired without logout the application
+- [hotfix] Fix circle points on amazon device
+- [hotfix] Hide message 'no google service' warning
+
 ## [v1.5.5.2020.12.07] on December 7th, 2020
 - [MNA-254](https://dyned.myjetbrains.com/youtrack/issue/MNA-254) MNA Media Tile Language selection
 - [MNA-291](https://dyned.myjetbrains.com/youtrack/issue/MNA-291) Error: Invalid/ missing authorization token
