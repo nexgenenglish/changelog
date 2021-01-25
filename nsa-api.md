@@ -5,7 +5,7 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
-# 1.9.4 on January 19th, 2020
+# 1.9.4 on January 19th, 2021
 - NSAAPI-306 The 'total days' is always show as 0
 - add certification.plan_code
 - add mna profile field to update
