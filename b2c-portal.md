@@ -8,7 +8,7 @@ title: B2C Portal
 - [MNS-745](https://dyned.myjetbrains.com/youtrack/issue/MNS-745) Added validation to reopen CT and fixed total attempt after reopen CT.
 - [MNS-746](https://dyned.myjetbrains.com/youtrack/issue/MNS-746) Changed email service to smtp.
 - Added MyLesson video introduction under videos in Bahasa.
-- [MNS-747](https://dyned.myjetbrains.com/youtrack/issue/MNS-747) Fixed issue PT Result animation for neo prep plus which didn't appear.
+- [MNS-747](https://dyned.myjetbrains.com/youtrack/issue/MNS-747) Fixed not showing PT Result animation for neo prep plus.
 
 ## [v.1.1.13] on November 17th, 2020
 - Retreived subgroup_id and partner_id (create user API).
