@@ -5,6 +5,16 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.9.1] on January 25th, 2021
+- [NSA-2642](https://dyned.myjetbrains.com/youtrack/issue/NSA-2642) It pops up the error after finish the lesson -- impact
+- [NSA-2647](https://dyned.myjetbrains.com/youtrack/issue/NSA-2647) MyLessons: after editing saved lessons, the 24-hour countdown timer appears which is wrong.
+- [NSA-2653](https://dyned.myjetbrains.com/youtrack/issue/NSA-2653) Summary screen after finishing review certification test
+- [NSA-2655](https://dyned.myjetbrains.com/youtrack/issue/NSA-2655) Crash on android on lesson Vocabulary Colors
+- [NSA-2665](https://dyned.myjetbrains.com/youtrack/issue/NSA-2665) when studying one sentence, app crashed in android device
+- fix unsent data collection in Mastery Test
+- fix data collection
+- [NSA-2669](https://dyned.myjetbrains.com/youtrack/issue/NSA-2669) When the student is studying the course, the courseware automatically exits.--------XiAn
+
 ## [v1.9.0] on January 5th, 2021
 - [NSA-2271](https://dyned.myjetbrains.com/youtrack/issue/NSA-2271) Capture and analyze neo question and MT data in order to improve tests and support AI in neo courseware
 - [NSA-2597](https://dyned.myjetbrains.com/youtrack/issue/NSA-2597) Add Liked-Lesson List to NSA

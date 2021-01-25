@@ -5,6 +5,12 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+## [v1.9.1] on January 25th, 2021
+- refresh token
+- fix data collection fix
+- [NSA-2664](https://dyned.myjetbrains.com/youtrack/issue/NSA-2664) iOS: the like and dislike box is too small on iPad
+- [NSA-2666](https://dyned.myjetbrains.com/youtrack/issue/NSA-2666) Students will be prompted to report an error after learning the current step----------XiAn Elite
+
 ## [v1.9.0] on January 5th, 2021
 - [NSA-2271](https://dyned.myjetbrains.com/youtrack/issue/NSA-2271) Capture and analyze neo question and MT data in order to improve tests and support AI in neo courseware
 - [NSA-2597](https://dyned.myjetbrains.com/youtrack/issue/NSA-2597) Add Liked-Lesson List to NSA
