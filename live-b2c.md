@@ -5,6 +5,9 @@ title: neo Live B2C
 # Live B2C
 A website for neo students to study using Live Session.
 
+## [v.1.1.8] on January 26th, 2021
+- [NELB2C-1273](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1273) Added Agora RTM log upload.
+
 ## [v1.1.7] on January 13th, 2021
 - [NELB2C-1240](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1240) Fixed issue for coach who cannot apply dayoff.
 - [NELB2C-1242](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1242) Added log for email booking.

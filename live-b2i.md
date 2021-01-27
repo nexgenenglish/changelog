@@ -5,6 +5,9 @@ title: neo Live B2I
 # Live B2I
 A website for DynEd students and coaches to study using Live Session and also for admins and affiliates to manage DynEd Live's environment.
 
+## [v.1.1.12] on January 26th, 2021
+- [NELB2C-1273](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1273) Added Agora RTM log upload.
+
 ## [v.1.1.11] on January 21st, 2021
 - [DELB2I-1244](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1244) Added information of student's level and plan.
 
