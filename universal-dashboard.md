@@ -5,6 +5,10 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [v1.0.57] on Jan 26th, 2021
+- [UD-512](https://dyned.myjetbrains.com/youtrack/issue/UD-512) Added billing function for sub organizations
+- [UD-527](https://dyned.myjetbrains.com/youtrack/issue/UD-527) Fixed certification tests attempt foreach level
+                            
 ## [v1.0.56] on Dec 15th, 2020
 - [Hotfix] Change migration class name
 
