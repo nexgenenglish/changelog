@@ -5,6 +5,9 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.9.2] on January 28th, 2021
+- [NSA-2669](https://dyned.myjetbrains.com/youtrack/issue/NSA-2669) When the student is studying the course, the courseware automatically exits.--------XiAn
+
 ## [v1.9.1] on January 25th, 2021
 - [NSA-2642](https://dyned.myjetbrains.com/youtrack/issue/NSA-2642) It pops up the error after finish the lesson -- impact
 - [NSA-2647](https://dyned.myjetbrains.com/youtrack/issue/NSA-2647) MyLessons: after editing saved lessons, the 24-hour countdown timer appears which is wrong.
