@@ -5,6 +5,28 @@ title: neo Live B2C
 # Live B2C
 A website for neo students to study using Live Session.
 
+## [v.1.1.9] on February 28th, 2021
+- [NELB2C-1230](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1230) Added Agora Real Time Messaging SDK.
+- [NELB2C-1231](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1231) Added new background and display changes.
+- [NELB2C-1244](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1244) Fixed issue for student who can't see shared PPT and shared picture.
+- [NELB2C-1252](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1252) Fixed issue for student who can book classes that are not held during teacher open hours.
+- [NELB2C-1254](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1254) Fixed count MT and coaching dots.
+- [NELB2C-1255](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1255) Changed send email method from Mandrill API to SMTP Mandrill.
+- [NELB2C-1262](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1262) Fixed MT dots in live session.
+- [NELB2C-1263](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1263) Fixed responsive for tablet device.
+- [NELB2C-1264](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1264) Removed symbol for Agora user email.
+- [NELB2C-1265](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1265) Fixed issue for student who can't see chat box.
+- [NELB2C-1272](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1272) Fixed issue for student who can't see shared PPT and shared picture.
+- [NELB2C-1273](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1273) Added Agora RTM log upload.
+- [NELB2C-1274](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1274) Added new method Agora RTM to Peer to Peer with enableOfflineMessaging function.
+- [NELB2C-1276](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1276) Fixed the level image C1-bridge and C1 that not responsive in page my record MNA and study dashboard.
+- [NELB2C-1279](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1279) Added Agora fullname parameter.
+- [NELB2C-1280](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1280) Added function to save log start and stop screen share and chat.
+- [NELB2C-1282](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1282) Added log function in start and stop screen share for mobile.
+- [NELB2C-1288](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1288) Fixed notification booked via live.myneo.space.
+- [NELB2C-1289](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1289) Added URL scheme parameter to send remaining session time to mobile.
+- [NELB2C-1290](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1290) Fixed stop screen share if student leave from live session when screen share is run.
+
 ## [v.1.1.8] on January 26th, 2021
 - [NELB2C-1273](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1273) Added Agora RTM log upload.
 

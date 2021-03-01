@@ -5,6 +5,14 @@ title: neo Live B2I
 # Live B2I
 A website for DynEd students and coaches to study using Live Session and also for admins and affiliates to manage DynEd Live's environment.
 
+## [v.1.1.13] on February 28th, 2021
+- [DELB2I-1243](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1243) Fixed issue for unnotified session rescheduled for coach.
+- [DELB2I-1249](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1249) Removed symbol for Agora user email.
+- [DELB2I-1251](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1251) Added start/stop screen sharing and chat logs.
+- [DELB2I-1252](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1252) Added Agora fullname parameter.
+- [DELB2I-1253](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1253) Added log data chat to mobile from agora.
+- [DELB2I-1254](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1254) Added authentication to get schedule histories API.
+
 ## [v.1.1.12] on January 26th, 2021
 - [NELB2C-1273](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1273) Added Agora RTM log upload.
 
