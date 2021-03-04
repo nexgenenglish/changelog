@@ -4,6 +4,24 @@ title: neo Study App - Android
 
 # neo Study App - Android
 neo Study application for Android
+## [v1.10.1] on March 4th, 2021
+- Added Profile page
+- Added Change Password page
+- Added Left Menu view
+- Added Change Image Profile
+- Added Review lesson page
+- Deleted unused android permission	
+- Deleted Crashlytics library	
+- Hide Skip button for trial lesson	
+- [NSA-2653](https://dyned.myjetbrains.com/youtrack/issue/NSA-2653) Summary screen after finishing review certification test	
+- [NSA-2655](https://dyned.myjetbrains.com/youtrack/issue/NSA-2655) Crash on android on lesson Vocabulary Colors
+- [NSA-2669](https://dyned.myjetbrains.com/youtrack/issue/NSA-2669) When the student is studying the course, the courseware automatically exits.--------XiAn
+- [NSA-2671](https://dyned.myjetbrains.com/youtrack/issue/NSA-2671) Text disappear on SR activity
+- [NSA-2675](https://dyned.myjetbrains.com/youtrack/issue/NSA-2675) iOS & Android V1.10.0 > issues with the image
+- [NSA-2679](https://dyned.myjetbrains.com/youtrack/issue/NSA-2679) iOS&Android V1.10.0: some thumbnail images in the review lessons page are missing
+- [NSA-2689](https://dyned.myjetbrains.com/youtrack/issue/NSA-2689) iOS&Android: wrong review lessons served after failing CTs
+- [IMPROVEMENT][NSA-2658](https://dyned.myjetbrains.com/youtrack/issue/NSA-2658) AI Curated Review List for Learners before and after taking a Certification Test (CT)
+- Fixed text-align of checkbox to center vertical
 
 ## [v1.9.2] on January 28th, 2021
 - [NSA-2669](https://dyned.myjetbrains.com/youtrack/issue/NSA-2669) When the student is studying the course, the courseware automatically exits.--------XiAn

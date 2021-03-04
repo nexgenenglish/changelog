@@ -4,6 +4,21 @@ title: neo Study App - iOS
 
 # neo Study App - iOS
 neo Study application for iOS
+## [v1.10.0] on March 4th, 2021
+- Added Profile page
+- Added Change Password page
+- Added Left Menu view
+- Added Change Image Profile
+- Added Review lesson page
+- Fixed when wrong answer on pause
+- Fixed crash on mt
+- Updated all endpoint to send basic header
+- [NSA-2689](https://dyned.myjetbrains.com/youtrack/issue/NSA-2689) iOS&Android: wrong review lessons served after failing CTs
+- [NSA-2671](https://dyned.myjetbrains.com/youtrack/issue/NSA-2671) Text disappear on SR activity
+- [NSA-2675](https://dyned.myjetbrains.com/youtrack/issue/NSA-2675) iOS & Android V1.10.0 > issues with the image
+- [NSA-2693](https://dyned.myjetbrains.com/youtrack/issue/NSA-2693) iOS 1.10.0: The Chinese for Private Policies is missing a character)
+- [NSA-2679](https://dyned.myjetbrains.com/youtrack/issue/NSA-2679) iOS&Android V1.10.0: some thumbnail images in the review lessons page are missing
+- [IMPROVEMENT][NSA-2658](https://dyned.myjetbrains.com/youtrack/issue/NSA-2658) AI Curated Review List for Learners before and after taking a Certification Test (CT)
 
 ## [v1.9.1] on January 25th, 2021
 - refresh token
