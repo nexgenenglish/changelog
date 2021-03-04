@@ -5,6 +5,15 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## [v1.4.13]  on March 01st, 2021
+- ETAPI-52 UD: Report "~Can't Do" statements for missed items on Failed Certification Tests
+- ETAPI-53 Curated Post-CT Failure Review Lists
+
+## [v1.4.12]  on February 01st, 2021
+- ETAPI-51 Test scores cannot be submitted-----Elite
+- ETAPI-48 Create a CT logs per level
+- ETAPI-46 Failed move candidate to another UIC using API
+
 ## [v1.4.11] on November 26th, 2020
 - [ETAPI-41](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-41) Area for improvement not display sequently on PT report
 - [ETAPI-43](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-43) Prevent error when Candidate's result is null

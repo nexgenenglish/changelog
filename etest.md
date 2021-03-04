@@ -5,6 +5,15 @@ title: eTest Widget and Cloud
 # eTest Widget and Cloud
 Application for Assessment Tests (Placement Tests or Certification Tests) systems on neo.
 
+## [2.8.10] on March 03rd, 2021
+- (ET-389) Make the internet connection warning auto dissapear when manage to sucessfully go to next question/save response
+
+## [2.8.9] on March 01st, 2021
+- (ET-388) Please separate the text "Which statement is true?" in a new line
+
+## [2.8.8] on February 16th, 2021
+- (ET-381) Store new require cookies
+
 ## [v2.8.7] on October 19th, 2020
 - [ET-375](https://dyned.myjetbrains.com/youtrack/issue/ET-375) Remove email parameter on widget mode
 

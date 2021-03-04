@@ -13,6 +13,7 @@ Service (API) to manage neo Study App.
 - NSA-2698 iOS&Android: internal server error when going through unit sequences where the last unit has no MT
 - NSAAPI-310 Curated Pre-CT Review Lists
 - NSAAPI-311 Curated Post-CT Failure Review Lists
+
 # 1.9.6 on February 24th, 2020
 - mylesson not saved.
 
