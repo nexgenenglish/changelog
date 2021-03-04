@@ -4,6 +4,15 @@ title: neo Study App API
 
 # neo Study App API
 Service (API) to manage neo Study App.
+
+# 1.9.7.1 on March 03rd, 2021
+- Handle when lesson type is empty on summary page
+
+# 1.9.7 on March 01st, 2021
+- Prevent study when user_et and user_cert_plan is not found
+- NSA-2698 iOS&Android: internal server error when going through unit sequences where the last unit has no MT
+- NSAAPI-310 Curated Pre-CT Review Lists
+- NSAAPI-311 Curated Post-CT Failure Review Lists
 # 1.9.6 on February 24th, 2020
 - mylesson not saved.
 
