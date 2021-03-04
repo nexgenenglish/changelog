@@ -4,7 +4,15 @@ title: myneo App - iOS
 
 # myneo App - iOS
 myneo Application for iOS
-## [v1.5.6] on January 18th, 2020
+## [v1.6.0] on March 4th, 2021
+- [MNA-300](https://dyned.myjetbrains.com/youtrack/issue/MNA-300) Select on password and the app stopped
+- [IMPROVEMENT] Changed rtm agora using p2p from channel
+- [IMPROVEMENT] Changed agora screensharing method on rtm
+- [hotfix] Added timer when start live session without waiting coach join
+- [hotfix] Fixed url live webview when apps open from browser
+- [hotfix] Fixed certification on new API
+
+## [v1.5.6] on January 18th, 2021
 - [MNA-301](https://dyned.myjetbrains.com/youtrack/issue/MNA-301) The student can log in "my neo app" even deactivated
 - [hotfix] handle user expired without logout the application
 

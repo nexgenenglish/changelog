@@ -4,7 +4,19 @@ title: myneo App - Android
 
 # myneo App - Android
 myneo Application for Android
-## [v1.5.6] on January 18th, 2020
+## [v1.6.0] on March 4th, 2021
+- [MNA-312](https://dyned.myjetbrains.com/youtrack/issue/MNA-312) App crash when login for the first time
+- [MNA-313](https://dyned.myjetbrains.com/youtrack/issue/MNA-313) It cant show the coach's camera video after the sharing stopped
+- [IMPROVEMENT] Changed rtm agora using p2p from channel
+- [IMPROVEMENT] Changed agora screensharing method on rtm
+- [hotfix] Added agora screensharing logging
+- [hotfix] Added timer when start live session without waiting coach join
+- [hotfix] Fixed 'journey so far' screen on new study progress api
+- [hotfix] Fixed update copyright to 2021
+- [hotfix] Fixed opentok chat bug
+- [hotfix] Fixed crash on android 4.3 API 18
+
+## [v1.5.6] on January 18th, 2021
 - [MNA-301](https://dyned.myjetbrains.com/youtrack/issue/MNA-301) The student can log in "my neo app" even deactivated
 - [hotfix] handle user expired without logout the application
 - [hotfix] Fix circle points on amazon device
