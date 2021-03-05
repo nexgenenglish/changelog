@@ -5,6 +5,9 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## [v1.4.14]  on March 05th, 2021
+- ETAPI-54 The callback url does not work correctly
+
 ## [v1.4.13]  on March 01st, 2021
 - ETAPI-52 UD: Report "~Can't Do" statements for missed items on Failed Certification Tests
 - ETAPI-53 Curated Post-CT Failure Review Lists
