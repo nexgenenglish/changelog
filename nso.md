@@ -6,12 +6,12 @@ title: neo Study Online
 Browser based neo Study
 
 ## 0.8.5
-* nSO-177
-* nSO-171
-* nSO-182
-* nSO-161
-* nSO-168
-* nSO-174
+* [nSO-177](https://dyned.myjetbrains.com/youtrack/issue/nSO-177) Changed lesson type for voluntary repeat.
+* [nSO-171](https://dyned.myjetbrains.com/youtrack/issue/nSO-171) Fixed issue for incorrect review lesson page.
+* [nSO-182](https://dyned.myjetbrains.com/youtrack/issue/nSO-182) Fixed issue for unresponsive dots on entry screen in Safari. 
+* [nSO-161](https://dyned.myjetbrains.com/youtrack/issue/nSO-161) Fixed issue for Certification Test Unlocked/No Unlocked animation.
+* [nSO-168](https://dyned.myjetbrains.com/youtrack/issue/nSO-168) Fixed issue for Mastery Test Unlocked/No Unlocked animation.
+* [nSO-174](https://dyned.myjetbrains.com/youtrack/issue/nSO-174) Fixed issue for Mastery Test point.
 
 ## 0.8.4
 * NWB-178
