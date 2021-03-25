@@ -5,6 +5,9 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## [v1.4.15]  on March 12th, 2021
+- ETAPI-55 Allow take CT from different UIC (Student transfer)
+
 ## [v1.4.14]  on March 05th, 2021
 - ETAPI-54 The callback url does not work correctly
 

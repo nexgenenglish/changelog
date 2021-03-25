@@ -5,6 +5,28 @@ title: JCT
 # JCT
 **JCT** is an interactive web based application interface where a team of course designer setup and create DynEd Course Study that will be used by neo Study App.
 
+## [V1.1.4] March 23th, 2021
+- JCT-182 cannot import lessons from other lessons
+
+## [V1.1.3] March 22th, 2021
+- Handle if file not exist when push assets to production
+
+## [V1.1.2] March 15th, 2021
+- Update Studypath page content
+
+## [V1.1.1] March 12th, 2021
+- Update Studypath page content instead of custom lists
+
+## [V1.1.0] February 24th, 2021
+- Add feature download all of lessons
+- [JCT-181](https://dyned.myjetbrains.com/youtrack/issue/JCT-181) set default thumbnail lessons
+
+## [V1.0.6] November 19th, 2020
+- [JCT-178](https://dyned.myjetbrains.com/youtrack/issue/NSA-2579) Android: neoPre+>C1>RFS U20: on its MT entry screen, app crashed after clicking on Go button
+
+## [V1.0.5] September 28th, 2020
+- [JCT-177](https://dyned.myjetbrains.com/youtrack/issue/JCT-177) Fix load Studypath contents
+
 ## [V1.0.4] on September 17, 2020
 - [JCT-176](https://dyned.myjetbrains.com/youtrack/issue/JCT-176) Files will be lost once they are sent to production
 

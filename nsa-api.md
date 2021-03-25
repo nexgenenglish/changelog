@@ -5,6 +5,9 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.9.8 on March 04th, 2021
+- NSAAPI-320 Update Message when email to reset password has been sent
+
 # 1.9.7.1 on March 03rd, 2021
 - Handle when lesson type is empty on summary page
 
