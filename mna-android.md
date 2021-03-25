@@ -4,6 +4,13 @@ title: myneo App - Android
 
 # myneo App - Android
 myneo Application for Android
+## [v1.6.1] on March 25th, 2021
+- [hotfix] Fixed alert messages when coach connected & disconnected.
+- [hotfix] Show message every time coach disconnected. (Not only when timed out)
+- [hotfix] Updated App Version to 10
+- [hotfix] Changed screensharing detection from RTM to stream
+- [hotfix] Log Screensharing to bugsnag
+
 ## [v1.6.0] on March 4th, 2021
 - [MNA-312](https://dyned.myjetbrains.com/youtrack/issue/MNA-312) App crash when login for the first time
 - [MNA-313](https://dyned.myjetbrains.com/youtrack/issue/MNA-313) It cant show the coach's camera video after the sharing stopped

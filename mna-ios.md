@@ -4,6 +4,12 @@ title: myneo App - iOS
 
 # myneo App - iOS
 myneo Application for iOS
+## [v1.6.1] on March 25th, 2021
+- [hotfix] Changed screensharing detection from RTM to stream
+- [hotfix] Changed wording alert
+- [hotfix] Updated message error when login
+- [hotfix] Updated copyright to 2021
+
 ## [v1.6.0] on March 4th, 2021
 - [MNA-300](https://dyned.myjetbrains.com/youtrack/issue/MNA-300) Select on password and the app stopped
 - [IMPROVEMENT] Changed rtm agora using p2p from channel
