@@ -5,6 +5,29 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [v1.0.58] on Apr 12th, 2021
+- [UD-516](https://dyned.myjetbrains.com/youtrack/issue/UD-516) Fixed change expiration date
+- [UD-553](https://dyned.myjetbrains.com/youtrack/issue/UD-553) Fixed manual onboarding
+- [UD-556](https://dyned.myjetbrains.com/youtrack/issue/UD-556) Fixed level based on student level
+- [UD-565](https://dyned.myjetbrains.com/youtrack/issue/UD-565) Updated labels on vouchers
+- [UD-568](https://dyned.myjetbrains.com/youtrack/issue/UD-568) Updated labels on confirmation link
+- [UD-569](https://dyned.myjetbrains.com/youtrack/issue/UD-569) Updated labels on html title
+- [UD-571](https://dyned.myjetbrains.com/youtrack/issue/UD-571) Updated labels on student details page
+- [UD-572](https://dyned.myjetbrains.com/youtrack/issue/UD-572) Allowed read only admins to generate reports
+- [UD-581](https://dyned.myjetbrains.com/youtrack/issue/UD-581) Fixed 404 error on student details page
+- [UD-584](https://dyned.myjetbrains.com/youtrack/issue/UD-584) Added reseller and agent for ncw acl info
+- [UD-585](https://dyned.myjetbrains.com/youtrack/issue/UD-585) Updated labels on student update levels
+- [UD-587](https://dyned.myjetbrains.com/youtrack/issue/UD-587) Removed expired date from user form
+- [UD-593](https://dyned.myjetbrains.com/youtrack/issue/UD-593) Updated titles and favicon
+- [UD-594](https://dyned.myjetbrains.com/youtrack/issue/UD-594) Fixed display json on 404 error neo portal's response
+- [UD-597](https://dyned.myjetbrains.com/youtrack/issue/UD-597) Fixed download error files of student CT statistics
+- [UD-598](https://dyned.myjetbrains.com/youtrack/issue/UD-598) Updated label on change student exporation date
+- [UD-606](https://dyned.myjetbrains.com/youtrack/issue/UD-606) Added token balance counter from live
+- [UD-613](https://dyned.myjetbrains.com/youtrack/issue/UD-613) Updated label on test cloud snippet
+- [UD-615](https://dyned.myjetbrains.com/youtrack/issue/UD-615) Added prevent students to login into dashboard
+- [UD-622](https://dyned.myjetbrains.com/youtrack/issue/UD-622) Updated organization sortable by name
+- [UD-634](https://dyned.myjetbrains.com/youtrack/issue/UD-634) Fixed forgot password by unregistered email
+
 ## [v1.0.57] on Jan 26th, 2021
 - [UD-512](https://dyned.myjetbrains.com/youtrack/issue/UD-512) Added billing function for sub organizations
 - [UD-527](https://dyned.myjetbrains.com/youtrack/issue/UD-527) Fixed certification tests attempt foreach level
@@ -13,7 +36,7 @@ An universal dashboard to manage neo ecosystem.
 - [Hotfix] Change migration class name
 
 ## [v1.0.55] on Dec 15th, 2020
-- [UD-528](https://dyned.myjetbrains.com/youtrack/issue/UD-528) Fixed error on organisation creation
+- [UD-528](https://dyned.myjetbrains.com/youtrack/issue/UD-528) Fixed error on organization creation
 - [UD-529](https://dyned.myjetbrains.com/youtrack/issue/UD-529) Fixed live partner label and validation
 
 ## [v1.0.54] on Dec 15th, 2020
@@ -28,7 +51,7 @@ An universal dashboard to manage neo ecosystem.
 - [UD-504](https://dyned.myjetbrains.com/youtrack/issue/UD-504) Updated activated neoprep+
 - [UD-505](https://dyned.myjetbrains.com/youtrack/issue/UD-505) Updated remove onboard note on neoplus / neopreplus
 - [UD-507](https://dyned.myjetbrains.com/youtrack/issue/UD-507) Updated hide use_nsa checkbox
-- [UD-508](https://dyned.myjetbrains.com/youtrack/issue/UD-508) Updated display live organisation configs to country admin and up
+- [UD-508](https://dyned.myjetbrains.com/youtrack/issue/UD-508) Updated display live organization configs to country admin and up
 - [UD-510](https://dyned.myjetbrains.com/youtrack/issue/UD-510) Fixed tests tab cant open, it's always circling
 - [UD-515](https://dyned.myjetbrains.com/youtrack/issue/UD-515) Updated allowing region, country admin, coach and support on dsa roles
 - [UD-517](https://dyned.myjetbrains.com/youtrack/issue/UD-517) Updated change label warning for datatables
