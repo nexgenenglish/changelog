@@ -4,6 +4,10 @@ title: neo Study App - iOS
 
 # neo Study App - iOS
 neo Study application for iOS
+
+## [v1.10.2] on March 29th, 2021
+- [NSA-2705](https://dyned.myjetbrains.com/youtrack/issue/NSA-2705) Spelling Typo in Neo Study App iOS device
+
 ## [v1.10.0] on March 4th, 2021
 - Added Profile page
 - Added Change Password page

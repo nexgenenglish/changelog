@@ -4,6 +4,18 @@ title: neo Study App - Android
 
 # neo Study App - Android
 neo Study application for Android
+
+## [v1.10.2] on March 29th, 2021
+- [NSA-2692](https://dyned.myjetbrains.com/youtrack/issue/NSA-2692) Android1.10.0: neoPrep+>B1>EFS U12 MT: sometimes the question item changed into another
+- [NSA-2695](https://dyned.myjetbrains.com/youtrack/issue/NSA-2695) Android 1.10.0: neoPrep+>B2>EBTN U3>Related Changes 2> step 4: there is one word missing in the SR result text
+- [NSA-2700](https://dyned.myjetbrains.com/youtrack/issue/NSA-2700) it crashed when click the review button
+- [NSA-2703](https://dyned.myjetbrains.com/youtrack/issue/NSA-2703) Wrong message when updating neo study app on Fire Tablet
+- [NSA-2705](https://dyned.myjetbrains.com/youtrack/issue/NSA-2705) Spelling Typo in Neo Study App iOS device
+- [NSA-2706](https://dyned.myjetbrains.com/youtrack/issue/NSA-2706) DBEU6: app freezes with one SR sentence on Android
+- [NSA-2709](https://dyned.myjetbrains.com/youtrack/issue/NSA-2709) Improvement: Adding a space between the x to close the message and the text from Prompt: Certification Test Unlocked
+- [NSA-2715](https://dyned.myjetbrains.com/youtrack/issue/NSA-2715) neo Study App freezes during lesson step saving
+- [NSA-2716](https://dyned.myjetbrains.com/youtrack/issue/NSA-2716) CRASH : The lesson Try Now
+
 ## [v1.10.1] on March 4th, 2021
 - Added Profile page
 - Added Change Password page
