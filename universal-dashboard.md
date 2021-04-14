@@ -5,6 +5,9 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [v1.0.59] on Apr 13th, 2021
+- [Hotfix] Fixed unavailable students data
+
 ## [v1.0.58] on Apr 12th, 2021
 - [UD-516](https://dyned.myjetbrains.com/youtrack/issue/UD-516) Fixed change expiration date
 - [UD-553](https://dyned.myjetbrains.com/youtrack/issue/UD-553) Fixed manual onboarding
