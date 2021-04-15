@@ -5,6 +5,13 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.9.9 on March 15th, 2021
+- NSAAPI-322 Several instances where THE is missing from text showing on screen
+- NSAAPI-323 Error message: Sorry, You don't have access to myneo app. For more information, Please contact your administrator
+- NSA-2711 Handle when goal level is the same with current level
+- NSAAPI-319 MyLessons Report
+- NSAAPI-325 error 1062
+
 # 1.9.8 on March 04th, 2021
 - NSAAPI-320 Update Message when email to reset password has been sent
 

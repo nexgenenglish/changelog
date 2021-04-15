@@ -3,6 +3,16 @@ title: SSO API
 ---
 
 # SSO API
+
+## 1.2.7 on April 11th, 2021
+- [SSO-41](https://dyned.myjetbrains.com/youtrack/issue/SSO-41) Make soft delete data
+
+## 1.2.6
+- [SSO-40](https://dyned.myjetbrains.com/youtrack/issue/SSO-40) Support edit user data cross server
+
+## 1.2.5
+- [SSO-39](https://dyned.myjetbrains.com/youtrack/issue/SSO-39) SSO-39 Log the activity ip address when editing user's data.
+
 ## [1.2.4] on November 26th, 2020
 - [SSO-38](https://dyned.myjetbrains.com/youtrack/issue/SSO-38) Log the password chnages in u_log in SSO database
 

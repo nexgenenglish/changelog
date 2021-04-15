@@ -5,6 +5,15 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## [v1.4.17]  on April 10th, 2021
+- [ETAPI-58](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-58) The etest cant be loaded (Improvement)
+- [ETAPI-65](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-65) A 404 error will appear when you submit your score--------ZiJie
+- [ETAPI-66](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-66) student report when doing ept, serveral questions always appear again and again
+- [ETAPI-67](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-67) There will be some duplicated question when start over the test
+
+## [v1.4.16]  on March 12th, 2021
+- ETAPI-58 The etest cant be loaded
+
 ## [v1.4.15]  on March 12th, 2021
 - ETAPI-55 Allow take CT from different UIC (Student transfer)
 

@@ -5,6 +5,11 @@ title: eTest Widget and Cloud
 # eTest Widget and Cloud
 Application for Assessment Tests (Placement Tests or Certification Tests) systems on neo.
 
+## [2.8.12] on March 24th, 2021
+- [ET-400](https://dyned.myjetbrains.com/youtrack/issue/ET-400) Cannot load question (old browser)
+- [ET-403](https://dyned.myjetbrains.com/youtrack/issue/ET-403) Add validation to email
+- [ET-390](https://dyned.myjetbrains.com/youtrack/issue/ET-390) eTest: Improvement would show Message about site maintenance prior to starting eTest
+
 ## [2.8.11] on March 16th, 2021
 - [ET-387](https://dyned.myjetbrains.com/youtrack/issue/ET-387) Fixed audio issues in CT for iOS 1.10.0.
 - [ET-392](https://dyned.myjetbrains.com/youtrack/issue/ET-392) Fixed audio issues cache.
