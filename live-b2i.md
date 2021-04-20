@@ -5,6 +5,13 @@ title: neo Live B2I
 # Live B2I
 A website for DynEd students and coaches to study using Live Session and also for admins and affiliates to manage DynEd Live's environment.
 
+## [v.1.1.14] on April 14th, 2021
+- [DELB2I-1256](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1256) Fixed issue for session which is not auto complete.
+- [DELB2I-1257](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1257) Fixed script order.
+- [DELB2I-1258](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1258) Fixed search upcoming session.
+- [DELB2I-1259](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1259) Fixed issue for coach who is not getting token after session.
+- [DELB2I-1262](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1262) Fixed cl_id on token_histories.
+
 ## [v.1.1.13] on February 28th, 2021
 - [DELB2I-1243](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1243) Fixed issue for unnotified session rescheduled for coach.
 - [DELB2I-1249](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1249) Removed symbol for Agora user email.
