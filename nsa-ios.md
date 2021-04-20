@@ -5,6 +5,10 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+## [v1.11.0] on April 19th, 2021
+- [NSA-2411](https://dyned.myjetbrains.com/youtrack/issue/NSA-2411) AI-Driven Comprehension Questions
+- [NSA-2701](https://dyned.myjetbrains.com/youtrack/issue/NSA-2701) Neo Study App: Wrong Password prompt mentions server and Prompt is not consistent with Android and iOS
+
 ## [v1.10.2] on March 29th, 2021
 - [NSA-2705](https://dyned.myjetbrains.com/youtrack/issue/NSA-2705) Spelling Typo in Neo Study App iOS device
 

@@ -5,6 +5,11 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.11.0] on April 19th, 2021
+- [NSA-2411](https://dyned.myjetbrains.com/youtrack/issue/NSA-2411) AI-Driven Comprehension Questions
+- [NSA-2701](https://dyned.myjetbrains.com/youtrack/issue/NSA-2701) Neo Study App: Wrong Password prompt mentions server and Prompt is not consistent with Android and iOS
+- [NSA-2719](https://dyned.myjetbrains.com/youtrack/issue/NSA-2719) Android: NDE video interaction should't show the wrong SR result when nothing is recognized
+
 ## [v1.10.2] on March 29th, 2021
 - [NSA-2692](https://dyned.myjetbrains.com/youtrack/issue/NSA-2692) Android1.10.0: neoPrep+>B1>EFS U12 MT: sometimes the question item changed into another
 - [NSA-2695](https://dyned.myjetbrains.com/youtrack/issue/NSA-2695) Android 1.10.0: neoPrep+>B2>EBTN U3>Related Changes 2> step 4: there is one word missing in the SR result text
