@@ -5,6 +5,42 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+
+## [v1.1.0] on Apr 20th, 2021
+- [UD-511](https://dyned.myjetbrains.com/youtrack/issue/UD-511) Add class and teacher functionality to Universal Dashboard
+- [UD-544](https://dyned.myjetbrains.com/youtrack/issue/UD-544) Add teacher module on user admin
+- [UD-545](https://dyned.myjetbrains.com/youtrack/issue/UD-545) Add class uic to student acl
+- [UD-546](https://dyned.myjetbrains.com/youtrack/issue/UD-546) Enable and updating organization class module
+- [UD-547](https://dyned.myjetbrains.com/youtrack/issue/UD-547) Add move function to move student from one class to another
+- [UD-548](https://dyned.myjetbrains.com/youtrack/issue/UD-548) Allow teacher to download students study report
+- [UD-549](https://dyned.myjetbrains.com/youtrack/issue/UD-549) Assign teacher into a class(es)
+- [UD-550](https://dyned.myjetbrains.com/youtrack/issue/UD-550) Add student list for each class
+- [UD-562](https://dyned.myjetbrains.com/youtrack/issue/UD-562) Add student counter into class list page
+- [UD-573](https://dyned.myjetbrains.com/youtrack/issue/UD-573) Update class module
+- [UD-574](https://dyned.myjetbrains.com/youtrack/issue/UD-574) Update class module using first review results
+- [UD-578](https://dyned.myjetbrains.com/youtrack/issue/UD-578) Change report mechanism from generate and download to direct download
+- [UD-579](https://dyned.myjetbrains.com/youtrack/issue/UD-579) Update labels
+- [UD-582](https://dyned.myjetbrains.com/youtrack/issue/UD-582) Export selected student using checkbox
+- [UD-583](https://dyned.myjetbrains.com/youtrack/issue/UD-583) Update class module second review results
+- [UD-589](https://dyned.myjetbrains.com/youtrack/issue/UD-589) Change class student datatable to client side
+- [UD-590](https://dyned.myjetbrains.com/youtrack/issue/UD-590) Hide home screen from teacher authenticated
+- [UD-591](https://dyned.myjetbrains.com/youtrack/issue/UD-591) Added delete method for user SSO
+- [UD-592](https://dyned.myjetbrains.com/youtrack/issue/UD-592) Update display last study of each class
+- [UD-595](https://dyned.myjetbrains.com/youtrack/issue/UD-595) Generate report from selected student
+- [UD-605](https://dyned.myjetbrains.com/youtrack/issue/UD-605) Update class module using third review results
+- [UD-610](https://dyned.myjetbrains.com/youtrack/issue/UD-610) Update class module using fourth review results
+- [UD-611](https://dyned.myjetbrains.com/youtrack/issue/UD-611) Update labels on teacher creation
+- [UD-612](https://dyned.myjetbrains.com/youtrack/issue/UD-612) Update labels on class creation
+- [UD-627](https://dyned.myjetbrains.com/youtrack/issue/UD-627) Update labels on teacher remove function
+- [UD-628](https://dyned.myjetbrains.com/youtrack/issue/UD-628) Allowing teacher to change password
+- [UD-629](https://dyned.myjetbrains.com/youtrack/issue/UD-629) Hide organization button on class page
+- [UD-633](https://dyned.myjetbrains.com/youtrack/issue/UD-633) Add logout button in 403 error page
+- [UD-635](https://dyned.myjetbrains.com/youtrack/issue/UD-635) Update class name limit
+- [UD-636](https://dyned.myjetbrains.com/youtrack/issue/UD-636) Update 'cancel' link from class form page
+- [UD-637](https://dyned.myjetbrains.com/youtrack/issue/UD-637) Update limit displayed class name
+- [UD-640](https://dyned.myjetbrains.com/youtrack/issue/UD-640) Update labels on class remove function
+- [UD-644](https://dyned.myjetbrains.com/youtrack/issue/UD-644) Update prevent trial student assigned into a class 
+
 ## [v1.0.59] on Apr 13th, 2021
 - [Hotfix] Fixed unavailable students data
 
