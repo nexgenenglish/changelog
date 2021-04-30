@@ -5,6 +5,11 @@ title: eTest Widget and Cloud
 # eTest Widget and Cloud
 Application for Assessment Tests (Placement Tests or Certification Tests) systems on neo.
 
+## [2.8.13] on April 29th, 2021
+- [ET-405](https://dyned.myjetbrains.com/youtrack/issue/ET-405) Fixed issue for transition color that doesn't match the image when it clicked.
+- [ET-408](https://dyned.myjetbrains.com/youtrack/issue/ET-408) Fixed issue for PT that doesn't auto submit the answer after 3rd attempt.
+- [ET-409](https://dyned.myjetbrains.com/youtrack/issue/ET-409) Fixed issue for PT that doesn't show the question for the 2nd and 3rd attempt after start over.
+
 ## [2.8.12] on March 24th, 2021
 - [ET-400](https://dyned.myjetbrains.com/youtrack/issue/ET-400) Cannot load question (old browser)
 - [ET-403](https://dyned.myjetbrains.com/youtrack/issue/ET-403) Add validation to email
