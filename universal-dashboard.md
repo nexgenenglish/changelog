@@ -6,6 +6,13 @@ title: Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
 
+## [v1.1.1] on May 3rd, 2021
+- [UD-646](https://dyned.myjetbrains.com/youtrack/issue/UD-646) - Fixed region, country, organization, and class counters for different user authenticated
+- [UD-659](https://dyned.myjetbrains.com/youtrack/issue/UD-659) - Updated loader image
+- [UD-661](https://dyned.myjetbrains.com/youtrack/issue/UD-661) - Fixed upload no file to class import module
+- [UD-664](https://dyned.myjetbrains.com/youtrack/issue/UD-664) - Fixed fetch token for non admin users
+- [UD-665](https://dyned.myjetbrains.com/youtrack/issue/UD-665) - Fixed prevent exported file results blocked by browser
+
 ## [v1.1.0] on Apr 20th, 2021
 - [UD-511](https://dyned.myjetbrains.com/youtrack/issue/UD-511) Add class and teacher functionality to Universal Dashboard
 - [UD-544](https://dyned.myjetbrains.com/youtrack/issue/UD-544) Add teacher module on user admin
