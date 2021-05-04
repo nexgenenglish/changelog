@@ -5,7 +5,87 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study
 
-## 0.8.5
+## [v0.9.3] on May 4th, 2021
+* [nSO-273](https://dyned.myjetbrains.com/youtrack/issue/nSO-273) Changed the dots in MT to be larger and fixed missing words.
+* [nSO-270](https://dyned.myjetbrains.com/youtrack/issue/nSO-270) Reverted header back to original position (on top).
+* [nSO-194](https://dyned.myjetbrains.com/youtrack/issue/nSO-194) Fixed MT passed summary that should display the score on the screen.
+* [nSO-176](https://dyned.myjetbrains.com/youtrack/issue/nSO-176) Fixed next button display to be less opacity when comprehension is below 80%.
+* [nSO-209](https://dyned.myjetbrains.com/youtrack/issue/nSO-209) Fixed play button display to be less opacity when SR accuracy is less than 50%.
+* [nSO-202](https://dyned.myjetbrains.com/youtrack/issue/nSO-202) Fixed issue for SL that doesn't inherited from previous steps within the same lesson. 
+* [nSO-238](https://dyned.myjetbrains.com/youtrack/issue/nSO-238) Data collection
+* [nSO-231](https://dyned.myjetbrains.com/youtrack/issue/nSO-231) Made EULA and Privacy Policy clickable.
+* [nSO-278](https://dyned.myjetbrains.com/youtrack/issue/nSO-278) Made home page loading to be faster.
+* [nSO-200](https://dyned.myjetbrains.com/youtrack/issue/nSO-200) Fixed issue for rocket start position on summary screen.
+* [nSO-265](https://dyned.myjetbrains.com/youtrack/issue/nSO-265) Fixed issue on step 5 SR that shouldn't go to the next sentence when user's speech is not recognized.
+
+## [v0.9.2] on April 27th, 2021
+* [nSO-269](https://dyned.myjetbrains.com/youtrack/issue/nSO-269) Fixed issue for speech recognation rules on step 5.
+* [nSO-272](https://dyned.myjetbrains.com/youtrack/issue/nSO-272) Fixed issue for repeating the question if timer runs out without any answer.
+* [nSO-262](https://dyned.myjetbrains.com/youtrack/issue/nSO-262) Fixed missing words in SR result.
+* [nSO-268](https://dyned.myjetbrains.com/youtrack/issue/nSO-268) Fixed the result that keep showing after clicking redo button.
+* [nSO-238](https://dyned.myjetbrains.com/youtrack/issue/nSO-238) Data collection
+* [nSO-231](https://dyned.myjetbrains.com/youtrack/issue/nSO-231) Made EULA and Privacy Policy clickable.
+* [nSO-248](https://dyned.myjetbrains.com/youtrack/issue/nSO-248) Fixed some errors in MT.
+* [nSO-224](https://dyned.myjetbrains.com/youtrack/issue/nSO-224) Fixed issue for error screen show after passed MT.
+* [nSO-255](https://dyned.myjetbrains.com/youtrack/issue/nSO-255) Updated neo Study Online logo on sign in page.
+* [nSO-235](https://dyned.myjetbrains.com/youtrack/issue/nSO-235) Fixed issue for step 13 that keep show 'client error' after finish the lesson.
+* [nSO-201](https://dyned.myjetbrains.com/youtrack/issue/nSO-201) Fixed issues on lesson summaru screen.
+* [nSO-215](https://dyned.myjetbrains.com/youtrack/issue/nSO-215) Added liked-lesson list to NSA.
+* [nSO-183](https://dyned.myjetbrains.com/youtrack/issue/nSO-183) Fixed issue for dot display for exercise lesson model.
+
+## [v0.9.1] on April 22nd, 2021
+* [nSO-72](https://dyned.myjetbrains.com/youtrack/issue/nSO-72) Changed the image placeholder for transition from neo logo to blank white.
+
+## [v0.9.0] on April 20th, 2021
+* [nSO-230](https://dyned.myjetbrains.com/youtrack/issue/nSO-230) Updated forgot password page.
+* [nSO-251](https://dyned.myjetbrains.com/youtrack/issue/nSO-251) Changed 'o' and 's' as capitalized on the logo.
+* [nSO-203](https://dyned.myjetbrains.com/youtrack/issue/nSO-203) Fixed issue for SR result that dissapear after being recognized.
+* [nSO-220](https://dyned.myjetbrains.com/youtrack/issue/nSO-220) Fixed issue for getting stuck in lesson step 4.
+* [nSO-60](https://dyned.myjetbrains.com/youtrack/issue/nSO-60) Fixed issue for record button that doesn't response to the user's speech.
+* [nSO-188](https://dyned.myjetbrains.com/youtrack/issue/nSO-188) Fixed issue for error screen when clicking back button.
+* [nSO-183](https://dyned.myjetbrains.com/youtrack/issue/nSO-183) Fixed issue for dot display for exercise lesson model.
+* [nSO-249](https://dyned.myjetbrains.com/youtrack/issue/nSO-249) Fixed issue for dot placement.
+* [nSO-243](https://dyned.myjetbrains.com/youtrack/issue/nSO-243) Fixed issue for dot placement on each step.
+* [nSO-238](https://dyned.myjetbrains.com/youtrack/issue/nSO-238) Data collection.
+* [nSO-229](https://dyned.myjetbrains.com/youtrack/issue/nSO-229) Fixed misplaced error message on sign in page.
+* [nSO-212](https://dyned.myjetbrains.com/youtrack/issue/nSO-212) Fixed rocket position after passing MT.
+
+## [v0.8.10] on April 13th, 2021
+* [nSO-233](https://dyned.myjetbrains.com/youtrack/issue/nSO-223)Updated summary window for testing.
+* [nSO-234](https://dyned.myjetbrains.com/youtrack/issue/nSO-234) Fixed issue in home screen when student role account sign in.
+* [nSO-224](https://dyned.myjetbrains.com/youtrack/issue/nSO-224) Fixed issue for error screen show after passed MT.
+* [nSO-230](https://dyned.myjetbrains.com/youtrack/issue/nSO-230) Updated forgot password page.
+* [nSO-171](https://dyned.myjetbrains.com/youtrack/issue/nSO-171) Fixed issue for review lesson MT page that doesn't show correctly.
+* [nSO-174](https://dyned.myjetbrains.com/youtrack/issue/nSO-174) Fixed issue for Mastery Test point.
+* [nSO-211](https://dyned.myjetbrains.com/youtrack/issue/nSO-211) Implemented myLesson feature on nSO.
+
+## [v0.8.9] on April 7th, 2021
+* [nSO-225](https://dyned.myjetbrains.com/youtrack/issue/nSO-225) Updated neo Study Online logo on sign in page.
+* [nSO-227](https://dyned.myjetbrains.com/youtrack/issue/nSO-227) Updated the text from neo Study app to neo Study Online. 
+* [nSO-223](https://dyned.myjetbrains.com/youtrack/issue/nSO-223) Updated the text from 'app' to 'online'.
+
+## [v0.8.8] on March 31st, 2021
+* [nSO-171](https://dyned.myjetbrains.com/youtrack/issue/nSO-171) Fixed issue for review lesson MT page that doesn't show correctly.
+* [nSO-202](https://dyned.myjetbrains.com/youtrack/issue/nSO-202) Fixed issue for SL that doesn't inherited from previous steps within the same lesson. 
+* [nSO-199](https://dyned.myjetbrains.com/youtrack/issue/nSO-199) Show lesson summary data for tester role.
+* [nSO-184](https://dyned.myjetbrains.com/youtrack/issue/nSO-184)Fixed issue for rocket animation on summary screen.
+* [nSO-200](https://dyned.myjetbrains.com/youtrack/issue/nSO-200)Fixed issue for rocket start position on summary screen.
+* [nSO-157](https://dyned.myjetbrains.com/youtrack/issue/nSO-157)Fixed issue for rocket end position on summary screen after All MT Passed.
+
+## [v0.8.7] on March 25th, 2021
+* [nSO-196](https://dyned.myjetbrains.com/youtrack/issue/nSO-196) Fixed issue for lesson which show a wrong step.
+
+## [v0.8.6] on March 24th, 2021
+* [nSO-175](https://dyned.myjetbrains.com/youtrack/issue/nSO-175) Updated countdown to be faster for bigger points.
+* [nSO-179](https://dyned.myjetbrains.com/youtrack/issue/nSO-179) Fixed issue for animation while adding the points on summary screen.
+* [nSO-161](https://dyned.myjetbrains.com/youtrack/issue/nSO-161) Fixed issue for animation for CT Unlocked.
+* [nSO-187](https://dyned.myjetbrains.com/youtrack/issue/nSO-187) Fixed issue for forgot password that doesn't work properly.
+* [nSO-184](https://dyned.myjetbrains.com/youtrack/issue/nSO-184) Fixed issue for rocket animation on summary screen.
+* [nSO-183](https://dyned.myjetbrains.com/youtrack/issue/nSO-183) Fixed issue for dot display for exercise lesson model.
+* [nSO-188](https://dyned.myjetbrains.com/youtrack/issue/nSO-188) Fixed issue for error screen when clicking back button.
+* [nSO-186](https://dyned.myjetbrains.com/youtrack/issue/nSO-186) Update design for forget password form.
+
+## [v0.8.5] on March 19th, 2021
 * [nSO-177](https://dyned.myjetbrains.com/youtrack/issue/nSO-177) Changed lesson type for voluntary repeat.
 * [nSO-171](https://dyned.myjetbrains.com/youtrack/issue/nSO-171) Fixed issue for incorrect review lesson page.
 * [nSO-182](https://dyned.myjetbrains.com/youtrack/issue/nSO-182) Fixed issue for unresponsive dots on entry screen in Safari. 
