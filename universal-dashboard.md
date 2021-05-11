@@ -5,6 +5,8 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [v1.1.2] on May 11th, 2021
+- [UD-676](https://dyned.myjetbrains.com/youtrack/issue/UD-676) - Fixed student bill for deactivated student before expired date
 
 ## [v1.1.1] on May 3rd, 2021
 - [UD-646](https://dyned.myjetbrains.com/youtrack/issue/UD-646) - Fixed region, country, organization, and class counters for different user authenticated

@@ -5,7 +5,11 @@ title: Interim
 # Neo Interim
 neo Interim is a microsite that provides middleware for neo Ecosystem.
 
-## [v1.0.22] on Jan 18th, 2020
+## [v1.0.23] on May 11th, 2021
+- [UD-559](https://dyned.myjetbrains.com/youtrack/issue/UD-559) Fixed twice wording
+- [UD-662](https://dyned.myjetbrains.com/youtrack/issue/UD-662) Added email template to facilitate live system
+
+## [v1.0.22] on Jan 18th, 2021
 - [UD-539](https://dyned.myjetbrains.com/youtrack/issue/UD-539) Updated email config.
 
 ## [v1.0.21] on Dec 15th, 2020
