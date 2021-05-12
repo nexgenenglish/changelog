@@ -5,6 +5,29 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study
 
+## [v0.9.5] on May 12th 2021
+* [nSO-263](https://dyned.myjetbrains.com/youtrack/issue/nSO-263) Fixed issue for missing step after repeating a lesson.
+* [nSO-201](https://dyned.myjetbrains.com/youtrack/issue/nSO-201) Fixed issues on lesson summary screen.
+* [nSO-280](https://dyned.myjetbrains.com/youtrack/issue/nSO-280) Updated wording re-open to be on the same line.
+* [nSO-274](https://dyned.myjetbrains.com/youtrack/issue/nSO-274) Implemented change password.
+* [nSO-285](https://dyned.myjetbrains.com/youtrack/issue/nSO-285) Data collection.
+* [nSO-244](https://dyned.myjetbrains.com/youtrack/issue/nSO-244) Fixed issue for lesson that still able to answer while the time is up.
+* [nSO-218](https://dyned.myjetbrains.com/youtrack/issue/nSO-218) Fixed SR that hard to recognized the speaker. 
+* [nSO-283](https://dyned.myjetbrains.com/youtrack/issue/nSO-283) Updated to ignore word "a" in SR engine.
+* [nSO-271](https://dyned.myjetbrains.com/youtrack/issue/nSO-271) Fixed MT screen that stuck after taking SR question.
+* [nSO-299](https://dyned.myjetbrains.com/youtrack/issue/nSO-299) Fixed issue for unrecognized number on step 5. 
+* [nSO-298](https://dyned.myjetbrains.com/youtrack/issue/nSO-298) Fixed issue for unrecognized number on step 4. 
+* [nSO-315](https://dyned.myjetbrains.com/youtrack/issue/nSO-315) Fixed audio that not completely record what speaker says.
+* [nSO-311](https://dyned.myjetbrains.com/youtrack/issue/nSO-311) Fixed issues for some bugs in RFS step 4.
+* [nSO-314](https://dyned.myjetbrains.com/youtrack/issue/nSO-314) Fixed issue for Comprehension that doesn't show any questions.
+* [nSO-242](https://dyned.myjetbrains.com/youtrack/issue/nSO-242) Fixed issue for Comprehension that doesn't show any question on step 1.
+* [nSO-237](https://dyned.myjetbrains.com/youtrack/issue/nSO-237) CT Review intro page.
+* [nSO-305](https://dyned.myjetbrains.com/youtrack/issue/nSO-305) Implemented upload profile picture page.
+* [nSO-304](https://dyned.myjetbrains.com/youtrack/issue/nSO-304) Implemented change password page.
+
+## [v0.9.4] on May 5th, 2021
+* Hotfix: missing navbar for MT, my lesson and CT.
+
 ## [v0.9.3] on May 4th, 2021
 * [nSO-273](https://dyned.myjetbrains.com/youtrack/issue/nSO-273) Changed the dots in MT to be larger and fixed missing words.
 * [nSO-270](https://dyned.myjetbrains.com/youtrack/issue/nSO-270) Reverted header back to original position (on top).
@@ -29,7 +52,7 @@ Browser based neo Study
 * [nSO-224](https://dyned.myjetbrains.com/youtrack/issue/nSO-224) Fixed issue for error screen show after passed MT.
 * [nSO-255](https://dyned.myjetbrains.com/youtrack/issue/nSO-255) Updated neo Study Online logo on sign in page.
 * [nSO-235](https://dyned.myjetbrains.com/youtrack/issue/nSO-235) Fixed issue for step 13 that keep show 'client error' after finish the lesson.
-* [nSO-201](https://dyned.myjetbrains.com/youtrack/issue/nSO-201) Fixed issues on lesson summaru screen.
+* [nSO-201](https://dyned.myjetbrains.com/youtrack/issue/nSO-201) Fixed issues on lesson summary screen.
 * [nSO-215](https://dyned.myjetbrains.com/youtrack/issue/nSO-215) Added liked-lesson list to NSA.
 * [nSO-183](https://dyned.myjetbrains.com/youtrack/issue/nSO-183) Fixed issue for dot display for exercise lesson model.
 
