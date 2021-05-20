@@ -5,7 +5,15 @@ title: neo Live B2C
 # Live B2C
 A website for neo students to study using Live Session.
 
-## [v.1.1.9] on February 28th, 2021
+## [v1.1.10] on May 3rd, 2021
+- [NELB2C-1286](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1286) Added token API for Dashboard.
+- [NELB2C-1293](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1293) Fixed appointment API for minus GMT.
+- [NELB2C-1303](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1303) Added token balance API for Dashboard.
+- [NELB2C-1304](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1304) Added reset token API for Dashboard.
+- [NELB2C-1317](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1317) Fixed cross server credential on API for Dashboard.
+- [NELB2C-1324](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1324) Added new reset and add multiple token API for dashboard.
+
+## [v1.1.9] on February 28th, 2021
 - [NELB2C-1230](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1230) Added Agora Real Time Messaging SDK.
 - [NELB2C-1231](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1231) Added new background and display changes.
 - [NELB2C-1244](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1244) Fixed issue for student who can't see shared PPT and shared picture.
@@ -27,7 +35,7 @@ A website for neo students to study using Live Session.
 - [NELB2C-1289](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1289) Added URL scheme parameter to send remaining session time to mobile.
 - [NELB2C-1290](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1290) Fixed stop screen share if student leave from live session when screen share is run.
 
-## [v.1.1.8] on January 26th, 2021
+## [v1.1.8] on January 26th, 2021
 - [NELB2C-1273](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1273) Added Agora RTM log upload.
 
 ## [v1.1.7] on January 13th, 2021
