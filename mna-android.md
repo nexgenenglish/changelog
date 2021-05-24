@@ -4,6 +4,13 @@ title: myneo App - Android
 
 # myneo App - Android
 myneo Application for Android
+## [v1.6.2] on May 17th, 2021
+- [MNA-317](https://dyned.myjetbrains.com/youtrack/issue/MNA-317) The word separate into two lines
+- [hotfix] Update force update version to 11
+- [hotfix] Update agora rtm sdk to 1.4.3
+- [hotfix] Change agora RTM P2P to Channel
+- [hotfix] Remove unneeded permission
+
 ## [v1.6.1] on March 25th, 2021
 - [hotfix] Fixed alert messages when coach connected & disconnected.
 - [hotfix] Show message every time coach disconnected. (Not only when timed out)
