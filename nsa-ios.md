@@ -5,6 +5,14 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+## [v1.12.0] on May 25th, 2021
+- [NSA-1931](https://dyned.myjetbrains.com/youtrack/issue/NSA-1931) Please delete the downloaded unit content when users finish the unit and start to download the first lesson of next unit
+- [NSA-2622](https://dyned.myjetbrains.com/youtrack/issue/NSA-1931) iOS: words moved in EFS U12>Water cycle presentation part
+- [NSA-2734](https://dyned.myjetbrains.com/youtrack/issue/NSA-2734) there is "next button" on the screen of Planning Ahead-Departure- A2+
+- [NSA-2736](https://dyned.myjetbrains.com/youtrack/issue/NSA-2736) iOS: text not showing properly
+- [NSA-2748](https://dyned.myjetbrains.com/youtrack/issue/NSA-2748) iOS Application crashed when click study after finishing a level
+- [NSA-2762](https://dyned.myjetbrains.com/youtrack/issue/NSA-2762) The student reported that the current course topic would be stuck.-----------JiangYin
+
 ## [v1.11.0] on April 19th, 2021
 - [NSA-2411](https://dyned.myjetbrains.com/youtrack/issue/NSA-2411) AI-Driven Comprehension Questions
 - [NSA-2701](https://dyned.myjetbrains.com/youtrack/issue/NSA-2701) Neo Study App: Wrong Password prompt mentions server and Prompt is not consistent with Android and iOS

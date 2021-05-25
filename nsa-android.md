@@ -5,6 +5,18 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.12.0] on May 25th, 2021
+- [NSA-1931](https://dyned.myjetbrains.com/youtrack/issue/NSA-1931) Please delete the downloaded unit content when users finish the unit and start to download the first lesson of next unit
+- [NSA-2726](https://dyned.myjetbrains.com/youtrack/issue/NSA-2726) there is about 11 hours study records when student studied one small lesson
+- [NSA-2729](https://dyned.myjetbrains.com/youtrack/issue/NSA-2729) LG Grammar demo lesson: three distractors are correct while only one is the answer
+- [NSA-2708](https://dyned.myjetbrains.com/youtrack/issue/NSA-2708) Amazon Fire: Vocabulary > Everyday objects lesson: Graphics show incorrectly with different border
+- [NSA-2484](https://dyned.myjetbrains.com/youtrack/issue/NSA-2484) Error Illegalstateexception: you must call bugsnag
+- [hotfix] Fix landscape orientation
+- [hotfix] Handle crash when expand view if don’t have MT planets
+- [NSA-2737](https://dyned.myjetbrains.com/youtrack/issue/NSA-2737) Repeats the same sentence in whole lesson - Level A2 - Our World
+- [NSA-2738](https://dyned.myjetbrains.com/youtrack/issue/NSA-2738) Repeats the same sentence in whole lesson - Level A2 - Review Exercises
+- [NSA-2757](https://dyned.myjetbrains.com/youtrack/issue/NSA-2757) Android: prod new version: app crashed when running Alphabet A-Z step3/ Numbers 1-10 step 2
+
 ## [v1.11.0] on April 19th, 2021
 - [NSA-2411](https://dyned.myjetbrains.com/youtrack/issue/NSA-2411) AI-Driven Comprehension Questions
 - [NSA-2701](https://dyned.myjetbrains.com/youtrack/issue/NSA-2701) Neo Study App: Wrong Password prompt mentions server and Prompt is not consistent with Android and iOS
