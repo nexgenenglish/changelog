@@ -5,6 +5,25 @@ title: neo Live B2C
 # Live B2C
 A website for neo students to study using Live Session.
 
+## [v1.1.11] on May 24th, 2021
+- [MNA-323](https://dyned.myjetbrains.com/youtrack/issue/MNA-323) Fixed endpoint for study progress.
+- [NELB2C-1257](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1257) Fixed bug in session summaries.
+- [NELB2C-1281](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1281) Fixed issue for appointment that not booked while email has been sent.
+- [NELB2C-1294](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1294) Fixed run email in background.
+- [NELB2C-1296](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1296) Added feature to add session to calendar.
+- [NELB2C-1297](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1297) Added loading when update the event student attend.
+- [NELB2C-1301](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1301) Fixed token that not returned to student after teacher didn't attend the session.
+- [NELB2C-1302](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1302) Added new modal notification for DST in coach.
+- [NELB2C-1309](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1309) Fixed total token histories balance based on level.
+- [NELB2C-1310](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1310) Fixed check token before recurring book.
+- [NELB2C-1312](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1312) Added log when update student token.
+- [NELB2C-1316](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1316) Fixed recurring book on MNA.
+- [NELB2C-1322](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1322) Added loading when seacrhing a coach for 'book by single coach' in MNA.
+- [NELB2C-1323](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1322) Fixed zero balance token histories.
+- [NELB2C-1329](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1329) Added send email by using Interim API.
+- [NELB2C-1331](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1331) Fixed student token amount.
+- [NELB2C-1332](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1332) Fixed send email on recurring book.
+
 ## [v1.1.10] on May 3rd, 2021
 - [NELB2C-1286](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1286) Added token API for Dashboard.
 - [NELB2C-1293](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1293) Fixed appointment API for minus GMT.
