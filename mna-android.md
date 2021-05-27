@@ -6,8 +6,8 @@ title: myneo App - Android
 myneo Application for Android
 ## [v1.6.2] on May 17th, 2021
 - [MNA-317](https://dyned.myjetbrains.com/youtrack/issue/MNA-317) The word separate into two lines
-- [MNA-324] (https://dyned.myjetbrains.com/youtrack/issue/MNA-324) Update agora rtm sdk to 1.4.3
-- [MNA-324] (https://dyned.myjetbrains.com/youtrack/issue/MNA-324) Change agora RTM P2P to Channel
+- [MNA-324](https://dyned.myjetbrains.com/youtrack/issue/MNA-324) Update agora rtm sdk to 1.4.3
+- [MNA-324](https://dyned.myjetbrains.com/youtrack/issue/MNA-324) Change agora RTM P2P to Channel
 - [hotfix] Update force update version to 11
 
 ## [v1.6.1] on March 25th, 2021
