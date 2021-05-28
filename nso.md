@@ -5,6 +5,20 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study
 
+## [v0.9.6] on May 26th 2021
+* [nSO-290](https://dyned.myjetbrains.com/youtrack/issue/nSO-290) Implemented new requirement if the current_level is blank on nSO.
+* [nSO-321](https://dyned.myjetbrains.com/youtrack/issue/nSO-321) Uploaded profile picture page.
+* [nSO-320](https://dyned.myjetbrains.com/youtrack/issue/nSO-320) Implemented change password logic.
+* [nSO-288](https://dyned.myjetbrains.com/youtrack/issue/nSO-288) Required bulk/single imported student(s) to upload profile picture.
+* [nSO-286](https://dyned.myjetbrains.com/youtrack/issue/nSO-286) Required bulk/single imported student(s) to change password after first login.
+* [nSO-173](https://dyned.myjetbrains.com/youtrack/issue/nSO-173) Fixed MT Lesson that cannot passed when using skip button.
+* [nSO-336](https://dyned.myjetbrains.com/youtrack/issue/nSO-336) Fixed error after passing last MT on B1+ level.
+* [nSO-275](https://dyned.myjetbrains.com/youtrack/issue/nSO-275) Implemented FAQ.
+* [nSO-333](https://dyned.myjetbrains.com/youtrack/issue/nSO-333) Fixed error when trying to access array offset
+* [nSO-258](https://dyned.myjetbrains.com/youtrack/issue/nSO-258) Fixed audio that not play automatically after clicking resume button.
+* [nSO-334](https://dyned.myjetbrains.com/youtrack/issue/nSO-334) Fixed footer and FAQ.
+* [nSO-265](https://dyned.myjetbrains.com/youtrack/issue/nSO-265) Fixed neo logo position.
+
 ## [v0.9.5] on May 12th 2021
 * [nSO-263](https://dyned.myjetbrains.com/youtrack/issue/nSO-263) Fixed issue for missing step after repeating a lesson.
 * [nSO-201](https://dyned.myjetbrains.com/youtrack/issue/nSO-201) Fixed issues on lesson summary screen.
