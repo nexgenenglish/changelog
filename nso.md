@@ -5,6 +5,20 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study
 
+## [v0.9.7] on June 2nd, 2021
+* [nSO-339](https://dyned.myjetbrains.com/youtrack/issue/nSO-339) Fixed issue for MT lesson stuck.
+* [nSO-277](https://dyned.myjetbrains.com/youtrack/issue/nSO-277) Fixed issue for allowing student choosing the answer without replying the question.
+* [nSO-328](https://dyned.myjetbrains.com/youtrack/issue/nSO-328) Fixed point issue in Grammar Focus lessons Step 1.
+* [nSO-329](https://dyned.myjetbrains.com/youtrack/issue/nSO-329) Fixed point issue in Step 4 SR.
+* [nSO-276](https://dyned.myjetbrains.com/youtrack/issue/nSO-276) Fixed issue for questions that still playing while the timer is time out.
+* [nSO-330](https://dyned.myjetbrains.com/youtrack/issue/nSO-330) Fixed point issue in Four People Step 5 when clicking repeat button.
+* [nSO-338](https://dyned.myjetbrains.com/youtrack/issue/nSO-338) Fixed point issue in Letters -A -D Step 2 when clicking repeat button.
+* [nSO-322](https://dyned.myjetbrains.com/youtrack/issue/nSO-322) Fixed point issue in Four People Step 4 when clicking repeat button.
+* [nSO-308](https://dyned.myjetbrains.com/youtrack/issue/nSO-308) Fixed point issue in Four People Step 2.
+* [nSO-355](https://dyned.myjetbrains.com/youtrack/issue/nSO-355) User should checked the agreement (EULA, Privacy Policy) to login.
+* [nSO-345](https://dyned.myjetbrains.com/youtrack/issue/nSO-345) Implemented modal when opening link (such as PT or CT).
+* [nSO-340](https://dyned.myjetbrains.com/youtrack/issue/nSO-340) Implemented modal.
+
 ## [v0.9.6] on May 26th 2021
 * [nSO-290](https://dyned.myjetbrains.com/youtrack/issue/nSO-290) Implemented new requirement if the current_level is blank on nSO.
 * [nSO-321](https://dyned.myjetbrains.com/youtrack/issue/nSO-321) Uploaded profile picture page.
