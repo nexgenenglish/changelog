@@ -5,15 +5,32 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+#1.9.13 on June 4th, 2021
+- [NSAAPI-336](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-336) Informed client about the learning intensity by percentage.
+- [NSAAPI-337](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-337) Fixed remaining points for MT issue.
+- [NSAAPI-335](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-335) Made MyLesson deleted data to be soft delete.
+
+# 1.9.12 on June 4th, 2021
+- [NSAAPI-331](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-331) Remove reset coin from nsa API.
+
+# 1.9.11 on June 4th, 2021
+- [NSAAPI-329](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-329) Added student type on Summary Report.
+- [NSAAPI-330](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-330) Fixed register date on profile.
+- [NSAAPI-328](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-328) Fixed issue for return API. 
+- [NSAAPI-331](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-331) Remove reset coin from nsa API.
+
+# 1.9.10 on April 16th, 2021
+- [NSAAPI-327](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-327) Get profile picture from SSO.
+
 # 1.9.9 on March 15th, 2021
-- NSAAPI-322 Several instances where THE is missing from text showing on screen
-- NSAAPI-323 Error message: Sorry, You don't have access to myneo app. For more information, Please contact your administrator
-- NSA-2711 Handle when goal level is the same with current level
-- NSAAPI-319 MyLessons Report
-- NSAAPI-325 error 1062
+- [NSAAPI-322](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-322) Several instances where THE is missing from text showing on screen
+- [NSAAPI-323](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-323) Error message: Sorry, You don't have access to myneo app. For more information, Please contact your administrator
+- [NSA-2711](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-2711) Handle when goal level is the same with current level
+- [NSAAPI-319](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-319) MyLessons Report
+- [NSAAPI-325](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-325) error 1062
 
 # 1.9.8 on March 04th, 2021
-- NSAAPI-320 Update Message when email to reset password has been sent
+- [NSAAPI-320](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-320) Update Message when email to reset password has been sent
 
 # 1.9.7.1 on March 03rd, 2021
 - Handle when lesson type is empty on summary page
@@ -21,14 +38,14 @@ Service (API) to manage neo Study App.
 # 1.9.7 on March 01st, 2021
 - Prevent study when user_et and user_cert_plan is not found
 - NSA-2698 iOS&Android: internal server error when going through unit sequences where the last unit has no MT
-- NSAAPI-310 Curated Pre-CT Review Lists
-- NSAAPI-311 Curated Post-CT Failure Review Lists
+- [NSAAPI-310](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-310) Curated Pre-CT Review Lists
+- [NSAAPI-311](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-311) Curated Post-CT Failure Review Lists
 
 # 1.9.6 on February 24th, 2020
 - mylesson not saved.
 
 # 1.9.5 on January 18th, 2021
-- NSAAPI-306 The 'total days' is always show as 0
+- [NSAAPI-306](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-306) The 'total days' is always show as 0
 - add mna profile field to update
 - prepare to split data collection
 
@@ -36,9 +53,9 @@ Service (API) to manage neo Study App.
 - add certification.plan_code -> MNA Group
 
 # 1.9.3 on January 06th, 2021
-- NSAAPI-303 The progress of students without learning records after learning the course remains unchanged
-- NSAAPI-304 Can't download contentt
-- NSAAPI-305 Prevent duplicate data study records
+- [NSAAPI-303](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-303) The progress of students without learning records after learning the course remains unchanged
+- [NSAAPI-304](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-304) Can't download contentt
+- [NSAAPI-305](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-305) Prevent duplicate data study records
 
 # 1.9.2 on January 04th, 2021
 - Added session (live) active, session (live) upcoming, percentage points, is trial expired on sp (MNA).
