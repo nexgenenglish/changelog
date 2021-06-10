@@ -5,7 +5,7 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
-#1.9.13 on June 4th, 2021
+# 1.9.13 on June 4th, 2021
 - [NSAAPI-336](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-336) Informed client about the learning intensity by percentage.
 - [NSAAPI-337](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-337) Fixed remaining points for MT issue.
 - [NSAAPI-335](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-335) Made MyLesson deleted data to be soft delete.

@@ -5,6 +5,31 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study
 
+## [v0.9.8] on June 7th, 2021
+* [nSO-331](https://dyned.myjetbrains.com/youtrack/issue/nSO-331) Fixed pause button problems when doing MT.
+* [nSO-343](https://dyned.myjetbrains.com/youtrack/issue/nSO-343) Fixed repeating review MT in the same lesson.
+* [nSO-344](https://dyned.myjetbrains.com/youtrack/issue/nSO-344) Fixed issue after taking MT, it shows 0 and keep reviewing the same lesson.
+* [nSO-353](https://dyned.myjetbrains.com/youtrack/issue/nSO-352) Fixed stuck screen in C1 RFS U19 Sentence Focus.
+* [nSO-359](https://dyned.myjetbrains.com/youtrack/issue/nSO-359) Fixed stuck screen in C1>EBTN U6 step5(Pie Graphs 2 step2).
+* [nSO-202](https://dyned.myjetbrains.com/youtrack/issue/nSO-202) Fiexed SL that not inherited from previous steps within the same lesson.
+* [nSO-268](https://dyned.myjetbrains.com/youtrack/issue/nSO-268) The SR result shouldn't show after clicking on the "redo" button.
+* [nSO-269](https://dyned.myjetbrains.com/youtrack/issue/nSO-269) Fixued issue in step 5 SR which shouldn't go to next sentence automatically when not recognized.
+* [nSO-303](https://dyned.myjetbrains.com/youtrack/issue/nSO-303) Updated nSO to pause the lesson automatically when user changes for another tab on the browser.
+* [nSO-312](https://dyned.myjetbrains.com/youtrack/issue/nSO-312) Changed some behaviour for Mylessons.
+* [nSO-324](https://dyned.myjetbrains.com/youtrack/issue/nSO-324) 350 always show on point screen before the actual point show.
+* [nSO-341](https://dyned.myjetbrains.com/youtrack/issue/nSO-341) Fixed lesson stuck after choosing the answer.
+* [nSO-346](https://dyned.myjetbrains.com/youtrack/issue/nSO-346) Fixed lesson EFS U19>Emotions & the Future: Grammar Focus: when clicking on the CLASS button for the second time, the word 'class' doesn't disappear from the blank.
+* [nSO-361](https://dyned.myjetbrains.com/youtrack/issue/nSO-361) Fixed SR result that appear in Q answering type of Qs.
+* [nSO-362](https://dyned.myjetbrains.com/youtrack/issue/nSO-362) Fixed issue for getting wrong points after using the redo button.
+* [nSO-183](https://dyned.myjetbrains.com/youtrack/issue/nSO-183) Fixed exercise lesson dot.
+* [nSO-252](https://dyned.myjetbrains.com/youtrack/issue/nSO-252) Fixed issue for the text that keep showing when user holds the Record button.
+* [nSO-267](https://dyned.myjetbrains.com/youtrack/issue/nSO-267) Fixed issue on EFS Speaking up that showing the SR result in multiple choices question. 
+* [nSO-282](https://dyned.myjetbrains.com/youtrack/issue/nSO-282) Fixed issue for lesson RFS MT> fill passage Qs: should have the line after filling the blanks.
+* [nSO-316](https://dyned.myjetbrains.com/youtrack/issue/nSO-316) Fixed issue for Step 4, that keep the text on the screen in the next sentence, if user clicking 'Skip' right after doing the SR attempt.
+* [nSO-323](https://dyned.myjetbrains.com/youtrack/issue/nSO-323) Fixed issue for lesson RFS memory game that continue to play items after the timer runs out.
+* [nSO-350](https://dyned.myjetbrains.com/youtrack/issue/nSO-350)Fixed crash in lesson B1 English By The Numbers Step 3 which couldn't loaded the image.
+* [nSO-354](https://dyned.myjetbrains.com/youtrack/issue/nSO-354) Fixed timer issue in RFS Memory Game that keep counting when lesson is paused.
+
 ## [v0.9.7] on June 2nd, 2021
 * [nSO-339](https://dyned.myjetbrains.com/youtrack/issue/nSO-339) Fixed issue for MT lesson stuck.
 * [nSO-277](https://dyned.myjetbrains.com/youtrack/issue/nSO-277) Fixed issue for allowing student choosing the answer without replying the question.
