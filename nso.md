@@ -5,6 +5,35 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study
 
+## [v0.9.10] on June 15th, 2021
+* [nSO-381](https://dyned.myjetbrains.com/youtrack/issue/nSO-381) Fixed Video Interaction that got stuck if a sentence is not recognized.
+* [nSO-392](https://dyned.myjetbrains.com/youtrack/issue/nSO-392) Fixed inconsistent data when sending study record to db.
+* [nSO-393](https://dyned.myjetbrains.com/youtrack/issue/nSO-393) Fixed error for mylesson navbar.
+
+## [v0.9.9] on June 14th, 2021
+* [nSO-331](https://dyned.myjetbrains.com/youtrack/issue/nSO-331) Fixed pause button problems when doing MT.
+* [nSO-358](https://dyned.myjetbrains.com/youtrack/issue/nSO-358) Fixed lesson stuck after recording in step 3.
+* [nSO-384](https://dyned.myjetbrains.com/youtrack/issue/nSO-384) Fixed repeat lesson that doesn't work.
+* [nSO-348](https://dyned.myjetbrains.com/youtrack/issue/nSO-348) 'Symphony' exception is showed when select the highest study step for some lessons.
+* [nSO-326](https://dyned.myjetbrains.com/youtrack/issue/nSO-326) Fixed MT failed issues.
+* [nSO-366](https://dyned.myjetbrains.com/youtrack/issue/nSO-366) App prompts user to force correct during SR.
+* [nSO-369](https://dyned.myjetbrains.com/youtrack/issue/nSO-369) Fixed resume and exit button that show up on the summary screen after clicking on anywhere outside the nso webpage.
+* [nSO-370](https://dyned.myjetbrains.com/youtrack/issue/nSO-370) 'Choose Lesson' screen show after clicking repeat lesson for user tester. 
+* [nSO-375](https://dyned.myjetbrains.com/youtrack/issue/nSO-375) Resume & Exit page keeps showing and cannot be clicked.
+* [nSO-383](https://dyned.myjetbrains.com/youtrack/issue/nSO-383) Fixed error when click button "PLACEMENT TEST" from home screen.
+* [nSO-312](https://dyned.myjetbrains.com/youtrack/issue/nSO-312) Changed some behaviour for Mylessons.
+* [nSO-325](https://dyned.myjetbrains.com/youtrack/issue/nSO-325) 4 MT related issues in version 0.9.5.
+* [nSO-351](https://dyned.myjetbrains.com/youtrack/issue/nSO-351) Fixed repeat button that doesn't work normally.
+* [nSO-376](https://dyned.myjetbrains.com/youtrack/issue/nSO-376) Fixed Resume and Exit buttons that keep showing after clicking OK on force correct.
+* [nSO-379](https://dyned.myjetbrains.com/youtrack/issue/nSO-379) Fixed force correct function that doesn't work properly.
+* [nSO-140](https://dyned.myjetbrains.com/youtrack/issue/nSO-140) Fixed load time that take too long when load Review Lesson.
+* [nSO-258](https://dyned.myjetbrains.com/youtrack/issue/nSO-258) Fixed the audio that doesn't play automatically after clicking resume button.
+* [nSO-357](https://dyned.myjetbrains.com/youtrack/issue/nSO-357) Fixed text position which hiding behind the picture.
+* [nSO-360](https://dyned.myjetbrains.com/youtrack/issue/nSO-360) Fixed text button that doesn't work - Letters - E-H - Step 3.
+* [nSO-373](https://dyned.myjetbrains.com/youtrack/issue/nSO-373) Information about My Lesson. 
+* [nSO-374](https://dyned.myjetbrains.com/youtrack/issue/nSO-374) Fixed Resume / Exit button that overlay display while not in lesson state.
+* [nSO-382](https://dyned.myjetbrains.com/youtrack/issue/nSO-382) Fixed issue for no second chance after failing to be recognized.
+
 ## [v0.9.8] on June 7th, 2021
 * [nSO-331](https://dyned.myjetbrains.com/youtrack/issue/nSO-331) Fixed pause button problems when doing MT.
 * [nSO-343](https://dyned.myjetbrains.com/youtrack/issue/nSO-343) Fixed repeating review MT in the same lesson.
