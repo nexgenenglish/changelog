@@ -5,6 +5,15 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+
+
+## [1.2.2] in June 22st, 2021
+- [UD-638](https://dyned.myjetbrains.com/youtrack/issue/UD-638) - Fixed use valid email format
+- [UD-690](https://dyned.myjetbrains.com/youtrack/issue/UD-690) - Fixed disable popup for study summary report
+
+## [1.2.1] in June 8th, 2021
+- [UD-691](https://dyned.myjetbrains.com/youtrack/issue/UD-691) - Hotfix issue export data report
+
 ## [1.2.0] in June 3rd, 2021
 - [UD-656](https://dyned.myjetbrains.com/youtrack/issue/UD-656) - Add reset token function to live directly
 - [UD-667](https://dyned.myjetbrains.com/youtrack/issue/UD-667) - Add Study Data Collection
