@@ -5,6 +5,21 @@ title: neo Live B2C
 # Live B2C
 A website for neo students to study using Live Session.
 
+## [v.1.1.12] on June 24th, 2021
+- [NELB2C-1362](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1362) Updated Study Dashboard.
+- [NELB2C-1360](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1360) Fixed student's token history.
+- [NELB2C-1358](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1358) Fixed Split Bill Token when booking the session.
+- [NELB2C-1348](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1348) The Teacher reported that she didn't receive the token after the session.
+- [NELB2C-1347](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1347) Fixed Token Refund to student.
+- [NELB2C-1354](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1354) Updated Token History description.
+- [NELB2C-1353](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1353) API Store Lists for android.
+- [NELB2C-1349](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1349) Added logs for rescheduling.
+- [NELB2C-1352](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1352) Fixed session time that does not change while receiving reschedule time confirming email.
+- [NELB2C-1363](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1363) Restore percentage days study dashboard.
+- [NELB2C-1364](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1364) List Download application store for MNA Android.
+- [NELB2C-1365](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1365) Created API for add token for dashboard.
+- [NELB2C-1366](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1366) Created API to reset token student for dashboard.
+
 ## [v1.1.11] on May 24th, 2021
 - [MNA-323](https://dyned.myjetbrains.com/youtrack/issue/MNA-323) Fixed endpoint for study progress.
 - [NELB2C-1257](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1257) Fixed bug in session summaries.
