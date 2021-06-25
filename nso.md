@@ -5,6 +5,26 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study
 
+## [v0.9.11] on June 22nd, 2021
+* [nSO-344](https://dyned.myjetbrains.com/youtrack/issue/nSO-344) Fixed issue after taking MT, it shows 0 and keep reviewing the same lesson.
+* [nSO-397](https://dyned.myjetbrains.com/youtrack/issue/nSO-397) Fixed issue in Review Lesson Pre MT that limited to 6 review lesson and the screen goes to passed MT.
+* [nSO-368](https://dyned.myjetbrains.com/youtrack/issue/nSO-368) Fixed issue for Passed MT after giving the wrong answer to all questions.
+* [nSO-377](https://dyned.myjetbrains.com/youtrack/issue/nSO-377) Fixed SR lessons which looping after clicking on the Resume button.
+* [nSO-367](https://dyned.myjetbrains.com/youtrack/issue/nSO-367) Fixed Mt that won't open for the second time after running 4 review lessons.
+* [nSO-351](https://dyned.myjetbrains.com/youtrack/issue/nSO-351) Fixed repeat button that doesn't work normally.
+* [nSO-364](https://dyned.myjetbrains.com/youtrack/issue/nSO-364) Fixed MT screen problem.
+* [nSO-409](https://dyned.myjetbrains.com/youtrack/issue/nSO-409) Fixed point for lesson in FE/EFS/EBTN Quizzes.
+* [nSO-180](https://dyned.myjetbrains.com/youtrack/issue/nSO-180) Changed expand screen view for not showing points to next MT when review MT.
+* [nSO-181](https://dyned.myjetbrains.com/youtrack/issue/nSO-181) Changed info in the expanded box when last MT.
+* [nSO-239](https://dyned.myjetbrains.com/youtrack/issue/nSO-239) Change lock icon for CT Passed.
+* [nSO-380](https://dyned.myjetbrains.com/youtrack/issue/nSO-380) Fixed issue for Video Intercation Hotseat that shouldn't show SR result when recognized.
+* [nSO-389](https://dyned.myjetbrains.com/youtrack/issue/nSO-389) total_recorded_sentence is not counting in step 3,4,5.
+* [nSO-390](https://dyned.myjetbrains.com/youtrack/issue/nSO-390) total_first_record not counting in step 4.
+* [nSO-398](https://dyned.myjetbrains.com/youtrack/issue/nSO-398) Fixed correct answer that detected as incorrect answer in RFS Unit 4 Weather and Climate Sentence Focus 1 Exercise.
+* [nSO-399](https://dyned.myjetbrains.com/youtrack/issue/nSO-399) Fixed the image for MyLesson that does not accessible inside MyLesson.
+* [nSO-403](https://dyned.myjetbrains.com/youtrack/issue/nSO-403) Fixed planet icon for bulk import student before user take PT
+* [nSO-404](https://dyned.myjetbrains.com/youtrack/issue/nSO-404) Page Loader & Planet Icon.
+
 ## [v0.9.10] on June 15th, 2021
 * [nSO-381](https://dyned.myjetbrains.com/youtrack/issue/nSO-381) Fixed Video Interaction that got stuck if a sentence is not recognized.
 * [nSO-392](https://dyned.myjetbrains.com/youtrack/issue/nSO-392) Fixed inconsistent data when sending study record to db.
