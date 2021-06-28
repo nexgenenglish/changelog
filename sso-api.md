@@ -4,6 +4,9 @@ title: SSO API
 
 # SSO API
 
+## 1.2.8 on June 11th, 2021
+- [SSO-42](https://dyned.myjetbrains.com/youtrack/issue/SSO-42) Add a Organization setup from UD
+
 ## 1.2.7 on April 11th, 2021
 - [SSO-41](https://dyned.myjetbrains.com/youtrack/issue/SSO-41) Make soft delete data
 
