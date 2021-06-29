@@ -5,6 +5,18 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.9.14.1 on June 28th, 2021
+- [Improvement] Added an endpoint last study data.
+
+# 1.9.14 on June 25th, 2021
+- [NSAAPI-342](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-342) Fixed issue for user that cannot save lesson on MyLesson.
+- [NSAAPI-343](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-343) Added token after force PT.
+- [NSAAPI-339](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-339) Set ACL students from Organization setup.
+- [NSAAPI-334](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-334) Added requirement for bulk/single imported student/s to take eTest PTif the current level is blank on nSO/nSA.
+- [NSAAPI-332](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-332) Added requirement for bulk/single imported student/s to change password for the first time Login nSO/nSA.
+- [NSAAPI-333](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-333) Added requirement for bulk/single imported students to upload profile picture on nSO/nSA.
+- [NSAAPI-338](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-338) Added requirement for bulk/ single update student/s to re-take eTest PT.
+
 # 1.9.13 on June 4th, 2021
 - [NSAAPI-336](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-336) Informed client about the learning intensity by percentage.
 - [NSAAPI-337](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-337) Fixed remaining points for MT issue.

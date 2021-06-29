@@ -5,6 +5,29 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study
 
+## [v.0.9.13] on June 28th, 2021
+* [nSO-417](https://dyned.myjetbrains.com/youtrack/issue/nSO-417) Fixed issue for correcting the right answer into incorrect on Vocab Focus.
+* [nSO-422](https://dyned.myjetbrains.com/youtrack/issue/nSO-422) Fixed correct answer that detected as incorrect answer in EFS Unit 9 Time of Life Grammar Focus and EFS Unit 9 Future and Past Grammar Focus.
+* [nSO-426](https://dyned.myjetbrains.com/youtrack/issue/nSO-426) Fixed correct answer that detected as incorrect answer on Grammar Vocus.
+* [nSO-434](https://dyned.myjetbrains.com/youtrack/issue/nSO-434) Fixed correct answer that detected as incorrect answer in C1 EFS U20 Global Issues Grammar Focus.
+* [nSO-362](https://dyned.myjetbrains.com/youtrack/issue/nSO-362) Fixed issue when using the Redo button the app gives the wrong points.
+* [nSO-352](https://dyned.myjetbrains.com/youtrack/issue/nSO-352) Fixed wording with hyphen that should be in one line in RFS U18 Dictation.
+* [nSO-372](https://dyned.myjetbrains.com/youtrack/issue/nSO-372) Fixed record button that is enable after clicking text button.
+* [nSO-388](https://dyned.myjetbrains.com/youtrack/issue/nSO-388) Fixed issue for no lesson intro page when doing continuous study.
+* [nSO-389](https://dyned.myjetbrains.com/youtrack/issue/nSO-389) Fixed total_recorded_sentence is not counting in step 3,4,5.
+* [nSO-400](https://dyned.myjetbrains.com/youtrack/issue/nSO-400) The sr_duration sent to backend is not the same as study timer in log.
+* [nSO-421](https://dyned.myjetbrains.com/youtrack/issue/nSO-421) Fixed text that still exist even though clicking repeat button.
+* [nSO-427](https://dyned.myjetbrains.com/youtrack/issue/nSO-427) It's not showing the steps 3 & 4 for the lesson MC Unit 6 Movies & Entertainment Listening.
+* [nSO-430](https://dyned.myjetbrains.com/youtrack/issue/nSO-430) Changed CT display that appear in modal instead of redirect to new tab.
+* [nSO-431](https://dyned.myjetbrains.com/youtrack/issue/nSO-431) Fixed correct answer that detected as incorrect answer in RFS Unit 9 Confucius Sentence Focus 2.
+* [nSO-432](https://dyned.myjetbrains.com/youtrack/issue/nSO-432) Fixed wording that get underscore after selecting answer.
+* [nSO-435](https://dyned.myjetbrains.com/youtrack/issue/nSO-435) Added resume and exit button in review lesson after failed CT
+* [nSO-438](https://dyned.myjetbrains.com/youtrack/issue/nSO-438) Changed Name of Lesson Step larger on lesson entry screen.
+* [nSO-442](https://dyned.myjetbrains.com/youtrack/issue/nSO-442) Changed the 'x' for closing the account window to larger icon or close button.
+
+## [v.0.9.12] on June 24th, 2021
+* Hotfix handle CT from homescreen
+
 ## [v0.9.11] on June 22nd, 2021
 * [nSO-344](https://dyned.myjetbrains.com/youtrack/issue/nSO-344) Fixed issue after taking MT, it shows 0 and keep reviewing the same lesson.
 * [nSO-397](https://dyned.myjetbrains.com/youtrack/issue/nSO-397) Fixed issue in Review Lesson Pre MT that limited to 6 review lesson and the screen goes to passed MT.
