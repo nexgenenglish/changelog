@@ -5,14 +5,6 @@ title: neo Live B2I
 # Live B2I
 A website for DynEd students and coaches to study using Live Session and also for admins and affiliates to manage DynEd Live's environment.
 
-## [v.1.1.15] on June 24th, 2021
-- [NELB2C-1347](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1347) Fixed Cron create histories.
-- [NELB2C-1360](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1360) Fixed Student token histories.
-- [DELB2I-1266](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1266) AddED SSO Config and fixed student progress.
-- [DELB2I-1268](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1268) Take out ffmpeg.
-- [DELB2I-1269](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1269) Fixed Coach dots status.
-- [DELB2I-1270](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1270) Fixed Call coaching script.
-
 ## [v.1.1.14] on April 14th, 2021
 - [DELB2I-1256](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1256) Fixed issue for session which is not auto complete.
 - [DELB2I-1257](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1257) Fixed script order.
