@@ -4,6 +4,13 @@ title: myneo App - Android
 
 # myneo App - Android
 myneo Application for Android
+
+## [v1.7.0] on July 6th, 2021
+- [hotfix] Improvement to support forced change password/picture for bulk import students.
+- [hotfix] Implement dynamic study button for forced PT students.
+- [hotfix] Remove telephoney, autofocus feature to support wifi only and Amazon device.
+- [hotfix] Fixed issue for keyboard only shows number on forgot password email input field.
+
 ## [v1.6.2] on May 17th, 2021
 - [MNA-317](https://dyned.myjetbrains.com/youtrack/issue/MNA-317) The word separate into two lines
 - [MNA-324](https://dyned.myjetbrains.com/youtrack/issue/MNA-324) Update agora rtm sdk to 1.4.3
