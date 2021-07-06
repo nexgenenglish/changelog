@@ -5,6 +5,13 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.13.0] on July 6th, 2021
+- [improvement] prompt user to update password and/or avatar after login
+- [NSA-2726](https://dyned.myjetbrains.com/youtrack/issue/NSA-2726) there is about 11 hours study records when student studied one small lesson (pause lesson if no user interaction in 5 minutes)
+- [NSA-2764](https://dyned.myjetbrains.com/youtrack/issue/NSA-2764) picture questions can't be chosen when doing mt
+- [NSA-2776](https://dyned.myjetbrains.com/youtrack/issue/NSA-2776) Count the total_recorded_sentence in step 4
+- [NSA-2733](https://dyned.myjetbrains.com/youtrack/issue/NSA-2733) NSA's SR does not recognize any phase that begins with the articles "a" or "an". This is causing many complaints from learners.
+
 ## [v1.12.0] on May 25th, 2021
 - [NSA-1931](https://dyned.myjetbrains.com/youtrack/issue/NSA-1931) Please delete the downloaded unit content when users finish the unit and start to download the first lesson of next unit
 - [NSA-2726](https://dyned.myjetbrains.com/youtrack/issue/NSA-2726) there is about 11 hours study records when student studied one small lesson

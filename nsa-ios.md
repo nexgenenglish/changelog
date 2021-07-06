@@ -5,6 +5,15 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+## [v1.13.0] on July 6th, 2021
+- [improvement] prompt user to update password and/or avatar after login
+- [NSA-2726](https://dyned.myjetbrains.com/youtrack/issue/NSA-2726) there is about 11 hours study records when student studied one small lesson (pause lesson if no user interaction in 5 minutes)
+- [NSA-2759](https://dyned.myjetbrains.com/youtrack/issue/NSA-2759) there is something wrong with doing MT for students-istone
+- [NSA-2776](https://dyned.myjetbrains.com/youtrack/issue/NSA-2776) Count the total_recorded_sentence in step 4
+- [NSA-2733](https://dyned.myjetbrains.com/youtrack/issue/NSA-2733) NSA's SR does not recognize any phase that begins with the articles "a" or "an". This is causing many complaints from learners.
+- [NSA-2702](https://dyned.myjetbrains.com/youtrack/issue/NSA-2702) NeoStudy App on iOS: Reset Password Email sent shows Reset Password Success! Success! Prompt
+- [NSA-2780](https://dyned.myjetbrains.com/youtrack/issue/NSA-2780) recording button can't be used after unplug the headphone with line
+
 ## [v1.12.0] on May 25th, 2021
 - [NSA-1931](https://dyned.myjetbrains.com/youtrack/issue/NSA-1931) Please delete the downloaded unit content when users finish the unit and start to download the first lesson of next unit
 - [NSA-2622](https://dyned.myjetbrains.com/youtrack/issue/NSA-1931) iOS: words moved in EFS U12>Water cycle presentation part
