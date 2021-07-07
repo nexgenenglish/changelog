@@ -5,10 +5,10 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
-# 1.9.14.3 on June, 2021
+# 1.9.14.3 on July 05th, 2021
 - NSAAPI-254 validate student changes the avatar and fullname
 
-# 1.9.14.2 on June, 2021
+# 1.9.14.2 on July 01st, 2021
 - NSA-2786 it pops up error after the lesson finished
 - NSA-2788 The MT cant be loaded-- spk
 
