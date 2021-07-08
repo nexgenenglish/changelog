@@ -5,6 +5,9 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.9.14.4 on July 08th, 2021
+- NSAAPI-350 The plane is not in the correct position
+
 # 1.9.14.3 on July 05th, 2021
 - NSAAPI-254 validate student changes the avatar and fullname
 
