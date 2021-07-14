@@ -5,6 +5,52 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study
 
+## [v.0.9.17] on July 14th, 2021
+* [nSO-476](https://dyned.myjetbrains.com/youtrack/issue/nSO-476) Fixed screen that showing score when reading the next sentence on Memory Game of RFS.
+* [nSO-351](https://dyned.myjetbrains.com/youtrack/issue/nSO-351) Fixed repeat button that play different lesson not the previous one.
+* [nSO-489](https://dyned.myjetbrains.com/youtrack/issue/nSO-489) Prod build: Disable log, arrow shortcut, skip when role is student.
+
+## [v.0.9.16] on July 12th, 2021
+* [nSO-483](https://dyned.myjetbrains.com/youtrack/issue/nSO-483) Fixed issue for review lesson CT left to re-open CT.
+* [nSO-481](https://dyned.myjetbrains.com/youtrack/issue/nSO-481) Meta Headers For NSA API when submit lesson.
+* [nSO-458](https://dyned.myjetbrains.com/youtrack/issue/nSO-458) Prod: disable skip, arrow, log.
+* [nSO-484](https://dyned.myjetbrains.com/youtrack/issue/nSO-484) Fixed form for upload picture that doesn't work when drag and drop a file.
+* [nSO-444](https://dyned.myjetbrains.com/youtrack/issue/nSO-444) Fixed issue for cannot click like and dislike.
+* [nSO-351](https://dyned.myjetbrains.com/youtrack/issue/nSO-351) Fixed repeat button that play different lesson not the previous one.
+* [nSO-474](https://dyned.myjetbrains.com/youtrack/issue/nSO-474) Fixed scoring display that show 350 after finishing a lesson.
+* [nSO-202](https://dyned.myjetbrains.com/youtrack/issue/nSO-202) SL is not inherited from previous steps within the same lesson.
+
+## [v.0.9.15] on July 5th, 2021
+* [nSO-460](https://dyned.myjetbrains.com/youtrack/issue/nSO-460) Make log information wider.
+* [nSO-319](https://dyned.myjetbrains.com/youtrack/issue/nSO-319) FE: neo logo flashed away very quickly & text is not centered.
+* [nSO-423](https://dyned.myjetbrains.com/youtrack/issue/nSO-423) Fixed voting lesson that showing after finishing MT.
+* [nSO-448](https://dyned.myjetbrains.com/youtrack/issue/nSO-448) Fixed MT that not found when reaching points to do MT.
+* [nSO-449](https://dyned.myjetbrains.com/youtrack/issue/nSO-449) Mylesson: The lesson_repeat (FR or VR) when finish sent study record should not do vote mylesson.
+* [nSO-457](https://dyned.myjetbrains.com/youtrack/issue/nSO-457) Fixed issue for MT score changed after doing review lesson twice.
+* [nSO-466](https://dyned.myjetbrains.com/youtrack/issue/nSO-466) Wrong sending 'Plan Name' to China Endpoint.
+
+## [v.0.9.14] on July 1st, 2021
+* [nSO-447](https://dyned.myjetbrains.com/youtrack/issue/nSO-447) Fixed issue cannot study the lessons in MyLesson.
+* [nSO-451](https://dyned.myjetbrains.com/youtrack/issue/nSO-451) Fixed MyLesson: The record not sent to table study_mylesson after voting emoticon one or two after finish lesson.
+* [nSO-454](https://dyned.myjetbrains.com/youtrack/issue/nSO-454) Make bulk import change password configurable based on API.
+* [nSO-453](https://dyned.myjetbrains.com/youtrack/issue/nSO-453) Fixed MyLesson "Yes" and "No" button position which is not the same as the NSA.
+* [nSO-449](https://dyned.myjetbrains.com/youtrack/issue/nSO-449) Mylesson: The lesson_repeat (FR or VR) when finish sent study record should not do vote mylesson.
+* [nSO-450](https://dyned.myjetbrains.com/youtrack/issue/nSO-450) Fixed issue for cannot deleting saved lesson that have been saved for more than 12 lessons.
+* [nSO-443](https://dyned.myjetbrains.com/youtrack/issue/nSO-443) Home Screen: Make the entire Points tile clickable on both the HomeScreen and the MT Detail screen.
+* [nSO-400](https://dyned.myjetbrains.com/youtrack/issue/nSO-400) Fixed the sr_duration backend that is not the same as study timer in log.
+* [nSO-363](https://dyned.myjetbrains.com/youtrack/issue/nSO-363) Fixed NSO Arrow that should not be animated through out lesson.
+* [nSO-309](https://dyned.myjetbrains.com/youtrack/issue/nSO-309) Fixed the arrow that not syncronized with the picture on neoPre+ - PreA1 - PreA1-1B-L1&2 - Vocabulary - Everyday - Objects - Step 5.
+* [nSO-282](https://dyned.myjetbrains.com/youtrack/issue/nSO-282) Fixed the line after filling the blanks on RFS MT> fill passage Qs.
+* [nSO-432](https://dyned.myjetbrains.com/youtrack/issue/nSO-432) Fixed issue for filling in the blanks question, after selecting answer, the original word was added Underscore.
+* [nSO-281](https://dyned.myjetbrains.com/youtrack/issue/nSO-281) Fixed the highlighted TR to show automatically. 
+* [nSO-408](https://dyned.myjetbrains.com/youtrack/issue/nSO-408) Fixed the scroll that doesn't move into the red text when listening.
+* [nSO-337](https://dyned.myjetbrains.com/youtrack/issue/nSO-337) Fonts are too small in NSO compared to NSA.
+* [nSO-437](https://dyned.myjetbrains.com/youtrack/issue/nSO-437) Fixed recording (SR) for longer period to finish recording the sentence.
+* [nSO-429](https://dyned.myjetbrains.com/youtrack/issue/nSO-429) Fixed recording that stop suddenly eventhough user still holding the record button.
+* [nSO-389](https://dyned.myjetbrains.com/youtrack/issue/nSO-389) total_recorded_sentence is not counting in step 3,4,5.
+* [nSO-456](https://dyned.myjetbrains.com/youtrack/issue/nSO-456) Fixed lesson stuck on RFS U19>Sentence Focus2 after the timer runs out for the first time.
+* [nSO-452](https://dyned.myjetbrains.com/youtrack/issue/nSO-452) Added lesson information on MyLesson.
+
 ## [v.0.9.13] on June 28th, 2021
 * [nSO-417](https://dyned.myjetbrains.com/youtrack/issue/nSO-417) Fixed issue for correcting the right answer into incorrect on Vocab Focus.
 * [nSO-422](https://dyned.myjetbrains.com/youtrack/issue/nSO-422) Fixed correct answer that detected as incorrect answer in EFS Unit 9 Time of Life Grammar Focus and EFS Unit 9 Future and Past Grammar Focus.
