@@ -5,9 +5,9 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
-## [v1.14.1] on July 15th, 2021
+<!-- ## [v1.14.1] on July 15th, 2021
 - [hotfix] Don’t download dsa_flow, dsa_rules, study_path for non tester user
-- [hotfix] update fix SR dictionary url
+- [hotfix] update fix SR dictionary url -->
 
 ## [v1.14.0] on July 14th, 2021
 - [NSA-2792](https://dyned.myjetbrains.com/youtrack/issue/NSA-2792) The nsa app crashed while studying -- zjg
@@ -118,8 +118,8 @@ neo Study application for iOS
 - [NSA-2315](https://dyned.myjetbrains.com/youtrack/issue/NSA-2315) Please wait until students enter the course.
 - [DSA-2316](https://dyned.myjetbrains.com/youtrack/issue/DSA-2316) DBE U4 > Product Comparison > The SX: it crashed when testing Steps 2, 3 & 5
 - [NSA-2317](https://dyned.myjetbrains.com/youtrack/issue/NSA-2317) IOS: The position of the points is too far from the progress circle.
-- [NSA-2333](https://dyned.myjetbrains.com/youtrack/issue/NSA-2317) Make neo exit choice screen semi-transparent 
-- [NSA-2379](https://dyned.myjetbrains.com/youtrack/issue/NSA-2333) Message suggestion when there's no internet connection 
+- [NSA-2333](https://dyned.myjetbrains.com/youtrack/issue/NSA-2317) Make neo exit choice screen semi-transparent
+- [NSA-2379](https://dyned.myjetbrains.com/youtrack/issue/NSA-2333) Message suggestion when there's no internet connection
 - [NSA-2401](https://dyned.myjetbrains.com/youtrack/issue/NSA-2401) new problems with iOS 1.7.0(2202006230952)
 - [NSA-2402](https://dyned.myjetbrains.com/youtrack/issue/NSA-2402) iOS 1.7.0(2202006230952) on iPad: layout and font size changed
 - [NSA-2408](https://dyned.myjetbrains.com/youtrack/issue/NSA-2408) Pls don't ask repeated Qs in the same question bank
@@ -134,13 +134,13 @@ neo Study application for iOS
 
 ## [v1.6.2 1102005141306] on May 14th, 2020
 - [NBRG-313](https://dyned.myjetbrains.com/youtrack/issue/NBRG-313) HengXing-----------When the repetition key is used in the course, the picture flashes directly without sound.
-- [DSA-2264](https://dyned.myjetbrains.com/youtrack/issue/DSA-2264) iOS: NDE M5U2>city directions>step 5: Points won't add after recognizing several sentences.  
+- [DSA-2264](https://dyned.myjetbrains.com/youtrack/issue/DSA-2264) iOS: NDE M5U2>city directions>step 5: Points won't add after recognizing several sentences. 
 - [DSA-2295](https://dyned.myjetbrains.com/youtrack/issue/DSA-2295) iOS : SR exercises can't press Record button to record
 - [DSA-2294](https://dyned.myjetbrains.com/youtrack/issue/DSA-2294) iOS : in step 4 no color hint anymore when SR recognized or not
 - [DSA-2297](https://dyned.myjetbrains.com/youtrack/issue/DSA-2297) [IOS] Fix SL issue based on DSA-2292
 - [hotfix] add hide/show password in login page
 
 ## [v1.6.1 1102003231632] on April 10th, 2020
-- [DSA-2232](https://dyned.myjetbrains.com/youtrack/issue/DSA-2232) iOS: Applied the automate scroll when play sentence on Responses. 
-- [DSA-2231](https://dyned.myjetbrains.com/youtrack/issue/DSA-2231) iOS: Applied the automate scroll when play sentence on presentation. 
+- [DSA-2232](https://dyned.myjetbrains.com/youtrack/issue/DSA-2232) iOS: Applied the automate scroll when play sentence on Responses.
+- [DSA-2231](https://dyned.myjetbrains.com/youtrack/issue/DSA-2231) iOS: Applied the automate scroll when play sentence on presentation.
 - [DSA-2254](https://dyned.myjetbrains.com/youtrack/issue/DSA-2254) iOS : FillOnTheBlank: extend timing to 30s for Focus Exercises & Sentence Reordering.
