@@ -5,6 +5,16 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+## [v1.14.1] on July 15th, 2021
+- [hotfix] Don’t download dsa_flow, dsa_rules, study_path for non tester user
+- [hotfix] update fix SR dictionary url
+
+## [v1.14.0] on July 14th, 2021
+- [NSA-2792](https://dyned.myjetbrains.com/youtrack/issue/NSA-2792) The nsa app crashed while studying -- zjg
+- [NSA-2795](https://dyned.myjetbrains.com/youtrack/issue/NSA-2792) The app forces stop for this student
+- [NSA-2799](https://dyned.myjetbrains.com/youtrack/issue/NSA-2799) It crashed while studying -- DE
+- [NSA-2805](https://dyned.myjetbrains.com/youtrack/issue/NSA-2805) neo+>NDE & DBE & TLS: step2: whenever clicking on the Repeat button after clicking on Pause, it adds 5 points
+
 ## [v1.13.0] on July 6th, 2021
 - [improvement] prompt user to update password and/or avatar after login
 - [NSA-2726](https://dyned.myjetbrains.com/youtrack/issue/NSA-2726) there is about 11 hours study records when student studied one small lesson (pause lesson if no user interaction in 5 minutes)

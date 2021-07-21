@@ -5,6 +5,23 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.14.1] on July 15th, 2021
+- [NSA-2791](https://dyned.myjetbrains.com/youtrack/issue/NSA-2791) The student cannot proceed to the next step after completing the current step. ---------Istone
+- [NSA-2797](https://dyned.myjetbrains.com/youtrack/issue/NSA-2797) The class will automatically quit while the student is recording.------Impact
+  relates to:
+  - NSA-2608 PocketSphinx error happened on RedMi phone
+  - WT-428 Android: App cannot run well on two one plus, android 9.
+  - NSA-2039 Android: PocketSphinx Error appears frequently when Academic flow was tested on One Plus.
+  - NSA-2073 Android > B1+ > EFSU13: pocketsphinx error
+  - NSA-2399 How To Solve POCKET SPHINX
+  - NSA-2787 It pops up error during study -- weifang
+- [NSA-2807](https://dyned.myjetbrains.com/youtrack/issue/NSA-2807) The user cant click the option -- impact
+  relates to:
+  - NSA-2764 picture questions can't be chosen when doing mt
+- [NSA-2808](https://dyned.myjetbrains.com/youtrack/issue/NSA-2808) Soft keys are overlapping with text field
+- [hotfix] Don’t download dsa_flow, dsa_rules, study_path for non tester user
+- [hotfix] fix crash when opening MT
+
 ## [v1.13.0] on July 6th, 2021
 - [improvement] prompt user to update password and/or avatar after login
 - [NSA-2726](https://dyned.myjetbrains.com/youtrack/issue/NSA-2726) there is about 11 hours study records when student studied one small lesson (pause lesson if no user interaction in 5 minutes)
