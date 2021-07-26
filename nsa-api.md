@@ -5,6 +5,13 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.9.15 on July 26th, 2021
+- NSAAPI-341 Implement Grading Screen
+- NSAAPI-346 Issue about details data on screen 7
+- NSAAPI-352 Profile picture does not show when I log in and I am prompted to provide picture.
+- NSAAPI-353 create app version for iOS
+- NSAAPI-355 Teachers do not have access to PT Results from Class screen.
+
 # 1.9.14.4 on July 08th, 2021
 - NSAAPI-350 The plane is not in the correct position
 
