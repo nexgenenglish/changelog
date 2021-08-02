@@ -6,15 +6,43 @@ title: Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
 
+## [1.3.0] on Aug 2nd, 2021
+- [UD-660](https://dyned.myjetbrains.com/youtrack/issue/UD-660) - Prevent teacher access other class from other organization
+- [UD-669](https://dyned.myjetbrains.com/youtrack/issue/UD-669) - Added b2ed organization configurations
+- [UD-670](https://dyned.myjetbrains.com/youtrack/issue/UD-670) - Bulk import new students
+- [UD-671](https://dyned.myjetbrains.com/youtrack/issue/UD-671) - Added bypass feature on onboarding function
+- [UD-672](https://dyned.myjetbrains.com/youtrack/issue/UD-672) - Added bulk import method
+- [UD-673](https://dyned.myjetbrains.com/youtrack/issue/UD-673) - Added force PT to bulk import method
+- [UD-686](https://dyned.myjetbrains.com/youtrack/issue/UD-686) - Update screen columns on student list screen
+- [UD-697](https://dyned.myjetbrains.com/youtrack/issue/UD-697) - Prevent onboard without request to interim
+- [UD-710](https://dyned.myjetbrains.com/youtrack/issue/UD-710) - Update bulk import label
+- [UD-715](https://dyned.myjetbrains.com/youtrack/issue/UD-715) - Update register function using maximum students limit
+- [UD-717](https://dyned.myjetbrains.com/youtrack/issue/UD-717) - Update labels
+- [UD-718](https://dyned.myjetbrains.com/youtrack/issue/UD-718) - Add Areas for imporvement modal
+- [UD-719](https://dyned.myjetbrains.com/youtrack/issue/UD-719) - Limit organization name character limit
+- [UD-722](https://dyned.myjetbrains.com/youtrack/issue/UD-722) - Validate expiration date on bulk import new student method
+- [UD-727](https://dyned.myjetbrains.com/youtrack/issue/UD-727) - Update date to use a single format displayed
+- [UD-730](https://dyned.myjetbrains.com/youtrack/issue/UD-730) - Fix retrieve token balance
+- [UD-731](https://dyned.myjetbrains.com/youtrack/issue/UD-731) - Allow organization admin, agent and reseller to add and edit organization
+- [UD-750](https://dyned.myjetbrains.com/youtrack/issue/UD-750) - Change alert popup modal
+- [UD-751](https://dyned.myjetbrains.com/youtrack/issue/UD-751) - Prevent student name using '+' characters
+- [UD-753](https://dyned.myjetbrains.com/youtrack/issue/UD-753) - Allow teacher to access student data
+- [UD-757](https://dyned.myjetbrains.com/youtrack/issue/UD-757) - Add server detail info
+- [UD-758](https://dyned.myjetbrains.com/youtrack/issue/UD-758) - Change etest candidate urls
+- [UD-759](https://dyned.myjetbrains.com/youtrack/issue/UD-759) - Handle unporcessed data using case insensitive email address
+- [UD-760](https://dyned.myjetbrains.com/youtrack/issue/UD-760) - Hide grading function
+- [UD-763](https://dyned.myjetbrains.com/youtrack/issue/UD-763) - Update onboard student after take PT
+- [UD-769](https://dyned.myjetbrains.com/youtrack/issue/UD-769) - Remove multiple whitespace on bulk import
+- [UD-770](https://dyned.myjetbrains.com/youtrack/issue/UD-770) - Update label
 
-## [1.2.2] in June 22st, 2021
+## [1.2.2] on June 22st, 2021
 - [UD-638](https://dyned.myjetbrains.com/youtrack/issue/UD-638) - Fixed use valid email format
 - [UD-690](https://dyned.myjetbrains.com/youtrack/issue/UD-690) - Fixed disable popup for study summary report
 
-## [1.2.1] in June 8th, 2021
+## [1.2.1] on June 8th, 2021
 - [UD-691](https://dyned.myjetbrains.com/youtrack/issue/UD-691) - Hotfix issue export data report
 
-## [1.2.0] in June 3rd, 2021
+## [1.2.0] on June 3rd, 2021
 - [UD-656](https://dyned.myjetbrains.com/youtrack/issue/UD-656) - Add reset token function to live directly
 - [UD-667](https://dyned.myjetbrains.com/youtrack/issue/UD-667) - Add Study Data Collection
 - [UD-676](https://dyned.myjetbrains.com/youtrack/issue/UD-676) - Fixed student bill for deactivated student before/after expired date
