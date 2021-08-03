@@ -5,6 +5,12 @@ title: eTest Widget and Cloud
 # eTest Widget and Cloud
 Application for Assessment Tests (Placement Tests or Certification Tests) systems on neo.
 
+## [2.8.14] on August 03rd, 2021
+- [ET-416](https://dyned.myjetbrains.com/youtrack/issue/ET-416) Form appear after click reload on browser
+- [ET-412](https://dyned.myjetbrains.com/youtrack/issue/ET-412) add a "pretest" sign to specify the type of test
+- [ET-411](https://dyned.myjetbrains.com/youtrack/issue/ET-411) eTest:  Site maintenance prompt visual
+- [ET-419](https://dyned.myjetbrains.com/youtrack/issue/ET-419) PT Test Result: Unneeded Plus sign [+] between student's first and last name
+
 ## [2.8.13] on April 29th, 2021
 - [ET-405](https://dyned.myjetbrains.com/youtrack/issue/ET-405) Fixed issue for transition color that doesn't match the image when it clicked.
 - [ET-408](https://dyned.myjetbrains.com/youtrack/issue/ET-408) Fixed issue for PT that doesn't auto submit the answer after 3rd attempt.

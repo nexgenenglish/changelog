@@ -5,6 +5,10 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## Etest v1.4.18 on August 03rd, 2021
+- [ETAPI-71](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-71) made a possible candidate for the ePT once onboard
+- [ETAPI-74](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-74) separate notification configuration after ePT
+
 ## [v1.4.17]  on April 10th, 2021
 - [ETAPI-58](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-58) The etest cant be loaded (Improvement)
 - [ETAPI-65](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-65) A 404 error will appear when you submit your score--------ZiJie
