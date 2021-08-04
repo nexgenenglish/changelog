@@ -5,6 +5,12 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.14.2] on August 4th, 2021
+- [NSA-2797](https://dyned.myjetbrains.com/youtrack/issue/NSA-2797) The class will automatically quit while the student is recording.------Impact
+- [NSA-2801](https://dyned.myjetbrains.com/youtrack/issue/NSA-2801) The login interface unifies one language--------Leader
+- [NSA-2812](https://dyned.myjetbrains.com/youtrack/issue/NSA-2812) The NSA release on huawei store was rejected
+- [hotfix] fix Right-to-Left layout
+
 ## [v1.14.1] on July 15th, 2021
 - [NSA-2791](https://dyned.myjetbrains.com/youtrack/issue/NSA-2791) The student cannot proceed to the next step after completing the current step. ---------Istone
 - [NSA-2797](https://dyned.myjetbrains.com/youtrack/issue/NSA-2797) The class will automatically quit while the student is recording.------Impact

@@ -5,6 +5,11 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+## [v1.14.2] on August 4th, 2021
+- [hotfix] update fix SR dictionary url
+- [hotfix] remove download dsa flow on login non tester user
+- [NSA-2816](https://dyned.myjetbrains.com/youtrack/issue/NSA-2816) The app crashed when click the mylesson --DE
+
 <!-- ## [v1.14.1] on July 15th, 2021
 - [hotfix] Don’t download dsa_flow, dsa_rules, study_path for non tester user
 - [hotfix] update fix SR dictionary url -->
