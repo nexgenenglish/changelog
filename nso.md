@@ -5,6 +5,15 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study
 
+## [v.0.9.18] on July, 26th 2021
+* [nSO-486](https://dyned.myjetbrains.com/youtrack/issue/nSO-486) Button for "Study now" is invisible.
+* [nSO-478](https://dyned.myjetbrains.com/youtrack/issue/nSO-478) Lesson stuck after answering the question in Level B1 EBTN Unit 2 English by the Numbers Quiz.
+* [nSO-482](https://dyned.myjetbrains.com/youtrack/issue/nSO-482) nSO is suddenly frozen when answering a question sometimes.
+* [nSO-496](https://dyned.myjetbrains.com/youtrack/issue/nSO-496) Some text (resolution) shows not well on lenovo laptop
+* [nSO-412](https://dyned.myjetbrains.com/youtrack/issue/nSO-412) Fixed issue after login, student can't click "study now" and use function buttons directly.
+* Show login form when the SSO token is expired.
+* Make close button bigger in the PT/ET modal.
+
 ## [v.0.9.17] on July 14th, 2021
 * [nSO-476](https://dyned.myjetbrains.com/youtrack/issue/nSO-476) Fixed screen that showing score when reading the next sentence on Memory Game of RFS.
 * [nSO-351](https://dyned.myjetbrains.com/youtrack/issue/nSO-351) Fixed repeat button that play different lesson not the previous one.

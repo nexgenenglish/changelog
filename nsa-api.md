@@ -6,25 +6,25 @@ title: neo Study App API
 Service (API) to manage neo Study App.
 
 ## 1.9.16 on August 03rd, 2021
-- NSAAPI-356 Several students had already taken the PT but the problem happened only after one student began studying neo
-- NSAAPI-357 The NSA api does not work correctly
+- [NSAAPI-356](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-356) Several students had already taken the PT but the problem happened only after one student began studying neo.
+- [NSAAPI-357](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-357) The NSA api does not work correctly.
 
 ## 1.9.15 on July 26th, 2021
-- NSAAPI-341 Implement Grading Screen
-- NSAAPI-346 Issue about details data on screen 7
-- NSAAPI-352 Profile picture does not show when I log in and I am prompted to provide picture.
-- NSAAPI-353 create app version for iOS
-- NSAAPI-355 Teachers do not have access to PT Results from Class screen.
+- [NSAAPI-341](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-341) Implement Grading Screen.
+- [NSAAPI-346](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-346) Issue about details data on screen 7.
+- [NSAAPI-352](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-352) Profile picture does not show and prompted to provide picture.
+- [NSAAPI-353](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-353) Create app version for iOS.
+- [NSAAPI-355](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-355) Teachers do not have access to PT Results from Class screen.
 
 ## 1.9.14.4 on July 08th, 2021
-- NSAAPI-350 The plane is not in the correct position
+- [NSAAPI-350](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-350) The plane (animation) is not in the correct position.
 
 ## 1.9.14.3 on July 05th, 2021
-- NSAAPI-254 validate student changes the avatar and fullname
+- [NSAAPI-254](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-254) Validate student changes the avatar and fullname.
 
 ## 1.9.14.2 on July 01st, 2021
-- NSA-2786 it pops up error after the lesson finished
-- NSA-2788 The MT cant be loaded-- spk
+- [NSA-2786](https://dyned.myjetbrains.com/youtrack/issue/NSA-2786) Error modal pops up after the lesson finished.
+- [NSA-2788](https://dyned.myjetbrains.com/youtrack/issue/NSA-2788) MT cant be loaded-- spk.
 
 ## 1.9.14.1 on June 28th, 2021
 - [Improvement] Added an endpoint last study data.
