@@ -5,6 +5,24 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study
 
+## [v.0.9.19] on August, 9th 2021
+* [nSO-515]](https://dyned.myjetbrains.com/youtrack/issue/nSO-515) Fixed issue for request assets with slow internet connection, please wait.
+* [nSO-503]](https://dyned.myjetbrains.com/youtrack/issue/nSO-503) Fixed issue for notification request assets with slow internet connection" that always appear.
+* [nSO-246]](https://dyned.myjetbrains.com/youtrack/issue/nSO-246) Fixed issue on Chromebook that show no indication on what to do to read the paragraph.
+* [nSO-510]](https://dyned.myjetbrains.com/youtrack/issue/nSO-510) Fixed issue for Question Practice: no SR result shown after being recognized.
+* [nSO-511]](https://dyned.myjetbrains.com/youtrack/issue/nSO-511) Fixed issue for SR Result that does not show after doing SR for the first time on Step 4 and 5 of presentation.
+* [nSO-509]](https://dyned.myjetbrains.com/youtrack/issue/nSO-509) Fixed test position that keep moving to left and right after clicking the answer.
+* [nSO-479]](https://dyned.myjetbrains.com/youtrack/issue/nSO-479) Fixed issue for text that still appear after clicking text and record button when studying step 3.
+* [nSO-499]](https://dyned.myjetbrains.com/youtrack/issue/nSO-499) Fixed issue for the sentence recognized was still shown when doing sr for the same sentence the second time.
+* [nSO-506]](https://dyned.myjetbrains.com/youtrack/issue/nSO-506) Fixed issue for "request assets with slow internet connection" text position.
+* [nSO-485]](https://dyned.myjetbrains.com/youtrack/issue/nSO-485) Fixed issue for select answer frame that still appear on the next question.
+* [nSO-440]](https://dyned.myjetbrains.com/youtrack/issue/nSO-440) Fixed issue when clicking Pause button, the icon changes from Pause to Play but Play is not active.
+* [nSO-514]](https://dyned.myjetbrains.com/youtrack/issue/nSO-514) Fixed unhandled logic when an expired account tried to loged in.
+* [nSO-505]](https://dyned.myjetbrains.com/youtrack/issue/nSO-505) Fixed crash when entering a Teacher or Admin Account as the student's login
+* [nSO-486]](https://dyned.myjetbrains.com/youtrack/issue/nSO-486) Button for "Study now" is invisible.
+* [nSO-493]](https://dyned.myjetbrains.com/youtrack/issue/nSO-493) Lesson name appear for a while after finishing one step and getting study points.
+* [nSO-491]](https://dyned.myjetbrains.com/youtrack/issue/nSO-491) Updated the thumbnail review lesson into grey after finished the chosen lesson.
+
 ## [v.0.9.18] on July, 26th 2021
 * [nSO-486](https://dyned.myjetbrains.com/youtrack/issue/nSO-486) Button for "Study now" is invisible.
 * [nSO-478](https://dyned.myjetbrains.com/youtrack/issue/nSO-478) Lesson stuck after answering the question in Level B1 EBTN Unit 2 English by the Numbers Quiz.
