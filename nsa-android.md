@@ -6,9 +6,9 @@ title: neo Study App - Android
 neo Study application for Android
 
 ## [v1.14.3] on August 19th, 2021
-- [NSA-2824](https://dyned.myjetbrains.com/youtrack/issue/NSA-2824) Create Multiple Target Deployment
+- [NSA-2824](https://dyned.myjetbrains.com/youtrack/issue/NSA-2824) Create Multiple Target Deployment.
 - [NSA-2818](https://dyned.myjetbrains.com/youtrack/issue/NSA-2818) Error : Unauthorized occurs on some of Thailand's student.	
-- [NSA-2826](https://dyned.myjetbrains.com/youtrack/issue/NSA-2826) Inconsistency on the Account information Window
+- [NSA-2826](https://dyned.myjetbrains.com/youtrack/issue/NSA-2826) Inconsistency on the Account information Window.
 
 ## [v1.14.2] on August 4th, 2021
 - [NSA-2797](https://dyned.myjetbrains.com/youtrack/issue/NSA-2797) The class will automatically quit while the student is recording.------Impact
