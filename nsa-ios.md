@@ -5,6 +5,14 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+## [v.1.14.3] on August 19th, 2021
+- [NSA-2824](https://dyned.myjetbrains.com/youtrack/issue/NSA-2824) Create Multiple Target Deployment
+- [hotfix] remove download dsa flow on login non tester user
+- [NSA-2827](https://dyned.myjetbrains.com/youtrack/issue/NSA-2827) nsa app on iOS allows passwords to be less than 8 characters long
+- [NSA-2819](https://dyned.myjetbrains.com/youtrack/issue/NSA-2819) on v1.14.2-210723130701 of ios version, the character "Y" shows "v"
+- [NSA-2830](https://dyned.myjetbrains.com/youtrack/issue/NSA-2830) nsa: Inconsistency with avatar with old student
+- [hotfix] cannot login
+
 ## [v1.14.2] on August 4th, 2021
 - [hotfix] update fix SR dictionary url
 - [hotfix] remove download dsa flow on login non tester user
