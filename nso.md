@@ -5,6 +5,29 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study
 
+## [v.1.0.1] on August, 25th 2021
+* [nSO-530](https://dyned.myjetbrains.com/youtrack/issue/nSO-530) Fixed error after clicking on Study Now.
+* [nSO-527](https://dyned.myjetbrains.com/youtrack/issue/nSO-527) Fixed error in staging and development stage.
+
+## [v.1.0.0] on August, 24th 2021
+* [nSO-475](https://dyned.myjetbrains.com/youtrack/issue/nSO-475) Fixed the different wording between the question and the sentence.
+* [nSO-402](https://dyned.myjetbrains.com/youtrack/issue/nSO-402) Fixed icons which become disabled (greyed out).
+* [nSO-487](https://dyned.myjetbrains.com/youtrack/issue/nSO-487) nSO still play sound though clicking pause button and after clicking button, there are two kinds of nSO coursware's sound.
+* [nSO-504](https://dyned.myjetbrains.com/youtrack/issue/nSO-504) Fixed Lesson C1>AL1&AL2 MT that stuck after clicking pause button. 
+* [nSO-524](https://dyned.myjetbrains.com/youtrack/issue/nSO-524) Fixed not centered wording on some answers.
+* [nSO-516](https://dyned.myjetbrains.com/youtrack/issue/nSO-516) After typing some words and click "repeat" button or "check" button, the words typed were wiped off.
+* [nSO-523](https://dyned.myjetbrains.com/youtrack/issue/nSO-523) Fixed nSO that still play sound when pausing the lesson.
+* [nSO-508](https://dyned.myjetbrains.com/youtrack/issue/nSO-508) Fixed support zendesk window that appear not properly.
+* [nSO-519](https://dyned.myjetbrains.com/youtrack/issue/nSO-519) Fixed issue after finishing one review lesson, the review lesson name will be there for a little while.
+* [nSO-518](https://dyned.myjetbrains.com/youtrack/issue/nSO-518) Fixed issue for taking study review lesson but exit back MT screen, MT picture will disappear.
+* [nSO-486](https://dyned.myjetbrains.com/youtrack/issue/nSO-486) Fixed button for "Study now" that invisible.
+* [nSO-525](https://dyned.myjetbrains.com/youtrack/issue/nSO-525) Fixed issue in MT screen that show two "study now" button.
+* [nSO-517](https://dyned.myjetbrains.com/youtrack/issue/nSO-517) Fixed issue on Expand Home Screen that show two "study now" button.
+* [nSO-317](https://dyned.myjetbrains.com/youtrack/issue/nSO-317) Fixed the duplicated sound in the next sentence on Step 5 if user clicking 'Skip' right after doing the comprehension question.
+* [nSO-279](https://dyned.myjetbrains.com/youtrack/issue/nSO-279) Fixed the graphic issue.
+* [nSO-495](https://dyned.myjetbrains.com/youtrack/issue/nSO-495) Fixed issue when studying ebtn u3 step 9, MT 3 was open.
+* [nSO-349](https://dyned.myjetbrains.com/youtrack/issue/nSO-349) Websocket connection error occurs in browser console frequently - might be related to the 'Support' widget.
+
 ## [v.0.9.19] on August, 9th 2021
 * [nSO-515]](https://dyned.myjetbrains.com/youtrack/issue/nSO-515) Fixed issue for request assets with slow internet connection, please wait.
 * [nSO-503]](https://dyned.myjetbrains.com/youtrack/issue/nSO-503) Fixed issue for notification request assets with slow internet connection" that always appear.
