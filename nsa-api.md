@@ -5,6 +5,12 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+## 1.9.17 on August 31st, 2021
+- [NSAAPI-362](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-362) NSAAPI-362 get remain point to test is not correct
+- [NSAAPI-361](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-361) NSAAPI-361 prevent student to take CT
+- [NSAAPI-359](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-359) NSAAPI-359 Wrong E-test level displayed for a student
+- [NSAAPI-360](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-360) NSAAPI-360 Setup Average point weekly
+
 ## 1.9.16 on August 03rd, 2021
 - [NSAAPI-356](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-356) Several students had already taken the PT but the problem happened only after one student began studying neo.
 - [NSAAPI-357](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-357) The NSA api does not work correctly.
