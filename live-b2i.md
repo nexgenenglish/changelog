@@ -5,6 +5,15 @@ title: neo Live B2I
 # Live B2I
 A website for DynEd students and coaches to study using Live Session and also for admins and affiliates to manage DynEd Live's environment.
 
+## [v.1.1.16] on August 31st, 2021
+- [DELB2I-1274](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1274) Creates Session Report.
+- [DELB2I-1277](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1277) Updated Agora.
+- [DELB2I-1275](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1275) Added function to create support account.
+- [DELB2I-1276](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1276) Added function export session report to excel.
+- [DELB2I-1278](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1278) Request access for Supra regional login and monitor password for Live request.
+- [DELB2I-1272](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1272) Changed the way to retrieve student study progress direct from API.
+- [DELB2I-1284](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1284) Update version to 1.1.16.
+
 ## [v.1.1.15] on July 1st, 2021
 - [NELB2C-1347](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1347) Fixed Cron create histories.
 - [NELB2C-1360](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1360) Fixed Student token histories.

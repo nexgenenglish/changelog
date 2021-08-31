@@ -5,6 +5,17 @@ title: neo Live B2C
 # Live B2C
 A website for neo students to study using Live Session.
 
+## [v.1.1.14] on August 31st, 2021
+- [NELB2C-1388](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1388) Updated myneo URL scheme.
+- [NELB2C-1385](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1385) Updated Agora.
+- [NELB2C-1379](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1379) Updated reset token API.
+- [NELB2C-1370](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1370) Changed the way to retrieve student study progress direct from API.
+- [NELB2C-1383](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1383) Fixed incorrect date and time on token history.
+- [NELB2C-1376](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1376) Fixed some incorrect wording on NEO and live screen.
+- [NELB2C-1377](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1377) Fixed text position for book a coach page.
+- [NELB2C-1389](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1389) Created session report API.
+- [NELB2C-1390](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1390) Updated version to 1.1.14.
+
 ## [v.1.1.12] on July 1st, 2021
 - [NELB2C-1362](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1362) Updated Study Dashboard.
 - [NELB2C-1360](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1360) Fixed student's token history.
