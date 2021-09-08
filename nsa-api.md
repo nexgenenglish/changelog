@@ -5,6 +5,12 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+## 1.9.18 on September 07th, 2021
+- [NSAAPI-368](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-368) NSAAPI-368 Difference in Average Points per Week (Grading-enabled vs Grading Disable)
+- [NSAAPI-365](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-365) NSAAPI-365 use disabled date data to determine end period for student that in a class with grading on
+- [NSAAPI-364](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-364) NSAAPI-364 When class grading is on, differentiate how to count the first week
+- [NSAAPI-363](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-363) NSAAPI-363 Don't count partial week as week for counting average points per week (applicable fro grading on/off)
+
 ## 1.9.17 on August 31st, 2021
 - [NSAAPI-362](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-362) NSAAPI-362 get remain point to test is not correct
 - [NSAAPI-361](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-361) NSAAPI-361 prevent student to take CT
