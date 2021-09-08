@@ -11,6 +11,40 @@ An universal dashboard to manage neo ecosystem.
 ## [1.3.1] on Aug 3rd, 2021
 - [UD-660](https://dyned.myjetbrains.com/youtrack/issue/UD-660) - Prevent teacher access other class from other organization
 
+## [1.4.0] on Sept 7th, 2021
+- [UD-677](https://dyned.myjetbrains.com/youtrack/issue/UD-677) - Fixed change trial student to regular student.
+- [UD-689](https://dyned.myjetbrains.com/youtrack/issue/UD-689) - Screen 7 list of students in class.
+- [UD-728](https://dyned.myjetbrains.com/youtrack/issue/UD-728) - Grading bugs.
+- [UD-735](https://dyned.myjetbrains.com/youtrack/issue/UD-735) - Enable grading menu.
+- [UD-736](https://dyned.myjetbrains.com/youtrack/issue/UD-736) - Store grading status after enabled.
+- [UD-737](https://dyned.myjetbrains.com/youtrack/issue/UD-737) - Grey out PT result button.
+- [UD-738](https://dyned.myjetbrains.com/youtrack/issue/UD-738) - Improve organization form.
+- [UD-740](https://dyned.myjetbrains.com/youtrack/issue/UD-740) - Update organization configuration page viewable by org admin.
+- [UD-742](https://dyned.myjetbrains.com/youtrack/issue/UD-742) - Fixed PT result.
+- [UD-743](https://dyned.myjetbrains.com/youtrack/issue/UD-743) - Added 'last 4 weeks' option on class page.
+- [UD-744](https://dyned.myjetbrains.com/youtrack/issue/UD-744) - Fixed token reset behaviour when changed level.
+- [UD-765](https://dyned.myjetbrains.com/youtrack/issue/UD-765) - Update student page.
+- [UD-775](https://dyned.myjetbrains.com/youtrack/issue/UD-775) - Update date format in bulk students spreadsheet file template.
+- [UD-785](https://dyned.myjetbrains.com/youtrack/issue/UD-785) - Update class configuration page.
+- [UD-787](https://dyned.myjetbrains.com/youtrack/issue/UD-787) - Update certificate part in student's profile page.
+- [UD-792](https://dyned.myjetbrains.com/youtrack/issue/UD-792) - Add enable grading option on organization form page.
+- [UD-801](https://dyned.myjetbrains.com/youtrack/issue/UD-801) - Update default token.
+- [UD-812](https://dyned.myjetbrains.com/youtrack/issue/UD-812) - Fixed change trial student to regular student.
+- [UD-837](https://dyned.myjetbrains.com/youtrack/issue/UD-837) - Fixed number of students.
+- [UD-841](https://dyned.myjetbrains.com/youtrack/issue/UD-841) - Fixed error search student on quick search page.
+- [UD-847](https://dyned.myjetbrains.com/youtrack/issue/UD-847) - Fixed bugs on lock/unlock CT feature.
+- [UD-849](https://dyned.myjetbrains.com/youtrack/issue/UD-849) - Update password validation using 8 characters minimum.
+- [UD-850](https://dyned.myjetbrains.com/youtrack/issue/UD-850) - Update load speed on reopen CT feature.
+
+## [1.3.3] on Aug 24th, 2021
+- [UD-832](https://dyned.myjetbrains.com/youtrack/issue/UD-832) - Hotfix enable bulk student transfer.
+
+## [1.3.2] on Aug 4th, 2021
+- [UD-782](https://dyned.myjetbrains.com/youtrack/issue/UD-782) - Update misspelling label.
+
+## [1.3.1] on Aug 3rd, 2021
+- [UD-779](https://dyned.myjetbrains.com/youtrack/issue/UD-779) - Update etest url for PT Report.
+
 ## [1.3.0] on Aug 2nd, 2021
 - [UD-660](https://dyned.myjetbrains.com/youtrack/issue/UD-660) - Prevent teacher access other class from other organization
 - [UD-669](https://dyned.myjetbrains.com/youtrack/issue/UD-669) - Added b2ed organization configurations

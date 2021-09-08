@@ -4,6 +4,27 @@ title: B2C Portal
 
 # B2C Portal
 
+##[v1.1.18] on September 7th, 2021
+- [MNS-755](https://dyned.myjetbrains.com/youtrack/issue/MNS-755) Fixed sample certificate fullname is too long.
+- Added CT lock/unlock status on register.
+- Clear cache after successfully manual issued certificate.
+- [MNS-756](https://dyned.myjetbrains.com/youtrack/issue/MNS-756) Updated student status 'failed' to 'passed interview' if passed interview.
+- [UD-834](https://dyned.myjetbrains.com/youtrack/issue/UD-834) Update email template signature to "Nexgen neo team".
+- Version to 1.1.18.
+
+## [v1.1.17] on July 7th, 2021
+- Bypass onboard API.
+- Hide goto myneo live if student doesnt has access.
+- Fix register to sso when use voucher.
+- Version 1.1.17.
+
+## [v1.1.15] on February 22nd, 2021
+- Added new video: mylessons (En, Id, Kr, Cn, Cz, Spa).
+- Added Korean video: (how to register, neo study app, how to study).
+- [MNS-748](https://dyned.myjetbrains.com/youtrack/issue/MNS-748) Improved some korean translation.
+- Added API: fetch study record per class (reporting necessary).
+- [UD-559](https://dyned.myjetbrains.com/youtrack/issue/UD-559) Automatically add live token after change account to regular.
+
 ## [v1.1.14] on January 25th, 2021
 - [MNS-745](https://dyned.myjetbrains.com/youtrack/issue/MNS-745) Added validation to reopen CT and fixed total attempt after reopen CT.
 - [MNS-746](https://dyned.myjetbrains.com/youtrack/issue/MNS-746) Changed email service to smtp.

@@ -5,6 +5,56 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study
 
+## [v.1.0.1] on August, 25th 2021
+* [nSO-530](https://dyned.myjetbrains.com/youtrack/issue/nSO-530) Fixed error after clicking on Study Now.
+* [nSO-527](https://dyned.myjetbrains.com/youtrack/issue/nSO-527) Fixed error in staging and development stage.
+
+## [v.1.0.0] on August, 24th 2021
+* [nSO-475](https://dyned.myjetbrains.com/youtrack/issue/nSO-475) Fixed the different wording between the question and the sentence.
+* [nSO-402](https://dyned.myjetbrains.com/youtrack/issue/nSO-402) Fixed icons which become disabled (greyed out).
+* [nSO-487](https://dyned.myjetbrains.com/youtrack/issue/nSO-487) nSO still play sound though clicking pause button and after clicking button, there are two kinds of nSO coursware's sound.
+* [nSO-504](https://dyned.myjetbrains.com/youtrack/issue/nSO-504) Fixed Lesson C1>AL1&AL2 MT that stuck after clicking pause button. 
+* [nSO-524](https://dyned.myjetbrains.com/youtrack/issue/nSO-524) Fixed not centered wording on some answers.
+* [nSO-516](https://dyned.myjetbrains.com/youtrack/issue/nSO-516) After typing some words and click "repeat" button or "check" button, the words typed were wiped off.
+* [nSO-523](https://dyned.myjetbrains.com/youtrack/issue/nSO-523) Fixed nSO that still play sound when pausing the lesson.
+* [nSO-508](https://dyned.myjetbrains.com/youtrack/issue/nSO-508) Fixed support zendesk window that appear not properly.
+* [nSO-519](https://dyned.myjetbrains.com/youtrack/issue/nSO-519) Fixed issue after finishing one review lesson, the review lesson name will be there for a little while.
+* [nSO-518](https://dyned.myjetbrains.com/youtrack/issue/nSO-518) Fixed issue for taking study review lesson but exit back MT screen, MT picture will disappear.
+* [nSO-486](https://dyned.myjetbrains.com/youtrack/issue/nSO-486) Fixed button for "Study now" that invisible.
+* [nSO-525](https://dyned.myjetbrains.com/youtrack/issue/nSO-525) Fixed issue in MT screen that show two "study now" button.
+* [nSO-517](https://dyned.myjetbrains.com/youtrack/issue/nSO-517) Fixed issue on Expand Home Screen that show two "study now" button.
+* [nSO-317](https://dyned.myjetbrains.com/youtrack/issue/nSO-317) Fixed the duplicated sound in the next sentence on Step 5 if user clicking 'Skip' right after doing the comprehension question.
+* [nSO-279](https://dyned.myjetbrains.com/youtrack/issue/nSO-279) Fixed the graphic issue.
+* [nSO-495](https://dyned.myjetbrains.com/youtrack/issue/nSO-495) Fixed issue when studying ebtn u3 step 9, MT 3 was open.
+* [nSO-349](https://dyned.myjetbrains.com/youtrack/issue/nSO-349) Websocket connection error occurs in browser console frequently - might be related to the 'Support' widget.
+
+## [v.0.9.19] on August, 9th 2021
+* [nSO-515]](https://dyned.myjetbrains.com/youtrack/issue/nSO-515) Fixed issue for request assets with slow internet connection, please wait.
+* [nSO-503]](https://dyned.myjetbrains.com/youtrack/issue/nSO-503) Fixed issue for notification request assets with slow internet connection" that always appear.
+* [nSO-246]](https://dyned.myjetbrains.com/youtrack/issue/nSO-246) Fixed issue on Chromebook that show no indication on what to do to read the paragraph.
+* [nSO-510]](https://dyned.myjetbrains.com/youtrack/issue/nSO-510) Fixed issue for Question Practice: no SR result shown after being recognized.
+* [nSO-511]](https://dyned.myjetbrains.com/youtrack/issue/nSO-511) Fixed issue for SR Result that does not show after doing SR for the first time on Step 4 and 5 of presentation.
+* [nSO-509]](https://dyned.myjetbrains.com/youtrack/issue/nSO-509) Fixed test position that keep moving to left and right after clicking the answer.
+* [nSO-479]](https://dyned.myjetbrains.com/youtrack/issue/nSO-479) Fixed issue for text that still appear after clicking text and record button when studying step 3.
+* [nSO-499]](https://dyned.myjetbrains.com/youtrack/issue/nSO-499) Fixed issue for the sentence recognized was still shown when doing sr for the same sentence the second time.
+* [nSO-506]](https://dyned.myjetbrains.com/youtrack/issue/nSO-506) Fixed issue for "request assets with slow internet connection" text position.
+* [nSO-485]](https://dyned.myjetbrains.com/youtrack/issue/nSO-485) Fixed issue for select answer frame that still appear on the next question.
+* [nSO-440]](https://dyned.myjetbrains.com/youtrack/issue/nSO-440) Fixed issue when clicking Pause button, the icon changes from Pause to Play but Play is not active.
+* [nSO-514]](https://dyned.myjetbrains.com/youtrack/issue/nSO-514) Fixed unhandled logic when an expired account tried to loged in.
+* [nSO-505]](https://dyned.myjetbrains.com/youtrack/issue/nSO-505) Fixed crash when entering a Teacher or Admin Account as the student's login
+* [nSO-486]](https://dyned.myjetbrains.com/youtrack/issue/nSO-486) Button for "Study now" is invisible.
+* [nSO-493]](https://dyned.myjetbrains.com/youtrack/issue/nSO-493) Lesson name appear for a while after finishing one step and getting study points.
+* [nSO-491]](https://dyned.myjetbrains.com/youtrack/issue/nSO-491) Updated the thumbnail review lesson into grey after finished the chosen lesson.
+
+## [v.0.9.18] on July, 26th 2021
+* [nSO-486](https://dyned.myjetbrains.com/youtrack/issue/nSO-486) Button for "Study now" is invisible.
+* [nSO-478](https://dyned.myjetbrains.com/youtrack/issue/nSO-478) Lesson stuck after answering the question in Level B1 EBTN Unit 2 English by the Numbers Quiz.
+* [nSO-482](https://dyned.myjetbrains.com/youtrack/issue/nSO-482) nSO is suddenly frozen when answering a question sometimes.
+* [nSO-496](https://dyned.myjetbrains.com/youtrack/issue/nSO-496) Some text (resolution) shows not well on lenovo laptop
+* [nSO-412](https://dyned.myjetbrains.com/youtrack/issue/nSO-412) Fixed issue after login, student can't click "study now" and use function buttons directly.
+* Show login form when the SSO token is expired.
+* Make close button bigger in the PT/ET modal.
+
 ## [v.0.9.17] on July 14th, 2021
 * [nSO-476](https://dyned.myjetbrains.com/youtrack/issue/nSO-476) Fixed screen that showing score when reading the next sentence on Memory Game of RFS.
 * [nSO-351](https://dyned.myjetbrains.com/youtrack/issue/nSO-351) Fixed repeat button that play different lesson not the previous one.
