@@ -5,6 +5,9 @@ title: Interim
 # Neo Interim
 neo Interim is a microsite that provides middleware for neo Ecosystem.
 
+## [v1.1.2] on Sep 8th, 2021
+- Updated handle CT status empty for old students data.
+
 ## [v1.1.1] on Sep 7th, 2021
 - [UD-785](https://dyned.myjetbrains.com/youtrack/issue/UD-785) - Update class configuration page.
 
