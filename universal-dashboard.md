@@ -5,6 +5,11 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [1.3.2] on Aug 4th, 2021
+- [UD-660](https://dyned.myjetbrains.com/youtrack/issue/UD-660) - Prevent teacher access other class from other organization
+
+## [1.3.1] on Aug 3rd, 2021
+- [UD-660](https://dyned.myjetbrains.com/youtrack/issue/UD-660) - Prevent teacher access other class from other organization
 
 ## [1.3.0] on Aug 2nd, 2021
 - [UD-660](https://dyned.myjetbrains.com/youtrack/issue/UD-660) - Prevent teacher access other class from other organization
