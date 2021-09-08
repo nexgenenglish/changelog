@@ -5,6 +5,14 @@ title: Interim
 # Neo Interim
 neo Interim is a microsite that provides middleware for neo Ecosystem.
 
+## [v1.1.1] on Sep 7th, 2021
+- [UD-785](https://dyned.myjetbrains.com/youtrack/issue/UD-785) - Update class configuration page.
+
+## [v1.1.0] on Jul 8th, 2021
+- Aliyun notification channel for China region phone number.
+- Token lifetime changed to 5 years.
+- Telescope pruning scheduler.
+
 ## [v1.0.23] on May 11th, 2021
 - [UD-559](https://dyned.myjetbrains.com/youtrack/issue/UD-559) Fixed twice wording
 - [UD-662](https://dyned.myjetbrains.com/youtrack/issue/UD-662) Added email template to facilitate live system
