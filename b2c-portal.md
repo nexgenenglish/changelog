@@ -4,7 +4,7 @@ title: B2C Portal
 
 # B2C Portal
 
-##[v1.1.18] on September 7th, 2021
+## [v1.1.18] on September 7th, 2021
 - [MNS-755](https://dyned.myjetbrains.com/youtrack/issue/MNS-755) Fixed sample certificate fullname is too long.
 - Added CT lock/unlock status on register.
 - Clear cache after successfully manual issued certificate.
