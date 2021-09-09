@@ -5,6 +5,9 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## Etest v1.4.19 on September 08th, 2021
+- [ETAPI-77](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-77) support take force ePT from Cloud and Widget
+
 ## Etest v1.4.18 on August 03rd, 2021
 - [ETAPI-71](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-71) made a possible candidate for the ePT once onboard
 - [ETAPI-74](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-74) separate notification configuration after ePT
