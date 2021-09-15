@@ -5,6 +5,11 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+##[v.1.14.4] on September 15th, 2021
+- [NSA-2843](https://dyned.myjetbrains.com/youtrack/issue/NSA-2843) Fixed the difference on iOS and Android for B1>TLS E8> Nothing can stop me now.>step1.
+- [NSA-2847](https://dyned.myjetbrains.com/youtrack/issue/NSA-2847) Fixed the issue "network errors" on MyLesson.
+- [NSA-2858](https://dyned.myjetbrains.com/youtrack/issue/NSA-2858) Server error when downloading files (add acl dsa access check when login).
+
 ## [v.1.14.3] on August 19th, 2021
 - [NSA-2824](https://dyned.myjetbrains.com/youtrack/issue/NSA-2824) Create Multiple Target Deployment
 - [hotfix] remove download dsa flow on login non tester user.

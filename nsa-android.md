@@ -5,6 +5,18 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.14.4] on September 15th, 2021
+- [NSA-2828](https://dyned.myjetbrains.com/youtrack/issue/NSA-2828) Crash when clicking attach button in contact us.
+- [NSA-2832](https://dyned.myjetbrains.com/youtrack/issue/NSA-2832) Re-download function doesn't work correctly.
+- [NSA-2838](https://dyned.myjetbrains.com/youtrack/issue/NSA-2838) The Lesson name is not centered when it have more than 1 line.
+- [NSA-2842](https://dyned.myjetbrains.com/youtrack/issue/NSA-2842) The title on the entry screen is left aligned.
+- [NSA-2840](https://dyned.myjetbrains.com/youtrack/issue/NSA-2840) Updated the flow of NSA app update.
+- [feature] Add different app scheme for different environment.
+- [NSA-2844](https://dyned.myjetbrains.com/youtrack/issue/NSA-2844) Icon attached can't work at neo chat support.
+- [NSA-2852](https://dyned.myjetbrains.com/youtrack/issue/NSA-2852) Fixed the incorrect color on dictation module. 
+- [NSA-2858](https://dyned.myjetbrains.com/youtrack/issue/NSA-2858) Server error when downloading files (add acl dsa access check when login).
+- [NSA-2859](https://dyned.myjetbrains.com/youtrack/issue/NSA-2859) Fixed issue of no response when click option.
+
 ## [v1.14.3] on August 19th, 2021
 - [NSA-2824](https://dyned.myjetbrains.com/youtrack/issue/NSA-2824) Create Multiple Target Deployment.
 - [NSA-2818](https://dyned.myjetbrains.com/youtrack/issue/NSA-2818) Error : Unauthorized occurs on some of Thailand's student.	
