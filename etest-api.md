@@ -5,6 +5,11 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## Etest v1.4.20 on September 22th, 2021
+- [ETAPI-78](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-78) Check email when taking PT whether it already registered in SSO/Live_dev
+- [ETAPI-79](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-79) Make the default logo configurable trough config
+- [ETAPI-80](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-80) User report the study level will be changed back automatically -- DE
+
 ## Etest v1.4.19 on September 08th, 2021
 - [ETAPI-77](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-77) support take force ePT from Cloud and Widget
 
