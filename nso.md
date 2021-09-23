@@ -3,11 +3,21 @@ title: neo Study Online
 ---
 
 # neo Study Online
-Browser based neo Study
+Browser based neo Study 
 
-## [v.1.0.1] on August, 25th 2021
-* [nSO-530](https://dyned.myjetbrains.com/youtrack/issue/nSO-530) Fixed error after clicking on Study Now.
-* [nSO-527](https://dyned.myjetbrains.com/youtrack/issue/nSO-527) Fixed error in staging and development stage.
+## [v.1.0.1] on September, 23rd 2021
+* [nSO-551](https://dyned.myjetbrains.com/youtrack/issue/nSO-551) Updated requirement on support widget.
+* [nSO-526](https://dyned.myjetbrains.com/youtrack/issue/nSO-526) Added a link redirect student to neo.chat
+* [nSO-544](https://dyned.myjetbrains.com/youtrack/issue/nSO-544) Fixed SR Result that dissepear too quickly on Question Practice & Speaking Practice.
+* [nSO-549](https://dyned.myjetbrains.com/youtrack/issue/nSO-549) Fixed SR lessons for not giving another two chances after not recognized once. 
+* [nSO-545](https://dyned.myjetbrains.com/youtrack/issue/nSO-545) Fixed SR issue that asking to do SR again once it recognized after clicking pause button.
+* [nSO-546](https://dyned.myjetbrains.com/youtrack/issue/nSO-546) Fixed animation issue in summary screen after going to another tab/app.
+* [nSO-535](https://dyned.myjetbrains.com/youtrack/issue/nSO-535) Fixed dictation issue for wipped off the answer after click repeat button.
+* [nSO-547](https://dyned.myjetbrains.com/youtrack/issue/nSO-547) Fixed animation issue in summary screen after clicking other place outside nSO.
+* [nSO-540](https://dyned.myjetbrains.com/youtrack/issue/nSO-540) Fixed picture issue in MT after exit review lesson.
+* [nSO-513](https://dyned.myjetbrains.com/youtrack/issue/nSO-513) Made text on nSO unable to be copied.
+* [nSO-548](https://dyned.myjetbrains.com/youtrack/issue/nSO-548) Fixed CT error that jump to the result page after clicking start button.
+* [nSO-542](https://dyned.myjetbrains.com/youtrack/issue/nSO-542) Fixed MT screen that should show score and total lesson to review.
 
 ## [v.1.0.0] on August, 24th 2021
 * [nSO-475](https://dyned.myjetbrains.com/youtrack/issue/nSO-475) Fixed the different wording between the question and the sentence.
@@ -27,6 +37,8 @@ Browser based neo Study
 * [nSO-279](https://dyned.myjetbrains.com/youtrack/issue/nSO-279) Fixed the graphic issue.
 * [nSO-495](https://dyned.myjetbrains.com/youtrack/issue/nSO-495) Fixed issue when studying ebtn u3 step 9, MT 3 was open.
 * [nSO-349](https://dyned.myjetbrains.com/youtrack/issue/nSO-349) Websocket connection error occurs in browser console frequently - might be related to the 'Support' widget.
+* [nSO-530](https://dyned.myjetbrains.com/youtrack/issue/nSO-530) Fixed error after clicking on Study Now.
+* [nSO-527](https://dyned.myjetbrains.com/youtrack/issue/nSO-527) Fixed error in staging and development stage.
 
 ## [v.0.9.19] on August, 9th 2021
 * [nSO-515]](https://dyned.myjetbrains.com/youtrack/issue/nSO-515) Fixed issue for request assets with slow internet connection, please wait.
