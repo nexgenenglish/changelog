@@ -5,6 +5,12 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+## 1.9.19 on September 24th, 2021
+- [NSAAPI-375](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-375) Student is not able to re-take the PT - Force PT
+- [NSAAPI-372](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-372) Bug in GRADE formula
+- [NSAAPI-374](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-374) Round off Average Points per Week (remove decimals)
+- [NSAAPI-369](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-369) Typo for locked CT
+
 ## 1.9.18 on September 07th, 2021
 - [NSAAPI-368](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-368) NSAAPI-368 Difference in Average Points per Week (Grading-enabled vs Grading Disable)
 - [NSAAPI-365](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-365) NSAAPI-365 use disabled date data to determine end period for student that in a class with grading on
