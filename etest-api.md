@@ -5,6 +5,10 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## Etest v1.4.21 on September 29th, 2021
+- [ETAPI-82](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-82) Add a date range based on date PT was taken
+- [ETAPI-83](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-82) certificate is not sent automatically after student pass ct
+
 ## Etest v1.4.20 on September 22th, 2021
 - [ETAPI-78](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-78) Check email when taking PT whether it already registered in SSO/Live_dev
 - [ETAPI-79](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-79) Make the default logo configurable trough config
