@@ -5,6 +5,9 @@ title: eTest Widget and Cloud
 # eTest Widget and Cloud
 Application for Assessment Tests (Placement Tests or Certification Tests) systems on neo.
 
+## [2.9.0] on October 01st, 2021
+- [ET-426](https://dyned.myjetbrains.com/youtrack/issue/ET-426 [Widget] can't get form value after user update
+
 ## [2.8.14] on August 03rd, 2021
 - [ET-416](https://dyned.myjetbrains.com/youtrack/issue/ET-416) Form appear after click reload on browser
 - [ET-412](https://dyned.myjetbrains.com/youtrack/issue/ET-412) add a "pretest" sign to specify the type of test
