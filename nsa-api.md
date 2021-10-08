@@ -5,6 +5,15 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.9.21 on October 08th, 2021
+- [NSAAPI-378](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-378) Check User Universal Dashboard
+
+# 1.9.20 on October 01st, 2021
+- [NSAAPI-379](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-379) Average Points per Week
+- [NSAAPI-377](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-377) Include "SR Difficulty Bonus" column in Study Records Report
+- [NSAAPI-371](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-371) Individualize neo SR tolerance levels
+- [NSAAPI-370](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-370) when using testing account to Run Unit Sequence, after passing the last MT of neo+ PreA1 and clicking next, it go to the step2 of (FEU5) Letters: X - Z.
+
 ## 1.9.19 on September 24th, 2021
 - [NSAAPI-375](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-375) Student is not able to re-take the PT - Force PT
 - [NSAAPI-372](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-372) Bug in GRADE formula
