@@ -5,6 +5,40 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [1.4.1] on Oct 11th, 2021
+- [UD-484](https://dyned.myjetbrains.com/youtrack/issue/UD-484) - Add date range based on date PT was taken
+- [UD-607](https://dyned.myjetbrains.com/youtrack/issue/UD-607) - Updated data PT level on student tab and test tab
+- [UD-688](https://dyned.myjetbrains.com/youtrack/issue/UD-688) - Updated organization configration page
+- [UD-773](https://dyned.myjetbrains.com/youtrack/issue/UD-773) - Updated student data
+- [UD-776](https://dyned.myjetbrains.com/youtrack/issue/UD-776) - Updated use dial code +1 as default
+- [UD-806](https://dyned.myjetbrains.com/youtrack/issue/UD-806) - Updated onboard student function
+- [UD-810](https://dyned.myjetbrains.com/youtrack/issue/UD-810) - Use organization config for disable/enable send SMS function
+- [UD-818](https://dyned.myjetbrains.com/youtrack/issue/UD-818) - Do not use default dial code for all the template
+- [UD-831](https://dyned.myjetbrains.com/youtrack/issue/UD-831) - Updated menu label for student action
+- [UD-837](https://dyned.myjetbrains.com/youtrack/issue/UD-837) - Updated student counter function
+- [UD-844](https://dyned.myjetbrains.com/youtrack/issue/UD-844) - Use organization config value from SSO
+- [UD-855](https://dyned.myjetbrains.com/youtrack/issue/UD-855) - Use current date as default value on grading function
+- [UD-874](https://dyned.myjetbrains.com/youtrack/issue/UD-874) - Screen freeze
+- [UD-875](https://dyned.myjetbrains.com/youtrack/issue/UD-875) - Updated student name on student tab and test tab
+- [UD-880](https://dyned.myjetbrains.com/youtrack/issue/UD-880) - Updated change password function
+- [UD-881](https://dyned.myjetbrains.com/youtrack/issue/UD-881) - Updated student counter function
+- [UD-883](https://dyned.myjetbrains.com/youtrack/issue/UD-883) - Updated change password function
+- [UD-884](https://dyned.myjetbrains.com/youtrack/issue/UD-884) - Updated date format
+- [UD-888](https://dyned.myjetbrains.com/youtrack/issue/UD-888) - Updated labels
+- [UD-892](https://dyned.myjetbrains.com/youtrack/issue/UD-892) - Updated student counter function
+- [UD-894](https://dyned.myjetbrains.com/youtrack/issue/UD-894) - Updated date format
+- [UD-896](https://dyned.myjetbrains.com/youtrack/issue/UD-896) - Updated expiration date on organization configration page
+- [UD-911](https://dyned.myjetbrains.com/youtrack/issue/UD-911) - Updated student counter function
+- [UD-919](https://dyned.myjetbrains.com/youtrack/issue/UD-919) - Add replicate servers
+- [UD-921](https://dyned.myjetbrains.com/youtrack/issue/UD-921) - Updated student counter function
+- [UD-926](https://dyned.myjetbrains.com/youtrack/issue/UD-926) - Updated student counter function
+- [UD-953](https://dyned.myjetbrains.com/youtrack/issue/UD-953) - Updated invalid date
+- [UD-965](https://dyned.myjetbrains.com/youtrack/issue/UD-965) - Updated prevent studetnt prompted to take PT again
+- [UD-975](https://dyned.myjetbrains.com/youtrack/issue/UD-975) - Updated move student summary report to background job
+- [UD-977](https://dyned.myjetbrains.com/youtrack/issue/UD-977) - Added bulk imported student into PT Report
+- [UD-980](https://dyned.myjetbrains.com/youtrack/issue/UD-980) - Updated PT level in student page
+- [UD-983](https://dyned.myjetbrains.com/youtrack/issue/UD-983) - Updated change password function
+
 ## [1.4.0] on Sept 7th, 2021
 - [UD-677](https://dyned.myjetbrains.com/youtrack/issue/UD-677) - Fixed change trial student to regular student.
 - [UD-689](https://dyned.myjetbrains.com/youtrack/issue/UD-689) - Screen 7 list of students in class.
