@@ -4,6 +4,14 @@ title: B2C Portal
 
 # B2C Portal
 
+## [v1.1.19] on October 1st, 2021
+- [MNS-766](https://dyned.myjetbrains.com/youtrack/issue/MNS-766) Updated EULA for Indonesia.
+- [MNS-762](https://dyned.myjetbrains.com/youtrack/issue/MNS-762) Updated EULA for Spanish. 
+- [MNS-760](https://dyned.myjetbrains.com/youtrack/issue/MNS-760) Updated EULA for English. 
+- [MNS-761](https://dyned.myjetbrains.com/youtrack/issue/MNS-761) Updated Privacy Policy for English. 
+- [MNS-763](https://dyned.myjetbrains.com/youtrack/issue/MNS-763) Added SR Difficulty Bonus to Student SR report. 
+- [MNS-765](https://dyned.myjetbrains.com/youtrack/issue/MNS-765) Improved Email Validation. 
+
 ## [v1.1.18] on September 7th, 2021
 - [MNS-755](https://dyned.myjetbrains.com/youtrack/issue/MNS-755) Fixed sample certificate fullname is too long.
 - Added CT lock/unlock status on register.
