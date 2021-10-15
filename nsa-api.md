@@ -5,6 +5,10 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.9.22 on October 13th, 2021
+- [NSAAPI-380](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-380) NSAAPI-380 cannot change profile photo
+- [NSAAPI-381](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-381) NSAAPI-381 SR Experienced is misspelled
+
 # 1.9.21 on October 08th, 2021
 - [NSAAPI-378](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-378) Check User Universal Dashboard
 
