@@ -5,6 +5,11 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## Etest v1.4.22 on October 12th, 2021
+- [ETAPI-84](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-84) Include Student Bulk type in PT Report
+- [ETAPI-85](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-85) Update Auth Management
+
+
 ## Etest v1.4.21 on September 29th, 2021
 - [ETAPI-82](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-82) Add a date range based on date PT was taken
 - [ETAPI-83](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-82) certificate is not sent automatically after student pass ct
