@@ -5,6 +5,12 @@ title: neo Live B2I
 # Live B2I
 A website for DynEd students and coaches to study using Live Session and also for admins and affiliates to manage DynEd Live's environment.
 
+## [v.1.1.17] on September 28th, 2021
+- [DELB2I-1290](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1290) Added clickable student progress report in session reporting for support account.
+- [DELB2I-1292](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1292) Created feature Rating Summary Reporting.
+- [DELB2I-1289](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1289) Created function Student Summary.
+- [DELB2I-1288](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1288) Created function Coach Summary.
+
 ## [v.1.1.16] on August 31st, 2021
 - [DELB2I-1274](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1274) Creates Session Report.
 - [DELB2I-1277](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1277) Updated Agora.

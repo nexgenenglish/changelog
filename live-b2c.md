@@ -5,6 +5,16 @@ title: neo Live B2C
 # Live B2C
 A website for neo students to study using Live Session.
 
+## [v.1.1.15] on September 28th, 2021
+- [NELB2C-1399](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1399) Fixed LIVE coaching session that should count failed and token issues.
+- [NELB2C-1393](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1393) Created API coach Rating summary report.
+- [NELB2C-1391](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1391) Created API Reporting coach summary.
+- [NELB2C-1392](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1392) Created API Student summary.
+- [NELB2C-1397](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1397) Fixed wording in studey records.
+- [NELB2C-1403](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1403) Fixed issue for cannot login (always show wrong password).
+- [NELB2C-1404](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1404) Fixed hit token verified API.
+- [NELB2C-1407](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1407) Updated token histories description.
+
 ## [v.1.1.14] on August 31st, 2021
 - [NELB2C-1388](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1388) Updated myneo URL scheme.
 - [NELB2C-1385](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1385) Updated Agora.
