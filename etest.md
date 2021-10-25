@@ -5,6 +5,9 @@ title: eTest Widget and Cloud
 # eTest Widget and Cloud
 Application for Assessment Tests (Placement Tests or Certification Tests) systems on neo.
 
+## [2.10.0] on October 22nd, 2021
+- [ET-427](https://dyned.myjetbrains.com/youtrack/issue/ET-427) Fixed wording on question that translated into local language (the question and answer show in Thai). 
+
 ## [2.9.0] on October 01st, 2021
 - [ET-426](https://dyned.myjetbrains.com/youtrack/issue/ET-426) [Widget] can't get form value after user update
 
