@@ -5,6 +5,16 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [1.4.3] on Oct 25th, 2021
+### Hotfix
+- Updated prevent error on no lifetime organization form.
+
+
+## [1.4.2] on Oct 25th, 2021
+- [UD-1000](https://dyned.myjetbrains.com/youtrack/issue/UD-1000) Fixed issue for cannot set the Organization's expiration date as expected.
+- [UD-1006](https://dyned.myjetbrains.com/youtrack/issue/UD-1006) Fixed issue for unable to open the template for an Organization in Panama.
+- [UD-1036](https://dyned.myjetbrains.com/youtrack/issue/UD-484) Increase billing guzzle timeout configuration.
+
 ## [1.4.1] on Oct 11th, 2021
 - [UD-484](https://dyned.myjetbrains.com/youtrack/issue/UD-484) - Add date range based on date PT was taken
 - [UD-607](https://dyned.myjetbrains.com/youtrack/issue/UD-607) - Updated data PT level on student tab and test tab
