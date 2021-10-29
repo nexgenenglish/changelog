@@ -4,6 +4,9 @@ title: B2C Portal
 
 # B2C Portal
 
+## [v.1.1.19.1] on October 28th, 2021
+- [MNS-771](https://dyned.myjetbrains.com/youtrack/issue/mns-771) Added country_iso on bulk register API.
+
 ## [v1.1.19] on October 1st, 2021
 - [MNS-766](https://dyned.myjetbrains.com/youtrack/issue/MNS-766) Updated EULA for Indonesia.
 - [MNS-762](https://dyned.myjetbrains.com/youtrack/issue/MNS-762) Updated EULA for Spanish. 
