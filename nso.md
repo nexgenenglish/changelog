@@ -5,6 +5,20 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study 
 
+## [v.1.0.2] on November, 1st 2021
+* [nSO-563](https://dyned.myjetbrains.com/youtrack/issue/nSO-563) Fixed page that needs to be reloaded after allowing the microphone prompt.
+* [nSO-554](https://dyned.myjetbrains.com/youtrack/issue/nSO-554) Fixed reset password that does not work properly. 
+* [nSO-568](https://dyned.myjetbrains.com/youtrack/issue/nSO-568) Fixed forgot password that does not send request to API.
+* [nSO-558](https://dyned.myjetbrains.com/youtrack/issue/nSO-558) Fixed resume and exit button that keep appearing followed with the play sound after clicking outside nso webpage.
+* [nSO-562](https://dyned.myjetbrains.com/youtrack/issue/nSO-562) Fixed the text 'GO' that move a little bit after clicking on the GO button.
+* [nSO-559](https://dyned.myjetbrains.com/youtrack/issue/nSO-559) Fixed dictation adjustment after typing words wrongly and clicking on "Check" button.
+* [nSO-541](https://dyned.myjetbrains.com/youtrack/issue/nSO-541) Fixed repeat and record button that not active on neoPrep+>B1+>NDE M5U2> City Directions>step 2, 3, 4 & 5.
+* [nSO-561](https://dyned.myjetbrains.com/youtrack/issue/nSO-561) Fixed SR lessons behavior.
+* [nSO-537](https://dyned.myjetbrains.com/youtrack/issue/nSO-537) Fixed issue for not playing the whole sentence after clicking resume during the process of playing text.
+* [nSO-552](https://dyned.myjetbrains.com/youtrack/issue/nSO-552) Fixed text that still showing while pausing the lesson.
+* [nSO-531](https://dyned.myjetbrains.com/youtrack/issue/nSO-531) Fixed TR in Dictations that still shows green in nSO.
+* [nSO-522](https://dyned.myjetbrains.com/youtrack/issue/nSO-522) Fixed issue for no response when clicking like, dislike and save my lesson on Surface go (windows 10) and mac air.
+
 ## [v.1.0.1] on September, 23rd 2021
 * [nSO-551](https://dyned.myjetbrains.com/youtrack/issue/nSO-551) Updated requirement on support widget.
 * [nSO-526](https://dyned.myjetbrains.com/youtrack/issue/nSO-526) Added a link redirect student to neo.chat
