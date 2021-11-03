@@ -5,9 +5,15 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.9.23 on November 2nd, 2021
+- [NSAAPI-383](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-383) Checked the organization expiration date to determine student expiration date.
+- [NSAAPI-384](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-384) Added plan code and name.
+- [NSAAPI-385](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-385) Fixed total points on student summary report that display non capped points for unit.
+- [NSAAPI-386](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-386) Show SR Level label on entry screen.
+
 # 1.9.22 on October 13th, 2021
-- [NSAAPI-380](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-380) NSAAPI-380 cannot change profile photo
-- [NSAAPI-381](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-381) NSAAPI-381 SR Experienced is misspelled
+- [NSAAPI-380](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-380) Fixed issue for cannot change profile photo.
+- [NSAAPI-381](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-381) Fixed misspelled SR Experienced.
 
 # 1.9.21 on October 08th, 2021
 - [NSAAPI-378](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-378) Check User Universal Dashboard
