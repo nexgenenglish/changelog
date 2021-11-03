@@ -5,6 +5,9 @@ title: myneo App - Android
 # myneo App - Android
 myneo Application for Android
 
+## [v1.7.1] on November 3rd, 2021
+- Added notification when coach do a screen share.
+
 ## [v1.7.0] on July 6th, 2021
 - [hotfix] Improvement to support forced change password/picture for bulk import students.
 - [hotfix] Implement dynamic study button for forced PT students.

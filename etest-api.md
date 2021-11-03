@@ -5,6 +5,12 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## Etest v1.5.2 on November 3rd, 2021
+- [ETAPI-86](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-86) Make eTest API cross authenticate to ROW and CN.
+
+## Etest v1.5.1 on November 3rd, 2021
+- [ETAPI-87](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-87) Updated config database global.
+
 ## Etest v1.4.22 on October 12th, 2021
 - [ETAPI-84](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-84) Include Student Bulk type in PT Report
 - [ETAPI-85](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-85) Update Auth Management
