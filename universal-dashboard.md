@@ -5,10 +5,21 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [1.4.6] on Nov 13th, 2021
+### Hotfix
+- [UD-1062](https://dyned.myjetbrains.com/youtrack/issue/UD-1062) Fixed slow respon of UD, going from a class to the next.
+
+## [1.4.5] on Nov 12th, 2021
+### Hotfix
+- [UD-1062](https://dyned.myjetbrains.com/youtrack/issue/UD-1062) Fixed slow respon of UD, going from a class to the next.
+
+## [1.4.4] on Nov 12th, 2021
+### Hotfix
+- [UD-1062](https://dyned.myjetbrains.com/youtrack/issue/UD-1062) Fixed slow respon of UD, going from a class to the next.
+
 ## [1.4.3] on Oct 25th, 2021
 ### Hotfix
 - Updated prevent error on no lifetime organization form.
-
 
 ## [1.4.2] on Oct 25th, 2021
 - [UD-1000](https://dyned.myjetbrains.com/youtrack/issue/UD-1000) Fixed issue for cannot set the Organization's expiration date as expected.

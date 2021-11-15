@@ -5,6 +5,10 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.9.24 on November 12th, 2021
+- [NSAAPI-383](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-390) 
+Fixed slow respon of student class going from one class to the next.
+
 # 1.9.23 on November 2nd, 2021
 - [NSAAPI-383](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-383) Checked the organization expiration date to determine student expiration date.
 - [NSAAPI-384](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-384) Added plan code and name.
