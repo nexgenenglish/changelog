@@ -5,6 +5,11 @@ title: eTest Widget and Cloud
 # eTest Widget and Cloud
 Application for Assessment Tests (Placement Tests or Certification Tests) systems on neo.
 
+## [2.10.1] on November 16th, 2021
+- [ET-373](https://dyned.myjetbrains.com/youtrack/issue/ET-373) Updated eTest language localization.
+- [ET-431](https://dyned.myjetbrains.com/youtrack/issue/ET-431) Fixed wording for PT result C1 pro and C1 plus.
+- [ET-430](https://dyned.myjetbrains.com/youtrack/issue/ET-430) Fixed typo for Spanish localization.
+
 ## [2.10.0] on October 22nd, 2021
 - [ET-427](https://dyned.myjetbrains.com/youtrack/issue/ET-427) Fixed wording on question that translated into local language (the question and answer show in Thai). 
 
