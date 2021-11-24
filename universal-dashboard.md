@@ -5,6 +5,45 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [1.5.0] on Nov 24th, 2021
+- [UD-516](https://dyned.myjetbrains.com/youtrack/issue/UD-516) Fixed issue for change expiration date that doesn't work properly.
+- [UD-560](https://dyned.myjetbrains.com/youtrack/issue/UD-560) Changed "Cert Test Statistics" button to disable.
+- [UD-586](https://dyned.myjetbrains.com/youtrack/issue/UD-586) Removed "Re-Open Test" for certification test.
+- [UD-623](https://dyned.myjetbrains.com/youtrack/issue/UD-623) Make RCA available to teachers on UD.
+- [UD-695](https://dyned.myjetbrains.com/youtrack/issue/UD-695) Changes authority that only country admin and admin above to create organization.
+- [UD-709](https://dyned.myjetbrains.com/youtrack/issue/UD-709) Implemented list of clasess pass 1.
+- [UD-825](https://dyned.myjetbrains.com/youtrack/issue/UD-825) Added clearer message when test tab under maintenance.
+- [UD-853](https://dyned.myjetbrains.com/youtrack/issue/UD-853) Fixed error 403 when searching for a student.
+- [UD-854](https://dyned.myjetbrains.com/youtrack/issue/UD-854) Managed to delete organization with students in it.
+- [UD-899](https://dyned.myjetbrains.com/youtrack/issue/UD-899) Introduction for RCA. 
+- [UD-912](https://dyned.myjetbrains.com/youtrack/issue/UD-912) Make message "waiting for registering process" close on its own when importing bulk students.
+- [UD-925](https://dyned.myjetbrains.com/youtrack/issue/UD-925) Make download button visible on certificate when passing interview.
+- [UD-942](https://dyned.myjetbrains.com/youtrack/issue/UD-942) Make update and download buttons visible on certificate via exit interview.
+- [UD-950](https://dyned.myjetbrains.com/youtrack/issue/UD-950) Fixed duration to import students using template.
+- [UD-952](https://dyned.myjetbrains.com/youtrack/issue/UD-952) Direct registration API.
+- [UD-981](https://dyned.myjetbrains.com/youtrack/issue/UD-981) Make bulk import as a backgorund job.
+- [UD-1021](https://dyned.myjetbrains.com/youtrack/issue/UD-1021) Make organization study record report to background job.
+- [UD-1031](https://dyned.myjetbrains.com/youtrack/issue/UD-1031) Make PDF support graphics for RCA.
+- [UD-1061](https://dyned.myjetbrains.com/youtrack/issue/UD-1061) RCA notes from Andy.
+- [UD-1063](https://dyned.myjetbrains.com/youtrack/issue/UD-1063) Fixed issue level not showing on RCA. 
+- [UD-1064](https://dyned.myjetbrains.com/youtrack/issue/UD-1064) Fixed issue for number RCA that keep changing.
+- [UD-1065](https://dyned.myjetbrains.com/youtrack/issue/UD-1065) Fixed issue for organization admin that cannot edit organization.
+- [UD-1067](https://dyned.myjetbrains.com/youtrack/issue/UD-1067) Fixed issue on teacher that not working on staging server.
+- [UD-1070](https://dyned.myjetbrains.com/youtrack/issue/UD-1070) Fixed issue on RCA that does not match point counts table.
+- [UD-1075](https://dyned.myjetbrains.com/youtrack/issue/UD-1075) Fixed issue for unassigned class although it is already assigned to teacher.
+- [UD-1076](https://dyned.myjetbrains.com/youtrack/issue/UD-1076) Fixed bugs on RCA.
+- [UD-1077](https://dyned.myjetbrains.com/youtrack/issue/UD-1077) Various RCA observations.
+- [UD-1080](https://dyned.myjetbrains.com/youtrack/issue/UD-1080) Requested to delete student from Universidad CENFOTEC.
+- [UD-1081](https://dyned.myjetbrains.com/youtrack/issue/UD-1081) Requested to change expiration date for Medcom.
+- [UD-1093](https://dyned.myjetbrains.com/youtrack/issue/UD-1093) Added a message when an organization is about to expire.
+- [UD-1105](https://dyned.myjetbrains.com/youtrack/issue/UD-1105) Removed "go back one level" special case on RCA.
+- [UD-1106](https://dyned.myjetbrains.com/youtrack/issue/UD-1106) Updated minor changes on RCA screen.
+- [UD-1107](https://dyned.myjetbrains.com/youtrack/issue/UD-1107) Fixed issue in RCA tfor Student Count.
+- [UD-1109](https://dyned.myjetbrains.com/youtrack/issue/UD-1109) Fixed issue for cannot download graphic file on RCA.
+- [UD-1127](https://dyned.myjetbrains.com/youtrack/issue/UD-1127) Added RCA ID number to RCA name on RCA's screen.
+- [UD-1131](https://dyned.myjetbrains.com/youtrack/issue/UD-1131) Removed button "open file" on class activities.
+- [UD-1135](https://dyned.myjetbrains.com/youtrack/issue/UD-1135) Fixed error when trying to open export_student_summary_report.
+
 ## [1.4.6] on Nov 13th, 2021
 ### Hotfix
 - [UD-1062](https://dyned.myjetbrains.com/youtrack/issue/UD-1062) Fixed slow respon of UD, going from a class to the next.
