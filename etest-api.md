@@ -7,7 +7,7 @@ Service (API) to manage all the Assements Test (Placement test or the Certificat
 
 ## Etest v1.5.3 on November 25th, 2021
 - [ETAPI-88](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-88) Make validation for expired organization from SSO.
-- [ETAPI-91]https://dyned.myjetbrains.com/youtrack/issue/ETAPI-91 Updated total in_correct in response CT details.
+- [ETAPI-91](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-91) Updated total in_correct in response CT details.
 - [ETAPI-92](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-92) Fixed issue for privileges that cannot be inherited when running the fetch ept API
 
 ## Etest v1.5.2 on November 3rd, 2021
