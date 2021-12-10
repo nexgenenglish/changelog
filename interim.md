@@ -5,6 +5,11 @@ title: Interim
 # Neo Interim
 neo Interim is a microsite that provides middleware for neo Ecosystem.
 
+## [v.1.1.4] on Dec 9th, 2021
+- [UD-1172](https://dyned.myjetbrains.com/youtrack/issue/UD-1172) - Added ability to add email address as cc or bcc.
+- [UD-1042](https://dyned.myjetbrains.com/youtrack/issue/UD-1041) - Implemented notification for DynEd Live.
+- [UD-1083](https://dyned.myjetbrains.com/youtrack/issue/UD-1083) - Rescheduled email template.
+
 ## [v1.1.3] on Oct 11th, 2021
 - [UD-470](https://dyned.myjetbrains.com/youtrack/issue/UD-470) - Updated notification for image to large as popup
 - [UD-834](https://dyned.myjetbrains.com/youtrack/issue/UD-834) - Updated add download certificate for student
