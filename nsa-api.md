@@ -5,6 +5,11 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.9.25 on December 17th, 2021
+- [NSAAPI-387](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-387) Added new raw data in Summary Report.
+- [NSAAPI-388](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-388) Fixed forced close when clicking 'OK' after completing CT.
+- [NSAAPI-389](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-389) Added MyLesson type as study record. 
+
 # 1.9.24 on November 12th, 2021
 - [NSAAPI-383](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-390) 
 Fixed slow respon of student class going from one class to the next.

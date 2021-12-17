@@ -5,6 +5,16 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.16.0] on December 17th, 2021
+-[NSA-2904](https://dyned.myjetbrains.com/youtrack/issue/NSA-2904) Added study data for student who studies on MyLesson.
+- [NSA-2914](https://dyned.myjetbrains.com/youtrack/issue/NSA-2914) Added study data for student who studies on MyLesson.
+- [NSA-2915](https://dyned.myjetbrains.com/youtrack/issue/NSA-2915) Added study data for student who studies on MyLesson.
+
+## [v1.15.0] on December 17th, 2021
+- [NSA-2862](https://dyned.myjetbrains.com/youtrack/issue/NSA-2862) Individualize neo SR tolerance level.
+- [NSA-2891](https://dyned.myjetbrains.com/youtrack/issue/NSA-2891) Fixed misspelled wording and improved video thumbnail.
+- [NSA-2892](https://dyned.myjetbrains.com/youtrack/issue/NSA-2892) Fixed issue for SR result that overlapped with graphics. 
+
 ## [v1.14.4] on September 15th, 2021
 - [NSA-2828](https://dyned.myjetbrains.com/youtrack/issue/NSA-2828) Crash when clicking attach button in contact us.
 - [NSA-2832](https://dyned.myjetbrains.com/youtrack/issue/NSA-2832) Re-download function doesn't work correctly.

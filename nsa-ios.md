@@ -5,12 +5,21 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
-##[v.1.14.4] on September 15th, 2021
+## [v1.16.0] on December 17th, 2021
+-[NSA-2904](https://dyned.myjetbrains.com/youtrack/issue/NSA-2904) Added study data for student who studies on MyLesson.
+- [NSA-2914](https://dyned.myjetbrains.com/youtrack/issue/NSA-2914) Added study data for student who studies on MyLesson.
+- [NSA-2915](https://dyned.myjetbrains.com/youtrack/issue/NSA-2915) Added study data for student who studies on MyLesson.
+
+## [v1.15.0] on December 17th, 2021
+- [NSA-2862](https://dyned.myjetbrains.com/youtrack/issue/NSA-2862) Individualize neo SR tolerance level.
+- [NSA-2891](https://dyned.myjetbrains.com/youtrack/issue/NSA-2891) Fixed misspelled wording and improved video thumbnail.
+
+## [v1.14.4] on September 15th, 2021
 - [NSA-2843](https://dyned.myjetbrains.com/youtrack/issue/NSA-2843) Fixed the difference on iOS and Android for B1>TLS E8> Nothing can stop me now.>step1.
 - [NSA-2847](https://dyned.myjetbrains.com/youtrack/issue/NSA-2847) Fixed the issue "network errors" on MyLesson.
 - [NSA-2858](https://dyned.myjetbrains.com/youtrack/issue/NSA-2858) Server error when downloading files (add acl dsa access check when login).
 
-## [v.1.14.3] on August 19th, 2021
+## [v1.14.3] on August 19th, 2021
 - [NSA-2824](https://dyned.myjetbrains.com/youtrack/issue/NSA-2824) Create Multiple Target Deployment
 - [hotfix] remove download dsa flow on login non tester user.
 - [NSA-2827](https://dyned.myjetbrains.com/youtrack/issue/NSA-2827) nsa app on iOS allows passwords to be less than 8 characters long.
