@@ -5,6 +5,17 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study 
 
+## [v.1.1.0] on December, 20th 2021
+* [nSO-256](https://dyned.myjetbrains.com/youtrack/issue/nSO-256) Fixed issue for access denied on using microphone. 
+* [nSO-459](https://dyned.myjetbrains.com/youtrack/issue/nSO-459) Implemented question weight for data collection.
+* [nSO-566](https://dyned.myjetbrains.com/youtrack/issue/nSO-566) Individualize neo SR tolerance levels.
+* [nSO-570](https://dyned.myjetbrains.com/youtrack/issue/nSO-570) Prevented text elemet to be auto translated by any translation service.
+* [nSO-574](https://dyned.myjetbrains.com/youtrack/issue/nSO-574) Fixed error when clicking lesson on MyLesson.
+* [nSO-576](https://dyned.myjetbrains.com/youtrack/issue/nSO-576) SR Tolerance Information. 
+* [nSO-579](https://dyned.myjetbrains.com/youtrack/issue/nSO-579) Fixed issue for cannot load the js file lottie.min.js 
+* [nSO-580](https://dyned.myjetbrains.com/youtrack/issue/nSO-580)Added the ICP number for neostudyonline.com.cn
+* [nSO-584](https://dyned.myjetbrains.com/youtrack/issue/nSO-584) CSS / JS assets to local file.
+
 ## [v.1.0.2] on November, 1st 2021
 * [nSO-563](https://dyned.myjetbrains.com/youtrack/issue/nSO-563) Fixed page that needs to be reloaded after allowing the microphone prompt.
 * [nSO-554](https://dyned.myjetbrains.com/youtrack/issue/nSO-554) Fixed reset password that does not work properly. 
