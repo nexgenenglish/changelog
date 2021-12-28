@@ -5,6 +5,16 @@ title: neo Live B2C
 # Live B2C
 A website for neo students to study using Live Session.
 
+## [v.1.1.16] on December 28th, 2021
+- [NELBC-1386](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1386) Fixed issue for study records on myneo app that showing Coaching sessions 0/0 although neo Live is disabled.
+- [NELBC-1409](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1409) Changed label 'Professional Student' to 'neo Professional Student' on study records page.
+- [NELBC-1412](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1412) Removed number from progress bar in LIVE/MNA student dashboard graphic
+- [NELBC-1343](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1343) Updated reschedule e-mail template for coach and student.
+- [NELBC-1419](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1419) Updated interim e-mail booking API.
+- [NELBC-1408](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1408) Fixed issue for interface that show not properly on My Records after open it for the first time. 
+- [NELBC-1413](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1413) Fixed issue for missing avatar picture and some wordings on coach's profile. 
+
+
 ## [v.1.1.15] on September 28th, 2021
 - [NELB2C-1399](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1399) Fixed LIVE coaching session that should count failed and token issues.
 - [NELB2C-1393](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1393) Created API coach Rating summary report.
