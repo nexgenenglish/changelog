@@ -5,6 +5,11 @@ title: eTest Widget and Cloud
 # eTest Widget and Cloud
 Application for Assessment Tests (Placement Tests or Certification Tests) systems on neo.
 
+## [2.10.3] on January 3rd, 2022
+- [ET-440](https://dyned.myjetbrains.com/youtrack/issue/ET-440) Support multiple geo locations.
+- [ET-439](https://dyned.myjetbrains.com/youtrack/issue/ET-439) Fixed line format for audio and text question.
+- [ET-440](https://dyned.myjetbrains.com/youtrack/issue/ET-440) Changed alert wording for Chinese translation in home page.
+
 ## [2.10.2] on November 26th, 2021
 - [ET-436](https://dyned.myjetbrains.com/youtrack/issue/ET-436) Fixed localized eTest that show in English instead of Spanish.
 

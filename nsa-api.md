@@ -5,6 +5,13 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.9.27 on January 3rd, 2022
+- [NSAAPI-397](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-397) Fixed issue for token balance for bulk import student that not added after force PT.
+- [NSAAPI-398](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-398) Fixed issue for current level that still 'force etest' after did force PT.
+
+# 1.9.26 on December 31st, 2021
+- [NSAAPI-391](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-391) Fixed expired organization that still allow student to login on nsa and nso.
+
 # 1.9.25 on December 17th, 2021
 - [NSAAPI-387](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-387) Added new raw data in Summary Report.
 - [NSAAPI-388](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-388) Fixed forced close when clicking 'OK' after completing CT.
