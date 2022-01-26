@@ -5,6 +5,9 @@ title: JCT
 # JCT
 **JCT** is an interactive web based application interface where a team of course designer setup and create DynEd Course Study that will be used by neo Study App.
 
+## [V1.2.3] January 25th, 2022
+- [JCT-186](https://dyned.myjetbrains.com/youtrack/issue/JCT-186) Fixed issue for cannot delete text after putting the text in textLabel or textHtml.
+
 ## [V1.1.4] March 23th, 2021
 - JCT-182 cannot import lessons from other lessons
 

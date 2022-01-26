@@ -5,6 +5,9 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## Etest v1.5.4 on January 25th, 2022
+- [ETAPI-93](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-93) Changed Certification Test Pass/Fail scoring from 80 to 70.
+
 ## Etest v1.5.3 on November 25th, 2021
 - [ETAPI-88](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-88) Make validation for expired organization from SSO.
 - [ETAPI-91](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-91) Updated total in_correct in response CT details.

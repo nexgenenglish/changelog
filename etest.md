@@ -5,6 +5,9 @@ title: eTest Widget and Cloud
 # eTest Widget and Cloud
 Application for Assessment Tests (Placement Tests or Certification Tests) systems on neo.
 
+## [2.10.4] on January 25th, 2022
+- [ET-441](https://dyned.myjetbrains.com/youtrack/issue/ET-441) Fixed issue for dial code. 
+
 ## [2.10.3] on January 3rd, 2022
 - [ET-440](https://dyned.myjetbrains.com/youtrack/issue/ET-440) Support multiple geo locations.
 - [ET-439](https://dyned.myjetbrains.com/youtrack/issue/ET-439) Fixed line format for audio and text question.

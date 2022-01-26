@@ -5,7 +5,17 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.9.31 on January 25th, 2022
+- [NSAAPI-411](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-411) Created new version of neo+ without The Lost Secret.
+
+# 1.9.30 on January 25th, 2022
+- [NSAAPI-402](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-402) Changed Certification Test Pass/Fail scoring from 80 to 70.
+
+# 1.9.29 on January 25th, 2022
+- [NSAAPI-403](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-403) Fixed issue for student who keep repeating the same lesson.
+
 # 1.9.28 on January 4th, 2022
+- [NSAAPI-393](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-393) Fixed incorrect log.
 - [NSAAPI-401](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-401) Fixed status failure that should be failed but written as passed.
 
 # 1.9.27 on January 3rd, 2022
