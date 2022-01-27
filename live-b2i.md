@@ -5,6 +5,12 @@ title: neo Live B2I
 # Live B2I
 A website for DynEd students and coaches to study using Live Session and also for admins and affiliates to manage DynEd Live's environment.
 
+## [v.1.1.18] on November 6th, 2021
+- [DELB2I-1283](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1283) Deleted coach in one of the organizations.
+- [DELB2I-1297](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1297) Fixed issue for error submiting affiliate match.
+- [DELB2I-1299](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1299) Moved email session reminder to Interim.
+- [DELB2I-1308](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1308) Updated interim email reschedule API.
+
 ## [v.1.1.17] on September 28th, 2021
 - [DELB2I-1290](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1290) Added clickable student progress report in session reporting for support account.
 - [DELB2I-1292](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1292) Created feature Rating Summary Reporting.
