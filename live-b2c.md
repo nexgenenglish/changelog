@@ -5,9 +5,6 @@ title: neo Live B2C
 # Live B2C
 A website for neo students to study using Live Session.
 
-## [v.1.1.19] on January 28th, 2022
-- [NELB2C-1432](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1432) Fixed issue for echoes that appear when coach sharing screen to student.
-
 ## [v.1.1.17] on January 27th, 2022
 - [NELB2C-1429](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1429) Make buy token to redirect based on .env.
 
