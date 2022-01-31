@@ -5,6 +5,13 @@ title: neo Live B2I
 # Live B2I
 A website for DynEd students and coaches to study using Live Session and also for admins and affiliates to manage DynEd Live's environment.
 
+## [v.1.1.19] on January 28th, 2022
+- [DELB2I-1279](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1279) Fixed coaching script that cannot load properly.
+- [DELB2I-1312](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1312) Implemented coaching script API from JCT.
+- [DELB2I-1319](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1319) Fixed coaching script that not saved and not restored although it has been saved on Plan Plus.
+- [DELB2I-1323](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1323) Fixed highlight issue in Live staging.
+- [DELB2I-1324](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1324) Fixed saved chekcklisted script (Plan Plus) from old engine that cannot load properly. 
+
 ## [v.1.1.18] on November 6th, 2021
 - [DELB2I-1283](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1283) Deleted coach in one of the organizations.
 - [DELB2I-1297](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1297) Fixed issue for error submiting affiliate match.
