@@ -9,6 +9,7 @@ A website for DynEd students and coaches to study using Live Session and also fo
 - [DELB2I-1279](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1279) Fixed coaching script that cannot load properly.
 - [DELB2I-1312](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1312) Implemented coaching script API from JCT.
 - [DELB2I-1319](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1319) Fixed coaching script that not saved and not restored although it has been saved on Plan Plus.
+- [DELBI-1321](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1321) Fixed issue for checked (saved) unit is remain unchecked for the next session.
 - [DELB2I-1323](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1323) Fixed highlight issue in Live staging.
 - [DELB2I-1324](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1324) Fixed saved chekcklisted script (Plan Plus) from old engine that cannot load properly. 
 
