@@ -4,6 +4,19 @@ title: B2C Portal
 
 # B2C Portal
 
+## [v.1.1.20] on February 3rd, 2022
+- [MNS-730](https://dyned.myjetbrains.com/youtrack/issue/mns-730) Split live token.
+- [MNS-767](https://dyned.myjetbrains.com/youtrack/issue/mns-767) Fixed interface that show not properly.
+- [MNS-774](https://dyned.myjetbrains.com/youtrack/issue/mns-774) Updated Bulk Register API.
+- [MNS-775](https://dyned.myjetbrains.com/youtrack/issue/mns-775) Fixed issue for blank page when login to myneo cn.
+- [MNS-777](https://dyned.myjetbrains.com/youtrack/issue/mns-777) Fixed myneo app that removed from from Vivo App Store.
+- [MNS-778](https://dyned.myjetbrains.com/youtrack/issue/mns-778) Fixed register student if country is not found.
+- [MNS-779](https://dyned.myjetbrains.com/youtrack/issue/mns-779) Fixed error message while downloading the certificate.
+- [MNS-780](https://dyned.myjetbrains.com/youtrack/issue/mns-780) Fixed issue for student that cannot login to nso.
+- [MNS-781](https://dyned.myjetbrains.com/youtrack/issue/mns-781) Fixed issue for trial students that cannot log in to study.
+- [MNS-782](https://dyned.myjetbrains.com/youtrack/issue/mns-782) Remove ID from certificate filename.
+- [MNS-783](https://dyned.myjetbrains.com/youtrack/issue/mns-783) Updated certificate template.
+
 ## [v.1.1.19.1] on October 28th, 2021
 - [MNS-771](https://dyned.myjetbrains.com/youtrack/issue/mns-771) Added country_iso on bulk register API.
 
