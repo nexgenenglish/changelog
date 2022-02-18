@@ -5,6 +5,30 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study 
 
+## [v.1.1.2] on February 18th, 2022
+- [nSO-679](https://dyned.myjetbrains.com/youtrack/issue/nSO-679) Fixed error for MT2 in Level A2+ neo+.
+- [nSO-680](https://dyned.myjetbrains.com/youtrack/issue/nSO-680) Fixed error for MT3 in Level A1+ neo+.
+- [nSO-681](https://dyned.myjetbrains.com/youtrack/issue/nSO-681) Fixed error for MT1 in Level A1+ Prep+.
+- [nSO-682](https://dyned.myjetbrains.com/youtrack/issue/nSO-682) Fixed error for MT1 in Level A2 Prep+.
+- [nSO-683](https://dyned.myjetbrains.com/youtrack/issue/nSO-683) Fixed error for MT1 in Level A2 Prep+.
+- [nSO-684](https://dyned.myjetbrains.com/youtrack/issue/nSO-684) Fixed error for MT1 in Level B1 Prep+.
+- [nSO-687](https://dyned.myjetbrains.com/youtrack/issue/nSO-687) Fixed error for MT4 in Level A1+ Prep+.
+
+## [v.1.1.1] on February, 16th 2022
+- [nSO-585](https://dyned.myjetbrains.com/youtrack/issue/nSO-585) Make time spent in MyLessons reflected in the study data.
+- [nSO-589](https://dyned.myjetbrains.com/youtrack/issue/nSO-589) Fixed issue for student that cannot login.
+- [nSO-599](https://dyned.myjetbrains.com/youtrack/issue/nSO-599) Fixed modal text that out of frame.
+- [nSO-602](https://dyned.myjetbrains.com/youtrack/issue/nSO-602) Fixed save lesson alert box that disappear.
+- [nSO-607](https://dyned.myjetbrains.com/youtrack/issue/nSO-607) Fixed wording for delete lesson in MyLesson.
+- [nSO-608](https://dyned.myjetbrains.com/youtrack/issue/nSO-608) Fixed screen width for MyLesson modal box.
+- [nSO-614](https://dyned.myjetbrains.com/youtrack/issue/nSO-614) Fixed page error when clicking Certification Test button.
+- [nSO-638](https://dyned.myjetbrains.com/youtrack/issue/nSO-638) Fixed lesson popup that shown before running lesson.
+- [nSO-644](https://dyned.myjetbrains.com/youtrack/issue/nSO-644) Fixed issue for cannot upload the student profile picture when studying the first time.
+- [nSO-650](https://dyned.myjetbrains.com/youtrack/issue/nSO-650) Get value of flow_id in My Lesson list.
+- [nSO-654](https://dyned.myjetbrains.com/youtrack/issue/nSO-654) Fixed GO button shape.
+- [nSO-661](https://dyned.myjetbrains.com/youtrack/issue/nSO-661) Fixed Study Now/Mastery Test/Review Mastery Test button position.
+- [nSO-674](https://dyned.myjetbrains.com/youtrack/issue/nSO-674) Fixed extra scroll bar when sign out alert box appear.
+
 ## [v.1.1.0] on December, 20th 2021
 * [nSO-256](https://dyned.myjetbrains.com/youtrack/issue/nSO-256) Fixed issue for access denied on using microphone. 
 * [nSO-459](https://dyned.myjetbrains.com/youtrack/issue/nSO-459) Implemented question weight for data collection.
