@@ -5,6 +5,10 @@ title: myneo App - iOS
 # myneo App - iOS
 myneo Application for iOS
 
+## [v.1.7.2] on February 23rd, 2022
+- [MNA-306](https://dyned.myjetbrains.com/youtrack/issue/MNA-306) Made two improvement for LIVE.
+- [MNA-360](https://dyned.myjetbrains.com/youtrack/issue/MNA-360) Fixed issue for chat feature that cannot work on the agora
+
 ## [v1.7.1] on November 3rd, 2021
 - [MNA-344](https://dyned.myjetbrains.com/youtrack/issue/MNA-344) Fixed two pictures that not shown appropriately on iPad Generation 6.
 - Added notification when coach do a screen share.

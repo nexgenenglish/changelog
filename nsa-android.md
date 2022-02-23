@@ -5,6 +5,13 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.16.1] on February 23rd, 2022
+- [NSA-2955](https://dyned.myjetbrains.com/youtrack/issue/NSA-2955) Fixed crashed grammar demo lesson on Android: LG L1U2.
+- [NSA-2973](https://dyned.myjetbrains.com/youtrack/issue/NSA-2973) Get value of flow_id in MyLesson list.
+- [NSA-2994](https://dyned.myjetbrains.com/youtrack/issue/NSA-2994) Required learners to wait 24 hours before retaking MT after the 3rd failure and subsequent failures [NSA and NSO].
+- [NSA-2995](https://dyned.myjetbrains.com/youtrack/issue/NSA-2995) Fixed issue for the ‘Mastery Test unlocked’ screen that showed up while student still has to wait until the end of 24 hours.
+- [NSA-2988](https://dyned.myjetbrains.com/youtrack/issue/NSA-2988) Fixed issue for student who cannot study.
+
 ## [v1.16.0] on December 17th, 2021
 -[NSA-2904](https://dyned.myjetbrains.com/youtrack/issue/NSA-2904) Added study data for student who studies on MyLesson.
 - [NSA-2914](https://dyned.myjetbrains.com/youtrack/issue/NSA-2914) Added study data for student who studies on MyLesson.

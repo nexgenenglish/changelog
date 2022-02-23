@@ -5,6 +5,11 @@ title: myneo App - Android
 # myneo App - Android
 myneo Application for Android
 
+## [v.1.7.2] on February 23rd, 2022
+- [MNA-306](https://dyned.myjetbrains.com/youtrack/issue/MNA-306) Made two improvement for LIVE.
+- [MNA-352](https://dyned.myjetbrains.com/youtrack/issue/MNA-352) Fixed issue for Spanish Language that do not show up on first login.
+- [MNA-360](https://dyned.myjetbrains.com/youtrack/issue/MNA-360) Fixed issue for chat feature that cannot work on the agora
+
 ## [v1.7.1] on November 3rd, 2021
 - Added notification when coach do a screen share.
 

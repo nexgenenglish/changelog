@@ -5,8 +5,16 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+## [v1.16.1] on February 23rd, 2022
+- [NSA-2950](https://dyned.myjetbrains.com/youtrack/issue/NSA-2950) Fixed issue for sudden froze on the app.
+- [NSA-2956](https://dyned.myjetbrains.com/youtrack/issue/NSA-2956) Fixed issue for no sound for Q4 and Q5 of CT.
+- [NSA-2972](https://dyned.myjetbrains.com/youtrack/issue/NSA-2972) Fixed issue for cannot taking CT.
+- [NSA-2973](https://dyned.myjetbrains.com/youtrack/issue/NSA-2973) Get value of flow_id in MyLesson list.
+- [NSA-2994](https://dyned.myjetbrains.com/youtrack/issue/NSA-2994) Required learners to wait 24 hours before retaking MT after the 3rd failure and subsequent failures [NSA and NSO].
+- [NSA-3000](https://dyned.myjetbrains.com/youtrack/issue/NSA-3000) Fixed MT issue for not showing next question after clicking answer.
+
 ## [v1.16.0] on December 17th, 2021
--[NSA-2904](https://dyned.myjetbrains.com/youtrack/issue/NSA-2904) Added study data for student who studies on MyLesson.
+- [NSA-2904](https://dyned.myjetbrains.com/youtrack/issue/NSA-2904) Added study data for student who studies on MyLesson.
 - [NSA-2914](https://dyned.myjetbrains.com/youtrack/issue/NSA-2914) Added study data for student who studies on MyLesson.
 - [NSA-2915](https://dyned.myjetbrains.com/youtrack/issue/NSA-2915) Added study data for student who studies on MyLesson.
 
