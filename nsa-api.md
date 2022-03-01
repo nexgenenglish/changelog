@@ -5,6 +5,7 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+
 # 1.9.32 on February 23rd, 2022
 - [NSAAPI-406](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-406) Fixed double student data on students tab.
 - [NSAAPI-408](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-408) Disabled all the group admin to send (update) the 'account_start_at' earily than today.
@@ -12,8 +13,10 @@ Service (API) to manage neo Study App.
 - [NSAAPI-410](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-410) Changed to sort-order when clicking on the CURRENT LEVEL column.
 - [NSAAPI-412](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-412) Provided value of flow_id in MyLesson list.
 - [NSAAPI-413](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-413) Changed the MyLesson opening hours for study from 24 hours to 72 hours.
+- [NSAAPI-414](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-414) Fixed the MT lesson code that does not match because of the changes to the latest version.
 - [NSAAPI-416](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-416) [old data] Current set pass CT if score is more than 70%.
 - [NSAAPI-418](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-418) Added Bugsnag to neo Study App API
+- - [NSAAPI-419](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-419) Fixed the different last study date in Student and Classes Tab.
 - [NSAAPI-420](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-420) Changed wording in My Lesson from 72h to 72 hours.
 - [NSAAPI-421](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-421) The optimization of the neo DB.
 - [NSAAPI-422](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-422) Fixed wrong error message when trying to retake Mastery Test
