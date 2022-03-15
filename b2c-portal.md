@@ -4,6 +4,12 @@ title: B2C Portal
 
 # B2C Portal
 
+## [v.1.1.21] on March 15th, 2022
+- [MNS-790](https://dyned.myjetbrains.com/youtrack/issue/mns-790) Fixed issue for token that does not auto added when student purchase full version.
+- [MNS-791](https://dyned.myjetbrains.com/youtrack/issue/mns-791) Changed Student Study Record Report Study Time format to hh:mm:ss 
+- [MNS-792](https://dyned.myjetbrains.com/youtrack/issue/mns-792) Udated the create user API for initial_level and password.
+- [MNS-793](https://dyned.myjetbrains.com/youtrack/issue/mns-793) Ignore Leading or trailing spaces on emails when doing bulk import.
+
 ## [v.1.1.20] on February 3rd, 2022
 - [MNS-730](https://dyned.myjetbrains.com/youtrack/issue/mns-730) Split live token.
 - [MNS-767](https://dyned.myjetbrains.com/youtrack/issue/mns-767) Fixed interface that show not properly.
