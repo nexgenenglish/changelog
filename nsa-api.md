@@ -5,8 +5,11 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
-# 1.9.33 on March 15th, 2022
+# 1.9.34 on March 15th, 2022
 - [NSAAPI-427](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-427) Fixed issue for students who have a grade of 0%.
+
+# 1.9.33 on March 15th, 2022
+- [NSAAPI-426](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-426) Fixed issue for last study date that doesn't show the same for students tab and classroom tab.
 
 # 1.9.32 on February 23rd, 2022
 - [NSAAPI-406](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-406) Fixed double student data on students tab.

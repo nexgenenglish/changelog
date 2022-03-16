@@ -5,6 +5,13 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [1.5.2] on March 15th, 2022
+- [UD-1445](https://dyned.myjetbrains.com/youtrack/issue/UD-1445) Fixed Error 500 -UNABLE TO USE THE STUDENT TAB ON UD.
+- [UD-1446](https://dyned.myjetbrains.com/youtrack/issue/UD-1446) Fixed issue for unable to create students.
+
+## [1.5.1] on March 15th, 2022
+- [UD-1408](https://dyned.myjetbrains.com/youtrack/issue/UD-1408) Fixed issue for values returned from fetch student API that are not updated.
+
 ## [1.5.0] on Nov 24th, 2021
 - [UD-516](https://dyned.myjetbrains.com/youtrack/issue/UD-516) Fixed issue for change expiration date that doesn't work properly.
 - [UD-560](https://dyned.myjetbrains.com/youtrack/issue/UD-560) Changed "Cert Test Statistics" button to disable.
