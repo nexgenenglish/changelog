@@ -5,6 +5,11 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+## [v1,16.2] on March 7th, 2022
+- [NSA-3013](https://dyned.myjetbrains.com/youtrack/issue/NSA-3013) Fixed record button that not responsive after update to the latest version.
+- [NSA-3014](https://dyned.myjetbrains.com/youtrack/issue/NSA-3014) Fixed issue for the recording on iOS.
+- [NSA-3041](https://dyned.myjetbrains.com/youtrack/issue/NSA-3041) Fixed issue for SR button. 
+
 ## [v1.16.1] on February 23rd, 2022
 - [NSA-2950](https://dyned.myjetbrains.com/youtrack/issue/NSA-2950) Fixed issue for sudden froze on the app.
 - [NSA-2956](https://dyned.myjetbrains.com/youtrack/issue/NSA-2956) Fixed issue for no sound for Q4 and Q5 of CT.
