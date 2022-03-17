@@ -5,9 +5,6 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
-## [v1.16.3] on March 7th, 2022
-- [NSA-3041](https://dyned.myjetbrains.com/youtrack/issue/NSA-3041) Fixed issue for SR button. 
-
 ## [v1.16.2] on March 7th, 2022
 - [NSA-3013](https://dyned.myjetbrains.com/youtrack/issue/NSA-3013) Fixed record button that not responsive after update to the latest version.
 - [NSA-3014](https://dyned.myjetbrains.com/youtrack/issue/NSA-3014) Fixed issue for the recording on iOS.
