@@ -5,6 +5,12 @@ title: neo Live B2I
 # Live B2I
 A website for DynEd students and coaches to study using Live Session and also for admins and affiliates to manage DynEd Live's environment.
 
+## [v.1.1.20] on April 5th, 2022
+- [DELB2I-1326](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1326) Added option to change time zone when generating report for reporting roles.
+- [DELB2I-1327](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1327) Added students organization code in Session reporting.
+- [DELB2I-1330](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1330) Updated coach materials.
+- [DELB2I-1334](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1334) Fixed wrong sequence and highlighted title in Live script.
+
 ## [v.1.1.19] on January 28th, 2022
 - [DELB2I-1279](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1279) Fixed coaching script that cannot load properly.
 - [DELB2I-1312](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1312) Implemented coaching script API from JCT.

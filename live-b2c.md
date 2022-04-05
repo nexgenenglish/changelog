@@ -5,6 +5,11 @@ title: neo Live B2C
 # Live B2C
 A website for neo students to study using Live Session.
 
+## [v.1.1.18] on April 5th, 2022
+- [NELB2C-1438](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1438) Fixed cache recurring booking.
+- [NELB2C-1439](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1439) Created pre call test page.
+- [NELB2C-1455](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1455) Disabled buy token button for China server.
+
 ## [v.1.1.17] on January 27th, 2022
 - [NELB2C-1429](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1429) Make buy token to redirect based on .env.
 
