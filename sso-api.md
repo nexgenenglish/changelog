@@ -4,8 +4,14 @@ title: SSO API
 
 # SSO API
 
+## 1.3.1 on April 12th, 2022
+- [SSO-45](https://dyned.myjetbrains.com/youtrack/issue/SSO-45) Make the SSO validate for email/u_name already registered when create a new sso users.
+
+## 1.3.0 on April 12th, 2022
+- [SSO-44](https://dyned.myjetbrains.com/youtrack/issue/SSO-44) Show Register Date
+
 ## 1.2.9 on July 26th, 2021
-- NSAAPI-352 Profile picture does not show when I log in and I am prompted to provide picture.
+- [NSAAPI-352](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-352) Profile picture does not show when I log in and I am prompted to provide picture.
 
 ## 1.2.8 on June 11th, 2021
 - [SSO-42](https://dyned.myjetbrains.com/youtrack/issue/SSO-42) Add a Organization setup from UD

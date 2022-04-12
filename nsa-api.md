@@ -5,6 +5,13 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.9.35 on April 12th, 2022
+- [NSAAPI-430](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-430) Fixed issue for student who was able to study beyond the expiration date.
+- [NSAAPI-432](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-432) Fixed issue for Students who have STUDY TIME but do not have AVERAGE POINTS PER WEEK or a GRADE.
+- [NSAAPI-433](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-433) Fixed issue for Study Points in Dashboard that do not match the Study Point in myneo app.
+[NSAAPI-434](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-434) Fixed issue for incorrect API.
+- [NSAAPI-435](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-435) Fixed PT Level in Summary Report that's not the same as eTest Level.
+
 # 1.9.34 on March 15th, 2022
 - [NSAAPI-427](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-427) Fixed issue for students who have a grade of 0%.
 
