@@ -5,6 +5,9 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [1.5.3] on April 4th, 2022
+- [UD-976](https://dyned.myjetbrains.com/youtrack/issue/UD-976) Updated onnboard student function.
+
 ## [1.5.2] on March 15th, 2022
 - [UD-1445](https://dyned.myjetbrains.com/youtrack/issue/UD-1445) Fixed Error 500 -UNABLE TO USE THE STUDENT TAB ON UD.
 - [UD-1446](https://dyned.myjetbrains.com/youtrack/issue/UD-1446) Fixed issue for unable to create students.
