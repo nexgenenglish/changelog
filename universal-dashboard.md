@@ -5,6 +5,113 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [1.6.0] on April 26th, 2022
+- [UD-558](https://dyned.myjetbrains.com/youtrack/issue/UD-558) - Changed the Organization Field in the User's( Admin) list from Code to Org's Name.
+- [UD-641](https://dyned.myjetbrains.com/youtrack/issue/UD-641) - Fixed wording in URL for organization.
+- [UD-647](https://dyned.myjetbrains.com/youtrack/issue/UD-647) - Change incorrect students' registration date in Student Summary Report.
+- [UD-830](https://dyned.myjetbrains.com/youtrack/issue/UD-830) - Make column on Students tab sortable.
+- [UD-840](https://dyned.myjetbrains.com/youtrack/issue/UD-840) - Fixed sorting on last study date.
+- [UD-857](https://dyned.myjetbrains.com/youtrack/issue/UD-857) - Fixed issue for cannot sort columns in Student List (from Class tab) with grading disabled.
+- [UD-897](https://dyned.myjetbrains.com/youtrack/issue/UD-897) - Fixed option "Student can take cert on their own" for the Admin and the Teacher.
+ -[UD-968](https://dyned.myjetbrains.com/youtrack/issue/UD-968) - Fixed issue for Average Points Per Week that different on "Classes" and "Classes -> Students".
+- [UD-976](https://dyned.myjetbrains.com/youtrack/issue/UD-976) - Fixed issue for cannot Onboard Specific Student.
+- [UD-997](https://dyned.myjetbrains.com/youtrack/issue/UD-997) - Student Summary Report.
+- [UD-998](https://dyned.myjetbrains.com/youtrack/issue/UD-998) - Student PT Report.
+- [UD-1015](https://dyned.myjetbrains.com/youtrack/issue/UD-1015) - Fixed bug in Billing Report.
+- [UD-1018](https://dyned.myjetbrains.com/youtrack/issue/UD-1018) - Fixed error when access Students tab.
+- [UD-1020](https://dyned.myjetbrains.com/youtrack/issue/UD-1020) - Fixed issue for Study Record report that is empty. 
+- [UD-1029](https://dyned.myjetbrains.com/youtrack/issue/UD-1029) - Fixed issue for Students that are not showing any study time or completion percent.
+- [UD-1050](https://dyned.myjetbrains.com/youtrack/issue/UD-1050) - Convert date time to UTC 0 from time zone organization setting.
+- [UD-1094](https://dyned.myjetbrains.com/youtrack/issue/UD-1094) - Issue Certificates for B2Ed Classes.
+- [UD-1117](https://dyned.myjetbrains.com/youtrack/issue/UD-1117) - Fixed The LAST STUDY DATE on the CLASSES tab that is incorrect on the PRODUCTION server.
+- [UD-1133](https://dyned.myjetbrains.com/youtrack/issue/UD-1133) - Fixed error login using email with Latin alphabet (diacritics).
+- [UD-1134](https://dyned.myjetbrains.com/youtrack/issue/UD-1134) - Allowed email to be latin alphabetical.
+- [UD-1144](https://dyned.myjetbrains.com/youtrack/issue/UD-1144) - Prevent error on login method.
+- [UD-1157](https://dyned.myjetbrains.com/youtrack/issue/UD-1157) - Fixed issue for cannot create a new student from students tab and direct registration API.
+- [UD-1160](https://dyned.myjetbrains.com/youtrack/issue/UD-1160) - Make the name of the report in the title the same as the name of the file.
+- [UD-1163](https://dyned.myjetbrains.com/youtrack/issue/UD-1163) - Fixed typo in Organizations URL.
+- [UD-1164](https://dyned.myjetbrains.com/youtrack/issue/UD-1164) - Fixed grammar Student Bulk Registration Success Message.
+- [UD-1165](https://dyned.myjetbrains.com/youtrack/issue/UD-1165) - Fixed grammar Student Bulk Registration Progress Message.
+- [UD-1167](https://dyned.myjetbrains.com/youtrack/issue/UD-1167) - Removed dropdown datable length on the recommended class activities page.
+- [UD-1168](https://dyned.myjetbrains.com/youtrack/issue/UD-1168) - Fixed Grammar: Student Bulk Registration message.
+- [UD-1175](https://dyned.myjetbrains.com/youtrack/issue/UD-1175) - Fixed issue for Study Records Period date error that does not erase.
+- [UD-1176](https://dyned.myjetbrains.com/youtrack/issue/UD-1176) - Fixed wording in Study Records Period Date.
+- [UD-1188](https://dyned.myjetbrains.com/youtrack/issue/UD-1188) - Fixed the "ByPass Onboarding" toggle on Organization configuration screen.
+- [UD-1200](https://dyned.myjetbrains.com/youtrack/issue/UD-1200) - Fixed error when doing a search for a student account.
+- [UD-1202](https://dyned.myjetbrains.com/youtrack/issue/UD-1202) - Changed download certificate text.
+- [UD-1203](https://dyned.myjetbrains.com/youtrack/issue/UD-1203) - Sorting on the Student STUDENT tab.
+- [UD-1216](https://dyned.myjetbrains.com/youtrack/issue/UD-1216) - Removed ID from file name.
+- [UD-1243](https://dyned.myjetbrains.com/youtrack/issue/UD-1243) - Enabled to remove the green status box for downloaded reports.
+- [UD-1262](https://dyned.myjetbrains.com/youtrack/issue/UD-1262) - Changed wording for Student Summary Report in progress message.
+- [UD-1306](https://dyned.myjetbrains.com/youtrack/issue/UD-1306) - Fixed issue for student summary report that PROCESSING does not change to DOWNLOAD unless refresh the screen.
+- [UD-1313](https://dyned.myjetbrains.com/youtrack/issue/UD-1313) - Fixed column width wider.
+- [UD-1335](https://dyned.myjetbrains.com/youtrack/issue/UD-1335) - Added a Student ID column to the right of the Student column.
+- [UD-1345](https://dyned.myjetbrains.com/youtrack/issue/UD-1345) - Updated Report Styling. 
+-[UD-1346](https://dyned.myjetbrains.com/youtrack/issue/UD-1346) - Fixed Grammar: Student Summary Report successful status text.
+- [UD-1355](https://dyned.myjetbrains.com/youtrack/issue/UD-1355) - Added Study Record per student.
+- [UD-1386](https://dyned.myjetbrains.com/youtrack/issue/UD-1386) - Allowed non latin character for sign in.
+- [UD-1990](https://dyned.myjetbrains.com/youtrack/issue/UD-1190) - Fixed ACTIONS button that are off the screen when the class name is long.
+- [UD-1206](https://dyned.myjetbrains.com/youtrack/issue/UD-1206) - Fixed error for LAST CERTIFICATE DATE for some Organizations.
+- [UD-1214](https://dyned.myjetbrains.com/youtrack/issue/UD-1214) - Added percent sign in level completion percent column.
+- [UD-1227](https://dyned.myjetbrains.com/youtrack/issue/UD-1227) - Make entry in the STUDENTS tab, by-default it should be sorted on the STUDENT NAME column (in alphabetical order).
+- [UD-1228](https://dyned.myjetbrains.com/youtrack/issue/UD-1228) - Changed column to sort-order when clicking on the CURRENT LEVEL column.
+- [UD-1232](https://dyned.myjetbrains.com/youtrack/issue/UD-1232) - Fixed the position of two of the icons on the CLASSES tab.
+- [UD-1244](https://dyned.myjetbrains.com/youtrack/issue/UD-1244) - Fixed issue for Downloading Certificates for an Organization is taking longer than expected.
+- [UD-1250](https://dyned.myjetbrains.com/youtrack/issue/UD-1250) - V1.6.0 Testing Comments.
+- [UD-1251](https://dyned.myjetbrains.com/youtrack/issue/UD-1251) - PT Summary Report --- Pass 1.
+- [UD-1253](https://dyned.myjetbrains.com/youtrack/issue/UD-1253) - Student Summary Report --- Pass 1.
+- [UD-1256](https://dyned.myjetbrains.com/youtrack/issue/UD-1256) - PT Summary Report --- Pass 2.
+- [UD-1257](https://dyned.myjetbrains.com/youtrack/issue/UD-1257) - Make default sorting on the Students tab should be alphabetical order.
+- [UD-1263](https://dyned.myjetbrains.com/youtrack/issue/UD-1263) - [Reporting] Study Records.
+- [UD-1275](https://dyned.myjetbrains.com/youtrack/issue/UD-1275) - Student PT Report --- Pass 3.
+- [ud-1276](https://dyned.myjetbrains.com/youtrack/issue/UD-1276) - Student Summary Report -- Pass 1.
+- [UD-1294](https://dyned.myjetbrains.com/youtrack/issue/UD-1294) - Changed Study Time to be displayed to hh:mm:ss format.
+- [UD-1295](https://dyned.myjetbrains.com/youtrack/issue/UD-1295) - Fixed issue for generating report that turns out to be empty file.
+- [UD-1319](https://dyned.myjetbrains.com/youtrack/issue/UD-1319) - Student PT Report --- Pass 4.
+- [UD-1332](https://dyned.myjetbrains.com/youtrack/issue/UD-1332) - Fixed issue for the cert test that is lockable by the Organization Administrator.
+- [UD-1379](https://dyned.myjetbrains.com/youtrack/issue/UD-1379) - Fixed typo in Generate Test Token Alert Box.
+- [UD-1308](https://dyned.myjetbrains.com/youtrack/issue/UD-1308) - Fixed green box for reports - Pass 2.
+- [UD-1340](https://dyned.myjetbrains.com/youtrack/issue/UD-1340) - Comments on Student PT Report -- Pass 5.
+- [UD-1342](https://dyned.myjetbrains.com/youtrack/issue/UD-1342) - Fixed issue for the past usernames appear automatically when the url loads.
+- [UD-1347](https://dyned.myjetbrains.com/youtrack/issue/UD-1347) - Changed the button text on the Generate Student Summary Report to "Generate".
+- [UD-1349](https://dyned.myjetbrains.com/youtrack/issue/UD-1349) - Fixed inconsistent Action popup to create Student Summary Report.
+- [UD-1352](https://dyned.myjetbrains.com/youtrack/issue/UD-1352) - Fixed Generate Student Summary Report Dialog: wrong end date.
+- [UD-1354](https://dyned.myjetbrains.com/youtrack/issue/UD-1354) - Fixed typo in Student Bulk Registration message.
+- [UD-1375](https://dyned.myjetbrains.com/youtrack/issue/UD-1375) - Single student study record report.
+- [UD-1380](https://dyned.myjetbrains.com/youtrack/issue/UD-1380) - Fixed redundant text in Generate Test Token Alert Box.
+- [UD-1384](https://dyned.myjetbrains.com/youtrack/issue/UD-1384) - Fixed Start Date and Expiration Date that are not according between the template and the student profile.
+- [UD-1390](https://dyned.myjetbrains.com/youtrack/issue/UD-1390) - Fixed action Popup Menu that chopped off.
+- [UD-1400](https://dyned.myjetbrains.com/youtrack/issue/UD-1400) - Make values in the Points column should have commas.
+- [UD-1415](https://dyned.myjetbrains.com/youtrack/issue/UD-1415) - Make certificate template as same as the certificate level.
+- [UD-1416](https://dyned.myjetbrains.com/youtrack/issue/UD-1416) - Fixed issue for failed to fetch picture.
+- [UD-1421](https://dyned.myjetbrains.com/youtrack/issue/UD-1421) - Fixed issue for Generate Certificates: Different Start Dates.
+- [UD-1423](https://dyned.myjetbrains.com/youtrack/issue/UD-1423) - Fixed issue for Generate Certificate: Action different menu item names.
+- [UD-1424](https://dyned.myjetbrains.com/youtrack/issue/UD-1424) - Changed wording from "Download" to "Generate" or "Create".
+- [UD-1426](https://dyned.myjetbrains.com/youtrack/issue/UD-1426) - Removed decimal points for Grade in Student Study Report. 
+- [UD-1427](https://dyned.myjetbrains.com/youtrack/issue/UD-1427) - Fixed issue in Student Study Report: values do not match values on the screen.
+- [UD-1428](https://dyned.myjetbrains.com/youtrack/issue/UD-1428) - Generate Certificate: No Classes Student Download button.
+- [UD-1433](https://dyned.myjetbrains.com/youtrack/issue/UD-1433) - Sort on percentage column doesnt work properly.
+- [UD-1451](https://dyned.myjetbrains.com/youtrack/issue/UD-1451) - UD Billing report - option TREE and COMBINE.
+- [UD-1464](https://dyned.myjetbrains.com/youtrack/issue/UD-1464) - Changed link title to PDFs.
+- [UD-1480](https://dyned.myjetbrains.com/youtrack/issue/UD-1480) - Changed wording neo guide for schools.
+- [UD-1504](https://dyned.myjetbrains.com/youtrack/issue/UD-1504) - Fixed issue in Student Summary Report.
+- [UD-1508](https://dyned.myjetbrains.com/youtrack/issue/UD-1508) - Generate student raw data report using selected student.
+- [UD-1515](https://dyned.myjetbrains.com/youtrack/issue/UD-1515) - Reorganize Student Summary Report and Student Records Reports Menus.
+- [UD-1516](https://dyned.myjetbrains.com/youtrack/issue/UD-1516) - Changed Study Record Report to Student Raw Data Report.
+- [UD-1517](https://dyned.myjetbrains.com/youtrack/issue/UD-1517) - Rename Study Report labels to Student Raw Data.
+- [UD-1523](https://dyned.myjetbrains.com/youtrack/issue/UD-1523) - Added user Global Report options.
+- [UD-1524](https://dyned.myjetbrains.com/youtrack/issue/UD-1524) - Changed original Student Summary Report to Study Record Report.
+- [UD-1531](https://dyned.myjetbrains.com/youtrack/issue/UD-1531) - Fixed issue for Student Study Report that is empty.
+- [UD-1539](https://dyned.myjetbrains.com/youtrack/issue/UD-1539) - Fixed issue for cannot create neo+ ept token.
+- [UD-1560](https://dyned.myjetbrains.com/youtrack/issue/UD-1560) - Make the name of the report in the title the same as the name of the file.
+- [UD-1568](https://dyned.myjetbrains.com/youtrack/issue/UD-1568) - Fixed issue for Certification Test that remains locked but UD shows as "Open".
+- [UD-1569](https://dyned.myjetbrains.com/youtrack/issue/UD-1569) - Sent the use live and use mna values when create or edit organization into SSO API to saved into SSO.
+- [UD-1577](https://dyned.myjetbrains.com/youtrack/issue/UD-1577) - Fixed issue for CT that remains locked.
+- [UD-1580](https://dyned.myjetbrains.com/youtrack/issue/UD-1580) - Fixed issue for cannt set 0 for Default Number of Tokens for Trial Students in organisation.
+- [UD-1598](https://dyned.myjetbrains.com/youtrack/issue/UD-1598) - Set create cert green box format fate to d-m-y (01-jan-21).
+- [UD-1599](https://dyned.myjetbrains.com/youtrack/issue/UD-1599) - Enaled to remove green box for Student Raw Data Report.
+- [UD-1600](https://dyned.myjetbrains.com/youtrack/issue/UD-1600) - Prevent display error when showing report from previous format payload.
+
 ## [1.5.3] on April 4th, 2022
 - [UD-976](https://dyned.myjetbrains.com/youtrack/issue/UD-976) - Updated onnboard student function.
 
