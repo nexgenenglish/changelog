@@ -27,6 +27,8 @@ An universal dashboard to manage neo ecosystem.
 - [UD-1133](https://dyned.myjetbrains.com/youtrack/issue/UD-1133) - Fixed error login using email with Latin alphabet (diacritics).
 - [UD-1134](https://dyned.myjetbrains.com/youtrack/issue/UD-1134) - Allowed email to be latin alphabetical.
 - [UD-1144](https://dyned.myjetbrains.com/youtrack/issue/UD-1144) - Prevent error on login method.
+- [UD-1151](https://dyned.myjetbrains.com/youtrack/issue/UD-1151) - Changed 'Force eTest' to 'Force PT'.
+- [UD-1155](https://dyned.myjetbrains.com/youtrack/issue/UD-1155) - Fixed issue for unable to edit the student Matias Ramos.
 - [UD-1157](https://dyned.myjetbrains.com/youtrack/issue/UD-1157) - Fixed issue for cannot create a new student from students tab and direct registration API.
 - [UD-1160](https://dyned.myjetbrains.com/youtrack/issue/UD-1160) - Make the name of the report in the title the same as the name of the file.
 - [UD-1163](https://dyned.myjetbrains.com/youtrack/issue/UD-1163) - Fixed typo in Organizations URL.
@@ -38,6 +40,7 @@ An universal dashboard to manage neo ecosystem.
 - [UD-1176](https://dyned.myjetbrains.com/youtrack/issue/UD-1176) - Fixed wording in Study Records Period Date.
 - [UD-1188](https://dyned.myjetbrains.com/youtrack/issue/UD-1188) - Fixed the "ByPass Onboarding" toggle on Organization configuration screen.
 - [UD-1200](https://dyned.myjetbrains.com/youtrack/issue/UD-1200) - Fixed error when doing a search for a student account.
+- [UD-1201](https://dyned.myjetbrains.com/youtrack/issue/UD-1201) - Fixed issue for duplicate student on Students List.
 - [UD-1202](https://dyned.myjetbrains.com/youtrack/issue/UD-1202) - Changed download certificate text.
 - [UD-1203](https://dyned.myjetbrains.com/youtrack/issue/UD-1203) - Sorting on the Student STUDENT tab.
 - [UD-1206](https://dyned.myjetbrains.com/youtrack/issue/UD-1206) - Fixed error for LAST CERTIFICATE DATE for some Organizations.
@@ -59,9 +62,11 @@ An universal dashboard to manage neo ecosystem.
 - [ud-1276](https://dyned.myjetbrains.com/youtrack/issue/UD-1276) - Student Summary Report -- Pass 1.
 - [UD-1294](https://dyned.myjetbrains.com/youtrack/issue/UD-1294) - Changed Study Time to be displayed to hh:mm:ss format.
 - [UD-1295](https://dyned.myjetbrains.com/youtrack/issue/UD-1295) - Fixed issue for generating report that turns out to be empty file.
+- [UD-1304](https://dyned.myjetbrains.com/youtrack/issue/UD-1304) - Freeze the first 6 rows of the report.
 - [UD-1306](https://dyned.myjetbrains.com/youtrack/issue/UD-1306) - Fixed issue for student summary report that PROCESSING does not change to DOWNLOAD unless refresh the screen.
 - [UD-1308](https://dyned.myjetbrains.com/youtrack/issue/UD-1308) - Fixed green box for reports - Pass 2.
 - [UD-1313](https://dyned.myjetbrains.com/youtrack/issue/UD-1313) - Fixed column width wider.
+- [UD-1318](https://dyned.myjetbrains.com/youtrack/issue/UD-1318) - Fixed issue for tokens that are not added to the student when purchased the program.
 - [UD-1319](https://dyned.myjetbrains.com/youtrack/issue/UD-1319) - Student PT Report --- Pass 4.
 - [UD-1332](https://dyned.myjetbrains.com/youtrack/issue/UD-1332) - Fixed issue for the cert test that is lockable by the Organization Administrator.
 - [UD-1335](https://dyned.myjetbrains.com/youtrack/issue/UD-1335) - Added a Student ID column to the right of the Student column.
@@ -92,7 +97,9 @@ An universal dashboard to manage neo ecosystem.
 - [UD-1433](https://dyned.myjetbrains.com/youtrack/issue/UD-1433) - Sort on percentage column doesnt work properly.
 - [UD-1451](https://dyned.myjetbrains.com/youtrack/issue/UD-1451) - UD Billing report - option TREE and COMBINE.
 - [UD-1464](https://dyned.myjetbrains.com/youtrack/issue/UD-1464) - Changed link title to PDFs.
+- [UD-1471](https://dyned.myjetbrains.com/youtrack/issue/UD-1471) - Fixed issue for reports that not show organization time.
 - [UD-1480](https://dyned.myjetbrains.com/youtrack/issue/UD-1480) - Changed wording neo guide for schools.
+- [UD-1488](https://dyned.myjetbrains.com/youtrack/issue/UD-1488) - Student PT Report_Staging.
 - [UD-1498](https://dyned.myjetbrains.com/youtrack/issue/UD-1498) - Fixed Study Report that has more than 2 significant figures when displaying results.
 - [UD-1504](https://dyned.myjetbrains.com/youtrack/issue/UD-1504) - Fixed issue in Student Summary Report.
 - [UD-1508](https://dyned.myjetbrains.com/youtrack/issue/UD-1508) - Generate student raw data report using selected student.
@@ -101,10 +108,12 @@ An universal dashboard to manage neo ecosystem.
 - [UD-1517](https://dyned.myjetbrains.com/youtrack/issue/UD-1517) - Rename Study Report labels to Student Raw Data.
 - [UD-1523](https://dyned.myjetbrains.com/youtrack/issue/UD-1523) - Added user Global Report options.
 - [UD-1524](https://dyned.myjetbrains.com/youtrack/issue/UD-1524) - Changed original Student Summary Report to Study Record Report.
+- [UD-1525](https://dyned.myjetbrains.com/youtrack/issue/UD-1525) - Value appear only 100% and 0% in the SR % Recognized (Y).
 - [UD-1531](https://dyned.myjetbrains.com/youtrack/issue/UD-1531) - Fixed issue for Student Study Report that is empty.
 - [UD-1539](https://dyned.myjetbrains.com/youtrack/issue/UD-1539) - Fixed issue for cannot create neo+ ept token.
 - [UD-1559](https://dyned.myjetbrains.com/youtrack/issue/UD-1559) - Removed typo underscore on some of files name for certificate.
 - [UD-1560](https://dyned.myjetbrains.com/youtrack/issue/UD-1560) - Make the name of the report in the title the same as the name of the file.
+- [UD-1562](https://dyned.myjetbrains.com/youtrack/issue/UD-1562) - Fixed issue for Student Summary Report and Student PT Report that have inconsistency.
 - [UD-1568](https://dyned.myjetbrains.com/youtrack/issue/UD-1568) - Fixed issue for Certification Test that remains locked but UD shows as "Open".
 - [UD-1569](https://dyned.myjetbrains.com/youtrack/issue/UD-1569) - Sent the use live and use mna values when create or edit organization into SSO API to saved into SSO.
 - [UD-1577](https://dyned.myjetbrains.com/youtrack/issue/UD-1577) - Fixed issue for CT that remains locked.

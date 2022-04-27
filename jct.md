@@ -6,6 +6,7 @@ title: JCT
 **JCT** is an interactive web based application interface where a team of course designer setup and create DynEd Course Study that will be used by neo Study App.
 
 ## [V1.2.4] on April 12th, 2022
+- [JCT-191](https://dyned.myjetbrains.com/youtrack/issue/JCT-191) Set default sr_numbers to array.
 - [JCT-195](https://dyned.myjetbrains.com/youtrack/issue/JCT-195) Fixed issue for border color that does not work.
 
 ## [V1.2.3] on January 4th, 2022

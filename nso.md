@@ -18,6 +18,7 @@ Browser based neo Study
 - [nSO-720](https://dyned.myjetbrains.com/youtrack/issue/nSO-720) Added a pop up message when exit mastery test rules applied.
 - [nSO-728](https://dyned.myjetbrains.com/youtrack/issue/nSO-728) Fixed error: The app stops responding.
 - [nSO-729](https://dyned.myjetbrains.com/youtrack/issue/nSO-729) Fixed nSO stops responding.
+- [nSO-739](https://dyned.myjetbrains.com/youtrack/issue/nSO-739) Fixed error: The SR_steps_issue - HS - Colegio San Martín De Porres.
 - [nSO-744](https://dyned.myjetbrains.com/youtrack/issue/nSO-744) Fixed not responsive app after going on the background.
 - [nSO-746](https://dyned.myjetbrains.com/youtrack/issue/nSO-746) Fixed run time error.
 - [nSO-747](https://dyned.myjetbrains.com/youtrack/issue/nSO-747) Fixed uncaught Type Error.
