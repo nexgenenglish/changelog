@@ -93,6 +93,7 @@ An universal dashboard to manage neo ecosystem.
 - [UD-1451](https://dyned.myjetbrains.com/youtrack/issue/UD-1451) - UD Billing report - option TREE and COMBINE.
 - [UD-1464](https://dyned.myjetbrains.com/youtrack/issue/UD-1464) - Changed link title to PDFs.
 - [UD-1480](https://dyned.myjetbrains.com/youtrack/issue/UD-1480) - Changed wording neo guide for schools.
+- [UD-1498](https://dyned.myjetbrains.com/youtrack/issue/UD-1498) - Fixed Study Report that has more than 2 significant figures when displaying results.
 - [UD-1504](https://dyned.myjetbrains.com/youtrack/issue/UD-1504) - Fixed issue in Student Summary Report.
 - [UD-1508](https://dyned.myjetbrains.com/youtrack/issue/UD-1508) - Generate student raw data report using selected student.
 - [UD-1515](https://dyned.myjetbrains.com/youtrack/issue/UD-1515) - Reorganize Student Summary Report and Student Records Reports Menus.
@@ -102,6 +103,7 @@ An universal dashboard to manage neo ecosystem.
 - [UD-1524](https://dyned.myjetbrains.com/youtrack/issue/UD-1524) - Changed original Student Summary Report to Study Record Report.
 - [UD-1531](https://dyned.myjetbrains.com/youtrack/issue/UD-1531) - Fixed issue for Student Study Report that is empty.
 - [UD-1539](https://dyned.myjetbrains.com/youtrack/issue/UD-1539) - Fixed issue for cannot create neo+ ept token.
+- [UD-1559](https://dyned.myjetbrains.com/youtrack/issue/UD-1559) - Removed typo underscore on some of files name for certificate.
 - [UD-1560](https://dyned.myjetbrains.com/youtrack/issue/UD-1560) - Make the name of the report in the title the same as the name of the file.
 - [UD-1568](https://dyned.myjetbrains.com/youtrack/issue/UD-1568) - Fixed issue for Certification Test that remains locked but UD shows as "Open".
 - [UD-1569](https://dyned.myjetbrains.com/youtrack/issue/UD-1569) - Sent the use live and use mna values when create or edit organization into SSO API to saved into SSO.

@@ -6,7 +6,16 @@ title: eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
 ## Etest v1.5.5.1 on April 26th, 2022
+- [ETAPI-96](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-96) Collected the agent info when starting the etest.
+- [ETAPI-99](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-99) Fixed the Get candidates that missing uic value in its response. 
 - [ETAPI-106](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-106) Fixed Fest API with query that is not working.
+
+## Etest v1.5.5 on April 26th, 2022
+- [ETAPI-94](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-94) Rename PT Result Pre-A1 to Pre A1.
+- [ETAPI-97](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-97) Optimized context API.
+- [ETAPI-98](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-98) Added Bugsnag to eTest API.
+- [ETAPI-102](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-102) Deleted CT token that show more than 1 in Tests tab.
+- [ETAPI-103](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-103) Make loading to the next question faster.
 
 ## Etest v1.5.4 on January 20th, 2022
 - [ETAPI-93](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-93) Changed Certification Test Pass/Fail scoring from 80 to 70.
