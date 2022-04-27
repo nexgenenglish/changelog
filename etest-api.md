@@ -5,6 +5,9 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## Etest v1.5.5.1 on April 26th, 2022
+- [ETAPI-106](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-106) Fixed Fest API with query that is not working.
+
 ## Etest v1.5.4 on January 20th, 2022
 - [ETAPI-93](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-93) Changed Certification Test Pass/Fail scoring from 80 to 70.
 

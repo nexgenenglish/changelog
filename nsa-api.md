@@ -5,6 +5,11 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.9.36.2 on April 26th, 2022
+- [NSAAPI-439](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-439) Fixed issue for sort on percentage (Student Tab - UD) column that does not work properly.
+- [NSAAPI-440](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-440) Removed student(s) which is not belong to the organization or sub-organization.
+- [NSAAPI-442](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-442) Fixed issue for Total Coaching Points that are all 0 in Study Records Report_001-UKY-FOF-FDI-BVH_626752bdad69c.
+
 # 1.9.35 on April 12th, 2022
 - [NSAAPI-430](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-430) Fixed issue for student who was able to study beyond the expiration date.
 - [NSAAPI-432](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-432) Fixed issue for Students who have STUDY TIME but do not have AVERAGE POINTS PER WEEK or a GRADE.

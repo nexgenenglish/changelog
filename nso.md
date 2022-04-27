@@ -5,6 +5,35 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study 
 
+## [v.1.1.3] on April 26th, 2022
+- [nSO-260](https://dyned.myjetbrains.com/youtrack/issue/nSO-260) Fixed issue for user which is not able to use the touchscreen on Computers or Chromebooks to do SR lessons.
+- [nSO-281](https://dyned.myjetbrains.com/youtrack/issue/nSO-281) RFS: should show the highlighted TR automatically.
+- [nSO-578](https://dyned.myjetbrains.com/youtrack/issue/nSO-578) Fixed issue when pausing, nso still continue to play.
+- [nSO-700](https://dyned.myjetbrains.com/youtrack/issue/nSO-700) Removed extra scroll on Placement Test Alert Box.
+- [nSO-702](https://dyned.myjetbrains.com/youtrack/issue/nSO-702) Fixed nSO stops responding.
+- [nSO-703](https://dyned.myjetbrains.com/youtrack/issue/nSO-703) Changed Study Path Behavior on tester mode.
+- [nSO-711](https://dyned.myjetbrains.com/youtrack/issue/nSO-711) Fixed forget password link position that is hidden.
+- [nSO-712](https://dyned.myjetbrains.com/youtrack/issue/nSO-712) Fixed version number position that is hidden.
+- [nSO-717](https://dyned.myjetbrains.com/youtrack/issue/nSO-717) Fixed issue for MT Review Lesson: Memory Game stopped.
+- [nSO-720](https://dyned.myjetbrains.com/youtrack/issue/nSO-720) Added a pop up message when exit mastery test rules applied.
+- [nSO-728](https://dyned.myjetbrains.com/youtrack/issue/nSO-728) Fixed error: The app stops responding.
+- [nSO-729](https://dyned.myjetbrains.com/youtrack/issue/nSO-729) Fixed nSO stops responding.
+- [nSO-744](https://dyned.myjetbrains.com/youtrack/issue/nSO-744) Fixed not responsive app after going on the background.
+- [nSO-746](https://dyned.myjetbrains.com/youtrack/issue/nSO-746) Fixed run time error.
+- [nSO-747](https://dyned.myjetbrains.com/youtrack/issue/nSO-747) Fixed uncaught Type Error.
+- [nSO-748](https://dyned.myjetbrains.com/youtrack/issue/nSO-748) Fixed not responsive app when going on the background (Speak).
+- [nSO-749](https://dyned.myjetbrains.com/youtrack/issue/nSO-749) Fixed error: in start with code.
+- [nSO-751](https://dyned.myjetbrains.com/youtrack/issue/nSO-751) Fixed error in console: Uncaught (in promise).
+- [nSO-752](https://dyned.myjetbrains.com/youtrack/issue/nSO-752) Fixed run time error.
+- [nSO-754](https://dyned.myjetbrains.com/youtrack/issue/nSO-754) Improved SR to load faster.
+- [nSO-755](https://dyned.myjetbrains.com/youtrack/issue/nSO-755) NXE Preparing before start lesson.
+- [nSO-758](https://dyned.myjetbrains.com/youtrack/issue/nSO-758) Fixed issue for microphone icon that is no longer visible.
+- [nSO-759](https://dyned.myjetbrains.com/youtrack/issue/nSO-759) Fixed error in Level B2 EFSU15, Lessons Reasons, Purpose and Means.
+- [nSO-760](https://dyned.myjetbrains.com/youtrack/issue/nSO-760) Fixed issue for cannot taking MT (stuck).
+- [nSO-761](https://dyned.myjetbrains.com/youtrack/issue/nSO-761) Fixed error and stuck when study lesson MT.
+- [nSO-762](https://dyned.myjetbrains.com/youtrack/issue/nSO-762) Fixed error for MyLesson (stuck).
+- [nSO-769](https://dyned.myjetbrains.com/youtrack/issue/nSO-769) Prepare NXE Loading.
+
 ## [v.1.1.2] on February 18th, 2022
 - [nSO-679](https://dyned.myjetbrains.com/youtrack/issue/nSO-679) Fixed error for MT2 in Level A2+ neo+.
 - [nSO-680](https://dyned.myjetbrains.com/youtrack/issue/nSO-680) Fixed error for MT3 in Level A1+ neo+.
