@@ -4,6 +4,9 @@ title: SSO API
 
 # SSO API
 
+## 1.3.2 on April 27th, 2022
+- [SSO-47](https://dyned.myjetbrains.com/youtrack/issue/SSO-47) Added use live and mna into organization settings.
+
 ## 1.3.1 on April 12th, 2022
 - [SSO-45](https://dyned.myjetbrains.com/youtrack/issue/SSO-45) Make the SSO validate for email/u_name already registered when create a new sso users.
 

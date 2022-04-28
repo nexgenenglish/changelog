@@ -12,6 +12,7 @@ Service (API) to manage neo Study App.
 
 # 1.9.36 on April 19th, 2022
 - [NSAAPI-434](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-434) Fixed issue for study records that does not work correcly.
+- [NSAAPI-436](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-436) Changed pass score for all upcoming neo MTs from 84 to 80.
 
 # 1.9.35 on April 12th, 2022
 - [NSAAPI-430](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-430) Fixed issue for student who was able to study beyond the expiration date.

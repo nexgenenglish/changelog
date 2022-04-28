@@ -5,16 +5,15 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
-
 ## [1.6.2] on April 27th, 2022
 - [UD-1602](https://dyned.myjetbrains.com/youtrack/issue/UD-1602) - Quick Search field does not reset after doing a search
 - [UD-1605](https://dyned.myjetbrains.com/youtrack/issue/UD-1605) - Update billing error and pointed to new replicate server
 
 ## [1.6.1] on April 26th, 2022
 - [UD-1157](https://dyned.myjetbrains.com/youtrack/issue/UD-1157) - Fixed issue for cannot create a new student from students tab and direct registration API.
-- [UD-1598](https://dyned.myjetbrains.com/youtrack/issue/UD-1598) - Update cert green box format date
-- [UD-1599](https://dyned.myjetbrains.com/youtrack/issue/UD-1599) - Allow remove green box for Student Raw Data Report
-- [UD-1600](https://dyned.myjetbrains.com/youtrack/issue/UD-1600) - Prevent display error when showing report from previous format payload
+- [UD-1598](https://dyned.myjetbrains.com/youtrack/issue/UD-1598) - Update cert green box format date.
+- [UD-1599](https://dyned.myjetbrains.com/youtrack/issue/UD-1599) - Allow remove green box for Student Raw Data Report.
+- [UD-1600](https://dyned.myjetbrains.com/youtrack/issue/UD-1600) - Prevent display error when showing report from previous format payload.
 
 ## [1.6.0] on April 26th, 2022
 - [UD-558](https://dyned.myjetbrains.com/youtrack/issue/UD-558) - Changed the Organization Field in the User's( Admin) list from Code to Org's Name.
