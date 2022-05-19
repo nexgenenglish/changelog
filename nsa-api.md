@@ -5,6 +5,9 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.9.38 on May 19th, 2022
+- [NSAAPI-454](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-454) Fixed issue for wrong script show when having Live session with student Level A2.
+
 # 1.9.36.2 on April 25th, 2022
 - [NSAAPI-439](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-439) Fixed issue for sort on percentage (Student Tab - UD) column that does not work properly.
 - [NSAAPI-440](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-440) Removed student(s) which is not belong to the organization or sub-organization.
