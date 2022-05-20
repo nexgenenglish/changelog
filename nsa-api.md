@@ -5,6 +5,10 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.9.39 on May 20th, 2022
+- [NSAAPI-452](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-452) Fixed incorrect data for Exit Test status/score.
+- [NSAAPI-453](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-453) Fixed issue for student who can study after the account being deactivated.
+
 # 1.9.38 on May 19th, 2022
 - [NSAAPI-454](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-454) Fixed issue for wrong script show when having Live session with student Level A2.
 
