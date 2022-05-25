@@ -5,6 +5,12 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [1.6.4] on May 25th, 2022
+- [UD-1603](https://dyned.myjetbrains.com/youtrack/issue/UD-1603) - Update token balance using diacritics email
+- [UD-1635](https://dyned.myjetbrains.com/youtrack/issue/UD-1635) - Update enable global report for country, region and DynEd admin only
+- [UD-1656](https://dyned.myjetbrains.com/youtrack/issue/UD-1656) - Update allowing organization have no expired date
+- [UD-1675](https://dyned.myjetbrains.com/youtrack/issue/UD-1675) - Update allowing organization admin to update organization details
+
 ## [1.6.3] on May 6th, 2022
 - Installing laravel horizon to manage all queue and background jobs
 - [UD-1632](https://dyned.myjetbrains.com/youtrack/issue/UD-1632) - Optimize time for generating student certificates
