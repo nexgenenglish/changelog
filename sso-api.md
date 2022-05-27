@@ -4,6 +4,9 @@ title: SSO API
 
 # SSO API
 
+## 1.3.3 on May 25th, 2022
+- [SSO-48](https://dyned.myjetbrains.com/youtrack/issue/SSO-48) Allowed expired date to none and UD send expired date as string empty.
+
 ## 1.3.2 on April 27th, 2022
 - [SSO-47](https://dyned.myjetbrains.com/youtrack/issue/SSO-47) Added use live and mna into organization settings.
 
