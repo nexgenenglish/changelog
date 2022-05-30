@@ -5,6 +5,17 @@ title: neo Live B2C
 # Live B2C
 A website for neo students to study using Live Session.
 
+## [v.1.1.19] on May 30th, 2022
+- [NELB2C-1431](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1431) Updated Layout Booking coach in desktop with new design.
+- [NELB2C-1435](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1435) Updated Layout Booking coach in mobile with new design.
+- [NELB2C-1437](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1437) Fixed Agora PreCall test that not working properly in Firefox and Safari.
+- [NELB2C-1468](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1468) Updated token flow.
+- [NELB2C-1472](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1472) Changed admin username based on the token used when add token API.
+- [NELB2C-1474](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1474) Fixed issue for student who can book a session.
+- [NELB2C-1476](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1476) Fixed get token API.
+- [NELB2C-1481](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1481) Hotfix agora session simulator.
+- [NELB2C-1482](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1482) Fixed recurring book
+
 ## [v.1.1.18] on April 5th, 2022
 - [NELB2C-1438](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1438) Fixed cache recurring booking.
 - [NELB2C-1439](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1439) Created pre call test page.

@@ -5,6 +5,10 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## Etest v1.5.6 on May 30th, 2022
+- [ETAPI-108](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-108) Generate selective PT reports based on organization code.
+- [ETAPI-109](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-109) Fixed issue for unable to open the "Cer Test Review List" excel file.
+
 ## Etest v1.5.5.1 on April 26th, 2022
 - [ETAPI-96](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-96) Collected the agent info when starting the etest.
 - [ETAPI-99](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-99) Fixed the Get candidates that missing uic value in its response. 
