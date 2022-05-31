@@ -5,6 +5,9 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study 
 
+## [v.1.1.4] on May 31st, 2022
+- [nSO-795](https://dyned.myjetbrains.com/youtrack/issue/nSO-795) NX Engine Loading Preparation.
+
 ## [v.1.1.3] on April 26th, 2022
 - [nSO-260](https://dyned.myjetbrains.com/youtrack/issue/nSO-260) Fixed issue for user which is not able to use the touchscreen on Computers or Chromebooks to do SR lessons.
 - [nSO-281](https://dyned.myjetbrains.com/youtrack/issue/nSO-281) RFS: should show the highlighted TR automatically.
