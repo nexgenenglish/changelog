@@ -5,6 +5,17 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study 
 
+## [v.1.1.5] on June 13th, 2022
+- [nSO-764](https://dyned.myjetbrains.com/youtrack/issue/nSO-764) Fixed Error : animation type "background" undefined but not make stuck studying.
+- [nSO-767](https://dyned.myjetbrains.com/youtrack/issue/nSO-767) Fixed JSON errors.
+- [nSO-770](https://dyned.myjetbrains.com/youtrack/issue/nSO-770) Fixed error when go to next review MT.
+- [nSO-787](https://dyned.myjetbrains.com/youtrack/issue/nSO-787) Fixed issue for tester mode after clik set lesson button. 
+- [nSO-794](https://dyned.myjetbrains.com/youtrack/issue/nSO-794) Fixed issue for review lesson that cannot open.
+- [nSO-798](https://dyned.myjetbrains.com/youtrack/issue/nSO-798) Fixed issue for 'GO' button that not appear in review lesson.
+- [nSO-802](https://dyned.myjetbrains.com/youtrack/issue/nSO-802) Fixed issue for Error 400 when accessing review lessons.
+- [nSO-805](https://dyned.myjetbrains.com/youtrack/issue/nSO-805) Fixed issue for Uncaught type error: Cannot read properties of null.
+- [nSO-806](https://dyned.myjetbrains.com/youtrack/issue/nSO-806) Fixed lesson that does not finish loading.
+
 ## [v.1.1.4] on May 31st, 2022
 - [nSO-795](https://dyned.myjetbrains.com/youtrack/issue/nSO-795) NX Engine Loading Preparation.
 

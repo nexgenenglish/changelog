@@ -5,6 +5,9 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [1.6.5] on June 14th, 2022
+- [UD-1742](https://dyned.myjetbrains.com/youtrack/issue/UD-1742) - Fixed issue for new student who cannot study on start date.
+
 ## [1.6.4] on May 25th, 2022
 - [UD-1603](https://dyned.myjetbrains.com/youtrack/issue/UD-1603) - Updated token balance using diacritics email.
 - [UD-1635](https://dyned.myjetbrains.com/youtrack/issue/UD-1635) - Updated enable global report for country, region and DynEd admin only.
