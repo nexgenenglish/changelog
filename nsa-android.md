@@ -5,6 +5,15 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.16.3] on June 17th, 2022
+- [NSA-3032](https://dyned.myjetbrains.com/youtrack/issue/NSA-3032) Updated Copyright to 2022.
+
+## [v1.16.2] on June 17th, 2022
+- [NSA-3006](https://dyned.myjetbrains.com/youtrack/issue/NSA-3006) Fixed forced stop issue.
+- [NSA-3011](https://dyned.myjetbrains.com/youtrack/issue/NSA-3011) Fixed graphic size issue.
+- [NSA-3017](https://dyned.myjetbrains.com/youtrack/issue/NSA-3017) Fixed issue for unable to type special characters (Latin Alpabet-diacritics).
+- [NSA-3029](https://dyned.myjetbrains.com/youtrack/issue/NSA-3029) Fixed graphic size issue.
+
 ## [v1.16.1] on February 23rd, 2022
 - [NSA-2955](https://dyned.myjetbrains.com/youtrack/issue/NSA-2955) Fixed crashed grammar demo lesson on Android: LG L1U2.
 - [NSA-2973](https://dyned.myjetbrains.com/youtrack/issue/NSA-2973) Get value of flow_id in MyLesson list.
