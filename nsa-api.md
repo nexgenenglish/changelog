@@ -5,6 +5,14 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.9.40 on June 28th, 2022
+- [NSAAPI-446](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-446) Fixed issue peformance summary report.
+- [NSAAPI-457](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-457) Updated new feature: Hide PT result after PT.
+- [NSAAPI-459](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-459) Fixed incorrect total average point last four weeks (Student Tab).
+- [NSAAPI-461](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-461) Added status account in Student and Class API.
+- [NSAAPI-463](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-463) Fixed missing Level Completion Percent in Students tab.
+
+
 # 1.9.39 on May 20th, 2022
 - [NSAAPI-452](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-452) Fixed incorrect data for Exit Test status/score.
 - [NSAAPI-453](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-453) Fixed issue for student who can study after the account being deactivated.

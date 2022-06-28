@@ -4,8 +4,13 @@ title: SSO API
 
 # SSO API
 
+## 1.3.4 on June 28th, 2022
+- [SSO-50](https://dyned.myjetbrains.com/youtrack/issue/SSO-50) Provide endpoitns to retrieve teacher and organization admins.
+- [SSO-52](https://dyned.myjetbrains.com/youtrack/issue/SSO-52) Endpoint to activated student status.
+
 ## 1.3.3 on May 25th, 2022
 - [SSO-48](https://dyned.myjetbrains.com/youtrack/issue/SSO-48) Allowed expired date to none and UD send expired date as string empty.
+- [SSO-49](https://dyned.myjetbrains.com/youtrack/issue/SSO-49) Store class configuration value to SSO.
 
 ## 1.3.2 on April 27th, 2022
 - [SSO-47](https://dyned.myjetbrains.com/youtrack/issue/SSO-47) Added use live and mna into organization settings.
