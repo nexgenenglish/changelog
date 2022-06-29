@@ -5,6 +5,11 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.16.4] on June 27th, 2022
+- [NSA-3133](https://dyned.myjetbrains.com/youtrack/issue/NSA-3133) Prevent non-registered users from accessing the Placement Test in NSA.
+- [NSA-3145](https://dyned.myjetbrains.com/youtrack/issue/NSA-3145) Fixed blank error when login.
+- [NSA-3153](https://dyned.myjetbrains.com/youtrack/issue/NSA-3153) Fixed contents that not show in sequence.
+
 ## [v1.16.3] on June 17th, 2022
 - [NSA-3032](https://dyned.myjetbrains.com/youtrack/issue/NSA-3032) Updated Copyright to 2022.
 

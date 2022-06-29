@@ -5,8 +5,14 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+## [v1.16.4] on June 27th, 2022
+- [NSA-3133](https://dyned.myjetbrains.com/youtrack/issue/NSA-3133) Prevent non-registered users from accessing the Placement Test in NSA.
+
 ## [v1.16.3] on June 17th, 2022
 - [NSA-3032](https://dyned.myjetbrains.com/youtrack/issue/NSA-3032) Updated Copyright to 2022.
+- [NSA-3142](https://dyned.myjetbrains.com/youtrack/issue/NSA-3142) Fixed lesson that not play correctly.
+- [NSA-3160](https://dyned.myjetbrains.com/youtrack/issue/NSA-3160) Fixed SR Level option
+- [NSA-3161](https://dyned.myjetbrains.com/youtrack/issue/NSA-3161) Fixed position of checkbox and EULA. 
 
 ## [v1.16.2] on March 7th, 2022
 - [NSA-3013](https://dyned.myjetbrains.com/youtrack/issue/NSA-3013) Fixed record button that not responsive after update to the latest version.
