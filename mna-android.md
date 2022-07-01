@@ -5,6 +5,11 @@ title: myneo App - Android
 # myneo App - Android
 myneo Application for Android
 
+## [v.1.7.3] on June 30th, 2022
+- [MNA-393](https://dyned.myjetbrains.com/youtrack/issue/MNA-393) Prevent non-registered users from accessing the Placement Test in MNA.
+- [MNA-390](https://dyned.myjetbrains.com/youtrack/issue/MNA-390) Changed message info when coach turn off the camera while having Live Session.
+- [MNA-398](https://dyned.myjetbrains.com/youtrack/issue/MNA-398) Changed the size of share screen display.
+
 ## [v.1.7.2] on February 23rd, 2022
 - [MNA-306](https://dyned.myjetbrains.com/youtrack/issue/MNA-306) Made two improvement for LIVE.
 - [MNA-352](https://dyned.myjetbrains.com/youtrack/issue/MNA-352) Fixed issue for Spanish Language that do not show up on first login.

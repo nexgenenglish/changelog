@@ -5,6 +5,13 @@ title: myneo App - iOS
 # myneo App - iOS
 myneo Application for iOS
 
+## [v.1.7.4] on June 30th, 2022
+- [MNA-393](https://dyned.myjetbrains.com/youtrack/issue/MNA-393) Prevent non-registered users from accessing the Placement Test in MNA.
+- [MNA-390](https://dyned.myjetbrains.com/youtrack/issue/MNA-390) Changed message info when coach turn off the camera while having Live Session.
+
+## [v.1.7.3] on March 7th, 2022
+- [MNA-365](https://dyned.myjetbrains.com/youtrack/issue/MNA-365) Changed the Pre call test agora layout
+
 ## [v.1.7.2] on February 23rd, 2022
 - [MNA-306](https://dyned.myjetbrains.com/youtrack/issue/MNA-306) Made two improvement for LIVE.
 - [MNA-360](https://dyned.myjetbrains.com/youtrack/issue/MNA-360) Fixed issue for chat feature that cannot work on the agora
