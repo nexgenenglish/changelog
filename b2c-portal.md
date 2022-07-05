@@ -4,6 +4,16 @@ title: B2C Portal
 
 # B2C Portal
 
+## [v.1.1.22] on April 18th, 2022
+- Fixed bulk register error.
+- [MNS-794](https://dyned.myjetbrains.com/youtrack/issue/mns-794) Improved how to define subgroup id.
+- Improved create user API: read org settings.
+- [MNS-795](https://dyned.myjetbrains.com/youtrack/issue/mns-795) Improved create user API Authorize: read acl student access setting.
+- ImproveD PT Result page. Update url fetch etest candidates.
+- [UD-1559](https://dyned.myjetbrains.com/youtrack/issue/ud-1559) Fixed certificate filename.
+- Added log on fetch study record.
+- Fixed failed to register SSO when org description has new line textscript (\r\n).
+
 ## [v.1.1.21] on March 15th, 2022
 - [MNS-790](https://dyned.myjetbrains.com/youtrack/issue/mns-790) Fixed issue for token that does not auto added when student purchase full version.
 - [MNS-791](https://dyned.myjetbrains.com/youtrack/issue/mns-791) Changed Student Study Record Report Study Time format to hh:mm:ss 
