@@ -5,6 +5,14 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## Etest v1.6.1 on July 8th, 2022
+- [ETAPI-115](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-115) Fixed issue for not showing PT Result after taking PT.
+- [ETAPI-116](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-116) Change the name of Placement Test to Assessment Test.
+
+## Etest v1.6.0 on July 8th, 2022
+- [ETAPI-111](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-111) Disable Student After PT.
+- [ETAPI-112](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-112) Endpoint to retrieve single PT result.
+
 ## Etest v1.5.6 on May 30th, 2022
 - [ETAPI-108](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-108) Generate selective PT reports based on organization code.
 - [ETAPI-109](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-109) Fixed issue for unable to open the "Cer Test Review List" excel file.

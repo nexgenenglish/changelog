@@ -5,6 +5,13 @@ title: eTest Widget and Cloud
 # eTest Widget and Cloud
 Application for Assessment Tests (Placement Tests or Certification Tests) systems on neo.
 
+## [2.10.5] on July 8th, 2022
+- [ET-446](https://dyned.myjetbrains.com/youtrack/issue/ET-446) neoJr+ PT: In all test items that had a “Text Prompt” the prompt is in a tiny font size.
+- [ET-447](https://dyned.myjetbrains.com/youtrack/issue/ET-447) Change PT level icon.
+- [ET-448](https://dyned.myjetbrains.com/youtrack/issue/ET-448) Hide PT result after PT in eTest Widget and Cloud.
+- [ET-450](https://dyned.myjetbrains.com/youtrack/issue/ET-450) Placement Test name on the title.
+- [ET-455](https://dyned.myjetbrains.com/youtrack/issue/ET-455) PT login screen comes up after taking the test.
+
 ## [2.10.4] on January 20th, 2022
 - [ET-441](https://dyned.myjetbrains.com/youtrack/issue/ET-441) Fixed issue for the dial code that changes automatically. 
 

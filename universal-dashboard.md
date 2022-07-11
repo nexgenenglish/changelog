@@ -4,18 +4,28 @@ title: Universal Dashboard
 
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
+ 
 
 ## [1.6.6] on July 7th, 2022
 - [UD-861](https://dyned.myjetbrains.com/youtrack/issue/UD-861) Make an API to regenerate new link for Cloud Etest.
 - [UD-862](https://dyned.myjetbrains.com/youtrack/issue/UD-862) Created API to delete Cloud link.
 - [UD-1460](https://dyned.myjetbrains.com/youtrack/issue/UD-1460) Fixed error: DataTables warning...
+[UD-1580](https://dyned.myjetbrains.com/youtrack/issue/UD-1580) Fixed issue for cannot set 0 for Default Number of Tokens for Trial Students in organisation.
 - [UD-1657](https://dyned.myjetbrains.com/youtrack/issue/UD-1657) PT result-Areas of improvement is showing a different student's information- HS - Lincoln Academy.
 - [UD-1662](https://dyned.myjetbrains.com/youtrack/issue/UD-1662) Make improvement for the error message when the report is not generated.
+- [UD-1699](https://dyned.myjetbrains.com/youtrack/issue/UD-1699) Organization Read (Priority 1)
+- [UD-1700](https://dyned.myjetbrains.com/youtrack/issue/UD-1700) Organization Read Sub Organizations (Priority 2).
+- [UD-1701](https://dyned.myjetbrains.com/youtrack/issue/UD-1701) Class Create (Priority 3).
+- [UD-1702](https://dyned.myjetbrains.com/youtrack/issue/UD-1702) Class read classes in org (Priority 4)
+- [UD-1703](https://dyned.myjetbrains.com/youtrack/issue/UD-1703) Teacher Create (Priority 5).
+- [UD-1705](https://dyned.myjetbrains.com/youtrack/issue/UD-1705) Teacher read teachers (Priority 6).
 - [UD-1709](https://dyned.myjetbrains.com/youtrack/issue/UD-1709) Fixed Error: DataTables warning when accessing students.
 - [UD-1716](https://dyned.myjetbrains.com/youtrack/issue/UD-1716) Added Button to regenerate and delete cloud link.
+- [UD-1747](https://dyned.myjetbrains.com/youtrack/issue/UD-1747) Create 2 UD features to facilitate PT test requirements institutional PT testing.
 - [UD-1768](https://dyned.myjetbrains.com/youtrack/issue/UD-1768) Fixed bugs on the Dev UD.
 - [UD-1783](https://dyned.myjetbrains.com/youtrack/issue/UD-1783) Fixed different time between Student tab and Class.
 - [UD-1786](https://dyned.myjetbrains.com/youtrack/issue/UD-1786) Fixed teacher name that shows as "Unassigned".
+- [UD-1789](https://dyned.myjetbrains.com/youtrack/issue/UD-1789) Bulk active students.
 - [UD-1794](https://dyned.myjetbrains.com/youtrack/issue/UD-1794) Fixed text description "Force students to change password..." that display twice.
 - [UD-1846](https://dyned.myjetbrains.com/youtrack/issue/UD-1846) Fixed dropdown for organization.
 - [UD-1853](https://dyned.myjetbrains.com/youtrack/issue/UD-1853) Fixed issue for cannot assigning a teacher for a new class.
