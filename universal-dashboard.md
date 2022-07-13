@@ -15,7 +15,7 @@ An universal dashboard to manage neo ecosystem.
 - [UD-1662](https://dyned.myjetbrains.com/youtrack/issue/UD-1662) Make improvement for the error message when the report is not generated.
 - [UD-1699](https://dyned.myjetbrains.com/youtrack/issue/UD-1699) Organization Read (Priority 1)
 - [UD-1700](https://dyned.myjetbrains.com/youtrack/issue/UD-1700) Organization Read Sub Organizations (Priority 2).
-- [UD-1701](https://dyned.myjetbrains.com/youtrack/issue/UD-1701) Class Create (Priority 3).
+- [UD-1701](https://dyned.myjetbrains.com/youtrack/issue/UD-1701) Class read.
 - [UD-1702](https://dyned.myjetbrains.com/youtrack/issue/UD-1702) Class read classes in org (Priority 4)
 - [UD-1703](https://dyned.myjetbrains.com/youtrack/issue/UD-1703) Teacher Create (Priority 5).
 - [UD-1705](https://dyned.myjetbrains.com/youtrack/issue/UD-1705) Teacher read teachers (Priority 6).
