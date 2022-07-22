@@ -5,10 +5,14 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.9.44 on July 21st, 2022
+- [NSAAPI-473](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-473) Fixed issue for cannot select SR Level. 
+
 # 1.9.41 on July 8th, 2022
 - [NSAAPI-464](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-464) Create API to clear the user profile picture.
 - [NSAAPI-465](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-465) Student did not pass CT, but in Exit Test status/score of study records report shows passed/0%.
 - [NSAAPI-466](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-466) Hide PT Result unselected.
+- [NSAAPI-467](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-467) Change the name of Placement Test to Assessment Test.
 - [NSAAPI-468](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-468) Fixed issue for inactive Student that is allow to take the Placement Test.
 
 # 1.9.40 on June 28th, 2022

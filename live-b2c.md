@@ -5,6 +5,16 @@ title: neo Live B2C
 # Live B2C
 A website for neo students to study using Live Session.
 
+## [v.1.1.21] on July 21st, 2022
+- [NELB2C-1459](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1459) Fixed issue for student who got an error once she clicked 'Live' button.
+- [NELB2C-1490](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1490) Fixed issue for coach information.
+- [NELB2C-1496](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1496) Fixed layout resolution for iPad.
+- [NELB2C-1497](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1497) Fixed issue for error when choosing and booking coach.
+- [NELB2C-1501](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1501) Added additional column for user token.
+- [NELB2C-1504](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1504) Fixed sign up option in live browser.
+- [NELB2C-1505](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1505) Fixed issue when reschedule on iOS and Android myneo, the booking screen is still old UI.
+- [NELB2C-1506](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1506) Fixed inconsistent font on different tabs.
+
 ## [v.1.1.19] on May 30th, 2022
 - [NELB2C-1431](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1431) Updated Layout Booking coach in desktop with new design.
 - [NELB2C-1435](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1435) Updated Layout Booking coach in mobile with new design.
