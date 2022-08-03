@@ -5,6 +5,12 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.16.5] on July 25th, 2022
+- [NSA-3106](https://dyned.myjetbrains.com/youtrack/issue/NSA-3106) Fixed neo Study app that rejected by Xiaomi App store.
+- [NSA-3157](https://dyned.myjetbrains.com/youtrack/issue/NSA-3157) Removed some Chinese translation.
+- [NSA-3165](https://dyned.myjetbrains.com/youtrack/issue/NSA-3165) Fixed issue for the app that stopped after uploading picture to student's profile.
+- [NSA-3190](https://dyned.myjetbrains.com/youtrack/issue/NSA-3190) Send Accept-Language Header in every API.
+
 ## [v1.16.4] on June 27th, 2022
 - [NSA-3133](https://dyned.myjetbrains.com/youtrack/issue/NSA-3133) Prevent non-registered users from accessing the Placement Test in NSA.
 - [NSA-3145](https://dyned.myjetbrains.com/youtrack/issue/NSA-3145) Fixed blank error when login.

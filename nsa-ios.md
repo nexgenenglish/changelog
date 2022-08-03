@@ -5,6 +5,15 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+## [v1.16.4] on July 25th, 2022
+- [NSA-3106](https://dyned.myjetbrains.com/youtrack/issue/NSA-3106) Fixed neo Study app that rejected by Xiaomi App store.
+- [NSA-3173](https://dyned.myjetbrains.com/youtrack/issue/NSA-3173) Fixed background.
+- [NSA-3174](https://dyned.myjetbrains.com/youtrack/issue/NSA-3174) Translate TRY NOW to Chinese.
+- [NSA-3175](https://dyned.myjetbrains.com/youtrack/issue/NSA-3175) Fixed wrong text that displayed when running A2+Tea & Coffee - reading 2.
+- [NSA-3182](https://dyned.myjetbrains.com/youtrack/issue/NSA-3182) Fixed the font size. 
+- [NSA-3183](https://dyned.myjetbrains.com/youtrack/issue/NSA-3183) Fixed inconsistency text in Level B2+ Margaret Thatcher Reading 2 - Step 4.
+- [NSA-3191](https://dyned.myjetbrains.com/youtrack/issue/NSA-3191) Send header 'Accept-Language' to every API.
+- [NSA-3192](https://dyned.myjetbrains.com/youtrack/issue/NSA-3192) Removed some Chinese translation.
 
 ## [v1.16.3] on June 27th, 2022
 - [NSA-3032](https://dyned.myjetbrains.com/youtrack/issue/NSA-3032) Updated Copyright to 2022.

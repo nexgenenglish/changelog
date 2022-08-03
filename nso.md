@@ -5,6 +5,9 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study 
 
+## [v.1.1.6] on August 1st, 2022
+- Add seamless login mechanism.
+
 ## [v.1.1.5] on June 13th, 2022
 - [nSO-764](https://dyned.myjetbrains.com/youtrack/issue/nSO-764) Fixed Error : animation type "background" undefined but not make stuck studying.
 - [nSO-767](https://dyned.myjetbrains.com/youtrack/issue/nSO-767) Fixed JSON errors.
