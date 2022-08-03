@@ -6,7 +6,6 @@ title: neo Study App - iOS
 neo Study application for iOS
 
 ## [v1.16.4] on July 25th, 2022
-- [NSA-3106](https://dyned.myjetbrains.com/youtrack/issue/NSA-3106) Fixed neo Study app that rejected by Xiaomi App store.
 - [NSA-3173](https://dyned.myjetbrains.com/youtrack/issue/NSA-3173) Fixed background.
 - [NSA-3174](https://dyned.myjetbrains.com/youtrack/issue/NSA-3174) Translate TRY NOW to Chinese.
 - [NSA-3175](https://dyned.myjetbrains.com/youtrack/issue/NSA-3175) Fixed wrong text that displayed when running A2+Tea & Coffee - reading 2.
