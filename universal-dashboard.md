@@ -5,6 +5,28 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
  
+## [1.6.7] on August 9th, 2022
+- [UD-1224](https://dyned.myjetbrains.com/youtrack/issue/UD-1224) Fixed The billlig that seems not correct in some cases.
+- [UD-1487](https://dyned.myjetbrains.com/youtrack/issue/UD-1487) Fixed error for Billing Report that does not shows the correct Expiration Date on column H.
+- [UD-1743](https://dyned.myjetbrains.com/youtrack/issue/UD-1743) Fixed error for unable to complete the Export list of-Students for Bulk-Transfer.
+- [UD-1814](https://dyned.myjetbrains.com/youtrack/issue/UD-1814) neoJr+: Adjust Grading Report calculations.
+- [UD-1866](https://dyned.myjetbrains.com/youtrack/issue/UD-1866) Bulk Active/Deactivate students.
+- [UD-1872](https://dyned.myjetbrains.com/youtrack/issue/UD-1872) PT level should lower than intial level.
+- [UD-1886](https://dyned.myjetbrains.com/youtrack/issue/UD-1886) Bulk import message.
+- [UD-1888](https://dyned.myjetbrains.com/youtrack/issue/UD-1888) Trim non printable character in bulk import excel file.
+- [UD-1901](https://dyned.myjetbrains.com/youtrack/issue/UD-1901) Class Creation (Priority 3).
+- [UD-1907](https://dyned.myjetbrains.com/youtrack/issue/UD-1907) STATUS field not correct on the USERS tab.
+- [UD-1912](https://dyned.myjetbrains.com/youtrack/issue/UD-1912) Fixed Text "P1" that overlaps with the email address.
+- [UD-1919](https://dyned.myjetbrains.com/youtrack/issue/UD-1919) Fixed Student PT Report that missing fields.
+- [UD-1920](https://dyned.myjetbrains.com/youtrack/issue/UD-1920) Student Summary Report.
+- [UD-1928](https://dyned.myjetbrains.com/youtrack/issue/UD-1928) Fixed point error for points per week grading target for neojr+.
+- [UD-1939](https://dyned.myjetbrains.com/youtrack/issue/UD-1939) Fixed error for unable to complete the Student Bulk Registration.
+- [UD-1940](https://dyned.myjetbrains.com/youtrack/issue/UD-1940) Students Certificate (s) is in Processing.
+- [UD-1942](https://dyned.myjetbrains.com/youtrack/issue/UD-1942) Fixed wrong information for Study Records Report - column O (Mts Total).
+- [UD-1944](https://dyned.myjetbrains.com/youtrack/issue/UD-1944) Fixed error when displaying all of the students on an Organization.
+- [UD-1953](https://dyned.myjetbrains.com/youtrack/issue/UD-1953) neo Jr-Confirm that you cannot assign an Initial Level to someone above the number of Parts that are available.
+- [UD-1958](https://dyned.myjetbrains.com/youtrack/issue/UD-1958) Fixed error when viewing student's profile.
+
 
 ## [1.6.6] on July 7th, 2022
 - [UD-861](https://dyned.myjetbrains.com/youtrack/issue/UD-861) Make an API to regenerate new link for Cloud Etest.
