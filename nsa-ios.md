@@ -5,6 +5,12 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+## [v1.17.0] on August 1st, 2022
+- [NSA-3098](https://dyned.myjetbrains.com/youtrack/issue/NSA-3098) New Certificate Plan neoJr+ Epic.
+- [NSA-3106](https://dyned.myjetbrains.com/youtrack/issue/NSA-3106) neo Study app was rejected by Xiaomi App store.
+- [hotfix] bug fix planet view animation on dismiss
+- [NSA-3181](https://dyned.myjetbrains.com/youtrack/issue/NSA-3181) iOS: the background color of LG MT is different on iPhone and iPad.
+
 ## [v1.16.4] on July 25th, 2022
 - [NSA-3173](https://dyned.myjetbrains.com/youtrack/issue/NSA-3173) Fixed background.
 - [NSA-3174](https://dyned.myjetbrains.com/youtrack/issue/NSA-3174) Translate TRY NOW to Chinese.

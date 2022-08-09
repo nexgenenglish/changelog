@@ -5,6 +5,20 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.17.0] on August 1st, 2022
+- [NSA-3098](https://dyned.myjetbrains.com/youtrack/issue/NSA-3098) New Certificate Plan neoJr+ Epic.
+- [NSA-3118](https://dyned.myjetbrains.com/youtrack/issue/NSA-3118) neoJr+: Increase time that Points score is visible on Lesson Summary screen.
+- [NSA-3106](https://dyned.myjetbrains.com/youtrack/issue/NSA-3106) neo Study app was rejected by Xiaomi App store.
+- [NSA-3148](https://dyned.myjetbrains.com/youtrack/issue/NSA-3148) neojr Plus>Pre-A1:P2>L2U5 Conversation step 3: text on iOS is too high.
+- [NSA-3171](https://dyned.myjetbrains.com/youtrack/issue/NSA-3171) Force play last Step of Lesson in Review CT.
+- [NSA-3202](https://dyned.myjetbrains.com/youtrack/issue/NSA-3202) Disable Question Weighting in Plan neoJr+ [Android].
+- [hotfix] fix dots in NSA-3171.
+- [NSA-3219](https://dyned.myjetbrains.com/youtrack/issue/NSA-3219) for Android NSA_v1.16.5.2022.07.08，when confirming to upload photo, Chinese and English are both shown.
+- [NSA-3217](https://dyned.myjetbrains.com/youtrack/issue/NSA-3217) Typo on the word "Resume".
+- [NSA-3224](https://dyned.myjetbrains.com/youtrack/issue/NSA-3224) The mic icon is over arrow-
+- [NSA-3230](https://dyned.myjetbrains.com/youtrack/issue/NSA-3230) The "arrow" icon is not fully visible.
+- [NSA-3244](https://dyned.myjetbrains.com/youtrack/issue/NSA-3244) neoJr+: pls remove text SR tolerance level on entry sceen lesson when review_lesson.
+
 ## [v1.16.5] on July 25th, 2022
 - [NSA-3157](https://dyned.myjetbrains.com/youtrack/issue/NSA-3157) Removed some Chinese translation.
 - [NSA-3165](https://dyned.myjetbrains.com/youtrack/issue/NSA-3165) Fixed issue for the app that stopped after uploading picture to student's profile.
