@@ -5,7 +5,7 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
-## [v1.17.0] on August 1st, 2022
+## [v1.17.0] on August 8th, 2022
 - [NSA-3098](https://dyned.myjetbrains.com/youtrack/issue/NSA-3098) New Certificate Plan neoJr+ Epic.
 - [NSA-3106](https://dyned.myjetbrains.com/youtrack/issue/NSA-3106) neo Study app was rejected by Xiaomi App store.
 - [hotfix] bug fix planet view animation on dismiss

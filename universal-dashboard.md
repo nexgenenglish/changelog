@@ -5,7 +5,7 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
  
-## [1.6.7] on August 9th, 2022
+## [1.6.7] on August 8th, 2022
 - [UD-1224](https://dyned.myjetbrains.com/youtrack/issue/UD-1224) Fixed The billlig that seems not correct in some cases.
 - [UD-1487](https://dyned.myjetbrains.com/youtrack/issue/UD-1487) Fixed error for Billing Report that does not shows the correct Expiration Date on column H.
 - [UD-1743](https://dyned.myjetbrains.com/youtrack/issue/UD-1743) Fixed error for unable to complete the Export list of-Students for Bulk-Transfer.

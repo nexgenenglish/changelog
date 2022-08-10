@@ -5,7 +5,7 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
-## [v1.17.0] on August 1st, 2022
+## [v1.17.0] on August 8th, 2022
 - [NSA-3098](https://dyned.myjetbrains.com/youtrack/issue/NSA-3098) New Certificate Plan neoJr+ Epic.
 - [NSA-3118](https://dyned.myjetbrains.com/youtrack/issue/NSA-3118) neoJr+: Increase time that Points score is visible on Lesson Summary screen.
 - [NSA-3106](https://dyned.myjetbrains.com/youtrack/issue/NSA-3106) neo Study app was rejected by Xiaomi App store.

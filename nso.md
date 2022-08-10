@@ -5,7 +5,13 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study 
 
-## [v.1.2.0] on August 1st, 2022
+## [v.1.2.1] on August 10th, 2022
+- [NSO-892](https://dyned.myjetbrains.com/youtrack/issue/NSO-892) Fixed error for repeating the same question after answered.
+- [NSO-893](https://dyned.myjetbrains.com/youtrack/issue/NSO-893) Fixed error for repeating the same sentence over and over again.
+- [NSO-897](https://dyned.myjetbrains.com/youtrack/issue/NSO-897) LEVEL A2 - UNIT SCHOOL LIFE IS NOT WORKING ON NSO.
+- [NSO-888](https://dyned.myjetbrains.com/youtrack/issue/NSO-888) neoJr+: Clouds cover Certification Test Unlocked label.
+
+## [v.1.2.0] on August 8th, 2022
 - [NSO-768](https://dyned.myjetbrains.com/youtrack/issue/nSO-768) Error in unset search.
 - [NSO-804](https://dyned.myjetbrains.com/youtrack/issue/nSO-804) warning flow index.
 - [NSO-809](https://dyned.myjetbrains.com/youtrack/issue/nSO-809) Wrong answer response diff with NSA.
