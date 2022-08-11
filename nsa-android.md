@@ -18,6 +18,7 @@ neo Study application for Android
 - [NSA-3224](https://dyned.myjetbrains.com/youtrack/issue/NSA-3224) The mic icon is over arrow-
 - [NSA-3230](https://dyned.myjetbrains.com/youtrack/issue/NSA-3230) The "arrow" icon is not fully visible.
 - [NSA-3244](https://dyned.myjetbrains.com/youtrack/issue/NSA-3244) neoJr+: pls remove text SR tolerance level on entry sceen lesson when review_lesson.
+- [NSA-3259](https://dyned.myjetbrains.com/youtrack/issue/NSA-3259) Android: A Q has been played 3 times
 
 ## [v1.16.5] on July 25th, 2022
 - [NSA-3157](https://dyned.myjetbrains.com/youtrack/issue/NSA-3157) Removed some Chinese translation.
