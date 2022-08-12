@@ -4,6 +4,9 @@ title: SSO API
 
 # SSO API
 
+## 1.3.5 on July 29th, 2022
+- [SSO-53](https://dyned.myjetbrains.com/youtrack/issue/SSO-53) Added the CT lock status read from organization or class.
+
 ## 1.3.4 on June 28th, 2022
 - [SSO-50](https://dyned.myjetbrains.com/youtrack/issue/SSO-50) Provide endpoitns to retrieve teacher and organization admins.
 - [SSO-52](https://dyned.myjetbrains.com/youtrack/issue/SSO-52) Endpoint to activated student status.

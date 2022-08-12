@@ -5,6 +5,22 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## Etest v1.6.5 on July 29th, 2022
+- Downloaded flow test PT and CT download.
+- Imported flow PT /files/test/v2/flow_pt_neojr.json.
+- Imported flow CT /files/test/v2/flow_et_neojr.json.
+- Imported the Assessment and Certficates Contents.
+- Docker-compose up -d.
+
+## Etest v1.6.4 on July 22nd, 2022
+- [nSO-865](https://dyned.myjetbrains.com/youtrack/issue/NSO-865) Error: student is getting the prompt he has earned the Pre A1 Certificate.
+
+## Etest v1.6.3 on July 20th, 2022
+- Updateed CT Score Pre A1 to minumums 60 (neo+ and neoPrep+).
+
+## Etest v1.6.2 on July 20th, 2022
+- Added token reset admin mode.
+
 ## Etest v1.6.1 on July 8th, 2022
 - [ETAPI-115](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-115) Fixed issue for not showing PT Result after taking PT.
 - [ETAPI-116](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-116) Change the name of Placement Test to Assessment Test.

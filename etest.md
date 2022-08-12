@@ -5,6 +5,11 @@ title: eTest Widget and Cloud
 # eTest Widget and Cloud
 Application for Assessment Tests (Placement Tests or Certification Tests) systems on neo.
 
+## [2.10.6] on July 29th, 2022
+- npm run prod
+- [ET-454](https://dyned.myjetbrains.com/youtrack/issue/ET-454) Scroll down to continue to the next question.
+- [ET-451]((https://dyned.myjetbrains.com/youtrack/issue/ET-451)) neo Jr. Placement test- Graphics are out of the box.
+
 ## [2.10.5] on July 8th, 2022
 - [ET-446](https://dyned.myjetbrains.com/youtrack/issue/ET-446) neoJr+ PT: In all test items that had a “Text Prompt” the prompt is in a tiny font size.
 - [ET-447](https://dyned.myjetbrains.com/youtrack/issue/ET-447) Change PT level icon.

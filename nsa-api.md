@@ -5,6 +5,15 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.10.0 on July 29th, 2022
+- [NSAAPI-470]((https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-470)) Make the CT lock status read from organization or class in SSO - depends on SSOAPI 1.3.5.
+- [NSAAPI-471]((https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-471)) Chinese characters when running nsa.
+- [NSAAPI-472]((https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-472) Levels aren't match in different reports.
+- [UD-1913]((https://dyned.myjetbrains.com/youtrack/issue/UD-1913) Diferent score for the PT Level in Study Records Report and EtestLevel.
+- [Certificate API] update to 1.0.6 and pull it docker pull dynedjakartacontainers/dynedcertificates_api:1.0.6: Support neoJr+ level's.
+- [DSACAPI] update to 1.1.5 and pull it.
+
+
 # 1.9.44 on July 21st, 2022
 - [NSAAPI-473](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-473) Fixed issue for cannot select SR Level. 
 
