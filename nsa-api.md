@@ -5,6 +5,13 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# JWTAPI [v1.1.4] on July 29th, 2022
+- Added a new key "BASE_URL_NSO_SCHEME={{NSO_WEB_HOST}}/auth/seamless?token=".
+- Created public and private certificate pem with 8192 bytes.
+- Added new volumes to add certificates.
+- Docker compose up -d.
+- New Feature Seamless Login, Required for nSO. [required public key].
+
 # 1.10.0 on July 29th, 2022
 - [NSAAPI-470]((https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-470)) Make the CT lock status read from organization or class in SSO - depends on SSOAPI 1.3.5.
 - [NSAAPI-471]((https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-471)) Chinese characters when running nsa.
