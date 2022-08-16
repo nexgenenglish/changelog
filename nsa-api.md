@@ -5,6 +5,10 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.10.3 on August 16th, 2022
+- [NSAAPI-481](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-481) Updated Profile SSO Trial to Regular.
+- [NSAAPI-479](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-479) Implemented throttle.
+
 # JWTAPI [v1.1.4] on July 29th, 2022
 - Added a new key "BASE_URL_NSO_SCHEME={{NSO_WEB_HOST}}/auth/seamless?token=".
 - Created public and private certificate pem with 8192 bytes.
@@ -13,16 +17,27 @@ Service (API) to manage neo Study App.
 - New Feature Seamless Login, Required for nSO. [required public key].
 
 # 1.10.0 on July 29th, 2022
+- [NSAAPI-458](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-458) neoJr+: Step Completion Bonus points not awarded to lesson steps beyond the end of the Study Path.
 - [NSAAPI-470]((https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-470)) Make the CT lock status read from organization or class in SSO - depends on SSOAPI 1.3.5.
 - [NSAAPI-471]((https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-471)) Chinese characters when running nsa.
 - [NSAAPI-472]((https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-472) Levels aren't match in different reports.
+- [NSAAPI-474](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-474) neoJunior Students have Goal Level and Cert Level: A1+.
 - [UD-1913]((https://dyned.myjetbrains.com/youtrack/issue/UD-1913) Diferent score for the PT Level in Study Records Report and EtestLevel.
 - [Certificate API] update to 1.0.6 and pull it docker pull dynedjakartacontainers/dynedcertificates_api:1.0.6: Support neoJr+ level's.
 - [DSACAPI] update to 1.1.5 and pull it.
 
+# 1.9.45 on August 16th, 2022
+- [NSAAPI-472](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-472) Fixed levels that not match in different report.
 
 # 1.9.44 on July 21st, 2022
 - [NSAAPI-473](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-473) Fixed issue for cannot select SR Level. 
+
+# 1.9.43 on August 16th, 2022
+- [NSAAPI-470](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-470) Make the CT lock status read from organization or class in SSO.
+
+# 1.9.42 on August 16th, 2022
+- [NSAAPI-460](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-460) Localization SR Levels menu.
+- [NSAAPI-469](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-469) neoJr+: Adjust Grading Report calculations.
 
 # 1.9.41 on July 8th, 2022
 - [NSAAPI-464](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-464) Create API to clear the user profile picture.
@@ -37,7 +52,6 @@ Service (API) to manage neo Study App.
 - [NSAAPI-459](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-459) Fixed incorrect total average point last four weeks (Student Tab).
 - [NSAAPI-461](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-461) Added status account in Student and Class API.
 - [NSAAPI-463](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-463) Fixed missing Level Completion Percent in Students tab.
-
 
 # 1.9.39 on May 20th, 2022
 - [NSAAPI-452](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-452) Fixed incorrect data for Exit Test status/score.

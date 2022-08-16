@@ -4,6 +4,9 @@ title: Universal Dashboard
 
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
+
+## [1.6.8] on August 16th, 2022
+- [UD-2024](https://dyned.myjetbrains.com/youtrack/issue/UD-2024) Fixed issue for cannot show token.
  
 ## [1.6.7] on August 8th, 2022
 - [UD-1224](https://dyned.myjetbrains.com/youtrack/issue/UD-1224) Fixed The billlig that seems not correct in some cases.
