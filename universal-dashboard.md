@@ -5,6 +5,16 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [1.6.9] on September 1st, 
+- [UD-1431](https://dyned.myjetbrains.com/youtrack/issue/UD-1431) Fixed issue for cannot sort on LAST STUDY SESSION column.
+- [UD-1676](https://dyned.myjetbrains.com/youtrack/issue/UD-1676) Billing Report new fields for the columns/cells.
+- [UD-1760](https://dyned.myjetbrains.com/youtrack/issue/UD-1760) Assigned "Global Report Option" and "Global Collections" options.
+- [UD-1832](https://dyned.myjetbrains.com/youtrack/issue/UD-1832) Converted time to organization local time for billing.
+- [UD-1873](https://dyned.myjetbrains.com/youtrack/issue/UD-1873) Use admin login token to fetch to etest API.
+- [UD-1914](https://dyned.myjetbrains.com/youtrack/issue/UD-1914) Fixed issue when changing password and student's account is expired, expired date was also changed to current date.
+- [UD-1918](https://dyned.myjetbrains.com/youtrack/issue/UD-1918) Fixed 403 Forbidden Error.
+- [UD-1922](https://dyned.myjetbrains.com/youtrack/issue/UD-1922) Cosmetic changes to the TESTS tab.
+
 ## [1.6.8] on August 16th, 2022
 - [UD-2024](https://dyned.myjetbrains.com/youtrack/issue/UD-2024) Fixed issue for cannot show token.
  
