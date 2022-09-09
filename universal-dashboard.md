@@ -5,7 +5,7 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
-## [1.6.9] on September 1st, 
+## [1.6.9] on September 1st, 2022
 - [UD-1431](https://dyned.myjetbrains.com/youtrack/issue/UD-1431) Fixed issue for cannot sort on LAST STUDY SESSION column.
 - [UD-1676](https://dyned.myjetbrains.com/youtrack/issue/UD-1676) Billing Report new fields for the columns/cells.
 - [UD-1760](https://dyned.myjetbrains.com/youtrack/issue/UD-1760) Assigned "Global Report Option" and "Global Collections" options.
