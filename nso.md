@@ -5,46 +5,62 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study 
 
+## [v.1.2.2] on September 8th, 2022
+- [nSO-625](https://dyned.myjetbrains.com/youtrack/issue/nSO-625) Fixed text that display outside of button.
+- [nSO-895](https://dyned.myjetbrains.com/youtrack/issue/nSO-895) Fixed neoJr+: Alphabet Game ERROR Additional action index not found.
+- [nSO-901](https://dyned.myjetbrains.com/youtrack/issue/nSO-901) Allow Students to Download Their Own Certificates Features ( via NSO or NSA).
+- [nSO-903](https://dyned.myjetbrains.com/youtrack/issue/nSO-903) Fixed MT Science: Questions button overlaps text.
+- [nSO-904](https://dyned.myjetbrains.com/youtrack/issue/nSO-904) Fixed MT Science: Text did not erase.
+- [nSO-905](https://dyned.myjetbrains.com/youtrack/issue/nSO-905) Fixed text layout error when running A2- Weather and Climate MT.
+- [nSO-906](https://dyned.myjetbrains.com/youtrack/issue/nSO-906) Fixed text layout error when running A1+ UNIT 1 RATIOS MT.
+- [nSO-908](https://dyned.myjetbrains.com/youtrack/issue/nSO-908) Fixed neoJr+: L3U1Phonics same dataset is displayed after selecting wrong answer.
+- [nSO-909](https://dyned.myjetbrains.com/youtrack/issue/nSO-909) Fixed text layout error when running MT for B2 - PREDICTIONS.
+- [nSO-912](https://dyned.myjetbrains.com/youtrack/issue/nSO-912) Fixed text layout error when running A1+ -> Reading for Success -> Unit 3 - > Time Zones -> Reading 1 -> Preview -> Step 1.
+- [nSO-913](https://dyned.myjetbrains.com/youtrack/issue/nSO-913) Fixed text layout error when running A2+ Confucius > Reading 1.
+- [nSO-915](https://dyned.myjetbrains.com/youtrack/issue/nSO-915) Fixed text layout error when running A2+ Ocean Exploration -> Reading 2.
+- [nSO-916](https://dyned.myjetbrains.com/youtrack/issue/nSO-916) Fixed text that overlap in NSO (Reading for success lesson).
+- [nSO-917](https://dyned.myjetbrains.com/youtrack/issue/nSO-917) Fixed the microphone alert that comes up at the beginning of every Step 3 or higher.
+
 ## [v.1.2.1] on August 10th, 2022
-- [NSO-892](https://dyned.myjetbrains.com/youtrack/issue/NSO-892) Fixed error for repeating the same question after answered.
-- [NSO-893](https://dyned.myjetbrains.com/youtrack/issue/NSO-893) Fixed error for repeating the same sentence over and over again.
-- [NSO-897](https://dyned.myjetbrains.com/youtrack/issue/NSO-897) LEVEL A2 - UNIT SCHOOL LIFE IS NOT WORKING ON NSO.
-- [NSO-888](https://dyned.myjetbrains.com/youtrack/issue/NSO-888) neoJr+: Clouds cover Certification Test Unlocked label.
+- [nSO-892](https://dyned.myjetbrains.com/youtrack/issue/NSO-892) Fixed error for repeating the same question after answered.
+- [nSO-893](https://dyned.myjetbrains.com/youtrack/issue/NSO-893) Fixed error for repeating the same sentence over and over again.
+- [nSO-897](https://dyned.myjetbrains.com/youtrack/issue/NSO-897) LEVEL A2 - UNIT SCHOOL LIFE IS NOT WORKING ON NSO.
+- [nSO-888](https://dyned.myjetbrains.com/youtrack/issue/NSO-888) neoJr+: Clouds cover Certification Test Unlocked label.
 
 ## [v.1.2.0] on August 8th, 2022
-- [NSO-768](https://dyned.myjetbrains.com/youtrack/issue/nSO-768) Error in unset search.
-- [NSO-804](https://dyned.myjetbrains.com/youtrack/issue/nSO-804) warning flow index.
+- [nSO-768](https://dyned.myjetbrains.com/youtrack/issue/nSO-768) Error in unset search.
+- [nSO-804](https://dyned.myjetbrains.com/youtrack/issue/nSO-804) warning flow index.
 - [NSO-809](https://dyned.myjetbrains.com/youtrack/issue/nSO-809) Wrong answer response diff with NSA.
-- [NSO-813](https://dyned.myjetbrains.com/youtrack/issue/nSO-813) Unable to select answer PRE A1 listening four cities.
-- [NSO-814](https://dyned.myjetbrains.com/youtrack/issue/nSO-814) Fixed bird game that does not work.
-- [NSO-818](https://dyned.myjetbrains.com/youtrack/issue/nSO-818) Fixed wrong lesson played, diff animation played.
-- [NSO-820](https://dyned.myjetbrains.com/youtrack/issue/nSO-820) Fixed issue for the text that blocking the animation.
-- [NSO-822](https://dyned.myjetbrains.com/youtrack/issue/nSO-822) Start Icon for empty level name.
-- [NSO-823](https://dyned.myjetbrains.com/youtrack/issue/nSO-823) Fixed lesson name and description not appeared on Review Lesson (CT).
-- [NSO-825](https://dyned.myjetbrains.com/youtrack/issue/nSO-825) Fixed neoJr+ logo that too high up.
-- [NSO-831](https://dyned.myjetbrains.com/youtrack/issue/nSO-831) Crop Image screen does not stay on the screen long enough.
-- [NSO-838](https://dyned.myjetbrains.com/youtrack/issue/nSO-838) Remove Question Weight from sequence flow lesson like NSA.
-- [NSO-839](https://dyned.myjetbrains.com/youtrack/issue/nSO-839) Increase time that points score is visible on Lesson summary screen.
+- [nSO-813](https://dyned.myjetbrains.com/youtrack/issue/nSO-813) Unable to select answer PRE A1 listening four cities.
+- [nSO-814](https://dyned.myjetbrains.com/youtrack/issue/nSO-814) Fixed bird game that does not work.
+- [nSO-818](https://dyned.myjetbrains.com/youtrack/issue/nSO-818) Fixed wrong lesson played, diff animation played.
+- [nSO-820](https://dyned.myjetbrains.com/youtrack/issue/nSO-820) Fixed issue for the text that blocking the animation.
+- [nSO-822](https://dyned.myjetbrains.com/youtrack/issue/nSO-822) Start Icon for empty level name.
+- [nSO-823](https://dyned.myjetbrains.com/youtrack/issue/nSO-823) Fixed lesson name and description not appeared on Review Lesson (CT).
+- [nSO-825](https://dyned.myjetbrains.com/youtrack/issue/nSO-825) Fixed neoJr+ logo that too high up.
+- [nSO-831](https://dyned.myjetbrains.com/youtrack/issue/nSO-831) Crop Image screen does not stay on the screen long enough.
+- [nSO-838](https://dyned.myjetbrains.com/youtrack/issue/nSO-838) Remove Question Weight from sequence flow lesson like NSA.
+- [nSO-839](https://dyned.myjetbrains.com/youtrack/issue/nSO-839) Increase time that points score is visible on Lesson summary screen.
 - Seamless Login ( without encryption ).
-- [NSO-842](https://dyned.myjetbrains.com/youtrack/issue/nSO-842) Correct answer shown after 1st wrong answer ( NXE ).
-- [NSO-844](https://dyned.myjetbrains.com/youtrack/issue/nSO-844) Rename learning step 4 from speak to review.
-- [NSO-849](https://dyned.myjetbrains.com/youtrack/issue/nSO-849) L1U1Vocab1 and 2 2x2 Text placement.
-- [NSO-850](https://dyned.myjetbrains.com/youtrack/issue/nSO-850) Correct answer rejected in L2U7.
+- [nSO-842](https://dyned.myjetbrains.com/youtrack/issue/nSO-842) Correct answer shown after 1st wrong answer ( NXE ).
+- [nSO-844](https://dyned.myjetbrains.com/youtrack/issue/nSO-844) Rename learning step 4 from speak to review.
+- [nSO-849](https://dyned.myjetbrains.com/youtrack/issue/nSO-849) L1U1Vocab1 and 2 2x2 Text placement.
+- [nSO-850](https://dyned.myjetbrains.com/youtrack/issue/nSO-850) Correct answer rejected in L2U7.
 - [NSO-853](https://dyned.myjetbrains.com/youtrack/issue/nSO-853) Remove lesson mode / Label.
-- [NSO-856](https://dyned.myjetbrains.com/youtrack/issue/nSO-856) Remove SR Tolerance.
-- [NSO-857](https://dyned.myjetbrains.com/youtrack/issue/nSO-857) Dots in the lesson.
-- [NSO-858](https://dyned.myjetbrains.com/youtrack/issue/nSO-858) Remove lesson mode.
-- [NSO-859](https://dyned.myjetbrains.com/youtrack/issue/nSO-859) No cloud animation on expand level.
-- [NSO-861](https://dyned.myjetbrains.com/youtrack/issue/nSO-861) L2U7 answer is rejected ( related: NSO-850 ).
-- [NSO-867](https://dyned.myjetbrains.com/youtrack/issue/nSO-867) Remove Lesson Mode / Label.
+- [nSO-856](https://dyned.myjetbrains.com/youtrack/issue/nSO-856) Remove SR Tolerance.
+- [nSO-857](https://dyned.myjetbrains.com/youtrack/issue/nSO-857) Dots in the lesson.
+- [nSO-858](https://dyned.myjetbrains.com/youtrack/issue/nSO-858) Remove lesson mode.
+- [nSO-859](https://dyned.myjetbrains.com/youtrack/issue/nSO-859) No cloud animation on expand level.
+- [nSO-861](https://dyned.myjetbrains.com/youtrack/issue/nSO-861) L2U7 answer is rejected ( related: NSO-850 ).
+- [nSO-867](https://dyned.myjetbrains.com/youtrack/issue/nSO-867) Remove Lesson Mode / Label.
 - Seamless login improvement
-- [NSO-871](https://dyned.myjetbrains.com/youtrack/issue/nSO-871) - rocket path pre-a1 p2.
-- [NSO-872](https://dyned.myjetbrains.com/youtrack/issue/nSO-872) unknown intelligence audio index invalid 2.
-- [NSO-881](https://dyned.myjetbrains.com/youtrack/issue/nSO-881) L2U4 Grammar no outline on selected button.
+- [nSO-871](https://dyned.myjetbrains.com/youtrack/issue/nSO-871) - rocket path pre-a1 p2.
+- [nSO-872](https://dyned.myjetbrains.com/youtrack/issue/nSO-872) unknown intelligence audio index invalid 2.
+- [nSO-881](https://dyned.myjetbrains.com/youtrack/issue/nSO-881) L2U4 Grammar no outline on selected button.
 - Fixed Label / Mode for NeoJR
-- [NSO-883](https://dyned.myjetbrains.com/youtrack/issue/nSO-883) L2U6 L2u7 vertical text alignment.
-- [NSO-884](https://dyned.myjetbrains.com/youtrack/issue/nSO-884) Fixed error font alignment.
-- [NSO-890](https://dyned.myjetbrains.com/youtrack/issue/nSO-890) Missing Timer on review lesson game.
+- [nSO-883](https://dyned.myjetbrains.com/youtrack/issue/nSO-883) L2U6 L2u7 vertical text alignment.
+- [nSO-884](https://dyned.myjetbrains.com/youtrack/issue/nSO-884) Fixed error font alignment.
+- [nSO-890](https://dyned.myjetbrains.com/youtrack/issue/nSO-890) Missing Timer on review lesson game.
 
 ## [v.1.1.6] on August 1st, 2022
 - Add seamless login mechanism.
