@@ -5,7 +5,7 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
-# 1.10.5 on August September 3rd, 2022
+# 1.10.5 on September 3rd, 2022
 - [NSAAPI-482](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-482) Fixed error in sorting students in Tab Students.
 - [NSAAPI-485](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-485) Allow Students to Download Their Own Certificates Features ( via NSO or NSA).
 - [NSAAPI-487](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-487) Fixed Error 504 Gateway time out when login in as student.
