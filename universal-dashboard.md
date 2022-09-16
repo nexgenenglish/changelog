@@ -5,6 +5,12 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [1.6.10] on September 15th, 2022
+- [UD-1687](https://dyned.myjetbrains.com/youtrack/issue/UD-1687) Converted times to organization local time for Student PT Report.
+- [UD-1688](https://dyned.myjetbrains.com/youtrack/issue/UD-1688) Converted times to organization local time for Student Summary Report.
+- [UD-1984](https://dyned.myjetbrains.com/youtrack/issue/UD-1984) Fixed issue for Student Class Summary Report that has the wrong date for the Last Study Session.
+- [UD-1985](https://dyned.myjetbrains.com/youtrack/issue/UD-1985) Fixed PT report that has the wrong date for date taken.
+
 ## [1.6.9] on September 1st, 2022
 - [UD-1431](https://dyned.myjetbrains.com/youtrack/issue/UD-1431) Fixed issue for cannot sort on LAST STUDY SESSION column.
 - [UD-1676](https://dyned.myjetbrains.com/youtrack/issue/UD-1676) Billing Report new fields for the columns/cells.
