@@ -5,6 +5,24 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.17.1] on September 20th, 2022
+- [NSA-3243](https://dyned.myjetbrains.com/youtrack/issue/NSA-3243) Fixed rocket icon that appear in the wrong location.
+- [NSA-3257](https://dyned.myjetbrains.com/youtrack/issue/NSA-3257) NSA Seamless login.
+- [NSA-3263](https://dyned.myjetbrains.com/youtrack/issue/NSA-3263) Fixed issue: crash when pausing lesson on some devices.
+- [NSA-3268](https://dyned.myjetbrains.com/youtrack/issue/NSA-3268) neojr+>A1>Let's Go>Level 3U1>phonics : after clicking on A1 , app crashed (prevent crash).
+- [NSA-3270](https://dyned.myjetbrains.com/youtrack/issue/NSA-3270) Fixed app crashes during the syncing of study records.
+- [NSA-3273](https://dyned.myjetbrains.com/youtrack/issue/NSA-3273) neoJr+: Microphone alert (add alert on NSA Android and nSO).
+- [NSA-3276](https://dyned.myjetbrains.com/youtrack/issue/NSA-3276) app crashed (relates to NSA-3270).
+- [NSA-3278](https://dyned.myjetbrains.com/youtrack/issue/NSA-3278) Make all MT available to test directly in tester mode [NSA-3284].
+- [NSA-3282](https://dyned.myjetbrains.com/youtrack/issue/NSA-3282) Allow Students to Download Their Own Certificates Features ( via NSO or NSA).
+- [NSA-3290](https://dyned.myjetbrains.com/youtrack/issue/NSA-3290) Fixed app crashed when clicking recording button (add mic permission if lesson has isRecord).
+- [NSA-3321](https://dyned.myjetbrains.com/youtrack/issue/NSA-3321) Fixed app crashed when clicking mt.
+- [NSA-3338](https://dyned.myjetbrains.com/youtrack/issue/NSA-3338) Add pop up window to read EULA and Privacy App.
+- [NSA-3340](https://dyned.myjetbrains.com/youtrack/issue/NSA-3340) Add switch language menu for NSA.
+- [NSA-3344](https://dyned.myjetbrains.com/youtrack/issue/NSA-3344) Fixed app crashed while studying -- DE.
+- [NSA-3347](https://dyned.myjetbrains.com/youtrack/issue/NSA-3347) Fixed issue for long sentence that out of the screen.
+- [NSA-3353](https://dyned.myjetbrains.com/youtrack/issue/NSA-3353) about appearing issue of poping up window to read EULA and Privacy App.
+
 ## [v1.17.0] on August 8th, 2022
 - [NSA-3098](https://dyned.myjetbrains.com/youtrack/issue/NSA-3098) New Certificate Plan neoJr+ Epic.
 - [NSA-3118](https://dyned.myjetbrains.com/youtrack/issue/NSA-3118) neoJr+: Increase time that Points score is visible on Lesson Summary screen.

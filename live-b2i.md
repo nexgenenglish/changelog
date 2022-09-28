@@ -5,6 +5,9 @@ title: neo Live B2I
 # Live B2I
 A website for DynEd students and coaches to study using Live Session and also for admins and affiliates to manage DynEd Live's environment.
 
+## [v.1.1.22] on September 27th, 2022
+- [DELB2I-1355](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1355) Fixed HTTP ERROR 500.
+
 ## [v.1.1.21] on June 22nd, 2022
 - [DELB2I-1338](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1338) Updated to prevent create/edit if student and coach are in the same partner.
 

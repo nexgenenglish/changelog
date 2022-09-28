@@ -5,6 +5,21 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+## [v1.17.1] on September 23rd, 2022
+- [NSA-3257](https://dyned.myjetbrains.com/youtrack/issue/NSA-3257) NSA Seamless login.
+- [NSA-3282](https://dyned.myjetbrains.com/youtrack/issue/NSA-3282) Allow Students to Download Their Own Certificates Features ( via NSO or NSA).
+- [NSA-3285](https://dyned.myjetbrains.com/youtrack/issue/NSA-3285) Make all MT available to test directly in tester mode [iOS].
+- [NSA-3303](https://dyned.myjetbrains.com/youtrack/issue/NSA-3303) Fixed issue for student who cannot press "certification test" button.
+- [NSA-3341](https://dyned.myjetbrains.com/youtrack/issue/NSA-3341) neoJr+: Can't record first dataset.
+- [NSA-3345](https://dyned.myjetbrains.com/youtrack/issue/NSA-3345) crash on profile view when faileg get study progress on first time.
+- [NSA-3349](https://dyned.myjetbrains.com/youtrack/issue/NSA-3349) App crashed when downloading the certificate.
+- Revert back fix NSA-3273 neoJr+: Microphone alert.
+- Update MyCertificates.
+- Hotfix pause resume still add point when audio not finish playing on presentation.
+- Prevent crash based on bugsnag report.
+- Fixed certificate preview on iPad.
+- Fixed MT lesson that not play next question when Exit Rules not set or empty on JSON.
+
 ## [v1.17.0] on August 8th, 2022
 - [NSA-3098](https://dyned.myjetbrains.com/youtrack/issue/NSA-3098) New Certificate Plan neoJr+ Epic.
 - [NSA-3106](https://dyned.myjetbrains.com/youtrack/issue/NSA-3106) neo Study app was rejected by Xiaomi App store.
