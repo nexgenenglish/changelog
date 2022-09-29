@@ -5,6 +5,11 @@ title: neo Live B2C
 # Live B2C
 A website for neo students to study using Live Session.
 
+## [v.1.2.0] on September 29th, 2022
+- [NELBC-1518](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1518) Fixed issue for no records for "Add token by chinamaster from API" in token history.
+- [NELB2C-1527](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1527) Added session date on refund token.
+- [NELB2C-1529](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1529) Fixed issue for different date when booked a coaching session.
+
 ## [v.1.1.21] on July 21st, 2022
 - [NELB2C-1459](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1459) Fixed issue for student who got an error once she clicked 'Live' button.
 - [NELB2C-1490](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1490) Fixed issue for coach information.
