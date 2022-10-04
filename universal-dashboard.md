@@ -23,6 +23,7 @@ An universal dashboard to manage neo ecosystem.
 - [UD-2149](https://dyned.myjetbrains.com/youtrack/issue/UD-2149) Make CT status locked if status in class is locked.
 - [UD-2172](https://dyned.myjetbrains.com/youtrack/issue/UD-2172) Fixed issue for cannot generate student raw data report for selected student and single student.
 - [UD-2186](https://dyned.myjetbrains.com/youtrack/issue/UD-2186) Fixed bug in billing report - column D on class name appears in blank.
+- [UD-2215](https://dyned.myjetbrains.com/youtrack/issue/UD-2215) Fixed Study Records Report that has the wrong Expiration Date for students.
 
 ## [1.6.9] on September 1st, 2022
 - [UD-1431](https://dyned.myjetbrains.com/youtrack/issue/UD-1431) Fixed issue for cannot sort on LAST STUDY SESSION column.
