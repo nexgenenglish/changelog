@@ -5,11 +5,24 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
-## [1.6.10] on September 15th, 2022
+## [1.6.10] on October 3rd, 2022
+- [UD-1576](https://dyned.myjetbrains.com/youtrack/issue/UD-1576) All reports must display the organization local time.
+- [UD-1677](https://dyned.myjetbrains.com/youtrack/issue/UD-1677) Allow Students to Download Their Own Certificates Features ( via NSO or NSA).
 - [UD-1687](https://dyned.myjetbrains.com/youtrack/issue/UD-1687) Converted times to organization local time for Student PT Report.
 - [UD-1688](https://dyned.myjetbrains.com/youtrack/issue/UD-1688) Converted times to organization local time for Student Summary Report.
+- [UD-1689](https://dyned.myjetbrains.com/youtrack/issue/UD-1689) Converted times to organization local time for Student Study Record Report.
+- [UD-1690](https://dyned.myjetbrains.com/youtrack/issue/UD-1690) Converted times to organization local time for Student Raw Data Report.
+- [UD-1694](https://dyned.myjetbrains.com/youtrack/issue/UD-1694) Added Include All and Include some when generating Student Study report.
+- [UD-1695](https://dyned.myjetbrains.com/youtrack/issue/UD-1695) Added additional colums in Student Study records report.
 - [UD-1984](https://dyned.myjetbrains.com/youtrack/issue/UD-1984) Fixed issue for Student Class Summary Report that has the wrong date for the Last Study Session.
 - [UD-1985](https://dyned.myjetbrains.com/youtrack/issue/UD-1985) Fixed PT report that has the wrong date for date taken.
+- [UD-2126](https://dyned.myjetbrains.com/youtrack/issue/UD-2126) Added config to allow student download their own certificates.
+- [UD-2128](https://dyned.myjetbrains.com/youtrack/issue/UD-2128) Sync Organization Configs.
+- [UD-2133](https://dyned.myjetbrains.com/youtrack/issue/UD-2133) Rename RCA file name when download file.
+- [UD-2135](https://dyned.myjetbrains.com/youtrack/issue/UD-2135) Fixed issue for cannot generate PT token.
+- [UD-2149](https://dyned.myjetbrains.com/youtrack/issue/UD-2149) Make CT status locked if status in class is locked.
+- [UD-2172](https://dyned.myjetbrains.com/youtrack/issue/UD-2172) Fixed issue for cannot generate student raw data report for selected student and single student.
+- [UD-2186](https://dyned.myjetbrains.com/youtrack/issue/UD-2186) Fixed bug in billing report - column D on class name appears in blank.
 
 ## [1.6.9] on September 1st, 2022
 - [UD-1431](https://dyned.myjetbrains.com/youtrack/issue/UD-1431) Fixed issue for cannot sort on LAST STUDY SESSION column.
