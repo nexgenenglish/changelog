@@ -5,6 +5,12 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study 
 
+## [v.1.2.4] on October 6th, 2022
+- [nSO-948](https://dyned.myjetbrains.com/youtrack/issue/nSO-948) Fixed Privacy Policy and EULA errors (revision the EULA).
+
+## [v.1.2.3] on October 4th, 2022
+- [nSO-948](https://dyned.myjetbrains.com/youtrack/issue/nSO-948) Fixed Privacy Policy and EULA errors.
+
 ## [v.1.2.2] on September 8th, 2022
 - [nSO-625](https://dyned.myjetbrains.com/youtrack/issue/nSO-625) Fixed text that display outside of button.
 - [nSO-895](https://dyned.myjetbrains.com/youtrack/issue/nSO-895) Fixed neoJr+: Alphabet Game ERROR Additional action index not found.
