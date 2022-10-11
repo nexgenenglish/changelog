@@ -5,6 +5,20 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.10.6.1 on October 6th, 2022
+- [NSAAPI-503](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-503) Fixed meta data on Student data collection.
+- [NSAAPI-504](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-504) Handle when class info is empty on SSO database.
+
+# 1.10.6 on October 1st, 2022
+- [NSAAPI-469](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-496) Save PT Level in new field.
+- [NSAAPI-489](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-489) Fixed issue for incorrect student's next level after taking CT.
+- [NSAAPI-490](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-490) Fixed issue for PT level in student study records.
+- [NSAAPI-491](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-491) Disabled Live tile if the student status is expired or inactive.
+- [NSAAPI-493](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-493) Prevent MT sending repeatedly at the same time.
+- [NSAAPI-494](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-494) Make CT status locked if status in class is locked.
+- [NSAAPI-495](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-495) Fixed incorrect total study points in study records report.
+- [NSAAPI-497](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-497) Add last mt code on Study Record report.
+
 # 1.10.5 on September 3rd, 2022
 - [NSAAPI-482](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-482) Fixed error in sorting students in Tab Students.
 - [NSAAPI-485](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-485) Allow Students to Download Their Own Certificates Features ( via NSO or NSA).
