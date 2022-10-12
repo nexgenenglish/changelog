@@ -5,6 +5,9 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.10.6.2 on October 11th, 2022
+- [NSAAPI-502](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-502) Fixed issue for missing certificate download button in student's account.
+
 # 1.10.6.1 on October 6th, 2022
 - [NSAAPI-503](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-503) Fixed meta data on Student data collection.
 - [NSAAPI-504](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-504) Handle when class info is empty on SSO database.
