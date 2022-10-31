@@ -17,6 +17,7 @@ module.exports = {
             '/etest-api',
             '/interim',
             '/jct',
+            '/live-api',
             '/live-b2i',
             '/live-b2c',
             '/universal-dashboard',

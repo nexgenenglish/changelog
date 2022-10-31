@@ -5,6 +5,9 @@ title: neo Live B2C
 # Live B2C
 A website for neo students to study using Live Session.
 
+## [v.1.2.1] on October 11th, 2022
+- [NELB2C-1535](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1535) Fixed issue for UTC time zone.
+
 ## [v.1.2.0] on September 29th, 2022
 - [NELB2C-1509](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1509) Fixed issue for ubnable to access Live Session via myneo app.
 - [NELBC-1518](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1518) Fixed issue for no records for "Add token by chinamaster from API" in token history.
