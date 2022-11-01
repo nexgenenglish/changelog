@@ -4,6 +4,22 @@ title: B2C Portal
 
 # B2C Portal
 
+## [v.1.1.24] on September 22nd, 2022
+- [MNS-807](https://dyned.myjetbrains.com/youtrack/issue/mns-807) Fixed neo Certificate PDFs that are not sized correctly.
+- [MNS-816](https://dyned.myjetbrains.com/youtrack/issue/mns-816) Fixed issue for cannot import phone number.
+- [MNS-817](https://dyned.myjetbrains.com/youtrack/issue/mns-817) Fixed error when generate certificates.
+- [MNS-818](https://dyned.myjetbrains.com/youtrack/issue/mns-818) Fixed first page of the certificate that is blank.
+- [MNS-819](https://dyned.myjetbrains.com/youtrack/issue/mns-819) Fixed big space between student's name on certificate.
+
+## [v.1.1.23] on June 16th, 2022
+- [MNS-799](https://dyned.myjetbrains.com/youtrack/issue/mns-799) Update EULA EN,TH,SP.
+- [MNS-800](https://dyned.myjetbrains.com/youtrack/issue/mns-800) Handle the add coins API when accessed when student in Force PT state.
+- [MNS-802](https://dyned.myjetbrains.com/youtrack/issue/mns-802) Fixed issue for cannot download certificate through myneo.dyned.com.cn.
+- [MNS-803](https://dyned.myjetbrains.com/youtrack/issue/mns-803) Add certificate template for neo junior plus.
+- [MNS-804](https://dyned.myjetbrains.com/youtrack/issue/mns-804) Add certificate sample for neojr+.
+- [MNS-805](https://dyned.myjetbrains.com/youtrack/issue/mns-805) Prevent non-registered users from accessing the Placement Test in Myneo.space.
+- [MNS-808](https://dyned.myjetbrains.com/youtrack/issue/mns-808) Fixed issue for reset password link that is not working.
+
 ## [v.1.1.22] on April 18th, 2022
 - Fixed bulk register error.
 - [MNS-794](https://dyned.myjetbrains.com/youtrack/issue/mns-794) Improved how to define subgroup id.
