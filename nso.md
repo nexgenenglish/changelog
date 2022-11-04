@@ -5,6 +5,18 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study 
 
+## [v.1.2.5] on November 2nd, 2022
+- [nSO-920](https://dyned.myjetbrains.com/youtrack/issue/nSO-920) Fixed different fonts for the Reading text and Question text.
+- [nSO-922](https://dyned.myjetbrains.com/youtrack/issue/nSO-922) Fixed issue for microphone icon that is greyed out.
+- [nSO-926](https://dyned.myjetbrains.com/youtrack/issue/nSO-926) Fixed issue with the MT audio.
+- [nSO-929](https://dyned.myjetbrains.com/youtrack/issue/nSO-929) Fixed issue for Mylessons rating that doesn't appear at the end of the lesson.
+- [nSO-930](https://dyned.myjetbrains.com/youtrack/issue/nSO-930) [Data Collection] When user pause or resume study (NSA, NSO).
+- [nSO-931](https://dyned.myjetbrains.com/youtrack/issue/nSO-931) Fixed neoJr: L3U1Grammar word does not erase.
+- [nSO-932](https://dyned.myjetbrains.com/youtrack/issue/nSO-932) neoJr: Failed to load resource Pre-A1:%20P2_Start.png:1.
+- [nSO-935](https://dyned.myjetbrains.com/youtrack/issue/nSO-935) inconsistency nSO and nSA - STG - Mastery Test - reading part.
+- [nSO-939](https://dyned.myjetbrains.com/youtrack/issue/nSO-939) Fixed neoJr: Uncaught (in promise) Runtime Error: Aborted.
+
+
 ## [v.1.2.4] on October 6th, 2022
 - [nSO-948](https://dyned.myjetbrains.com/youtrack/issue/nSO-948) Fixed Privacy Policy and EULA errors (revision the EULA).
 
