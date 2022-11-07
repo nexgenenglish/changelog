@@ -15,6 +15,7 @@ Browser based neo Study
 - [nSO-932](https://dyned.myjetbrains.com/youtrack/issue/nSO-932) neoJr: Failed to load resource Pre-A1:%20P2_Start.png:1.
 - [nSO-935](https://dyned.myjetbrains.com/youtrack/issue/nSO-935) inconsistency nSO and nSA - STG - Mastery Test - reading part.
 - [nSO-939](https://dyned.myjetbrains.com/youtrack/issue/nSO-939) Fixed neoJr: Uncaught (in promise) Runtime Error: Aborted.
+- [nSO-949](https://dyned.myjetbrains.com/youtrack/issue/nSO-949) Fixed missing Rocket in Summary Screen.
 
 
 ## [v.1.2.4] on October 6th, 2022
