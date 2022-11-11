@@ -5,78 +5,89 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
-## Etest v1.6.5 on July 29th, 2022
+## [v1.6.8] on November 10th, 2022
+- [ETAPI-126](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-126) Fixed issue for could not get the ept result of neo Pro by API.
+
+## [v1.6.7] on October 17th, 200
+- [ETAPI-123](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-123) Fixed issue for cannot take CT because neo notice this email was registered.
+- [ETAPI-124](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-124) Prevent test Tokens from being duplicated with the same type.
+
+## [v1.6.6] on September 22nd, 2022
+- [ETAPI-121](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-121) Store PT Level after take the Assessment
+
+## [v1.6.5 ]on July 29th, 2022
 - Downloaded flow test PT and CT download.
 - Imported flow PT /files/test/v2/flow_pt_neojr.json.
 - Imported flow CT /files/test/v2/flow_et_neojr.json.
 - Imported the Assessment and Certficates Contents.
 - Docker-compose up -d.
 
-## Etest v1.6.4 on July 22nd, 2022
+## [v1.6.4] on July 22nd, 2022
 - [nSO-865](https://dyned.myjetbrains.com/youtrack/issue/NSO-865) Error: student is getting the prompt he has earned the Pre A1 Certificate.
 
-## Etest v1.6.3 on July 20th, 2022
+## [v1.6.3] on July 20th, 2022
 - Updateed CT Score Pre A1 to minumums 60 (neo+ and neoPrep+).
 
-## Etest v1.6.2 on July 20th, 2022
+## [v1.6.2] on July 20th, 2022
 - Added token reset admin mode.
 
-## Etest v1.6.1 on July 8th, 2022
+## [v1.6.1] on July 8th, 2022
 - [ETAPI-115](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-115) Fixed issue for not showing PT Result after taking PT.
 - [ETAPI-116](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-116) Change the name of Placement Test to Assessment Test.
 
-## Etest v1.6.0 on July 8th, 2022
+## [v1.6.0] on July 8th, 2022
+- [ETAPI-107](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-107) Import PT assessment neoJR.
 - [ETAPI-111](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-111) Disable Student After PT.
 - [ETAPI-112](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-112) Endpoint to retrieve single PT result.
 
-## Etest v1.5.6 on May 30th, 2022
+## [v1.5.6] on May 30th, 2022
 - [ETAPI-108](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-108) Generate selective PT reports based on organization code.
 - [ETAPI-109](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-109) Fixed issue for unable to open the "Cer Test Review List" excel file.
 
-## Etest v1.5.5.1 on April 26th, 2022
+## [v1.5.5.1] on April 26th, 2022
 - [ETAPI-96](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-96) Collected the agent info when starting the etest.
 - [ETAPI-99](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-99) Fixed the Get candidates that missing uic value in its response. 
 - [ETAPI-106](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-106) Fixed Fest API with query that is not working.
 
-## Etest v1.5.5 on April 26th, 2022
+## [v1.5.5] on April 26th, 2022
 - [ETAPI-94](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-94) Rename PT Result Pre-A1 to Pre A1.
 - [ETAPI-97](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-97) Optimized context API.
 - [ETAPI-98](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-98) Added Bugsnag to eTest API.
 - [ETAPI-102](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-102) Deleted CT token that show more than 1 in Tests tab.
 - [ETAPI-103](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-103) Make loading to the next question faster.
 
-## Etest v1.5.4 on January 20th, 2022
+## [v1.5.4] on January 20th, 2022
 - [ETAPI-93](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-93) Changed Certification Test Pass/Fail scoring from 80 to 70.
 
-## Etest v1.5.3 on November 25th, 2021
+## [v1.5.3] on November 25th, 2021
 - [ETAPI-88](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-88) Make validation for expired organization from SSO.
 - [ETAPI-91](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-91) Updated total in_correct in response CT details.
 - [ETAPI-92](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-92) Fixed issue for privileges that cannot be inherited when running the fetch ept API
 
-## Etest v1.5.2 on November 3rd, 2021
+## [v1.5.2] on November 3rd, 2021
 - [ETAPI-86](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-86) Make eTest API cross authenticate to ROW and CN.
 
-## Etest v1.5.1 on November 3rd, 2021
+## [v1.5.1] on November 3rd, 2021
 - [ETAPI-87](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-87) Updated config database global.
 
-## Etest v1.4.22 on October 12th, 2021
+## [v1.4.22] on October 12th, 2021
 - [ETAPI-84](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-84) Include Student Bulk type in PT Report
 - [ETAPI-85](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-85) Update Auth Management
 
 
-## Etest v1.4.21 on September 29th, 2021
+## [v1.4.21] on September 29th, 2021
 - [ETAPI-82](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-82) Add a date range based on date PT was taken
 - [ETAPI-83](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-82) certificate is not sent automatically after student pass ct
 
-## Etest v1.4.20 on September 22th, 2021
+## [v1.4.20] on September 22th, 2021
 - [ETAPI-78](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-78) Check email when taking PT whether it already registered in SSO/Live_dev
 - [ETAPI-79](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-79) Make the default logo configurable trough config
 - [ETAPI-80](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-80) User report the study level will be changed back automatically -- DE
 
-## Etest v1.4.19 on September 08th, 2021
+## [v1.4.19] on September 08th, 2021
 - [ETAPI-77](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-77) support take force ePT from Cloud and Widget
 
-## Etest v1.4.18 on August 03rd, 2021
+## [v1.4.18] on August 03rd, 2021
 - [ETAPI-71](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-71) made a possible candidate for the ePT once onboard
 - [ETAPI-74](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-74) separate notification configuration after ePT
 

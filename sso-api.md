@@ -4,6 +4,17 @@ title: SSO API
 
 # SSO API
 
+## 1.3.8 on November 24th, 2022
+- [SSO-55](https://dyned.myjetbrains.com/youtrack/issue/SSO-55) Add the configuration "Allow Students to Download Own Certificates" from Org.
+- [SSO-56](https://dyned.myjetbrains.com/youtrack/issue/SSO-56) Fixed issue after deactivating students, student's profile is still active.
+- [SSO-57](https://dyned.myjetbrains.com/youtrack/issue/SSO-57) Fixed bulk import issue: an account failed when insert into MYSQL database.
+
+## 1.3.7 on August 22nd, 2022
+- [SSO-54](https://dyned.myjetbrains.com/youtrack/issue/SSO-54) Check the org expiration date to determine student expiration date.
+
+## 1.3.6 on August 8th, 2022
+- Add redis for SSO.
+
 ## 1.3.5 on July 29th, 2022
 - [SSO-53](https://dyned.myjetbrains.com/youtrack/issue/SSO-53) Added the CT lock status read from organization or class.
 

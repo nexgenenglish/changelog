@@ -15,7 +15,11 @@ Browser based neo Study
 - [nSO-932](https://dyned.myjetbrains.com/youtrack/issue/nSO-932) neoJr: Failed to load resource Pre-A1:%20P2_Start.png:1.
 - [nSO-935](https://dyned.myjetbrains.com/youtrack/issue/nSO-935) inconsistency nSO and nSA - STG - Mastery Test - reading part.
 - [nSO-939](https://dyned.myjetbrains.com/youtrack/issue/nSO-939) Fixed neoJr: Uncaught (in promise) Runtime Error: Aborted.
+- [nSO-946](https://dyned.myjetbrains.com/youtrack/issue/nSO-946) neoJr+: L3U1Conversation Text on Mimi.
 - [nSO-949](https://dyned.myjetbrains.com/youtrack/issue/nSO-949) Fixed missing Rocket in Summary Screen.
+- [nSO-961](https://dyned.myjetbrains.com/youtrack/issue/nSO-961) neoJr+: Missing Rocket A1:P1 start png.
+- [nSO-965](https://dyned.myjetbrains.com/youtrack/issue/nSO-965) Display a message when running on a Browser that is not compatible with nso.
+- [nSO-974](https://dyned.myjetbrains.com/youtrack/issue/nSO-974) When submitting lesson data, make sure to use the curent lesson flow_id.
 
 
 ## [v.1.2.4] on October 6th, 2022
@@ -41,6 +45,7 @@ Browser based neo Study
 - [nSO-917](https://dyned.myjetbrains.com/youtrack/issue/nSO-917) Fixed the microphone alert that comes up at the beginning of every Step 3 or higher.
 
 ## [v.1.2.1] on August 10th, 2022
+- [nSO-786](https://dyned.myjetbrains.com/youtrack/issue/nSO-786) neoJr+: Crash Review Lesson.
 - [nSO-892](https://dyned.myjetbrains.com/youtrack/issue/NSO-892) Fixed error for repeating the same question after answered.
 - [nSO-893](https://dyned.myjetbrains.com/youtrack/issue/NSO-893) Fixed error for repeating the same sentence over and over again.
 - [nSO-897](https://dyned.myjetbrains.com/youtrack/issue/NSO-897) LEVEL A2 - UNIT SCHOOL LIFE IS NOT WORKING ON NSO.

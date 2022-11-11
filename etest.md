@@ -9,6 +9,9 @@ Application for Assessment Tests (Placement Tests or Certification Tests) system
 - npm run prod
 - [ET-454](https://dyned.myjetbrains.com/youtrack/issue/ET-454) Scroll down to continue to the next question.
 - [ET-451]((https://dyned.myjetbrains.com/youtrack/issue/ET-451)) neo Jr. Placement test- Graphics are out of the box.
+- [ET-457](https://dyned.myjetbrains.com/youtrack/issue/ET-457) neoJr+: pizza error.
+- [ET-458](https://dyned.myjetbrains.com/youtrack/issue/ET-458) neoJr+: eat breakfast audio prompt.
+- [ET-464](https://dyned.myjetbrains.com/youtrack/issue/ET-464) neoJr+: Typo in Test Result page.
 
 ## [2.10.5] on July 8th, 2022
 - [ET-446](https://dyned.myjetbrains.com/youtrack/issue/ET-446) neoJr+ PT: In all test items that had a “Text Prompt” the prompt is in a tiny font size.

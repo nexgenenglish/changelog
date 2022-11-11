@@ -4,6 +4,13 @@ title: B2C Portal
 
 # B2C Portal
 
+## [v.1.1.25] on November 10th, 2022
+- [mns-813](https://dyned.myjetbrains.com/youtrack/issue/mns-813) The student that registered trough bulk import and assigned a class don't have the class information written to u_acl SSO.
+- [mns-814](https://dyned.myjetbrains.com/youtrack/issue/mns-814) Set unlock status CT on bulk import API.
+- [mns-815](https://dyned.myjetbrains.com/youtrack/issue/mns-815) Co Branding logo on certificate.
+- [mns-821](https://dyned.myjetbrains.com/youtrack/issue/mns-821) Use eTest logo as default for certificate when toggle on.
+
+
 ## [v.1.1.24] on September 22nd, 2022
 - [MNS-807](https://dyned.myjetbrains.com/youtrack/issue/mns-807) Fixed neo Certificate PDFs that are not sized correctly.
 - [MNS-816](https://dyned.myjetbrains.com/youtrack/issue/mns-816) Fixed issue for cannot import phone number.

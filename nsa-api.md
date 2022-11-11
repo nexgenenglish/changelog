@@ -5,6 +5,22 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.10.8 on November 10th, 2022
+- [NSAAPI-505](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-505) Fixed issue for cannot changing status but regular token is added.
+- [NSAAPI-521](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-521) Support change-level endpoint to update Goal level when current level is force PT.
+- [NSAAPI-522](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-522) Don't allow students to upload "Profile Picture".
+
+# 1.10.7 on November 7th, 2022
+- [NSAAPI-501](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-501) Add a new column for "POINTS THIS WEEK" in Class.
+- [NSAAPI-506](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-506) Update Weekly Data API based on ORG timezone.
+- [NSAAPI-508](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-508) Prevent MT submitted from two or more devices at the same time.
+- [NSAAPI-510](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-510) Add a "Date Range" to "Student Study Records Report".
+- [NSAAPI-511](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-511) Use partial day local time org.
+- [NSAAPI-514](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-514) neoJr+: Next Level Alert wording.
+- [NSAAPI-515](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-515) Fixed students which disappear after change end period date. 
+- [NSAAPI-516](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-516) Set the unlock_status in b2cp_user_cert_plans table based on the organization and class setting when register student or bulk import.
+- [NSAAPI-520](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-520) Fixed CT "Answers" result that is showed "0".
+
 # 1.10.6.2 on October 11th, 2022
 - [NSAAPI-502](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-502) Fixed issue for missing certificate download button in student's account.
 
@@ -73,6 +89,7 @@ Service (API) to manage neo Study App.
 
 # 1.9.40 on June 28th, 2022
 - [NSAAPI-446](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-446) Fixed issue peformance summary report.
+- [NSAAPI-455](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-455) Add additional data for Student summary report API.
 - [NSAAPI-457](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-457) Updated new feature: Hide PT result after PT.
 - [NSAAPI-459](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-459) Fixed incorrect total average point last four weeks (Student Tab).
 - [NSAAPI-461](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-461) Added status account in Student and Class API.

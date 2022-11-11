@@ -5,6 +5,21 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [1.6.11] on November 10th, 2022
+- [UD-1074](https://dyned.myjetbrains.com/youtrack/issue/UD-1704) Show "Points This Week" in Class Screen and UD (Student Summary Report>> separate ticket).
+- [UD-1751](https://dyned.myjetbrains.com/youtrack/issue/UD-1751) Total Points on Study Records report are confusing.
+- [UD-2083](https://dyned.myjetbrains.com/youtrack/issue/UD-2083) Hide the url link for the Cert Plan and Cert test.
+- [UD-2156](https://dyned.myjetbrains.com/youtrack/issue/UD-2156) Added pt_level when registered student via test or student tab.
+- [UD-2175](https://dyned.myjetbrains.com/youtrack/issue/UD-2175) Fixed API of on board.
+- [UD-2258](https://dyned.myjetbrains.com/youtrack/issue/UD-2258) Co-Branding Logo on Certs.
+- [UD-2274](https://dyned.myjetbrains.com/youtrack/issue/UD-2274) Update the student unlock_status in b2cp_user_cert_plans when moved to class or removed from class.
+- [UD-2311](https://dyned.myjetbrains.com/youtrack/issue/UD-2311) Use existing logo from etest to use in organization form as default.
+- [UD-2327](https://dyned.myjetbrains.com/youtrack/issue/UD-2327) Goal level not change when current level is force PT.
+- [UD-2271](https://dyned.myjetbrains.com/youtrack/issue/UD-2271) Removed timezone abbreviation for all UD pages.
+- [UD-2273](https://dyned.myjetbrains.com/youtrack/issue/UD-2273) Set the unlock_status in b2cp_user_cert_plans table based on the organization and class setting when register student or bulk import.
+- [UD-2277](https://dyned.myjetbrains.com/youtrack/issue/UD-2277) Add a "Date Range" to "Student Study Records Report".
+
+
 ## [1.3.0] Reporting on November 8th, 2022
 - [UD-993](https://dyned.myjetbrains.com/youtrack/issue/UD-993) CT Report for student who failed CT Three times.
 - [UD-2280](https://dyned.myjetbrains.com/youtrack/issue/UD-2280) Student Raw data Report is taking longer than expected to generate and still processing.
@@ -62,6 +77,7 @@ An universal dashboard to manage neo ecosystem.
 - [UD-1942](https://dyned.myjetbrains.com/youtrack/issue/UD-1942) Fixed wrong information for Study Records Report - column O (Mts Total).
 - [UD-1944](https://dyned.myjetbrains.com/youtrack/issue/UD-1944) Fixed error when displaying all of the students on an Organization.
 - [UD-1953](https://dyned.myjetbrains.com/youtrack/issue/UD-1953) neo Jr-Confirm that you cannot assign an Initial Level to someone above the number of Parts that are available.
+- [UD-1954](https://dyned.myjetbrains.com/youtrack/issue/UD-1954) Students are not visible in the class.
 - [UD-1958](https://dyned.myjetbrains.com/youtrack/issue/UD-1958) Fixed error when viewing student's profile.
 
 
@@ -72,6 +88,7 @@ An universal dashboard to manage neo ecosystem.
 [UD-1580](https://dyned.myjetbrains.com/youtrack/issue/UD-1580) Fixed issue for cannot set 0 for Default Number of Tokens for Trial Students in organisation.
 - [UD-1657](https://dyned.myjetbrains.com/youtrack/issue/UD-1657) PT result-Areas of improvement is showing a different student's information- HS - Lincoln Academy.
 - [UD-1662](https://dyned.myjetbrains.com/youtrack/issue/UD-1662) Make improvement for the error message when the report is not generated.
+- [UD-1669](https://dyned.myjetbrains.com/youtrack/issue/UD-1669) Store class configuration value to SSO.
 - [UD-1699](https://dyned.myjetbrains.com/youtrack/issue/UD-1699) Organization Read (Priority 1)
 - [UD-1700](https://dyned.myjetbrains.com/youtrack/issue/UD-1700) Organization Read Sub Organizations (Priority 2).
 - [UD-1701](https://dyned.myjetbrains.com/youtrack/issue/UD-1701) Class read.
