@@ -4,6 +4,9 @@ title: SSO API
 
 # SSO API
 
+## 1.3.9 on November 15th, 2022
+- [SSO-58](https://dyned.myjetbrains.com/youtrack/issue/SSO-58) Add timezone ORG in profile user.
+
 ## 1.3.8 on October 24th, 2022
 - [SSO-55](https://dyned.myjetbrains.com/youtrack/issue/SSO-55) Add the configuration "Allow Students to Download Own Certificates" from Org.
 - [SSO-56](https://dyned.myjetbrains.com/youtrack/issue/SSO-56) Fixed issue after deactivating students, student's profile is still active.

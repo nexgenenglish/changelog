@@ -9,6 +9,7 @@ A website for DynEd students and coaches to study using Live Session and also fo
 - [DELB2I-1356](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1356) Fixed error coaching script.
 
 ## [v.1.1.22] on September 27th, 2022
+- [DELB2I-1316](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1316) Suggestion to move the "Remaining Time" counter at the bottom of the video screen.
 - [DELB2I-1345](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1345) Fixed issue for student who has incorrect MT amount.
 - [DELB2I-1348](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1348) Fixed some error in upcoming sessions tab, day off filling and days of approval.
 - [DELB2I-1355](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1355) Fixed HTTP ERROR 500.

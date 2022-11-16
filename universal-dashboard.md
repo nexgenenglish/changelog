@@ -8,6 +8,7 @@ An universal dashboard to manage neo ecosystem.
 ## [1.6.11] on November 10th, 2022
 - [UD-1074](https://dyned.myjetbrains.com/youtrack/issue/UD-1704) Show "Points This Week" in Class Screen and UD (Student Summary Report>> separate ticket).
 - [UD-1751](https://dyned.myjetbrains.com/youtrack/issue/UD-1751) Total Points on Study Records report are confusing.
+- [ID-1869](https://dyned.myjetbrains.com/youtrack/issue/UD-1869) Student Summary Report is empty if students have not study.
 - [UD-2083](https://dyned.myjetbrains.com/youtrack/issue/UD-2083) Hide the url link for the Cert Plan and Cert test.
 - [UD-2156](https://dyned.myjetbrains.com/youtrack/issue/UD-2156) Added pt_level when registered student via test or student tab.
 - [UD-2175](https://dyned.myjetbrains.com/youtrack/issue/UD-2175) Fixed API of on board.

@@ -15,8 +15,10 @@ neo Study application for Android
 - [NSA-3276](https://dyned.myjetbrains.com/youtrack/issue/NSA-3276) app crashed (relates to NSA-3270).
 - [NSA-3278](https://dyned.myjetbrains.com/youtrack/issue/NSA-3278) Make all MT available to test directly in tester mode [NSA-3284].
 - [NSA-3282](https://dyned.myjetbrains.com/youtrack/issue/NSA-3282) Allow Students to Download Their Own Certificates Features ( via NSO or NSA).
+- [NSA-3284](https://dyned.myjetbrains.com/youtrack/issue/NSA-3284) Make all MT available to test directly in tester mode [Android].
 - [NSA-3290](https://dyned.myjetbrains.com/youtrack/issue/NSA-3290) Fixed app crashed when clicking recording button (add mic permission if lesson has isRecord).
 - [NSA-3321](https://dyned.myjetbrains.com/youtrack/issue/NSA-3321) Fixed app crashed when clicking mt.
+- [NSA-3331](https://dyned.myjetbrains.com/youtrack/issue/NSA-3331) Fixed issue for neo study app that quit accidently sometimes.
 - [NSA-3338](https://dyned.myjetbrains.com/youtrack/issue/NSA-3338) Add pop up window to read EULA and Privacy App.
 - [NSA-3340](https://dyned.myjetbrains.com/youtrack/issue/NSA-3340) Add switch language menu for NSA.
 - [NSA-3344](https://dyned.myjetbrains.com/youtrack/issue/NSA-3344) Fixed app crashed while studying -- DE.
@@ -35,6 +37,7 @@ neo Study application for Android
 - [NSA-3217](https://dyned.myjetbrains.com/youtrack/issue/NSA-3217) Typo on the word "Resume".
 - [NSA-3224](https://dyned.myjetbrains.com/youtrack/issue/NSA-3224) The mic icon is over arrow-
 - [NSA-3230](https://dyned.myjetbrains.com/youtrack/issue/NSA-3230) The "arrow" icon is not fully visible.
+- [NSA-3237](https://dyned.myjetbrains.com/youtrack/issue/NSA-3237) Fixed inconsistency with the background color and level icon.
 - [NSA-3244](https://dyned.myjetbrains.com/youtrack/issue/NSA-3244) neoJr+: pls remove text SR tolerance level on entry sceen lesson when review_lesson.
 - [NSA-3259](https://dyned.myjetbrains.com/youtrack/issue/NSA-3259) Android: A Q has been played 3 times
 

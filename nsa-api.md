@@ -5,6 +5,12 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.10.9 on November 15th, 2022
+- [NSAAPI-523](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-523) Fixed the datetime at message/alert.
+- [NSAAPI-524](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-524) Save the Trial date to Regular.
+- [NSAAPI-525](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-525) Fixed error in Billing report.
+- [NSAAPI-526](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-526) Billing Report does not works on Single or Tree options.
+
 # 1.10.8 on November 10th, 2022
 - [NSAAPI-505](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-505) Fixed issue for cannot changing status but regular token is added.
 - [NSAAPI-521](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-521) Support change-level endpoint to update Goal level when current level is force PT.

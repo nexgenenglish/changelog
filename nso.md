@@ -6,6 +6,7 @@ title: neo Study Online
 Browser based neo Study 
 
 ## [v.1.2.5] on November 2nd, 2022
+- [nSO-464](https://dyned.myjetbrains.com/youtrack/issue/nSO-464) Fixed "Hold to speak" that is not shown well.
 - [nSO-920](https://dyned.myjetbrains.com/youtrack/issue/nSO-920) Fixed different fonts for the Reading text and Question text.
 - [nSO-922](https://dyned.myjetbrains.com/youtrack/issue/nSO-922) Fixed issue for microphone icon that is greyed out.
 - [nSO-926](https://dyned.myjetbrains.com/youtrack/issue/nSO-926) Fixed issue with the MT audio.
