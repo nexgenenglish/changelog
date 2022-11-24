@@ -5,6 +5,14 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.17.2] on November 24th, 2022
+- [NSA-3361](https://dyned.myjetbrains.com/youtrack/issue/NSA-3361) Fixed issue: [Step 3] App crashed when pressing 'Pause' button several time after a recording attempt.
+- [NSA-3364](https://dyned.myjetbrains.com/youtrack/issue/NSA-3364) Translated MyCertificate into Chinese.
+- [NSA-3387](https://dyned.myjetbrains.com/youtrack/issue/NSA-3387) Fixed issue for cannot pause at 059_dbeu4_productcomparison_grammarfillins of neo pro on 1.17.1.2022.09.20.
+- [NSA-3399](https://dyned.myjetbrains.com/youtrack/issue/NSA-3399) App crashed when entering A2-RFS-UNIT 3-time zones-Dictation.
+- [NSA-3404](https://dyned.myjetbrains.com/youtrack/issue/NSA-3404) The lesson is restarting when nSA is sent to background.
+- [NSA-3406](https://dyned.myjetbrains.com/youtrack/issue/NSA-3406) Fixed issue for cannot click pause in MT of B1 EFS & RFS Unit11 + MT on android NSA_v1.17.2.2022.10.17.
+
 ## [v1.17.1] on September 20th, 2022
 - [NSA-3243](https://dyned.myjetbrains.com/youtrack/issue/NSA-3243) Fixed rocket icon that appear in the wrong location.
 - [NSA-3257](https://dyned.myjetbrains.com/youtrack/issue/NSA-3257) NSA Seamless login.

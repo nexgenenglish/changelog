@@ -23,6 +23,7 @@ An universal dashboard to manage neo ecosystem.
 
 ## [1.3.0] Reporting on November 8th, 2022
 - [UD-993](https://dyned.myjetbrains.com/youtrack/issue/UD-993) CT Report for student who failed CT Three times.
+- [UD-2211](https://dyned.myjetbrains.com/youtrack/issue/UD-2211) Fixed Week studied at student summary report that is not match with UD.
 - [UD-2280](https://dyned.myjetbrains.com/youtrack/issue/UD-2280) Student Raw data Report is taking longer than expected to generate and still processing.
 
 ## [1.6.10] on October 3rd, 2022

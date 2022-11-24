@@ -5,6 +5,11 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## [v1.6.9] on November 23rd, 2022
+- [ETAPI-127](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-127) Co-Branding Logo on PT.
+- [ETAPI-129](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-129) Update fullname in candidates and candidates_history when update candidate is hit.
+- [ETAPI-130](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-130) Logo not appear on PT screen after uploaded in UD.
+
 ## [v1.6.8] on November 10th, 2022
 - [ETAPI-126](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-126) Fixed issue for could not get the ept result of neo Pro by API.
 

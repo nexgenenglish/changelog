@@ -5,6 +5,10 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+## [v1.17.2] on November 15th, 2022
+- [NSA-3364](https://dyned.myjetbrains.com/youtrack/issue/NSA-3364) Translated MyCertificate into Chinese.
+- [NSA-3372](https://dyned.myjetbrains.com/youtrack/issue/NSA-3372) Fixed the content that covered the scroll line on iphone 7 plus with 15.7.
+
 ## [v1.17.1] on September 23rd, 2022
 - [NSA-3257](https://dyned.myjetbrains.com/youtrack/issue/NSA-3257) NSA Seamless login.
 - [NSA-3282](https://dyned.myjetbrains.com/youtrack/issue/NSA-3282) Allow Students to Download Their Own Certificates Features ( via NSO or NSA).
