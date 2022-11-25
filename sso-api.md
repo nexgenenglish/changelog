@@ -4,6 +4,9 @@ title: SSO API
 
 # SSO API
 
+## 1.3.10 on November 25th, 2022
+- [SSO-59](https://dyned.myjetbrains.com/youtrack/issue/SSO-59) Fixed incorrect deactivated log naming.
+
 ## 1.3.9 on November 15th, 2022
 - [SSO-58](https://dyned.myjetbrains.com/youtrack/issue/SSO-58) Add timezone ORG in profile user.
 
