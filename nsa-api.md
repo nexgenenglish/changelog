@@ -5,8 +5,13 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
-# 1.10.9 on November 15th, 2022
+# 1.10.11 on November 29th, 2022
+- [NSAAPI-527](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-527) Fixed Points This Week value that is not correct in UD.
+
+# 1.10.10 on November 15th, 2022
 - [NSAAPI-523](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-523) Fixed the datetime at message/alert.
+
+# 1.10.9 on November 15th, 2022
 - [NSAAPI-524](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-524) Save the Trial date to Regular.
 - [NSAAPI-525](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-525) Fixed error in Billing report.
 - [NSAAPI-526](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-526) Billing Report does not works on Single or Tree options.
