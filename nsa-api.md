@@ -5,6 +5,11 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.10.14 on December 14th, 2022
+- [NSAAPI-531](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-531) Fixed typo in Review Lesson MT message.
+- [NSAAPI-532](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-532) Fixed typo in Review Lesson CT message.
+- [NSAAPI-534](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-534) Fixed iOS: Stuck at Ratios MT.
+
 # 1.10.11 on November 29th, 2022
 - [NSAAPI-527](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-527) Fixed Points This Week value that is not correct in UD.
 
