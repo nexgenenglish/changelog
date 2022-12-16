@@ -5,6 +5,9 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [1.6.11.1] on December 16th, 2022
+- [UD-2382](https://dyned.myjetbrains.com/youtrack/issue/UD-2382) Fixed PT Report on Tests tab that always processing.
+
 ## [1.6.11] on November 10th, 2022
 - [UD-1074](https://dyned.myjetbrains.com/youtrack/issue/UD-1704) Show "Points This Week" in Class Screen and UD (Student Summary Report>> separate ticket).
 - [UD-1751](https://dyned.myjetbrains.com/youtrack/issue/UD-1751) Total Points on Study Records report are confusing.
