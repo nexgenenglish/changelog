@@ -23,12 +23,6 @@ An universal dashboard to manage neo ecosystem.
 - [UD-2273](https://dyned.myjetbrains.com/youtrack/issue/UD-2273) Set the unlock_status in b2cp_user_cert_plans table based on the organization and class setting when register student or bulk import.
 - [UD-2277](https://dyned.myjetbrains.com/youtrack/issue/UD-2277) Add a "Date Range" to "Student Study Records Report".
 
-
-## [1.3.0] Reporting on November 8th, 2022
-- [UD-993](https://dyned.myjetbrains.com/youtrack/issue/UD-993) CT Report for student who failed CT Three times.
-- [UD-2211](https://dyned.myjetbrains.com/youtrack/issue/UD-2211) Fixed Week studied at student summary report that is not match with UD.
-- [UD-2280](https://dyned.myjetbrains.com/youtrack/issue/UD-2280) Student Raw data Report is taking longer than expected to generate and still processing.
-
 ## [1.6.10] on October 3rd, 2022
 - [UD-1576](https://dyned.myjetbrains.com/youtrack/issue/UD-1576) All reports must display the organization local time.
 - [UD-1677](https://dyned.myjetbrains.com/youtrack/issue/UD-1677) Allow Students to Download Their Own Certificates Features ( via NSO or NSA).
