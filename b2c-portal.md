@@ -4,6 +4,10 @@ title: B2C Portal
 
 # B2C Portal
 
+## [v.1.1.27] on December 26th, 2022
+- [mns-823](https://dyned.myjetbrains.com/youtrack/issue/mns-823) Certificate text and date not aligned.
+- [mns-824](https://dyned.myjetbrains.com/youtrack/issue/mns-824) Student's last name is truncated in the certificate.
+
 ## [v.1.1.26] on November 29th, 2022
 - [mns-820](https://dyned.myjetbrains.com/youtrack/issue/mns-820) Update the eula page.
 - [mns-822](https://dyned.myjetbrains.com/youtrack/issue/mns-822) Prevent Auto Issued on bulk download certificate when settings is off

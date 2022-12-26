@@ -5,6 +5,12 @@ title: eTest Widget and Cloud
 # eTest Widget and Cloud
 Application for Assessment Tests (Placement Tests or Certification Tests) systems on neo.
 
+## [2.10.7] on November 26th, 2022
+- [ET-469](https://dyned.myjetbrains.com/youtrack/issue/ET-469) neoJr+: Next button enabled in Assessment Test.
+- [ET-472](https://dyned.myjetbrains.com/youtrack/issue/ET-472) Localization for Brazilian Portuguese.
+- [ET-478](https://dyned.myjetbrains.com/youtrack/issue/ET-478) Unable to read the complete text without scrolling.
+- [ET-480](https://dyned.myjetbrains.com/youtrack/issue/ET-480) Typo: There is a text space missing between words.
+
 ## [2.10.6] on July 29th, 2022
 - npm run prod
 - [ET-454](https://dyned.myjetbrains.com/youtrack/issue/ET-454) Scroll down to continue to the next question.

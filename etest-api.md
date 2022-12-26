@@ -5,6 +5,10 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## [v1.6.11] on December 26th, 2022
+- [ETAPI-132](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-132) The sorting for lesson code origin needs to get the latest one if there are multiple items with the same item ID.
+- [ETAPI-133](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-133) Prevent save lesson code if not part of CT group question.
+
 ## [v1.6.9] on November 23rd, 2022
 - [ETAPI-127](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-127) Co-Branding Logo on PT.
 - [ETAPI-129](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-129) Update fullname in candidates and candidates_history when update candidate is hit.

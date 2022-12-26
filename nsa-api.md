@@ -5,7 +5,16 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.10.16 on December 26th, 2022
+- [NSAAPI-536](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-536) Capped point for "Points this week" on student tab and UD class.
+- [NSAAPI-537](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-537) Capped point for "Average points per week" on student tab.
+- [NSAAPI-538](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-538) neoJr+: Failed CT unlocked after first Review Lesson.
+
+# 1.10.15 on December 19th, 2022
+- [NSAAPI-535](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-535) Avg point per week student class.
+
 # 1.10.14 on December 14th, 2022
+- [NSAAPI-530](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-530) Include the "neo administrator" in the message.
 - [NSAAPI-531](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-531) Fixed typo in Review Lesson MT message.
 - [NSAAPI-532](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-532) Fixed typo in Review Lesson CT message.
 - [NSAAPI-534](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-534) Fixed iOS: Stuck at Ratios MT.
