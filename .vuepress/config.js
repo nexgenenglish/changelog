@@ -30,7 +30,8 @@ module.exports = {
             '/sso-api',
             '/voucher-generator',
             '/b2c-portal',
-            '/reporting'
+            '/reporting',
+            '/neo-bugs-reporting'
         ]
     }
 }
