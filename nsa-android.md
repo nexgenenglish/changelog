@@ -5,6 +5,13 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.18.0] on January 9th, 2023
+- [NSA-3409](https://dyned.myjetbrains.com/youtrack/issue/NSA-3409) Text for "My Lessons" is truncated.
+- [NSA-3412](https://dyned.myjetbrains.com/youtrack/issue/NSA-3412) Text is too close to the edges.
+- [NSA-3415](https://dyned.myjetbrains.com/youtrack/issue/NSA-3415) Cannot select 12.
+- [NSA-3423](https://dyned.myjetbrains.com/youtrack/issue/NSA-3423) Failed a Certificate Test Three Times [Android].
+- [NSA-3427](https://dyned.myjetbrains.com/youtrack/issue/NSA-3427) Wrong flow_id value when sending review lesson CT in StudyRecord [Android].
+
 ## [v1.17.2] on November 24th, 2022
 - [NSA-3361](https://dyned.myjetbrains.com/youtrack/issue/NSA-3361) Fixed issue: [Step 3] App crashed when pressing 'Pause' button several time after a recording attempt.
 - [NSA-3364](https://dyned.myjetbrains.com/youtrack/issue/NSA-3364) Translated MyCertificate into Chinese.

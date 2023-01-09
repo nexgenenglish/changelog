@@ -5,6 +5,9 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+## [v1.18.0] on January 9th, 2023
+- [NSA-3424](https://dyned.myjetbrains.com/youtrack/issue/NSA-3424) Failed a Certificate Test Three Times [iOS].
+
 ## [v1.17.2] on November 15th, 2022
 - [NSA-3364](https://dyned.myjetbrains.com/youtrack/issue/NSA-3364) Translated MyCertificate into Chinese.
 - [NSA-3372](https://dyned.myjetbrains.com/youtrack/issue/NSA-3372) Fixed the content that covered the scroll line on iphone 7 plus with 15.7.

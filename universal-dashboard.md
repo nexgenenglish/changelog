@@ -5,6 +5,19 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [1.6.12] on January 9th, 2023
+- [UD-1096](https://dyned.myjetbrains.com/youtrack/issue/UD-1096) Disable ability to issue Certificates.
+- [UD-1343](https://dyned.myjetbrains.com/youtrack/issue/UD-1343) Student Period Date updates automatically.
+- [UD-1405](https://dyned.myjetbrains.com/youtrack/issue/UD-1405) Billing: Please wait message.
+- [UD-1445](https://dyned.myjetbrains.com/youtrack/issue/UD-1455) Students are prompted to change the password.
+- [UD-2344](https://dyned.myjetbrains.com/youtrack/issue/UD-2344) Add certificate details for both passed and failed.
+- [UD-2289](https://dyned.myjetbrains.com/youtrack/issue/UD-2289) No error message when changing expiration date for a student.
+- [UD-2295](https://dyned.myjetbrains.com/youtrack/issue/UD-2295) Fixed search feature that is not working in the class.
+- [UD-2304](https://dyned.myjetbrains.com/youtrack/issue/UD-2304) Dealing with failed Certificate Tests - Part 4.
+- [UD-2320](https://dyned.myjetbrains.com/youtrack/issue/UD-2320) Cert Test Management Feature - Dealing with Student's who are not in a class.
+- [UD-2326](https://dyned.myjetbrains.com/youtrack/issue/UD-2326) Don't allow students to upload "Profile Picture".
+- [UD-2380](https://dyned.myjetbrains.com/youtrack/issue/UD-2380) Cert Test Review List is not available.
+
 ## [1.6.11.1] on December 16th, 2022
 - [UD-2382](https://dyned.myjetbrains.com/youtrack/issue/UD-2382) Fixed PT Report on Tests tab that always processing.
 

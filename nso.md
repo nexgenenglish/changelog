@@ -5,6 +5,21 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study 
 
+## [v.1.3.0] on January 9th, 2023
+- [nSO-796](https://dyned.myjetbrains.com/youtrack/issue/nSO-796) Add the abilities to change profile picture from Account page.
+- [nSO-966](https://dyned.myjetbrains.com/youtrack/issue/nSO-966) Error message when running neo Jr.
+- [nSO-977](https://dyned.myjetbrains.com/youtrack/issue/nSO-977) These two sentences "points to the next test" and "to next MT" confuse student.
+- [nSO-978](https://dyned.myjetbrains.com/youtrack/issue/nSO-978) The student cannot press enter when staying in NSO but it works fine for NSA.
+- [nSO-980](https://dyned.myjetbrains.com/youtrack/issue/nSO-980) Text issue on Mastery Test.
+- [nSO-981](https://dyned.myjetbrains.com/youtrack/issue/nSO-981) Study records are not being synced (neo Jr.)-Crockett ISD.
+- [nSO-984](https://dyned.myjetbrains.com/youtrack/issue/nSO-984) Records are not syncing (neo Jr.) -Crockett ISD.
+- [nSO-987](https://dyned.myjetbrains.com/youtrack/issue/nSO-987) Failed a Certificate Test Three Times.
+- [nSO-990](https://dyned.myjetbrains.com/youtrack/issue/nSO-990) Certification Test review lesson condition.
+- [nSO-993](https://dyned.myjetbrains.com/youtrack/issue/nSO-993) Cannot find jct data because download url prefix.
+- [nSO-1000](https://dyned.myjetbrains.com/youtrack/issue/nSO-1000) Typo in the word: Point to the next Mastery Test.
+- [nSO-1002](https://dyned.myjetbrains.com/youtrack/issue/nSO-1002) Move the arrow a little bit the the right of the certification word.
+- [nSO-1007](https://dyned.myjetbrains.com/youtrack/issue/nSO-1007) NSO : pls change planet in page CT when "retake cert test".
+
 ## [v.1.2.5] on November 2nd, 2022
 - [nSO-464](https://dyned.myjetbrains.com/youtrack/issue/nSO-464) Fixed "Hold to speak" that is not shown well.
 - [nSO-920](https://dyned.myjetbrains.com/youtrack/issue/nSO-920) Fixed different fonts for the Reading text and Question text.

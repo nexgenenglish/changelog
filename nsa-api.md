@@ -5,6 +5,10 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.11.0 on January 9th, 2023
+- [NSAAPI-518](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-518) Failed a Certificate Test Three Times.
+- [NSAAPI-519](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-519) Dealing with failed Certificate Tests - Part 4.
+
 # 1.10.16 on December 26th, 2022
 - [NSAAPI-536](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-536) Capped point for "Points this week" on student tab and UD class.
 - [NSAAPI-537](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-537) Capped point for "Average points per week" on student tab.
