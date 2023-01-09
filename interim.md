@@ -5,6 +5,12 @@ title: Interim
 # Neo Interim
 neo Interim is a microsite that provides middleware for neo Ecosystem.
 
+## [v.1.1.6] on Jan 9th, 2023
+- [UD-2330](https://dyned.myjetbrains.com/youtrack/issue/UD-2330) - Add conditional checking on upload profile picture.
+
+## [v.1.1.5] on Nov 10th, 2022
+- [UD-2156](https://dyned.myjetbrains.com/youtrack/issue/UD-2156) - Add pt_level when registered student via test or student tab in UD.
+
 ## [v.1.1.4] on Dec 9th, 2021
 - [UD-1172](https://dyned.myjetbrains.com/youtrack/issue/UD-1172) - Added ability to add email address as cc or bcc.
 - [UD-1042](https://dyned.myjetbrains.com/youtrack/issue/UD-1041) - Implemented notification for DynEd Live.
