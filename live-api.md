@@ -4,6 +4,12 @@ title: LIVE API
 
 # LIVE API
 
+## [v.1.1.4.0] on January 16th, 2023
+- [LIVEAPI-25](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-25) Use only Vp8 Opentok API Key.
+- [LIVEAPI-30](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-30) Create API to update timezone.
+- [LIVEAPI-31](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-31) Add cors headers.
+- [LIVEAPI-36](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-36) Update Endpoints Session [Mobile version].
+
 ## [v.1.1.3] on December 26th, 2022
 - [LIVEAPI-33](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-33) Add rate coach on session.
 - [LIVEAPI-32](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-32) Change Wording for success booking.
