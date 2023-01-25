@@ -4,6 +4,9 @@ title: Reporting UD
 
 # Reporting
 
+## [1.4.2] on January 23rd, 2023
+- [UD-2396](https://dyned.myjetbrains.com/youtrack/issue/UD-2396) Summary Report has an Alert when the user wants to open the file.
+
 ## [1.4.1] on December 21st, 2022
 - [UD-2177](https://dyned.myjetbrains.com/youtrack/issue/UD-2177) Different IELTS E-Test Correlations on the PT Report.
 - [UD-2187](https://dyned.myjetbrains.com/youtrack/issue/UD-2187) Inconsistency in the label for Last Study Session vs Last Study Date.
