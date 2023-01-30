@@ -5,6 +5,10 @@ title: eTest Widget and Cloud
 # eTest Widget and Cloud
 Application for Assessment Tests (Placement Tests or Certification Tests) systems on neo.
 
+## [2.10.10] on January 23ed, 2023
+- [ET-461](https://dyned.myjetbrains.com/youtrack/issue/ET-461) Fixed issue for text position.
+-[ET-484](https://dyned.myjetbrains.com/youtrack/issue/ET-484) Set a test taker's attempt limit when taking the Assesment Test.
+
 ## [2.10.7] on November 26th, 2022
 - [ET-469](https://dyned.myjetbrains.com/youtrack/issue/ET-469) neoJr+: Next button enabled in Assessment Test.
 - [ET-472](https://dyned.myjetbrains.com/youtrack/issue/ET-472) Localization for Brazilian Portuguese.

@@ -5,6 +5,10 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.11.2 on January 18th, 2023
+- [NSAAPI-543](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-543) Fixed issue for cannot take review when CT is pending.
+
+
 # 1.11.1 on January 16th, 2023
 - [NSAAPI-541](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-541) Allow certificate earned by interview downloadable via My Certificates.
 - [NSAAPI-542](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-542) Fixed Server UD issue: data missing in Class tab.

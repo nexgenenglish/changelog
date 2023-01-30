@@ -11,6 +11,7 @@ A website for neo students to study using Live Session.
 
 ## [v.1.2.1] on October 11th, 2022
 - [NELB2C-1535](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1535) Fixed issue for UTC time zone.
+- [NELB2C-1553](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1553) Save and validate opentok token.
 
 ## [v.1.2.0] on September 29th, 2022
 - [NELB2C-1509](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1509) Fixed issue for ubnable to access Live Session via myneo app.

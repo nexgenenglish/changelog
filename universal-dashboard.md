@@ -5,6 +5,13 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [1.6.12.2] on January 27th, 2023
+- [UD-2461](https://dyned.myjetbrains.com/youtrack/issue/UD-2461) Fixed issue for unable to change the Test token attempts.
+
+## [1.6.12.1] on January 23rd, 2023
+- [UD-2437](https://dyned.myjetbrains.com/youtrack/issue/UD-2437) Added attempt option in PT token generation.
+- [UD-2440](https://dyned.myjetbrains.com/youtrack/issue/UD-2440) Added new PT config when generate Test Token > Change Attempts Allowed to 1 then Submit.
+
 ## [1.6.12] on January 9th, 2023
 - [UD-1096](https://dyned.myjetbrains.com/youtrack/issue/UD-1096) Disable ability to issue Certificates.
 - [UD-1343](https://dyned.myjetbrains.com/youtrack/issue/UD-1343) Student Period Date updates automatically.

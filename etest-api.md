@@ -5,6 +5,9 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## [v.1.7.1] on January 23rd, 2023
+- [ETAPI-135](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-135) Set a test taker's attempt limit when taking the Assesment Test.
+
 ## [v1.7.0] on January 9th, 2023
 - [ETAPI-128](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-128) Failed a Certificate Test Three Times.
 - [ETAPI-134](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-134) Failed a Certificate Test Three Times.
