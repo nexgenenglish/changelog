@@ -7,7 +7,7 @@ A website for neo students to study using Live Session.
 
 ## [v.1.2.3] on January 16th, 2023
 - [NELB2C-1554](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1554) No Opentok Recorded Session on Production.
-- NELB2C-1560](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1560) Hotfix webview only use vp8.
+- [NELB2C-1560](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1560) Hotfix webview only use vp8.
 
 ## [v.1.2.1] on October 11th, 2022
 - [NELB2C-1535](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1535) Fixed issue for UTC time zone.
