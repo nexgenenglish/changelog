@@ -5,6 +5,13 @@ title: neo Live B2C
 # Live B2C
 A website for neo students to study using Live Session.
 
+## [v.1.2.5] on February 7th, 2023
+- [NELB2C-1569](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1569) User login at incorrect time.
+
+## [v.1.2.4] on February 1st, 2023
+- [NELB2C-1321](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1321) Email Notification for Coach.
+- [NELB2C-1562](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1562) Request : Move Join Session to the top and Grey out button if student still checking Connection.
+
 ## [v.1.2.3] on January 16th, 2023
 - [NELB2C-1554](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1554) No Opentok Recorded Session on Production.
 - [NELB2C-1560](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1560) Hotfix webview only use vp8.

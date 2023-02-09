@@ -5,6 +5,9 @@ title: JCT
 # JCT
 **JCT** is an interactive web based application interface where a team of course designer setup and create DynEd Course Study that will be used by neo Study App.
 
+## [V1.2.15] on February 7th, 2023
+- [JCT-202](https://dyned.myjetbrains.com/youtrack/issue/JCT-202) Make the duration settings available not only in Master Test lesson but also in all comprehension type.
+
 ## [V1.2.10] on August 23rd, 2022
 -[JCT-197](https://dyned.myjetbrains.com/youtrack/issue/JCT-197) After regerating a lesson/study path, the author name isn't the one who made the change.
 
