@@ -5,6 +5,17 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.19.0] on February 14th, 2023
+- [NSA-3434](https://dyned.myjetbrains.com/youtrack/issue/NSA-3434) neoJr+: Replace the "That's enough for now" audio at end of each lesson step [Android].
+- [NSA-3436](https://dyned.myjetbrains.com/youtrack/issue/NSA-3436) Fixed missed spelling for login alert when leaving field(s) blank.
+- [NSA-3440](https://dyned.myjetbrains.com/youtrack/issue/NSA-3440) Fixed typo in home screen.
+- [NSA-3460](https://dyned.myjetbrains.com/youtrack/issue/NSA-3460) neoJr+: Remove "microphone alert" pop-up.
+- [NSA-3462](https://dyned.myjetbrains.com/youtrack/issue/NSA-3462) neoJr+: Remove "microphone alert" pop-up [Android].
+- [NSA-3463](https://dyned.myjetbrains.com/youtrack/issue/NSA-3463) Fixed issue for the 'bugsnag-android' that runs before privacy policy.
+- [NSA-3469](https://dyned.myjetbrains.com/youtrack/issue/NSA-3469) Fixed issue for cannot continue study due to the app permission on Android 13.
+- [NSA-3478](https://dyned.myjetbrains.com/youtrack/issue/NSA-3478) Fixed issue for unable to set the required Permissions on Samsung devices.
+- [NSA-3486](https://dyned.myjetbrains.com/youtrack/issue/NSA-3486) Fixed issue for nsa that cannot work on android 13.
+
 ## [v1.18.0] on January 9th, 2023
 - [NSA-3409](https://dyned.myjetbrains.com/youtrack/issue/NSA-3409) Text for "My Lessons" is truncated.
 - [NSA-3412](https://dyned.myjetbrains.com/youtrack/issue/NSA-3412) Text is too close to the edges.

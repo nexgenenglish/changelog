@@ -5,6 +5,14 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+## [v1.19.0] on February 14th, 2023
+- [NSA-3435](https://dyned.myjetbrains.com/youtrack/issue/NSA-3435) neoJr+: Replace the "That's enough for now" audio at end of each lesson step [iOS].
+- [NSA-3440](https://dyned.myjetbrains.com/youtrack/issue/NSA-3440) Fixed typo in home screen.
+- [NSA-3442](https://dyned.myjetbrains.com/youtrack/issue/NSA-3442) neoJr+: Single tap on mic button stops timer.
+- [NSA-3460](https://dyned.myjetbrains.com/youtrack/issue/NSA-3460) neoJr+: Remove "microphone alert" pop-up.
+- [NSA-3461](https://dyned.myjetbrains.com/youtrack/issue/NSA-3461) neoJr+: Remove "microphone alert" pop-up [iOS].
+- [NSA-3470](https://dyned.myjetbrains.com/youtrack/issue/NSA-3470) neoJr+: Fail L4MT1 or L4MT2 - Wrong Review Lesson count in Summary Screen.
+
 ## [v1.18.0] on January 9th, 2023
 - [NSA-3424](https://dyned.myjetbrains.com/youtrack/issue/NSA-3424) Failed a Certificate Test Three Times [iOS].
 

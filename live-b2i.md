@@ -5,6 +5,9 @@ title: neo Live B2I
 # Live B2I
 A website for DynEd students and coaches to study using Live Session and also for admins and affiliates to manage DynEd Live's environment.
 
+## [v1.1.25] on February 14th, 2023
+- [DELB2I-1365](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1365) Fixed issue for US-based coach supplier that unable to add new coaches.
+
 ## [v.1.1.24] on December 26th, 2022
 - [DELB2I-1362](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1362) The chat does not work on live.
 - [DELB2I-1363](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1363) Session Recording.
