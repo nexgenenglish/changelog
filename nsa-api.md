@@ -5,6 +5,14 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.11.5 on February 21st, 2023
+- [NSAAPI-548](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-548) Change number of attempt in message for Cert Test.
+- [NSAAPI-549](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-549) Fixed inconsistencies in study level and Statistics in dashboard.
+
+# 1.11.4 on February 14th, 2023
+- [NSAAPI-544](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-544) Ability to Disable an Organization and sub-Organizations.
+- [NSAAPI-547](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-547) Fixed issue for missing study records.
+
 # 1.11.3 on January 31st, 2023
 - [NSAAPI-545](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-545) Fixed issue for failed to update student profile.
 

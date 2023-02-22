@@ -5,6 +5,11 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study 
 
+## [v.1.4.0] on February 20th, 2023
+- [nSO-1013](https://dyned.myjetbrains.com/youtrack/issue/nSO-1013) neoJr+: Replace the "That's enough for now" audio at end of each lesson step.
+- [nSO-1024](https://dyned.myjetbrains.com/youtrack/issue/nSO-1024) Fixed issue stuck on some lessons.
+- [nSO-1031](https://dyned.myjetbrains.com/youtrack/issue/nSO-1031) neoJr+: Remove "microphone alert" pop-up.
+
 ## [v.1.3.0] on January 9th, 2023
 - [nSO-796](https://dyned.myjetbrains.com/youtrack/issue/nSO-796) Add the abilities to change profile picture from Account page.
 - [nSO-966](https://dyned.myjetbrains.com/youtrack/issue/nSO-966) Error message when running neo Jr.
@@ -19,6 +24,7 @@ Browser based neo Study
 - [nSO-1000](https://dyned.myjetbrains.com/youtrack/issue/nSO-1000) Typo in the word: Point to the next Mastery Test.
 - [nSO-1002](https://dyned.myjetbrains.com/youtrack/issue/nSO-1002) Move the arrow a little bit the the right of the certification word.
 - [nSO-1007](https://dyned.myjetbrains.com/youtrack/issue/nSO-1007) NSO : pls change planet in page CT when "retake cert test".
+- [nSO-1021](https://dyned.myjetbrains.com/youtrack/issue/nSO-1021) Fixed inconsistency between neo and nso, when pausing the app.
 
 ## [v.1.2.5] on November 2nd, 2022
 - [nSO-464](https://dyned.myjetbrains.com/youtrack/issue/nSO-464) Fixed "Hold to speak" that is not shown well.

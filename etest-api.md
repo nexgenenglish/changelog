@@ -5,6 +5,10 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## [v.1.7.2] on February 21st, 2023
+- [ETAPI-137](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-137) Generated SOR when submit PT.
+- [ETAPI-138](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-138) Added configuration for SoR feature.
+
 ## [v.1.7.1] on January 23rd, 2023
 - [ETAPI-135](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-135) Set a test taker's attempt limit when taking the Assesment Test.
 
