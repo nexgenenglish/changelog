@@ -4,6 +4,15 @@ title: Reporting UD
 
 # Reporting
 
+## [1.5.2] on March 2nd, 2023
+- [UD-2541](https://dyned.myjetbrains.com/youtrack/issue/UD-2541) Reporting - return instant feedback for SoR.
+
+## [1.5.1] on March 2nd, 2023
+- [UD-2527](https://dyned.myjetbrains.com/youtrack/issue/UD-2527) Update SOR template with new verify link.
+
+## [1.5.0] on March 2nd, 2023
+- [UD-2421](https://dyned.myjetbrains.com/youtrack/issue/UD-2421) Feature for statement result.
+
 ## [1.4.2] on January 23rd, 2023
 - [UD-2396](https://dyned.myjetbrains.com/youtrack/issue/UD-2396) Summary Report has an Alert when the user wants to open the file.
 

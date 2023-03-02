@@ -5,6 +5,10 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [1.6.13.1] on March 2nd, 2023
+### Hotfix
+- [UD-2540](https://dyned.myjetbrains.com/youtrack/issue/UD-2540) Fixed error of student statement of result that always in progress.
+
 ## [1.6.13] on March 1st, 2023
 - [UD-1095](https://dyned.myjetbrains.com/youtrack/issue/UD-1095) Ability to Disable an Organization and sub-Organizations.
 - [UD-1411](https://dyned.myjetbrains.com/youtrack/issue/UD-1411) Fixed wording for error message when onboarding a Trial Sudent.
