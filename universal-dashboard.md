@@ -5,6 +5,22 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [1.6.13] on March 1st, 2023
+- [UD-1095](https://dyned.myjetbrains.com/youtrack/issue/UD-1095) Ability to Disable an Organization and sub-Organizations.
+- [UD-1411](https://dyned.myjetbrains.com/youtrack/issue/UD-1411) Fixed wording for error message when onboarding a Trial Sudent.
+- [UD-1854](https://dyned.myjetbrains.com/youtrack/issue/UD-1854) Added a message after moving student to another class.
+- [UD-1937](https://dyned.myjetbrains.com/youtrack/issue/UD-1937) Fixed error when sorting by "Current Level".
+- [UD-2079](https://dyned.myjetbrains.com/youtrack/issue/UD-2079) Added the ability to clear the student avatar from UD.
+- [UD-2184](https://dyned.myjetbrains.com/youtrack/issue/UD-2184) Added process indicator on the screen while the students is being transfered.
+- [UD-2383](https://dyned.myjetbrains.com/youtrack/issue/UD-2383) Prevent feature if admin has read only access.
+- [UD-2394](https://dyned.myjetbrains.com/youtrack/issue/UD-2394) Statement of Results - VERSION 1.
+- [UD-2422](https://dyned.myjetbrains.com/youtrack/issue/UD-2422) Generate statement results menu in UD.
+- [UD-2427](https://dyned.myjetbrains.com/youtrack/issue/UD-2427) Fixed wording in Student Summary Report message when generating the report.
+- [UD-2428](https://dyned.myjetbrains.com/youtrack/issue/UD-2428) Fixed error in organization name column of the generated report.
+- [UD-2462](https://dyned.myjetbrains.com/youtrack/issue/UD-2462) Add configuration for SoR feature in org form.
+- [UD-2465](https://dyned.myjetbrains.com/youtrack/issue/UD-2465) One account for a teacher with classes in different suborganizations.
+- [UD-2468](https://dyned.myjetbrains.com/youtrack/issue/UD-2468) Fixed error when choose sort by name.
+
 ## [1.6.12.2] on January 27th, 2023
 - [UD-2461](https://dyned.myjetbrains.com/youtrack/issue/UD-2461) Fixed issue for unable to change the Test token attempts.
 
