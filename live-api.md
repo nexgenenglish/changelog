@@ -4,7 +4,12 @@ title: LIVE API
 
 # LIVE API
 
-## [v.1.1.4.0] on January 16th, 2023
+## [v.1.1.6] on March 13th, 2023
+- [LIVEAPI-42](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-42) Changed rule reschedule session to before 24 H before the session begin
+- [LIVEAPI-43](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-43) Fixed issue for cannot find coach by Date at Staging.
+- [LIVEAPI-45](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-45) Fixed missplaced text for Chinese. 
+
+## [v.1.1.4.] on January 16th, 2023
 - [LIVEAPI-25](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-25) Use only Vp8 Opentok API Key.
 - [LIVEAPI-30](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-30) Create API to update timezone.
 - [LIVEAPI-31](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-31) Add cors headers.
