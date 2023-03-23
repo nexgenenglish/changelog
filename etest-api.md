@@ -5,6 +5,12 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## [v.1.7.3] on March 21st, 2023
+- [ETAPI-141](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-141) Current Level is set to FORCE PT.
+- [ETAPI-142](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-142) Accept the force PT for Admin token that has write access for student acl.
+- [ETAPI-143](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-143) Limit the name character for only 50 character.
+- [ETAPI-144](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-144) neoJr+: Reduce pass score for neoJr+ Pre-A1 Part 1 Certification Test from 70 to 60.
+
 ## [v.1.7.2] on February 21st, 2023
 - [ETAPI-137](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-137) Generated SOR when submit PT.
 - [ETAPI-138](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-138) Added configuration for SoR feature.

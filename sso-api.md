@@ -4,6 +4,9 @@ title: SSO API
 
 # SSO API
 
+## 1.3.12 on March 21st, 2023
+- [SSO-62](https://dyned.myjetbrains.com/youtrack/issue/SSO-62) Accept SSO change/update available in UD students tab from admin token that has write acces for student acl.
+
 ## 1.3.11 on February 14th, 2023
 - [SSO-61](https://dyned.myjetbrains.com/youtrack/issue/SSO-61) Add is_active org status in user profile.
 

@@ -5,6 +5,10 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.11.6 on March 21st, 2023
+- [NSAAPI-552](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-552) Set weekly target points by the class' Weekly Target.
+- [NSAAPI-553](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-553) neoJr+: Reduce pass score for neoJr+ Pre-A1 Part 1 Certification Test from 70 to 60.
+
 # 1.11.5 on February 21st, 2023
 - [NSAAPI-548](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-548) Change number of attempt in message for Cert Test.
 - [NSAAPI-549](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-549) Fixed inconsistencies in study level and Statistics in dashboard.
