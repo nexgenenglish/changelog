@@ -5,6 +5,10 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [1.6.13.2] on March 29th, 2023
+- [UD-2565](https://dyned.myjetbrains.com/youtrack/issue/UD-2565) Fixed return 500 server error.
+- [UD-2566](https://dyned.myjetbrains.com/youtrack/issue/UD-2566) Fixed issue for return the wrong data.
+
 ## [1.6.13.1] on March 2nd, 2023
 ### Hotfix
 - [UD-2540](https://dyned.myjetbrains.com/youtrack/issue/UD-2540) Fixed error of student statement of result that always in progress.
