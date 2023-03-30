@@ -5,6 +5,13 @@ title: neo Live B2C
 # Live B2C
 A website for neo students to study using Live Session.
 
+## [v.1.2.6] on March 28th, 2023
+- [NELB2C-1566](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1566) Session summaries screen show UTC Time B2C.
+- [NELB2C-1570](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1570) Allow students to see their MyRecords (study statistics) from the Hamburger Menu.
+- [NELB2C-1572](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1572) Make the database connection port configurable.
+- [NELB2C-1582](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1582) Error: live.myneo.space says undefined when selecting date.
+- [NELB2C-1583](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1583) Exchange Debit for Booked Session and Credit for Refunded Token.
+
 ## [v.1.2.5] on February 7th, 2023
 - [NELB2C-1569](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1569) User login at incorrect time.
 

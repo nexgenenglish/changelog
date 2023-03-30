@@ -5,6 +5,13 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+## [v1.20.0] on March 29th, 2023
+- [NSA-3430](https://dyned.myjetbrains.com/youtrack/issue/NSA-3430) Disable PAUSE/Exit option on MTs.
+- [NSA-3467](https://dyned.myjetbrains.com/youtrack/issue/NSA-3467) neoJr+: Simplify End-of-Lesson summary screen to reflect both student points earned in lesson step and overall progress in course level.
+- [NSA-3504](https://dyned.myjetbrains.com/youtrack/issue/NSA-3504) neoJr+: New Mastery Test timer overlaps graphics.
+- [NSA-3505](https://dyned.myjetbrains.com/youtrack/issue/NSA-3505) neoJr+: Grammar in new Master Test message.
+- [NSA-3506](https://dyned.myjetbrains.com/youtrack/issue/NSA-3506) New Mastery Test alert message.
+
 ## [v1.19.0] on February 14th, 2023
 - [NSA-3435](https://dyned.myjetbrains.com/youtrack/issue/NSA-3435) neoJr+: Replace the "That's enough for now" audio at end of each lesson step [iOS].
 - [NSA-3440](https://dyned.myjetbrains.com/youtrack/issue/NSA-3440) Fixed typo in home screen.

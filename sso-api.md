@@ -4,6 +4,9 @@ title: SSO API
 
 # SSO API
 
+## 1.3.13 on March 29th, 2023
+- [SSO-63](https://dyned.myjetbrains.com/youtrack/issue/SSO-63) Changed email account to lowercase (u_profile -> email) when new registration is requested.
+
 ## 1.3.12 on March 21st, 2023
 - [SSO-62](https://dyned.myjetbrains.com/youtrack/issue/SSO-62) Accept SSO change/update available in UD students tab from admin token that has write acces for student acl.
 

@@ -7,7 +7,14 @@ title: LIVE API
 ## [v.1.1.6] on March 13th, 2023
 - [LIVEAPI-42](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-42) Changed rule reschedule session to before 24 H before the session begin
 - [LIVEAPI-43](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-43) Fixed issue for cannot find coach by Date at Staging.
+- [LIVEAPI-44](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-44) Can't Reschedule Session on Row Staging : Connection Failure.
 - [LIVEAPI-45](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-45) Fixed missplaced text for Chinese. 
+
+## [v.1.1.5] on February 28th, 2023
+- [LIVEAPI-18](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-18) Fixed issue for can't book Mica's Oct 31's live sessions.
+- [LIVEAPI-29](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-29) Function check different local time & server time.
+- [LIVEAPI-37](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-37) Added Stars (rates) to the session history.
+- [LIVEAPI-38](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-38) Session Summaries Screen show UTC Time.
 
 ## [v.1.1.4.] on January 16th, 2023
 - [LIVEAPI-25](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-25) Use only Vp8 Opentok API Key.

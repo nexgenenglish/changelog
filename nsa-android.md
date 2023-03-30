@@ -5,6 +5,16 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.20.0] on March 29th, 2023
+- [NSA-3430](https://dyned.myjetbrains.com/youtrack/issue/NSA-3430) Disable PAUSE/Exit option on MTs
+- [NSA-3467](https://dyned.myjetbrains.com/youtrack/issue/NSA-3467) neoJr+: Simplify End-of-Lesson summary screen to reflect both student points earned in lesson step and overall progress in course level.
+- [NSA-3504](https://dyned.myjetbrains.com/youtrack/issue/NSA-3504) neoJr+: New Mastery Test timer overlaps graphics.
+- [NSA-3505](https://dyned.myjetbrains.com/youtrack/issue/NSA-3505) neoJr+: Grammar in new Master Test message.
+- [NSA-3506](https://dyned.myjetbrains.com/youtrack/issue/NSA-3506) New Mastery Test alert message.
+- [NSA-3512](https://dyned.myjetbrains.com/youtrack/issue/NSA-3512) Android: when resume a lesson, graphics are not clickable.
+- [NSA-3514](https://dyned.myjetbrains.com/youtrack/issue/NSA-3514) Android&nso: the buttons' postion after finishing a lesson need to adjust.
+- [NSA-3518](https://dyned.myjetbrains.com/youtrack/issue/NSA-3518) Android: part of the content in the hamburger icon are mixed.
+
 ## [v1.19.0] on February 14th, 2023
 - [NSA-3434](https://dyned.myjetbrains.com/youtrack/issue/NSA-3434) neoJr+: Replace the "That's enough for now" audio at end of each lesson step [Android].
 - [NSA-3436](https://dyned.myjetbrains.com/youtrack/issue/NSA-3436) Fixed missed spelling for login alert when leaving field(s) blank.
