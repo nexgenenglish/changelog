@@ -5,6 +5,19 @@ title: neo Live B2C
 # Live B2C
 A website for neo students to study using Live Session.
 
+## [v.1.2.8] on April 10th, 2023
+- [NELB2C-1594](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1594) Removed the pronunciation graph for neoJr plan.
+- [NELB2C-1601](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1601) MyRecords number separator.
+
+## [v.1.2.7] on April 3rd, 2023
+- [NELB2C-1579](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1579) FIxed uncaught Reference error.
+- [NELB2C-1580](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1580) Error: License Expired.
+- [NELB2C-1581](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1581) Fixed error in the console when selecting Study Dashboard.
+- [NELB2C-1592](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1592) Coach Token value is not display on web portal -live.myneo.space.
+- [NELB2C-1593](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1593) Update Level Planet Logo Dev.
+- [NELB2C-1595](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1595) MyRecords Student name.
+- [NELB2C-1596](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1596) Fixed Graphic for study level that is upside down.
+
 ## [v.1.2.6] on March 28th, 2023
 - [NELB2C-1566](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1566) Session summaries screen show UTC Time B2C.
 - [NELB2C-1570](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1570) Allow students to see their MyRecords (study statistics) from the Hamburger Menu.

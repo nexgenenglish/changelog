@@ -5,6 +5,24 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [1.6.14] on April 13th, 2023
+- [UD-2400] (https://dyned.myjetbrains.com/youtrack/issue/UD-2400) Fixed issue for cannot create ept token.
+- [UD-2426](https://dyned.myjetbrains.com/youtrack/issue/UD-2426) Teacher can search and view students who not belong to his class.
+- [UD-2490](https://dyned.myjetbrains.com/youtrack/issue/UD-2490) UD-Allow Admin to see their MyRecords (study statistics) from Student Profile.
+- [UD-2520](https://dyned.myjetbrains.com/youtrack/issue/UD-2520) Fixed issue for cannot change expired date of trial account using organization admin.
+- [UD-2528](https://dyned.myjetbrains.com/youtrack/issue/UD-2528) Fixed issue for Admin user account who cannot force a student to rekate etest or set force PT.
+- [UD-2534](https://dyned.myjetbrains.com/youtrack/issue/UD-2534) Fixed issue for Admin user account who cannot change the Activity State.
+- [UD-2535](https://dyned.myjetbrains.com/youtrack/issue/UD-2535) Forcing the PT on an existing student with a PT level, you can't retrieve the previous PT level.
+- [UD-2549](https://dyned.myjetbrains.com/youtrack/issue/UD-2549) Validate the name tab when the text inputted is more than 50 character.
+- [UD-2567](https://dyned.myjetbrains.com/youtrack/issue/UD-2567) neoJr+: test-takers will have only one attempt on AT.
+- [UD-2576](https://dyned.myjetbrains.com/youtrack/issue/UD-2576) Read only admin should not be able to change weekly target points.
+- [UD-2577](https://dyned.myjetbrains.com/youtrack/issue/UD-2577) Added option of Transfer selected students to another class in neo jr organization.
+- [UD-2583](https://dyned.myjetbrains.com/youtrack/issue/UD-2583) Fixed issue for no error message when the name exceeds the 50 characters allowed.
+-[UD-2585](https://dyned.myjetbrains.com/youtrack/issue/UD-2585) Visibility of entire screen under Organization TAB.
+- [UD-2587](https://dyned.myjetbrains.com/youtrack/issue/UD-2587) Fixed Typo: Password Let it blank.
+- [UD-2600](https://dyned.myjetbrains.com/youtrack/issue/UD-2600) MyRecord is displaying Coaching Sessions.
+- [UD-2612](https://dyned.myjetbrains.com/youtrack/issue/UD-2612) MyRecord number separator.
+
 ## [1.6.13.2] on March 29th, 2023
 - [UD-2565](https://dyned.myjetbrains.com/youtrack/issue/UD-2565) Fixed return 500 server error.
 - [UD-2566](https://dyned.myjetbrains.com/youtrack/issue/UD-2566) Fixed issue for return the wrong data.

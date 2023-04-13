@@ -5,7 +5,12 @@ title: eTest Widget and Cloud
 # eTest Widget and Cloud
 Application for Assessment Tests (Placement Tests or Certification Tests) systems on neo.
 
-# [2.10.12] on March 27th, 2023
+## [2.10.13] on April 13th, 2023
+- [ET-488](https://dyned.myjetbrains.com/youtrack/issue/ET-488) Incorrect message for test takers when the Organization is configure to allow only 1 attempt.
+- [ET-491](https://dyned.myjetbrains.com/youtrack/issue/ET-491) Disable 'NEXT' button in the Assessment Test questions until the student has made a choice.
+- [ET-494](https://dyned.myjetbrains.com/youtrack/issue/ET-494) neoJr+: Remove the Start Over Button from the neoJr+ Assessment Test.
+
+## [2.10.12] on March 27th, 2023
 - [ET-489](https://dyned.myjetbrains.com/youtrack/issue/ET-489) Limit the name character for only 50 character.
 
 ## [2.10.10] on January 23ed, 2023

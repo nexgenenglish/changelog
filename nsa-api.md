@@ -5,6 +5,13 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.11.8 on April 4th, 2023
+- [NSAAPI-555](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-555) Prevent students from doing lessons at the wrong level.
+- [NSAAPI-558](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-558) Total days of the API to check the study data is not exact.
+- [NSAAPI-559](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-559) Please change the data of last study session in Study Records Report from created date to start date.
+- [NSAAPI-562](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-562) Fixed issue for cannot save lesson to mylesson on NSA 1.19 and 1.20.
+- [NSAAPI-563](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-563) The lesson cant be saved to Mylesson -- DE.
+
 # 1.11.7.1 on March 29th, 2023
 - [NSAAPI-557](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-557) Fixed error when searching student's name.
 
