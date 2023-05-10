@@ -5,6 +5,29 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study 
 
+## [v.1.5.0] on May 10th, 2023
+- [nSO-612](https://dyned.myjetbrains.com/youtrack/issue/nSO-612) Sentence Reordering Are You There prompt.
+- [nSO-968](https://dyned.myjetbrains.com/youtrack/issue/nSO-968) Mastery test timer stops when pausing in the app.
+- [nSO-1035](https://dyned.myjetbrains.com/youtrack/issue/nSO-1035) neoJr+: Simplify End-of-Lesson summary screen to reflect both student points earned in lesson step and overall progress in course level.
+- [nSO-1038](https://dyned.myjetbrains.com/youtrack/issue/nSO-1038) Fixed no spaces in Dictations.
+- [nSO-1041](https://dyned.myjetbrains.com/youtrack/issue/nSO-1041) Error: UIVIEW on developer console.
+- [nSO-1044](https://dyned.myjetbrains.com/youtrack/issue/nSO-1044) Read the duration values in comprehension to determine the time before playing teacher response.
+- [nSO-1048](https://dyned.myjetbrains.com/youtrack/issue/nSO-1048) Allow students to see their MyRecords (study statistics) from the Hamburger Menu.
+- [nSO-1052](https://dyned.myjetbrains.com/youtrack/issue/nSO-1052) neoJr+: Wrong sfx in new lesson summary screen.
+- [nSO-1053](https://dyned.myjetbrains.com/youtrack/issue/nSO-1053) MyRecords: Different menu item order v nso.
+- [nSO-1055](https://dyned.myjetbrains.com/youtrack/issue/nSO-1055) neoJr+: L4U1Vocab1 Step3 Uncaught RuntimeError.
+- [nSO-1056](https://dyned.myjetbrains.com/youtrack/issue/nSO-1056) neoJr+: L4U1Vocabulary title typos.
+- [nSO-1057](https://dyned.myjetbrains.com/youtrack/issue/nSO-1057) Summary page : the buttons' postion after finishing a lesson needs to be adjusted.
+- [nSO-1061](https://dyned.myjetbrains.com/youtrack/issue/nSO-1061) neojr: The liquid animation is not filled even though points are increased.
+- [nSO-1063](https://dyned.myjetbrains.com/youtrack/issue/nSO-1063) neoJr+: random +5 animation.
+- [nSO-1065](https://dyned.myjetbrains.com/youtrack/issue/nSO-1065) Disable PAUSE/Exit option on MTs.
+- [nSO-1066](https://dyned.myjetbrains.com/youtrack/issue/nSO-1066) neoJr: When the points equal 150 or more, no star animation appears.
+- [nSO-1076](https://dyned.myjetbrains.com/youtrack/issue/nSO-1076) neoJr+: New Mastery Test timer overlaps graphics.
+- [nSO-1086](https://dyned.myjetbrains.com/youtrack/issue/nSO-1086) Error: Flow lesson or step invalid.
+- [nSO-1088](https://dyned.myjetbrains.com/youtrack/issue/nSO-1088) neoJr+: Lesson Summary Number Separator.
+- [nSO-1090](https://dyned.myjetbrains.com/youtrack/issue/nSO-1090) Uncaught ReferenceError: pauseModal is not defined.
+- [nSO-1101](https://dyned.myjetbrains.com/youtrack/issue/nSO-1101) neoPrep+: Failed Lesson You must review text overlap.
+
 ## [v.1.4.0] on February 20th, 2023
 - [nSO-1013](https://dyned.myjetbrains.com/youtrack/issue/nSO-1013) neoJr+: Replace the "That's enough for now" audio at end of each lesson step.
 - [nSO-1024](https://dyned.myjetbrains.com/youtrack/issue/nSO-1024) Fixed issue stuck on some lessons.
