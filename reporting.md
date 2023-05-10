@@ -4,6 +4,12 @@ title: Reporting UD
 
 # Reporting
 
+## [1.5.5] on May 10th, 2023
+- [UD-2413](https://dyned.myjetbrains.com/youtrack/issue/UD-2413) Level completion Points and Points During report Period are identical in student summary report.
+- [UD-2441](https://dyned.myjetbrains.com/youtrack/issue/UD-2441) Fixed issue for report that shows point although student hasn't study in that period.
+- [UD-2552](https://dyned.myjetbrains.com/youtrack/issue/UD-2552) Discussion Points Earned and Points During Report Period.
+- [UD-2663](https://dyned.myjetbrains.com/youtrack/issue/UD-2663) Fixed issue for cannot create Student Statement of Results.
+
 ## [1.5.2] on March 2nd, 2023
 - [UD-2541](https://dyned.myjetbrains.com/youtrack/issue/UD-2541) Reporting - return instant feedback for SoR.
 

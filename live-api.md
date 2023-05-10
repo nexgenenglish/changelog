@@ -4,6 +4,11 @@ title: LIVE API
 
 # LIVE API
 
+# [v.1.1.7] on May 9th, 2023
+- [LIVEAPI-47](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-47) Changed the backend URL with the new backend.
+- [LIVEAPI-48](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-48) Fixed issue for different record between session history and token history.
+- [LIVEAPI-50](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-50) Fixed different weekly schedule between student and coach.
+
 ## [v.1.1.6] on March 13th, 2023
 - [LIVEAPI-42](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-42) Changed rule reschedule session to before 24 H before the session begin
 - [LIVEAPI-43](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-43) Fixed issue for cannot find coach by Date at Staging.

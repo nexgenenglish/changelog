@@ -5,6 +5,13 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [1.6.14.1] on May 9th, 2023
+- [UD-2642](https://dyned.myjetbrains.com/youtrack/issue/UD-2642) Fixed issue for student who unable to retake the PT.
+- [UD-2656](https://dyned.myjetbrains.com/youtrack/issue/UD-2656) Fixed issue for students who can't take the Assessment Test.
+- [UD-2675](https://dyned.myjetbrains.com/youtrack/issue/UD-2675) Fixed issue for student who can't take the Assessment Test - HS - Saint Agustin Academy - 2.
+- [UD-2676](https://dyned.myjetbrains.com/youtrack/issue/UD-2676) Fixed issue for student who can't take the Assessment Test - HS - Saint Agustin Academy.
+- [UD-2680](https://dyned.myjetbrains.com/youtrack/issue/UD-2680) Unable to take PT.
+
 ## [1.6.14] on April 13th, 2023
 - [UD-2400] (https://dyned.myjetbrains.com/youtrack/issue/UD-2400) Fixed issue for cannot create ept token.
 - [UD-2426](https://dyned.myjetbrains.com/youtrack/issue/UD-2426) Teacher can search and view students who not belong to his class.
