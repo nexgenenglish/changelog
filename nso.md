@@ -26,6 +26,7 @@ Browser based neo Study
 - [nSO-1086](https://dyned.myjetbrains.com/youtrack/issue/nSO-1086) Error: Flow lesson or step invalid.
 - [nSO-1088](https://dyned.myjetbrains.com/youtrack/issue/nSO-1088) neoJr+: Lesson Summary Number Separator.
 - [nSO-1090](https://dyned.myjetbrains.com/youtrack/issue/nSO-1090) Uncaught ReferenceError: pauseModal is not defined.
+- [nSO-1091](https://dyned.myjetbrains.com/youtrack/issue/nSO-1091) UneoJr+: A1:P2 CT is unlocked but it didn't let me take the test.
 - [nSO-1101](https://dyned.myjetbrains.com/youtrack/issue/nSO-1101) neoPrep+: Failed Lesson You must review text overlap.
 
 ## [v.1.4.0] on February 20th, 2023
