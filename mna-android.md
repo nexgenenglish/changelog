@@ -5,6 +5,40 @@ title: myneo App - Android
 # myneo App - Android
 myneo Application for Android
 
+## [v1.8.0] on May 13th, 2023
+- [MNA-379](https://dyned.myjetbrains.com/youtrack/issue/MNA-379) Added notification sound for incoming message.
+- [MNA-394](https://dyned.myjetbrains.com/youtrack/issue/MNA-394) Update translate 'Journey So Far' into Chinese.
+- [MNA-400](https://dyned.myjetbrains.com/youtrack/issue/MNA-400) MNA Live become native screen [Android].
+- [MNA-401](https://dyned.myjetbrains.com/youtrack/issue/MNA-401) Added missing Spanish translation.
+- [MNA-406](https://dyned.myjetbrains.com/youtrack/issue/MNA-406) Fixed issue for prompt for the app permissions.
+- [MNA-422](https://dyned.myjetbrains.com/youtrack/issue/MNA-422) Added text on join button.
+- [MNA-433](https://dyned.myjetbrains.com/youtrack/issue/MNA-433) Allow student to download their own certificates feature (via MNA).
+- [MNA-434](https://dyned.myjetbrains.com/youtrack/issue/MNA-434) Fixed incorrect UTC display.
+- [MNA-435](https://dyned.myjetbrains.com/youtrack/issue/MNA-435) Fixed cropped date field on weekly schedule page.
+- [MNA-436](https://dyned.myjetbrains.com/youtrack/issue/MNA-436) Fixed no minus (-) button on booking time page (recurring book).
+- [MNA-437](https://dyned.myjetbrains.com/youtrack/issue/MNA-437) Fixed collapsed 'Done' button when recurring book.
+- [MNA-438](https://dyned.myjetbrains.com/youtrack/issue/MNA-438) When Recurring book at booking summary page, The Token cost is not accumulative.
+- [MNA-439](https://dyned.myjetbrains.com/youtrack/issue/MNA-439) Fixed incorrect date for upcoming session.
+- [MNA-440](https://dyned.myjetbrains.com/youtrack/issue/MNA-440) Can't click play button: After Count Down timer finished the play button is inactive..
+- [MNA-442](https://dyned.myjetbrains.com/youtrack/issue/MNA-442) Feature : No Reschedule Feature.
+- [MNA-443](https://dyned.myjetbrains.com/youtrack/issue/MNA-443) Fixed error display when showing date box.
+- [MNA-444](https://dyned.myjetbrains.com/youtrack/issue/MNA-444) Fixed the countdown timer that keeps running when play button active.
+- [MNA-448](https://dyned.myjetbrains.com/youtrack/issue/MNA-448) Added reschedule feature.
+- [MNA-452](https://dyned.myjetbrains.com/youtrack/issue/MNA-452) Added missing word in the button.
+- [MNA-453](https://dyned.myjetbrains.com/youtrack/issue/MNA-453) Fixed incorrect Spanish translation.
+- [MNA-454](https://dyned.myjetbrains.com/youtrack/issue/MNA-454) Fixed wordings wfor checking the weekly schedule.
+- [MNA-455](https://dyned.myjetbrains.com/youtrack/issue/MNA-455) Fixed layering text for join live session and coach's information.
+- [MNA-456](https://dyned.myjetbrains.com/youtrack/issue/MNA-456) Change neo universal login to Chinese translation.
+- [MNA-457](https://dyned.myjetbrains.com/youtrack/issue/MNA-457) Fixed issue in Mycertificates.
+- [MNA-459](https://dyned.myjetbrains.com/youtrack/issue/MNA-459) Fixed different UI between iOS and Android.
+- [MNA-462](https://dyned.myjetbrains.com/youtrack/issue/MNA-462) Added some missing translation for Chinese.
+- [MNA-464](https://dyned.myjetbrains.com/youtrack/issue/MNA-464) Fixed inconsistency display on time between iOS and Android.
+- [MNA-466](https://dyned.myjetbrains.com/youtrack/issue/MNA-466) Fixed typo in token screen.
+- [MNA-470](https://dyned.myjetbrains.com/youtrack/issue/MNA-470) Added missing localization for Spanish.
+- [MNA-478](https://dyned.myjetbrains.com/youtrack/issue/MNA-478) Fixed issue for timezone utc when booking live session.
+- [MNA-480](https://dyned.myjetbrains.com/youtrack/issue/MNA-480) Changed some wordings in booking option.
+- [MNA-481](https://dyned.myjetbrains.com/youtrack/issue/MNA-481) Fixed app crash when open in Amazon device.
+
 ## [v.1.7.3] on June 30th, 2022
 - [MNA-393](https://dyned.myjetbrains.com/youtrack/issue/MNA-393) Prevent non-registered users from accessing the Placement Test in MNA.
 - [MNA-390](https://dyned.myjetbrains.com/youtrack/issue/MNA-390) Changed message info when coach turn off the camera while having Live Session.
