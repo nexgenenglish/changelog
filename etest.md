@@ -5,6 +5,9 @@ title: eTest Widget and Cloud
 # eTest Widget and Cloud
 Application for Assessment Tests (Placement Tests or Certification Tests) systems on neo.
 
+## [2.10.15] on May 22nd, 2023
+- [ET-496](https://dyned.myjetbrains.com/youtrack/issue/ET-496) Fixing issue for some quesitons that cannot be played normally on iPhone 12 pro，ios16.3.1 using DE app.
+
 ## [2.10.13] on April 13th, 2023
 - [ET-488](https://dyned.myjetbrains.com/youtrack/issue/ET-488) Incorrect message for test takers when the Organization is configure to allow only 1 attempt.
 - [ET-491](https://dyned.myjetbrains.com/youtrack/issue/ET-491) Disable 'NEXT' button in the Assessment Test questions until the student has made a choice.
