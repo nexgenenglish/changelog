@@ -5,6 +5,11 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.11.9 on May 30th, 2023
+- [NSAAPI-570](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-570) Fixed Typo: CT locked message.
+- [NSAAPI-571](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-571) Changed message after finish the C1Bridge Level.
+- [NSAAPI-572](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-572) Completion Percentage not consistent - Buffalo ISD - TX.
+
 # 1.11.8 on April 4th, 2023
 - [NSAAPI-555](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-555) Prevent students from doing lessons at the wrong level.
 - [NSAAPI-558](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-558) Total days of the API to check the study data is not exact.

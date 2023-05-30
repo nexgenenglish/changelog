@@ -5,6 +5,9 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## [v.1.8.2] on May 30th, 2023
+- [ETAPI-146](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-146) Fixed issue for cannot send email notification after PT.
+
 ## [v.1.7.3] on March 21st, 2023
 - [ETAPI-141](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-141) Current Level is set to FORCE PT.
 - [ETAPI-142](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-142) Accept the force PT for Admin token that has write access for student acl.
