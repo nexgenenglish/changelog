@@ -13,6 +13,7 @@ Service (API) to manage all the Assements Test (Placement test or the Certificat
 - [ETAPI-142](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-142) Accept the force PT for Admin token that has write access for student acl.
 - [ETAPI-143](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-143) Limit the name character for only 50 character.
 - [ETAPI-144](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-144) neoJr+: Reduce pass score for neoJr+ Pre-A1 Part 1 Certification Test from 70 to 60.
+- [ETAPI-147](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-147) Fixed issue for incorrect current level after latest ept result.
 
 ## [v.1.7.2] on February 21st, 2023
 - [ETAPI-137](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-137) Generated SOR when submit PT.
