@@ -4,6 +4,10 @@ title: SSO API
 
 # SSO API
 
+# 1.3.14 on June 12th, 2023
+- [SSO-64](https://dyned.myjetbrains.com/youtrack/issue/SSO-64) Manage Class Configuration Based on Class ACLs.
+- [SSO-66](https://dyned.myjetbrains.com/youtrack/issue/SSO-66) Make the SSO Redis index configurable trough .env.
+
 ## 1.3.13 on March 29th, 2023
 - [SSO-63](https://dyned.myjetbrains.com/youtrack/issue/SSO-63) Changed email account to lowercase (u_profile -> email) when new registration is requested.
 
