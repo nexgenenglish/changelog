@@ -4,6 +4,9 @@ title: SSO API
 
 # SSO API
 
+# 1.3.15 on June 21st, 2023
+- [SSO-67](https://dyned.myjetbrains.com/youtrack/issue/SSO-67) Fixed issue for cannot enter student's profile. 
+
 # 1.3.14 on June 12th, 2023
 - [SSO-64](https://dyned.myjetbrains.com/youtrack/issue/SSO-64) Manage Class Configuration Based on Class ACLs.
 - [SSO-66](https://dyned.myjetbrains.com/youtrack/issue/SSO-66) Make the SSO Redis index configurable trough .env.
