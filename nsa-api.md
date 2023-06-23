@@ -5,6 +5,11 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.11.10 on June 22nd, 2023
+- [NSAAPI-573](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-573) The sorting issue is not correct in the student tab after changing the order for the 2nd time.
+- [NSAAPI-574](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-574) Create access lock/unlock CT based on acl.
+- [NSAAPI-575](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-575) Change MT wait time after 3rd failed attempt from 24 hours to 12 hours.
+
 # 1.11.9 on May 30th, 2023
 - [NSAAPI-570](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-570) Fixed Typo: CT locked message.
 - [NSAAPI-571](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-571) Changed message after finish the C1Bridge Level.

@@ -5,6 +5,10 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+## [1.1.7] on June 22nd, 2023
+- [UD-2609](https://dyned.myjetbrains.com/youtrack/issue/UD-2609) Fixed wrong message for students that do not have access to myneo App.
+- [UD-2770](https://dyned.myjetbrains.com/youtrack/issue/UD-2770) New Contact us Template for nexgen.
+
 ## [1.6.14.1] on May 9th, 2023
 - [UD-2642](https://dyned.myjetbrains.com/youtrack/issue/UD-2642) Fixed issue for student who unable to retake the PT.
 - [UD-2656](https://dyned.myjetbrains.com/youtrack/issue/UD-2656) Fixed issue for students who can't take the Assessment Test.
