@@ -5,6 +5,10 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.11.11 on June 26th, 2023
+- [NSAAPI-579](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-579) Change the unlock_status at the current level only when unlocked CT.
+- [NSAAPI-580](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-580) Fixed issue for expired user that still can login to LIVE and Book A Coach - Production.
+
 # 1.11.10 on June 22nd, 2023
 - [NSAAPI-573](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-573) The sorting issue is not correct in the student tab after changing the order for the 2nd time.
 - [NSAAPI-574](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-574) Create access lock/unlock CT based on acl.
