@@ -5,6 +5,28 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+# [1.6.15] on August 2nd, 2023
+- [UD-2594](https://dyned.myjetbrains.com/youtrack/issue/UD-2594) Fixed issue for cannot copy confirm url and onboard candidate.
+- [UD-2596](https://dyned.myjetbrains.com/youtrack/issue/UD-2596) Fixed incorrect message when trying to import a student with more than 50 characters.
+- [UD-2603](https://dyned.myjetbrains.com/youtrack/issue/UD-2603) Create a warning message to confirm the name of the Organization when doing bulk import new students.
+- [UD-2611](https://dyned.myjetbrains.com/youtrack/issue/UD-2611) Admin user with Read Only Access Privileges.
+- [UD-2632](https://dyned.myjetbrains.com/youtrack/issue/UD-2632) Make the default website as empty when creating a new organization.
+- [UD-2633](https://dyned.myjetbrains.com/youtrack/issue/UD-2633) Removed pronounciation part for neoJR Plan.
+- [UD-2634](https://dyned.myjetbrains.com/youtrack/issue/UD-2634) Read only Access Privileges has the option to edit class and save.
+- [UD-2638](https://dyned.myjetbrains.com/youtrack/issue/UD-2638) My Records (neoD) or MyRecords (nSO and NSA).
+- [UD-2641](https://dyned.myjetbrains.com/youtrack/issue/UD-2641) Fixed issue for different search result between Teacher and Admin user.
+- [UD-2643](https://dyned.myjetbrains.com/youtrack/issue/UD-2643) Fixed issue for unable to generate Grading Report with Teacher Credentials.
+- [UD-2701](https://dyned.myjetbrains.com/youtrack/issue/UD-2701) Create access privileges for class.
+- [UD-2764](https://dyned.myjetbrains.com/youtrack/issue/UD-2764) Fixed incorrect Total Study Time in My Records.
+- [UD-2766](https://dyned.myjetbrains.com/youtrack/issue/UD-2766) Read only admin or teacher still can unlock/lock CT in class.
+- [UD-2773](https://dyned.myjetbrains.com/youtrack/issue/UD-2773) Asking about retaking CT for students who are assigned to study for only 1 level.
+- [UD-2760](https://dyned.myjetbrains.com/youtrack/issue/UD-2760) The option The Cert test is lockable by the Org Admin must be propagated to all organizations.
+- [UD-2813](https://dyned.myjetbrains.com/youtrack/issue/UD-2813) After editing a user from Class 'Read Only' to 'Read & Write' mode, Internal server Error shows up when user attempts to create a new class.
+- [UD-2829](https://dyned.myjetbrains.com/youtrack/issue/UD-2829) Added message when input callback url.
+- [UD-2837](https://dyned.myjetbrains.com/youtrack/issue/UD-2837) Error 401 when trying to add/delete a class if the user only has "Read Only" privileges.
+- [UD-2843](https://dyned.myjetbrains.com/youtrack/issue/UD-2843) Organization Admin at a lower level can assigned classes to teacher at a higher level.
+
+
 ## [1.1.7] on June 22nd, 2023
 - [UD-2609](https://dyned.myjetbrains.com/youtrack/issue/UD-2609) Fixed wrong message for students that do not have access to myneo App.
 - [UD-2770](https://dyned.myjetbrains.com/youtrack/issue/UD-2770) New Contact us Template for nexgen.
