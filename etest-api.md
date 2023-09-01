@@ -5,6 +5,12 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## [v.1.9.5] on August 31st, 2023
+- [ETAPI-150](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-150) UD didn't generate SOR Report (file).
+
+## [v.1.9.0] on August 31st, 2023
+- [ETAPI-148](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-148) Make the etest Redis index configurable trough .env
+
 ## [v.1.8.2] on May 30th, 2023
 - [ETAPI-146](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-146) Fixed issue for cannot send email notification after PT.
 

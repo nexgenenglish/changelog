@@ -5,6 +5,20 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.12.0 on August 30th, 2023
+- [NSAAPI-556](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-556) Making sure the datetime related to study is in sync with the server time.
+- [NSAAPI-583](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-583) Make the points submitted and saved to backend lesson completion bonus only for Guanghua and UCAS plan.
+- [NSAAPI-584](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-584) Make custom my Lesson for Guanhua and UCAS plan.
+- [NSAAPI-586](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-586) Provide the text for End Of lesson.
+- [NSAAPI-587](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-587) Provide test for notification in Home screen when a level is completed for Guanghua.
+- [NSAAPI-589](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-589) Fixed forcing repeat step that also add 100 points.
+- [NSAAPI-595](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-595) Add a new flag that will be used by mobile to hide or show my lesson edit button.
+- [NSAAPI-596](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-596) Get 500 server error when trying to change the student profile picture from NSA app and UD.
+
+
+# 1.11.12 on August 30th, 2023
+- [NSAAPI-598](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-598) STG Stil Save Video Simulation Lessons on MyLessons.
+
 # 1.11.11 on June 26th, 2023
 - [NSAAPI-579](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-579) Change the unlock_status at the current level only when unlocked CT.
 - [NSAAPI-580](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-580) Fixed issue for expired user that still can login to LIVE and Book A Coach - Production.

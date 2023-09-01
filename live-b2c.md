@@ -5,6 +5,11 @@ title: neo Live B2C
 # Live B2C
 A website for neo students to study using Live Session.
 
+## [v.1.2.9] on August 23rd, 2023
+- [NELB2C-1611](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1611) Fixed MyRecords interface.
+- [NELB2C-1638](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1638) Remove the weekly target text 6000 and the Line for Guanghua/Ucas plan.
+- [NELB2C-1645](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1645) Update Tab Title Upcoming session and today session in dashboard tab.
+
 ## [v.1.2.8] on April 10th, 2023
 - [NELB2C-1594](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1594) Removed the pronunciation graph for neoJr plan.
 - [NELB2C-1601](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1601) MyRecords number separator.

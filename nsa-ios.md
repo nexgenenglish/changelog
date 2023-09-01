@@ -5,6 +5,25 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+## [v1.21.0] on August 28th, 2023
+- [NSA-3482](https://dyned.myjetbrains.com/youtrack/issue/NSA-3482) Change the backend URL with the new backend.
+- [NSA-3490](https://dyned.myjetbrains.com/youtrack/issue/NSA-3490) Read the duration values in comprehension to determine the time before playing teacher response.
+- [NSA-3509](https://dyned.myjetbrains.com/youtrack/issue/NSA-3509) Fixed info box that disappear after finishing a lesson.
+- [NSA-3510](https://dyned.myjetbrains.com/youtrack/issue/NSA-3510) Fixed issu for cannot login normally because of the server option.
+- [NSA-3535](https://dyned.myjetbrains.com/youtrack/issue/NSA-3535) Making sure the datetime related to study is in sync with the server time.
+- [NSA-3540](https://dyned.myjetbrains.com/youtrack/issue/NSA-3540) Move the timer to the navigation bar. 
+- [NSA-3549](https://dyned.myjetbrains.com/youtrack/issue/NSA-3549) Make the message in debug mode for tester show comprehension index when played.
+- [NSA-3555](https://dyned.myjetbrains.com/youtrack/issue/NSA-3555) Records are being synced with a different date/time stamp.
+- [NSA-3595](https://dyned.myjetbrains.com/youtrack/issue/NSA-3595) Update the backend for Staging version.
+- [NSA-3617](https://dyned.myjetbrains.com/youtrack/issue/NSA-3617) Fixed inconsistency in displaying the exact lesson points.
+- [NSA-3621](https://dyned.myjetbrains.com/youtrack/issue/NSA-3621) Update the Planet icon for Guanghua and Ucas Plan.
+- [NSA-3623](https://dyned.myjetbrains.com/youtrack/issue/NSA-3623) Updated the text for end of lesson from API response.
+- [NSA-3629](https://dyned.myjetbrains.com/youtrack/issue/NSA-3629) Fixede issue for texts that are too long that leave no margin on the left and right.
+- [NSA-3622](https://dyned.myjetbrains.com/youtrack/issue/NSA-3622) Remove the green box on home screen when the level is complete for GuangHua and Ucas plan.
+- [NSA-3645](https://dyned.myjetbrains.com/youtrack/issue/NSA-3645) Read the backend flag to decide showing edit in my lesson.
+- [NSA-3646](https://dyned.myjetbrains.com/youtrack/issue/NSA-3646) Fixed rocket position that is not in accordance with the points that have been obtained.
+- [NSA-3648](https://dyned.myjetbrains.com/youtrack/issue/NSA-3648) Fixed animation (rocket path or line does not turn green).
+
 ## [v1.20.0] on March 29th, 2023
 - [NSA-3430](https://dyned.myjetbrains.com/youtrack/issue/NSA-3430) Disable PAUSE/Exit option on MTs.
 - [NSA-3467](https://dyned.myjetbrains.com/youtrack/issue/NSA-3467) neoJr+: Simplify End-of-Lesson summary screen to reflect both student points earned in lesson step and overall progress in course level.

@@ -5,6 +5,33 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.21.0] on August 28th, 2023
+- [NSA-3482](https://dyned.myjetbrains.com/youtrack/issue/NSA-3482) Change the backend URL with the new backend.
+- [NSA-3490](https://dyned.myjetbrains.com/youtrack/issue/NSA-3490) Read the duration values in comprehension to determine the time before playing teacher response.
+- [NSA-3509](https://dyned.myjetbrains.com/youtrack/issue/NSA-3509) Fixed info box that disappear after finishing a lesson.
+- [NSA-3510](https://dyned.myjetbrains.com/youtrack/issue/NSA-3510) Fixed issu for cannot login normally because of the server option.
+- [NSA-3526](https://dyned.myjetbrains.com/youtrack/issue/NSA-3526) Fixed issue for question that not showing bottom brace. 
+- [NSA-3535](https://dyned.myjetbrains.com/youtrack/issue/NSA-3535) Making sure the datetime related to study is in sync with the server time.
+- [NSA-3540](https://dyned.myjetbrains.com/youtrack/issue/NSA-3540) Move the timer to the navigation bar. 
+- [NSA-3595](https://dyned.myjetbrains.com/youtrack/issue/NSA-3595) Update the backend for Staging version.
+- [NSA-3598](https://dyned.myjetbrains.com/youtrack/issue/NSA-3598) Fixed the response graphic of L3U3 Game that do not show on Android.
+- [NSA-3608](https://dyned.myjetbrains.com/youtrack/issue/NSA-3608) Fixed issue for border width for text that is different from that of the graphic in neoJr+>A1:P1>L3U3 Game.
+- [NSA-3609](https://dyned.myjetbrains.com/youtrack/issue/NSA-3609) Fixed issue for no spacing in answer options.
+- [NSA-3614](https://dyned.myjetbrains.com/youtrack/issue/NSA-3614) Fixed issue in neo jr+>A1+:P1>L5U1 MT.
+- [NSA-3619](https://dyned.myjetbrains.com/youtrack/issue/NSA-3619) Fixed crashed app.
+- [NSA-3621](https://dyned.myjetbrains.com/youtrack/issue/NSA-3621) Update the Planet icon for Guanghua and Ucas Plan.
+- [NSA-3622](https://dyned.myjetbrains.com/youtrack/issue/NSA-3622) Remove the green box on home screen when the level is complete for GuangHua and Ucas plan.
+- [NSA-3623](https://dyned.myjetbrains.com/youtrack/issue/NSA-3623) Updated the text for end of lesson from API response.
+- [NSA-3624](https://dyned.myjetbrains.com/youtrack/issue/NSA-3624) Fixed issue for no space between some answers.
+- [NSA-3632](https://dyned.myjetbrains.com/youtrack/issue/NSA-3632) Fixed issue for study buttons that not aligned.
+- [NSA-3638](https://dyned.myjetbrains.com/youtrack/issue/NSA-3638) Fixed crashed app after clicking Go and Ok for SR notice.
+- [NSA-3645](https://dyned.myjetbrains.com/youtrack/issue/NSA-3645) Read the backend flag to decide showing edit in my lesson.
+- [NSA-3649](https://dyned.myjetbrains.com/youtrack/issue/NSA-3649) Ucas/Guanghua : The message does not appear immediately When the level is completed.
+- [NSA-3659](https://dyned.myjetbrains.com/youtrack/issue/NSA-3659) Fixed app crashed when taking lesson (063_efsu8_preferences_grammarfocus of A2+). 
+- [NSA-3661](https://dyned.myjetbrains.com/youtrack/issue/NSA-3661) Fixed crashed app while studying.
+- [NSA-3663](https://dyned.myjetbrains.com/youtrack/issue/NSA-3663) Fixed issue for nSA that closes a few seconds after starting the lesson - Huawei device.
+- [NSA-3664](https://dyned.myjetbrains.com/youtrack/issue/NSA-3664) Fixed issue for forced close app after choosing the answer.
+
 ## [v1.20.0] on March 29th, 2023
 - [NSA-3430](https://dyned.myjetbrains.com/youtrack/issue/NSA-3430) Disable PAUSE/Exit option on MTs
 - [NSA-3467](https://dyned.myjetbrains.com/youtrack/issue/NSA-3467) neoJr+: Simplify End-of-Lesson summary screen to reflect both student points earned in lesson step and overall progress in course level.

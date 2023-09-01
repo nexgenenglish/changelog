@@ -5,6 +5,25 @@ title: myneo App - Android
 # myneo App - Android
 myneo Application for Android
 
+## [v1.8.1] on August 31st, 2023
+- [MNA-417](https://dyned.myjetbrains.com/youtrack/issue/MNA-417) Fixed language issue in login screen.
+- [MNA-460](https://dyned.myjetbrains.com/youtrack/issue/MNA-460) Changed all date to Chinese format when selecting Chinese language.
+- [MNA-461](https://dyned.myjetbrains.com/youtrack/issue/MNA-461) Fixed the difference Chinese translation between iOS and Android.
+- [MNA-463](https://dyned.myjetbrains.com/youtrack/issue/MNA-463) Fixed rate coach issue.
+- [MNA-485](https://dyned.myjetbrains.com/youtrack/issue/MNA-485) Fixed Spanish translation.
+- [MNA-487](https://dyned.myjetbrains.com/youtrack/issue/MNA-487) Fixed missing Spanish translation.
+- [MNA-488](https://dyned.myjetbrains.com/youtrack/issue/MNA-488) Fixed incorrect Spanish translation.
+- [MNA-493](https://dyned.myjetbrains.com/youtrack/issue/MNA-493) Fixed error when changing language from Chinese to English.
+- [MNA-495](https://dyned.myjetbrains.com/youtrack/issue/MNA-495) Fixed Chinese translation.
+- [MNA-499](https://dyned.myjetbrains.com/youtrack/issue/MNA-499) Fixed Chinese translation.
+- [MNA-502](https://dyned.myjetbrains.com/youtrack/issue/MNA-502) Fixed issue for rescheduling live session time in 24 hours.
+- [MNA-505](https://dyned.myjetbrains.com/youtrack/issue/MNA-505) Fixed link Play Store in CN.
+- [MNA-513](https://dyned.myjetbrains.com/youtrack/issue/MNA-513) Typo: no access message.
+- [MNA-515](https://dyned.myjetbrains.com/youtrack/issue/MNA-515) Wrong message when there are no certificates to download.
+- [MNA-518](https://dyned.myjetbrains.com/youtrack/issue/MNA-518) When student is in China, set the default server to China for myneo.
+- [MNA-536](https://dyned.myjetbrains.com/youtrack/issue/MNA-536) Make buy token button dissapear for chinese user.
+
+
 ## [v1.8.0] on May 13th, 2023
 - [MNA-379](https://dyned.myjetbrains.com/youtrack/issue/MNA-379) Added notification sound for incoming message.
 - [MNA-394](https://dyned.myjetbrains.com/youtrack/issue/MNA-394) Update translate 'Journey So Far' into Chinese.
@@ -40,9 +59,11 @@ myneo Application for Android
 - [MNA-481](https://dyned.myjetbrains.com/youtrack/issue/MNA-481) Fixed app crash when open in Amazon device.
 
 ## [v.1.7.3] on June 30th, 2022
+- [MNA-370](https://dyned.myjetbrains.com/youtrack/issue/MNA-370) Delete rating notice.
 - [MNA-393](https://dyned.myjetbrains.com/youtrack/issue/MNA-393) Prevent non-registered users from accessing the Placement Test in MNA.
 - [MNA-390](https://dyned.myjetbrains.com/youtrack/issue/MNA-390) Changed message info when coach turn off the camera while having Live Session.
 - [MNA-398](https://dyned.myjetbrains.com/youtrack/issue/MNA-398) Changed the size of share screen display.
+- [MNA-426](https://dyned.myjetbrains.com/youtrack/issue/MNA-426) Staging myneo of android.
 
 ## [v.1.7.2] on February 23rd, 2022
 - [MNA-306](https://dyned.myjetbrains.com/youtrack/issue/MNA-306) Made two improvement for LIVE.

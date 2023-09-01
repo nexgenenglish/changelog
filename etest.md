@@ -5,6 +5,9 @@ title: eTest Widget and Cloud
 # eTest Widget and Cloud
 Application for Assessment Tests (Placement Tests or Certification Tests) systems on neo.
 
+## [2.10.16] on August 31st, 2023
+- [ET-500](https://dyned.myjetbrains.com/youtrack/issue/ET-500) Translate from English to Turkish - Message after taking Assessment Test.
+
 ## [2.10.15] on May 22nd, 2023
 - [ET-496](https://dyned.myjetbrains.com/youtrack/issue/ET-496) Fixing issue for some quesitons that cannot be played normally on iPhone 12 pro，ios16.3.1 using DE app.
 

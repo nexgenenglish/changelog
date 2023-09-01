@@ -5,6 +5,21 @@ title: myneo App - iOS
 # myneo App - iOS
 myneo Application for iOS
 
+## [v1.8.1] on August 31st, 2023
+- [MNA-417](https://dyned.myjetbrains.com/youtrack/issue/MNA-417) Fixed language issue in login screen.
+- [MNA-458](https://dyned.myjetbrains.com/youtrack/issue/MNA-458) Fixed the differences in live main screen for iOS MNA V1.8.0.
+- [MNA-460](https://dyned.myjetbrains.com/youtrack/issue/MNA-460) Changed all date to Chinese format when selecting Chinese language.
+- [MNA-461](https://dyned.myjetbrains.com/youtrack/issue/MNA-461) Fixed the difference Chinese translation between iOS and Android.
+- [MNA-463](https://dyned.myjetbrains.com/youtrack/issue/MNA-463) Fixed rate coach issue.
+- [MNA-485](https://dyned.myjetbrains.com/youtrack/issue/MNA-485) Fixed Spanish translation.
+- [MNA-490](https://dyned.myjetbrains.com/youtrack/issue/MNA-490) Fixed inconsistent message between iOS and Android.
+- [MNA-499](https://dyned.myjetbrains.com/youtrack/issue/MNA-499) Fixed Chinese translation.
+- [MNA-511](https://dyned.myjetbrains.com/youtrack/issue/MNA-511) Fixed Level logo that does not show in app.
+- [MNA-513](https://dyned.myjetbrains.com/youtrack/issue/MNA-513) Typo: no access message.
+- [MNA-536](https://dyned.myjetbrains.com/youtrack/issue/MNA-536) Make buy token button dissapear for chinese user.
+- [MNA-543](https://dyned.myjetbrains.com/youtrack/issue/MNA-543) Text is not formatted correctly.
+- [MNA-552](https://dyned.myjetbrains.com/youtrack/issue/MNA-552) Update the privace policy link for MNA.
+
 ## [v1.8.0] on May 13th, 2023
 - [MNA-379](https://dyned.myjetbrains.com/youtrack/issue/MNA-379) Added notification sound for incoming message.
 - [MNA-394](https://dyned.myjetbrains.com/youtrack/issue/MNA-394) Update translate 'Journey So Far' into Chinese.
@@ -36,7 +51,8 @@ myneo Application for iOS
 - [MNA-390](https://dyned.myjetbrains.com/youtrack/issue/MNA-390) Changed message info when coach turn off the camera while having Live Session.
 
 ## [v.1.7.3] on March 7th, 2022
-- [MNA-365](https://dyned.myjetbrains.com/youtrack/issue/MNA-365) Changed the Pre call test agora layout
+- [MNA-365](https://dyned.myjetbrains.com/youtrack/issue/MNA-365) Changed the Pre call test agora layout.
+- [MNA-370](https://dyned.myjetbrains.com/youtrack/issue/MNA-370) Delete rating notice.
 
 ## [v.1.7.2] on February 23rd, 2022
 - [MNA-306](https://dyned.myjetbrains.com/youtrack/issue/MNA-306) Made two improvement for LIVE.

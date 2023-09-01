@@ -4,6 +4,9 @@ title: SSO API
 
 # SSO API
 
+# JWT v1.1.6 on August 31st, 2023
+- [SSO-69](https://dyned.myjetbrains.com/youtrack/issue/SSO-69) Fixed incorrect error message when the email account is typed with diacritics.
+
 # 1.3.15 on June 21st, 2023
 - [SSO-67](https://dyned.myjetbrains.com/youtrack/issue/SSO-67) Fixed issue for cannot enter student's profile. 
 

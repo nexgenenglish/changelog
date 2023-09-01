@@ -5,6 +5,37 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study 
 
+## [v.1.5.1] on August 30th, 2023
+- [nSO-1045](https://dyned.myjetbrains.com/youtrack/issue/nSO-1045) Fixed issue for sentences in lesson level B1 that have no space between words.
+- [nSO-1049](https://dyned.myjetbrains.com/youtrack/issue/nSO-1049) Make all MT available to test directly in tester mode.
+- [nSO-1054](https://dyned.myjetbrains.com/youtrack/issue/nSO-1054) Fixed issue for points in new Summary Screen that are different from info box.
+- [nSO-1059](https://dyned.myjetbrains.com/youtrack/issue/nSO-1059) Fixed issue for student who cannot complete the lesson.
+- [nSO-1062](https://dyned.myjetbrains.com/youtrack/issue/nSO-1062) Fixed issue for disable recording button.
+- [nSo-1078](https://dyned.myjetbrains.com/youtrack/issue/nSO-1078) Fixed highlight overlaps with the text.
+- [nSO-1089](https://dyned.myjetbrains.com/youtrack/issue/nSO-1089) Fixed issue for double rockets that appear after Calendar game.
+- [nSO-1097](https://dyned.myjetbrains.com/youtrack/issue/nSO-1097) Fixed new ebtn: Are you there speech. Not able to finish lesson.
+-[nSO-1107](https://dyned.myjetbrains.com/youtrack/issue/nSO-1107) Fixed different sized GO button.
+- [nSO-1108](https://dyned.myjetbrains.com/youtrack/issue/nSO-1108) Fixed issue for Review Lesson count that not centered.
+- [nSO-1114](https://dyned.myjetbrains.com/youtrack/issue/nSO-1114) Fixed issue for student who is not able to complete the lesson.
+- [nSO-1115](https://dyned.myjetbrains.com/youtrack/issue/nSO-1115) Fixed issue for wrong word that got erased.
+- [nSO-1119](https://dyned.myjetbrains.com/youtrack/issue/nSO-1119) Fixed issue for microphone that not working.
+- [nSO-1124](https://dyned.myjetbrains.com/youtrack/issue/nSO-1124) Fixed Glitch in C1- Bridge Lesson.
+- [nSO-1125](https://dyned.myjetbrains.com/youtrack/issue/nSO-1125) Fixed issue for stuck when passed last MT.
+- [nSO-1126](https://dyned.myjetbrains.com/youtrack/issue/nSO-1126) Fixed some words that are overlapping.
+- [nSO-1131](https://dyned.myjetbrains.com/youtrack/issue/nSO-1131) Fixed issue for new games timer overlaps graphics.
+- [nSO-1132](https://dyned.myjetbrains.com/youtrack/issue/nSO-1132) Fixed new L1U2MatchingGameColoredObjects game that didn't stop.
+- [nSO-1134](https://dyned.myjetbrains.com/youtrack/issue/nSO-1134) Fixed wrong dataset in L1U8PhonicsGame.
+- [nSO-1136](https://dyned.myjetbrains.com/youtrack/issue/nSO-1136) Prevent users from running nso on mobile devices (Android and iOS).
+- [nSO-1139](https://dyned.myjetbrains.com/youtrack/issue/nSO-1139) Fixed L2U5Game Repeat prompt that does not trigger.
+- [nSO-1140](https://dyned.myjetbrains.com/youtrack/issue/nSO-1140) Fixed issue in L3U4MatchingGame Clock Times skewed clock faces.
+- [nSO-1141](https://dyned.myjetbrains.com/youtrack/issue/nSO-1141) Fixed neoJr+: L3U2MatchingGame that finishes before timer ends.
+- [nSO-1142](https://dyned.myjetbrains.com/youtrack/issue/nSO-1142) Fixed issue in L3U6Vocabulary Transportation Second Sentence that does not play.
+- [nSO-1143](https://dyned.myjetbrains.com/youtrack/issue/nSO-1143) Fixed L3U4MatchingGame Clock Times that finishes before timer ends.
+- [nSO-1152](https://dyned.myjetbrains.com/youtrack/issue/nSO-1152) Fixed missing A1+:P1 start icon on Main Screen.
+- [nSO-1155](https://dyned.myjetbrains.com/youtrack/issue/nSO-1155) Fixed crash when logging in mylesson, Version 1.5.1 · Build Number 1.5.1-85 Dev.
+- [nSO-1159](https://dyned.myjetbrains.com/youtrack/issue/nSO-1159) Fixed button that dissapear after clicking (L6U4MT).
+- [nSO-1165](https://dyned.myjetbrains.com/youtrack/issue/nSO-1165) Fixed no delay between test question for MT L5 and L6.
+
 ## [v.1.5.0] on May 10th, 2023
 - [nSO-612](https://dyned.myjetbrains.com/youtrack/issue/nSO-612) Sentence Reordering Are You There prompt.
 - [nSO-968](https://dyned.myjetbrains.com/youtrack/issue/nSO-968) Mastery test timer stops when pausing in the app.
