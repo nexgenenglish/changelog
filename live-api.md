@@ -4,6 +4,10 @@ title: LIVE API
 
 # LIVE API
 
+# [v.1.1.10-1] on September 12th, 2023
+- [LIVEAPI-61](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-61) Fixed issue for student who cannot join the live session.
+- [LIVEAPI-66](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-66) Create Reset Schedule Function.
+
 # [v.1.1.9] on August 21st, 2023
 - [LIVEAPI-54](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-54) Fixed issue for different coach's schedule between coach and student account.
 - [LIVEAPI-55](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-55) Disable buy token feature. 

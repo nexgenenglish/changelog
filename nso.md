@@ -5,6 +5,15 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study 
 
+## [v.1.5.2] on September 12th, 2023
+- [nSO-1079](https://dyned.myjetbrains.com/youtrack/issue/nSO-1079) Fixed issue in neoJr+: Calendar Game first two rows name not clickable.
+- [nSO-1161](https://dyned.myjetbrains.com/youtrack/issue/nSO-1161) Fixed issue for neoJr+: L6U5MT not getting any points on some templates.
+- [nSO-1162](https://dyned.myjetbrains.com/youtrack/issue/nSO-1162) Fixed issue for getting incorrect point while not answering the questions.
+- [nSO-1169](https://dyned.myjetbrains.com/youtrack/issue/nSO-1169) Fixed bug neo Jr+.
+- [nSO-1170](https://dyned.myjetbrains.com/youtrack/issue/nSO-1170) Fixed issue in Game lesson - App does not allow students to complete the lesson.
+- [nSO-1174](https://dyned.myjetbrains.com/youtrack/issue/nSO-1174) Fixed issue for students who stuck in neoJr+ lesson - Crockett ISD neoJr+.
+- [nSO-1181](https://dyned.myjetbrains.com/youtrack/issue/nSO-1181) Fixed issue for students who cannot finish the Phonics Lesson for neoJr A1 Part 1 - Ararat Bolivia.
+
 ## [v.1.5.1] on August 30th, 2023
 - [nSO-1045](https://dyned.myjetbrains.com/youtrack/issue/nSO-1045) Fixed issue for sentences in lesson level B1 that have no space between words.
 - [nSO-1049](https://dyned.myjetbrains.com/youtrack/issue/nSO-1049) Make all MT available to test directly in tester mode.
