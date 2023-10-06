@@ -5,6 +5,13 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+# [1.6.15.5] on October 3rd, 2023
+- [UD-3035](https://dyned.myjetbrains.com/youtrack/issue/UD-3035) Export List-of-Students for Bulk-Transfer.
+
+# [1.6.15.4] on October 3rd, 2023
+- [UD-2955](https://dyned.myjetbrains.com/youtrack/issue/UD-2955) Make the CT lock/unlock availibility following the new unlock CT rules.
+- [UD-3010](https://dyned.myjetbrains.com/youtrack/issue/UD-3010) Fixed grammatical error in UD message.
+
 # [1.6.15] on August 2nd, 2023
 - [UD-2594](https://dyned.myjetbrains.com/youtrack/issue/UD-2594) Fixed issue for cannot copy confirm url and onboard candidate.
 - [UD-2596](https://dyned.myjetbrains.com/youtrack/issue/UD-2596) Fixed incorrect message when trying to import a student with more than 50 characters.
