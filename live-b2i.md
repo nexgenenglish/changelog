@@ -5,6 +5,9 @@ title: neo Live B2I
 # Live B2I
 A website for DynEd students and coaches to study using Live Session and also for admins and affiliates to manage DynEd Live's environment.
 
+## [v.1.2.1-1] on October 12th, 2023
+- [DELB2I-1386](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1386) Hotfix bug fixing in coach schedule.
+
 ## [v.1.1.26] on May 9th, 2023
 - [DELB2I-1368](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1368) Fixed incorrect timezone (dev and Prod).
 - [DELB2I-1370](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1370) Fixed different weekly schedule between student and coach.

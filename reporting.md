@@ -4,6 +4,9 @@ title: Reporting UD
 
 # Reporting
 
+## [1.5.7] on October 10th, 2023
+- [UD-2844](https://dyned.myjetbrains.com/youtrack/issue/UD-2844) Fixed wrong total weeks studied in student summary report.
+
 ## [1.5.5] on May 10th, 2023
 - [UD-2413](https://dyned.myjetbrains.com/youtrack/issue/UD-2413) Level completion Points and Points During report Period are identical in student summary report.
 - [UD-2441](https://dyned.myjetbrains.com/youtrack/issue/UD-2441) Fixed issue for report that shows point although student hasn't study in that period.
