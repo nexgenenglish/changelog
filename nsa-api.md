@@ -5,6 +5,12 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.12.39 on October 16th, 2023
+- [NSAAPI-569](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-569) The student should not be able to take a CT the second/third time if the "The Cert test is lockable by the Org Admin" feature is ON.
+
+# 1.12.37 on October 16th, 2023
+- [NSAAPI-599](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-599) Add new levels neoJr+.
+
 # 1.12.0 on August 30th, 2023
 - [NSAAPI-556](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-556) Making sure the datetime related to study is in sync with the server time.
 - [NSAAPI-583](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-583) Make the points submitted and saved to backend lesson completion bonus only for Guanghua and UCAS plan.

@@ -5,6 +5,9 @@ title: neo Live B2I
 # Live B2I
 A website for DynEd students and coaches to study using Live Session and also for admins and affiliates to manage DynEd Live's environment.
 
+## [v.1.1.25] on October 16th, 2023
+- [DELB2I-1366](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1366) Make the database connection port configurable.
+
 ## [v.1.2.1-1] on October 12th, 2023
 - [DELB2I-1386](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1386) Hotfix bug fixing in coach schedule.
 

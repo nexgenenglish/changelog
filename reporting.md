@@ -6,6 +6,7 @@ title: Reporting UD
 
 ## [1.5.7] on October 10th, 2023
 - [UD-2844](https://dyned.myjetbrains.com/youtrack/issue/UD-2844) Fixed wrong total weeks studied in student summary report.
+- [UD-3022](https://dyned.myjetbrains.com/youtrack/issue/UD-3022) Fixed issue for the format for SOR that goes wrong after adding logo.
 
 ## [1.5.5] on May 10th, 2023
 - [UD-2413](https://dyned.myjetbrains.com/youtrack/issue/UD-2413) Level completion Points and Points During report Period are identical in student summary report.

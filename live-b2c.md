@@ -5,6 +5,12 @@ title: neo Live B2C
 # Live B2C
 A website for neo students to study using Live Session.
 
+## [v.1.3.1] on October 16th, 2023
+- [NELB2C-1677](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1677) Change the text displayed in My record for UCAS and Guanghua Plan only.
+
+## [v.1.3.0] on October 16th, 2023
+- [NELB2C-1678](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1678) Fixed inconsistency between Live portal and myneo app.
+
 ## [v.1.2.9] on August 23rd, 2023
 - [NELB2C-1611](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1611) Fixed MyRecords interface.
 - [NELB2C-1638](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1638) Remove the weekly target text 6000 and the Line for Guanghua/Ucas plan.
