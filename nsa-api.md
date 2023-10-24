@@ -5,6 +5,12 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.12.82 on October 20th, 2023
+- [NSAAPI-613](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-613) Fixed incorrect total average points (Student Tab).
+
+# 1.12.81 on October 20th, 2023
+- [NSAAPI-612](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-612) Fixed unable "study now" after changed user role.
+
 # 1.12.39 on October 16th, 2023
 - [NSAAPI-569](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-569) The student should not be able to take a CT the second/third time if the "The Cert test is lockable by the Org Admin" feature is ON.
 

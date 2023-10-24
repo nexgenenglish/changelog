@@ -4,6 +4,13 @@ title: LIVE API
 
 # LIVE API
 
+# [v.1.1.11-1] on October 15th, 2023
+- [LIVEAPI-71](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-71) Prevent a student to join a live session multiple times.
+
+# [v.1.1.11] on October 11th, 2023
+- [LIVEAPI-70](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-70) Conversion Schedule Day off in different timezone rules.
+- [LIVEAPI-72](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-72) Make the response 401 unauthrized for any API request, if the token is not valid.
+
 # [v.1.1.10-1] on September 12th, 2023
 - [LIVEAPI-61](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-61) Fixed issue for student who cannot join the live session.
 - [LIVEAPI-66](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-66) Create Reset Schedule Function.
