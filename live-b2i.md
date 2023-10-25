@@ -5,11 +5,17 @@ title: neo Live B2I
 # Live B2I
 A website for DynEd students and coaches to study using Live Session and also for admins and affiliates to manage DynEd Live's environment.
 
-## [v.1.1.25] on October 16th, 2023
-- [DELB2I-1366](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1366) Make the database connection port configurable.
 
-## [v.1.2.1-1] on October 12th, 2023
+## [v.1.2.1-1] on October 11th, 2023
 - [DELB2I-1386](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1386) Hotfix bug fixing in coach schedule.
+
+## [v.1.2.1] on September 17th, 2023
+- [DELB2I-1385](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1385) Update reset all schedule in coach with new API.
+
+## [v.1.2.0] on August 30th, 2023
+- [NELB2C-1656](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1656) Update Agora SDK for coach.
+- [NELB2C-1657](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1657) Update coach schedule with API version.
+- [NELB2C-1658](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1658) Update OpenTok camera.
 
 ## [v.1.1.26] on May 9th, 2023
 - [DELB2I-1368](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1368) Fixed incorrect timezone (dev and Prod).
@@ -17,6 +23,7 @@ A website for DynEd students and coaches to study using Live Session and also fo
 
 ## [v1.1.25] on February 14th, 2023
 - [DELB2I-1365](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1365) Fixed issue for US-based coach supplier that unable to add new coaches.
+- [DELB2I-1366](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1366) Make the database connection port configurable.
 
 ## [v.1.1.24] on December 26th, 2022
 - [DELB2I-1362](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1362) The chat does not work on live.
