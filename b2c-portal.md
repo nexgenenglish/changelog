@@ -4,9 +4,22 @@ title: B2C Portal
 
 # B2C Portal
 
-## [v.1.5.0] on June 6th, 2023
+## [v.1.1.31] on October 18th, 2023
+- [mns-833](https://dyned.myjetbrains.com/youtrack/issue/mns-833) Update 'unlock_status' when reopen CT.
+- [mns-834](https://dyned.myjetbrains.com/youtrack/issue/mns-834) Fixed cl_id that added after generate certificate in the last level of all plan.
+- [mns-835](https://dyned.myjetbrains.com/youtrack/issue/mns-835) Set the email address for contact us in myneo app.
 
+## [v.1.1.30] on September 14th, 2023
+- [mns-829](https://dyned.myjetbrains.com/youtrack/issue/mns-829) Generate certificate sample for interim.
+- [mns-831](https://dyned.myjetbrains.com/youtrack/issue/mns-831) Exception when email is duplicate in bulk import.
+- [mns-837](https://dyned.myjetbrains.com/youtrack/issue/mns-837) Fixed issue for student's name in neo certificate.
+
+## [v.1.1.29] on May 19th, 2023
 - [mns-825](https://dyned.myjetbrains.com/youtrack/issue/mns-825) Fixed issue for reset password that should not take old password as new password.
+
+## [v.1.1.28] on March 27th, 2023
+- Update privacy policy (14 Feb 2023).
+- Add validation fullname max length to 50.
 
 ## [v.1.1.27] on December 26th, 2022
 - [mns-823](https://dyned.myjetbrains.com/youtrack/issue/mns-823) Certificate text and date not aligned.
