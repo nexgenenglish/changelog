@@ -5,6 +5,20 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+# [1.6.15.6] on November 8th, 2023
+- [UD-2830](https://dyned.myjetbrains.com/youtrack/issue/UD-2830) Create info in 'Assigned Classes' dropdown.
+- [UD-2831](https://dyned.myjetbrains.com/youtrack/issue/UD-2831) Fixed admin privilege issue.
+- [UD-2833](https://dyned.myjetbrains.com/youtrack/issue/UD-2833) Fixed Error 401 when adding or deleting users.
+- [UD-2877](https://dyned.myjetbrains.com/youtrack/issue/UD-2877) Make success message appear longer than before.
+- [UD-2884](https://dyned.myjetbrains.com/youtrack/issue/UD-2884) Modify endpoint to prevent using 'dsa' in hard code.
+- [UD-2935](https://dyned.myjetbrains.com/youtrack/issue/UD-2935) Disabled CT token for plan guanghua and ucas.
+- [UD-2948](https://dyned.myjetbrains.com/youtrack/issue/UD-2948) Fixed no student CT data issue.
+- [UD-2988](https://dyned.myjetbrains.com/youtrack/issue/UD-2988) Added new column in Organization page that shows numbers of students within the organization.
+- [UD-2989](https://dyned.myjetbrains.com/youtrack/issue/UD-2989) Log the time consumed for each process when loading the Student tab.
+- [UD-3078](https://dyned.myjetbrains.com/youtrack/issue/UD-3078) Fixed default image for admin/teacher.
+- [UD-3103](https://dyned.myjetbrains.com/youtrack/issue/UD-3103) Fixed grammatical error for alert after add an existing student. 
+- [UD-3137](https://dyned.myjetbrains.com/youtrack/issue/UD-3137) Fixed error when onboard API.
+
 # [1.6.15.5] on October 3rd, 2023
 - [UD-3035](https://dyned.myjetbrains.com/youtrack/issue/UD-3035) Export List-of-Students for Bulk-Transfer.
 

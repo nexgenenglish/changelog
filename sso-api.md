@@ -4,6 +4,9 @@ title: SSO API
 
 # SSO API
 
+# 1.4.7 on November 8th, 2023
+- [SSO-71](https://dyned.myjetbrains.com/youtrack/issue/SSO-71) Fixed issue for keep prompting to change password.
+
 # JWT v1.1.6 on August 31st, 2023
 - [SSO-69](https://dyned.myjetbrains.com/youtrack/issue/SSO-69) Fixed incorrect error message when the email account is typed with diacritics.
 
