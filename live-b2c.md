@@ -5,6 +5,10 @@ title: neo Live B2C
 # Live B2C
 A website for neo students to study using Live Session.
 
+## [v.1.3.2] on October 23rd, 2023
+- [NELB2C-1679](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1679) Fixed issue for student who can join a live session multiple times.
+- [NELB2C-1688](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1688) Create API Get user token for UD.
+
 ## [v.1.3.1] on October 16th, 2023
 - [NELB2C-1677](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1677) Change the text displayed in My record for UCAS and Guanghua Plan only.
 

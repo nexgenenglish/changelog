@@ -5,11 +5,20 @@ title: eTest Widget and Cloud
 # eTest Widget and Cloud
 Application for Assessment Tests (Placement Tests or Certification Tests) systems on neo.
 
+## [2.18.19] on September 28th, 2023
+- [ET-522](https://dyned.myjetbrains.com/youtrack/issue/ET-522) Add the ICP code at the bottom.
+
+## [2.10.17] on August 21st, 2023
+- [ET-506](https://dyned.myjetbrains.com/youtrack/issue/ET-506) Fixed neoJr+: Disable Next button hover in CT.
+
 ## [2.10.16] on August 31st, 2023
 - [ET-500](https://dyned.myjetbrains.com/youtrack/issue/ET-500) Translate from English to Turkish - Message after taking Assessment Test.
 
 ## [2.10.15] on May 22nd, 2023
 - [ET-496](https://dyned.myjetbrains.com/youtrack/issue/ET-496) Fixing issue for some quesitons that cannot be played normally on iPhone 12 pro，ios16.3.1 using DE app.
+
+## [2.10.14] on May 5th, 2023
+- [ET-498](https://dyned.myjetbrains.com/youtrack/issue/ET-498) Fixed error timeout after taking the Assessment Test.
 
 ## [2.10.13] on April 13th, 2023
 - [ET-488](https://dyned.myjetbrains.com/youtrack/issue/ET-488) Incorrect message for test takers when the Organization is configure to allow only 1 attempt.

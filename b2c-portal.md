@@ -5,6 +5,7 @@ title: B2C Portal
 # B2C Portal
 
 ## [v.1.1.31] on October 18th, 2023
+- [mns-832](https://dyned.myjetbrains.com/youtrack/issue/mns-832) Fixed issue for Reset Password.
 - [mns-833](https://dyned.myjetbrains.com/youtrack/issue/mns-833) Update 'unlock_status' when reopen CT.
 - [mns-834](https://dyned.myjetbrains.com/youtrack/issue/mns-834) Fixed cl_id that added after generate certificate in the last level of all plan.
 - [mns-835](https://dyned.myjetbrains.com/youtrack/issue/mns-835) Set the email address for contact us in myneo app.

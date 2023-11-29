@@ -7,6 +7,7 @@ neo Interim is a microsite that provides middleware for neo Ecosystem.
 
 ## [v.1.1.8] on August 21st, 2023
 - [UD-2853](https://dyned.myjetbrains.com/youtrack/issue/UD-2853) - Separate base url.
+- [UD-2862](https://dyned.myjetbrains.com/youtrack/issue/UD-2862) - Interim: add company field when sending notification.
 
 ## [v.1.1.6] on Jan 9th, 2023
 - [UD-2330](https://dyned.myjetbrains.com/youtrack/issue/UD-2330) - Add conditional checking on upload profile picture.
@@ -24,7 +25,8 @@ neo Interim is a microsite that provides middleware for neo Ecosystem.
 - [UD-834](https://dyned.myjetbrains.com/youtrack/issue/UD-834) - Updated add download certificate for student
 - [UD-842](https://dyned.myjetbrains.com/youtrack/issue/UD-842) - Fixed send email using organization config
 - [UD-843](https://dyned.myjetbrains.com/youtrack/issue/UD-843) - Support ASCII code
-- [UD-856](https://dyned.myjetbrains.com/youtrack/issue/UD-856) - Fixed required photo profile using organization config
+- [UD-856](https://dyned.myjetbrains.com/youtrack/issue/UD-856) - Fixed required photo profile using organization config.
+
 ## [v1.1.2] on Sep 8th, 2021
 - Updated handle CT status empty for old students data.
 

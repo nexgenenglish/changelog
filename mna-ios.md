@@ -5,6 +5,9 @@ title: myneo App - iOS
 # myneo App - iOS
 myneo Application for iOS
 
+## [v.1.9.0] on October 23rd, 2023
+- [MNA-566](https://dyned.myjetbrains.com/youtrack/issue/MNA-566) Fixed issue for coach's all the schedule that became unavailable.
+
 ## [v1.8.1] on August 31st, 2023
 - [MNA-417](https://dyned.myjetbrains.com/youtrack/issue/MNA-417) Fixed language issue in login screen.
 - [MNA-458](https://dyned.myjetbrains.com/youtrack/issue/MNA-458) Fixed the differences in live main screen for iOS MNA V1.8.0.

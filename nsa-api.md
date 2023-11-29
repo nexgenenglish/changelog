@@ -5,11 +5,28 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.3.15 on November 15th, 2023
+- [NSAAPI-628](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-628) Add a new object to show the score on the next MT.
+
+# 1.13.12 on October 30th, 2023
+- [NSAAPI-621](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-621) Change the "review" label in step 4 to "speak" only for neoJr+ level A1+ plans: P1 and P2.
+- [NSAAPI-622](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-622) Fixed prevent student account that is expired but student could study the next day.
+
+# 1.13.7 on October 26th, 2023
+- [NSAAPI-617](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-617) Show all study time during the period.
+- [NSAAPI-618](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-618) Update the Remaining Points to the next MT column on Student Summarry Report to 0.
+
+# 1.13.4-1 on November 27th, 2023
+- [NSAAPI-630](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-630) Fixed student's progress is stuck in the same lesson.
+
 # 1.12.82 on October 20th, 2023
 - [NSAAPI-613](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-613) Fixed incorrect total average points (Student Tab).
 
 # 1.12.81 on October 20th, 2023
 - [NSAAPI-612](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-612) Fixed unable "study now" after changed user role.
+
+# 1.12.45 on September 15th, 2023
+- [NSAAPI-602](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-602) Make the Change Level API to support array of students list.
 
 # 1.12.39 on October 16th, 2023
 - [NSAAPI-569](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-569) The student should not be able to take a CT the second/third time if the "The Cert test is lockable by the Org Admin" feature is ON.
