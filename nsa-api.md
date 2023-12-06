@@ -7,6 +7,7 @@ Service (API) to manage neo Study App.
 
 # 1.3.15 on November 15th, 2023
 - [NSAAPI-628](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-628) Add a new object to show the score on the next MT.
+- [NSAAPI-635](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-635) Fixed wrong study path.
 
 # 1.13.12 on October 30th, 2023
 - [NSAAPI-621](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-621) Change the "review" label in step 4 to "speak" only for neoJr+ level A1+ plans: P1 and P2.

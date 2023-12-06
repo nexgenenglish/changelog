@@ -6,6 +6,9 @@ title: LIVE API
 
 # [v.1.1.12] on November 7th, 2023
 - [LIVEAPI-73](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-73) Fixed android issue: coach's time is not avaiable, but on PC it shows normal.
+- [LIVEAPI-74](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-74) Fixed issue for SMS on myneo.
+- [LIVEAPI-76](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-76) Fixed overlapping session schedules.
+- [LIVEAPI-77](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-77) Add migrate token status.
 
 # [v.1.1.11-1] on October 15th, 2023
 - [LIVEAPI-71](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-71) Prevent a student to join a live session multiple times.
