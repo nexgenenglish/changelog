@@ -5,6 +5,9 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.3.15-1 on December 4th, 2023
+- [NSAAPI-623](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-623) Check the repeat buttons of Oct 29 for 2436007530@qq.com.
+
 # 1.3.15 on November 15th, 2023
 - [NSAAPI-628](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-628) Add a new object to show the score on the next MT.
 - [NSAAPI-635](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-635) Fixed wrong study path.

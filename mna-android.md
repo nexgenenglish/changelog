@@ -5,6 +5,10 @@ title: myneo App - Android
 # myneo App - Android
 myneo Application for Android
 
+## [v1.9.1] on November 30th, 2023
+- [MNA-504](https://dyned.myjetbrains.com/youtrack/issue/MNA-504) Change the backend URL with the new backend.
+- [MNA-557](https://dyned.myjetbrains.com/youtrack/issue/MNA-557) DST Zone validation when created booking session [LIVE].
+
 ## [v1.8.1] on August 31st, 2023
 - [MNA-417](https://dyned.myjetbrains.com/youtrack/issue/MNA-417) Fixed language issue in login screen.
 - [MNA-460](https://dyned.myjetbrains.com/youtrack/issue/MNA-460) Changed all date to Chinese format when selecting Chinese language.

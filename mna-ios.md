@@ -5,6 +5,11 @@ title: myneo App - iOS
 # myneo App - iOS
 myneo Application for iOS
 
+## [v.1.9.1] on October 23rd, 2023
+- [MNA-504](https://dyned.myjetbrains.com/youtrack/issue/MNA-504) Change the backend URL with the new backend.
+- [MNA-558](https://dyned.myjetbrains.com/youtrack/issue/MNA-558) DST Zone validation when created booking session [LIVE].
+- [MNA-562](https://dyned.myjetbrains.com/youtrack/issue/MNA-562) Fixed button that unable to active.
+
 ## [v.1.9.0] on October 23rd, 2023
 - [MNA-566](https://dyned.myjetbrains.com/youtrack/issue/MNA-566) Fixed issue for coach's all the schedule that became unavailable.
 
