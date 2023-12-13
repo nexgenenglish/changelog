@@ -4,6 +4,11 @@ title: LIVE API
 
 # LIVE API
 
+# [v.1.1.13] on December 5th, 2023
+- [LIVEAPI-78](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-78) Fixed issue for cannot book coach on iOS and Androd for myneo and PC.
+- [LIVEAPI-79](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-79) Fixed list of coaches that is different for different student accounts.
+- [LIVEAPI-80](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-80) Fixed email live session reminder for each session.
+
 # [v.1.1.12] on November 7th, 2023
 - [LIVEAPI-73](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-73) Fixed android issue: coach's time is not avaiable, but on PC it shows normal.
 - [LIVEAPI-74](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-74) Fixed issue for SMS on myneo.
@@ -16,6 +21,9 @@ title: LIVE API
 # [v.1.1.11] on October 11th, 2023
 - [LIVEAPI-70](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-70) Conversion Schedule Day off in different timezone rules.
 - [LIVEAPI-72](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-72) Make the response 401 unauthrized for any API request, if the token is not valid.
+
+# [v.1.1.10-2] on September 14th, 2023
+- [LIVEAPI-67](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-67) Change End time Schedule from 00:00 to 23:59.
 
 # [v.1.1.10-1] on September 12th, 2023
 - [LIVEAPI-61](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-61) Fixed issue for student who cannot join the live session.
