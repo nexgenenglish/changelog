@@ -5,6 +5,9 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+# [1.6.16.1] on January 5th, 2024
+- [UD-3238](https://dyned.myjetbrains.com/youtrack/issue/UD-3283) Fixed issue for cannot generate PT Report.
+
 # [1.6.16] on January 3rd, 2024
 - [UD-1108](https://dyned.myjetbrains.com/youtrack/issue/UD-1108) Token additional is set to "0" in the student study records report.
 - [UD-2395](https://dyned.myjetbrains.com/youtrack/issue/UD-2395) Billing Report.
