@@ -5,6 +5,26 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+# [1.6.16] on January 3rd, 2024
+- [UD-1108](https://dyned.myjetbrains.com/youtrack/issue/UD-1108) Token additional is set to "0" in the student study records report.
+- [UD-2395](https://dyned.myjetbrains.com/youtrack/issue/UD-2395) Billing Report.
+- [UD-2438](https://dyned.myjetbrains.com/youtrack/issue/UD-2438) Visibility of entire screen inside Class.
+- [UD-2981](https://dyned.myjetbrains.com/youtrack/issue/UD-2981) Change the verification when register a student.
+- [UD-2990](https://dyned.myjetbrains.com/youtrack/issue/UD-2990) Support multiple student change Level selected by check listing the students.
+- [UD-3071](https://dyned.myjetbrains.com/youtrack/issue/UD-3071) Support bulk student change active/inactive and expiry date by uploading excel templates.
+- [UD-3075](https://dyned.myjetbrains.com/youtrack/issue/UD-3075) Fixed error message for student expiration date. 
+- [UD-3105](https://dyned.myjetbrains.com/youtrack/issue/UD-3105) Add messaging when users don't have any CT questions.
+- [UD-3107](https://dyned.myjetbrains.com/youtrack/issue/UD-3107) Add "Lesson" option to Student Data Collection.
+- [UD-3131](https://dyned.myjetbrains.com/youtrack/issue/UD-3131) Upload students cannot be completed via Bulk registration.
+- [UD-3144](https://dyned.myjetbrains.com/youtrack/issue/UD-3144) Error 401 when trying to add an account with an existing email.
+- [UD-3151](https://dyned.myjetbrains.com/youtrack/issue/UD-3151) Unable to reset neo dashboard password via "I forgot my password".
+- [UD-3159](https://dyned.myjetbrains.com/youtrack/issue/UD-3159) Password: minimum length should be consistent.
+- [UD-3172](https://dyned.myjetbrains.com/youtrack/issue/UD-3172) Error message when adding a student.
+- [UD-3186](https://dyned.myjetbrains.com/youtrack/issue/UD-3186) after creating neo account, if student use ept link of the organization where neo account is to do ept and ept result is higher than before, current level will be changed because of the lastest ept result.
+- [UD-3192](https://dyned.myjetbrains.com/youtrack/issue/UD-3192) Choose mutiple students to change students' current level needed in neo dashboard for Guanghua.
+- [UD-3200](https://dyned.myjetbrains.com/youtrack/issue/UD-3200) Fixed issue for cannot change password for teacher.
+- [UD-3233](https://dyned.myjetbrains.com/youtrack/issue/UD-3233) Maximize content space.
+
 # [1.6.15.6] on November 8th, 2023
 - [UD-2830](https://dyned.myjetbrains.com/youtrack/issue/UD-2830) Create info in 'Assigned Classes' dropdown.
 - [UD-2831](https://dyned.myjetbrains.com/youtrack/issue/UD-2831) Fixed admin privilege issue.
