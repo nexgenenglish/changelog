@@ -4,6 +4,13 @@ title: B2C Portal
 
 # B2C Portal
 
+## [v.1.1.32] on January 9th, 2023
+- [mns-839](https://dyned.myjetbrains.com/youtrack/issue/mns-839) Placement Test Tile on MNA 1.9.1 production error 500.
+- [mns-841](https://dyned.myjetbrains.com/youtrack/issue/mns-841) Prevent the same email for 2 roles.
+- [mns-842](https://dyned.myjetbrains.com/youtrack/issue/mns-842) Insert cp_id into b2cp_user_et.
+- [mns-844](https://dyned.myjetbrains.com/youtrack/issue/mns-844) Fixed inactive account after register from student tab.
+
+
 ## [v.1.1.31] on October 18th, 2023
 - [mns-832](https://dyned.myjetbrains.com/youtrack/issue/mns-832) Fixed issue for Reset Password.
 - [mns-833](https://dyned.myjetbrains.com/youtrack/issue/mns-833) Update 'unlock_status' when reopen CT.

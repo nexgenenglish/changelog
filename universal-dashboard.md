@@ -23,6 +23,7 @@ An universal dashboard to manage neo ecosystem.
 - [UD-3151](https://dyned.myjetbrains.com/youtrack/issue/UD-3151) Unable to reset neo dashboard password via "I forgot my password".
 - [UD-3159](https://dyned.myjetbrains.com/youtrack/issue/UD-3159) Password: minimum length should be consistent.
 - [UD-3172](https://dyned.myjetbrains.com/youtrack/issue/UD-3172) Error message when adding a student.
+- [UD-3183](https://dyned.myjetbrains.com/youtrack/issue/UD-3183) Prevent create student via tab test when email already exist on sso.
 - [UD-3186](https://dyned.myjetbrains.com/youtrack/issue/UD-3186) after creating neo account, if student use ept link of the organization where neo account is to do ept and ept result is higher than before, current level will be changed because of the lastest ept result.
 - [UD-3192](https://dyned.myjetbrains.com/youtrack/issue/UD-3192) Choose mutiple students to change students' current level needed in neo dashboard for Guanghua.
 - [UD-3200](https://dyned.myjetbrains.com/youtrack/issue/UD-3200) Fixed issue for cannot change password for teacher.
