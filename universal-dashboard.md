@@ -7,6 +7,9 @@ An universal dashboard to manage neo ecosystem.
 
 # [1.6.16.1] on January 5th, 2024
 - [UD-3238](https://dyned.myjetbrains.com/youtrack/issue/UD-3283) Fixed issue for cannot generate PT Report.
+- [UD-3307](https://dyned.myjetbrains.com/youtrack/issue/UD-3307) Fixed issue for cannot download study records and appointment using link.
+- [UD-3310](https://dyned.myjetbrains.com/youtrack/issue/UD-3310) Student Certificates report can't be generated - Conalep.
+- [UD-3311](https://dyned.myjetbrains.com/youtrack/issue/UD-3311) Student Certificates report can't be generated - Conalep_Zacapu.
 
 # [1.6.16] on January 3rd, 2024
 - [UD-1108](https://dyned.myjetbrains.com/youtrack/issue/UD-1108) Token additional is set to "0" in the student study records report.
