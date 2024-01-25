@@ -5,9 +5,19 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.13.17 on December 12th, 2023
+- [NSAAPI-637](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-637) Testing: Add a "Skip to next MT" button in staging apps.
+
+# 1.13.16-2 on November 29th, 2023
+- [NSAAPI-640](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-640) Student_Class_Study Records Report shows wrong MT numbers.
+- [NSAAPI-641](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-641) Fixed issue in dashboard Last coaching session date is not the latest.
+
 # 1.13.16-0 on December 13th, 2023
 - [NSAAPI-638](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-638) Fixed issue for no records for student after review.
 - [NSAAPI-639](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-639) Fixed review lesson issue. 
+
+# 1.13.16 on November 29th, 2023
+- [NSAAPI-631](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-631) neoJr+: Adjust SR rules for Step 4 lessons in neoJr+ A1+:P1 and A1+:P2.
 
 # 1.3.15-1 on December 4th, 2023
 - [NSAAPI-623](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-623) Check the repeat buttons of Oct 29 for 2436007530@qq.com.
@@ -19,6 +29,9 @@ Service (API) to manage neo Study App.
 # 1.13.12 on October 30th, 2023
 - [NSAAPI-621](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-621) Change the "review" label in step 4 to "speak" only for neoJr+ level A1+ plans: P1 and P2.
 - [NSAAPI-622](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-622) Fixed prevent student account that is expired but student could study the next day.
+
+# 1.13.9 on Desember 12th, 2023
+- [NSAAPI-619](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-619) Add "Lesson" option to Student Data Collection.
 
 # 1.13.7 on October 26th, 2023
 - [NSAAPI-617](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-617) Show all study time during the period.

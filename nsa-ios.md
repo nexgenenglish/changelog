@@ -5,6 +5,21 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+## [v1.22.0] on December 26th, 2023
+- [NSA-3667](https://dyned.myjetbrains.com/youtrack/issue/NSA-3667) neoJr+: Game advances automatically from Main Screen.
+- [NSA-3674](https://dyned.myjetbrains.com/youtrack/issue/NSA-3674) neoJr+: CT Review Lessons background is neo+ (blue).
+- [NSA-3679](https://dyned.myjetbrains.com/youtrack/issue/NSA-3679) Fixed the list appearances of MT test list in tester mode.
+- [NSA-3696](https://dyned.myjetbrains.com/youtrack/issue/NSA-3696) Fixed neoJr+: Typo in Failed download lesson message.
+- [NSA-3697](https://dyned.myjetbrains.com/youtrack/issue/NSA-3697) Fixed failed download lesson.
+- [NSA-3698](https://dyned.myjetbrains.com/youtrack/issue/NSA-3698) Fixed neoJr+: Rocket position on planet at CT level.
+- [NSA-3703](https://dyned.myjetbrains.com/youtrack/issue/NSA-3703) Failed download lesson,Please check your internetconnection and try again later when doing CT-DE.
+- [NSA-3707](https://dyned.myjetbrains.com/youtrack/issue/NSA-3707) DE student report neoStudy app crashed at 038_fibm4e9_functioninginbusiness_episode9masterytest.
+- [NSA-3709](https://dyned.myjetbrains.com/youtrack/issue/NSA-3709) Fixed issue for default language error.
+- [NSA-3764](https://dyned.myjetbrains.com/youtrack/issue/NSA-3764) Testing: Add a "Skip to next MT" button in staging apps.
+- [NSA-3777](https://dyned.myjetbrains.com/youtrack/issue/NSA-3777) Fixed issue for student who passed MT, but could not continue to study.
+- [NSA-3784](https://dyned.myjetbrains.com/youtrack/issue/NSA-3784) neoJr+: Adjust SR rules for Step 4 lessons in neoJr+ A1+:P1 and A1+:P2.
+- [NSA-3799](https://dyned.myjetbrains.com/youtrack/issue/NSA-3799) neoJr+: A1+:P1 Calendar A Week lesson went back to its title page.
+
 ## [v1.21.0] on August 28th, 2023
 - [NSA-3482](https://dyned.myjetbrains.com/youtrack/issue/NSA-3482) Change the backend URL with the new backend.
 - [NSA-3490](https://dyned.myjetbrains.com/youtrack/issue/NSA-3490) Read the duration values in comprehension to determine the time before playing teacher response.

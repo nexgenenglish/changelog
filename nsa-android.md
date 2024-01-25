@@ -5,6 +5,27 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.22.0] on December 26th, 2023
+- [NSA-3657](https://dyned.myjetbrains.com/youtrack/issue/NSA-3657) Error java.lang.illegal State Exception.
+- [NSA-3666](https://dyned.myjetbrains.com/youtrack/issue/NSA-3666) The lesson description in the entry screen lesson is not centered.
+- [NSA-3679](https://dyned.myjetbrains.com/youtrack/issue/NSA-3679) Fixed the list appearances of MT test list in tester mode.
+ -[NSA-3680](https://dyned.myjetbrains.com/youtrack/issue/NSA-3680) Fixed the function of checkAppVersion.
+- [NSA-3681](https://dyned.myjetbrains.com/youtrack/issue/NSA-3681) Handle onBackPressed in CTResultScreenFragment.
+- [NSA-3682](https://dyned.myjetbrains.com/youtrack/issue/NSA-3682) Fixed duplicate MainActivity is running when returning from WebViewActivity.
+- [NSA-3683](https://dyned.myjetbrains.com/youtrack/issue/NSA-3683) Fixed disappearing text when playing teacher response.
+- [NSA-3693](https://dyned.myjetbrains.com/youtrack/issue/NSA-3693) Fixed error: java.lang.IllegalStateException.
+- [NSA-3701](https://dyned.myjetbrains.com/youtrack/issue/NSA-3701) Android: lesson_name and lesson_description is empty when submit Mastery Test lessons.
+- [NSA-3708](https://dyned.myjetbrains.com/youtrack/issue/NSA-3708) Fixed issue when using Turkish language.
+- [NSA-3753](https://dyned.myjetbrains.com/youtrack/issue/NSA-3753) The claim for the record privilege.
+- [NSA-3765](https://dyned.myjetbrains.com/youtrack/issue/NSA-3765) Testing: Add a "Skip to next MT" button in staging apps.
+- [NSA-3773](https://dyned.myjetbrains.com/youtrack/issue/NSA-3773) Huawei app store rejected NSA_v1.21.1.2023.10.18-prod-cn again.
+- [NSA-3777](https://dyned.myjetbrains.com/youtrack/issue/NSA-3777) Fixed issue for student who passed MT, but could not continue to study.
+- [NSA-3782](https://dyned.myjetbrains.com/youtrack/issue/NSA-3782) The api for study records retrieve is not correct.
+- [NSA-3784](https://dyned.myjetbrains.com/youtrack/issue/NSA-3784) neoJr+: Adjust SR rules for Step 4 lessons in neoJr+ A1+:P1 and A1+:P2.
+- [NSA-3789](https://dyned.myjetbrains.com/youtrack/issue/NSA-3789) DataCollection : NSA android sends empty "cert_plan" value on datacollection.
+- [NSA-3800](https://dyned.myjetbrains.com/youtrack/issue/NSA-3800) Fixed issue for the summary screen.
+- [NSA-3792](https://dyned.myjetbrains.com/youtrack/issue/NSA-3792) After downloading Certificate from Android NSA V1.22.0, progress bar is still shown. and do not know where the certificate was downloaded.
+
 ## [v1.21.0] on August 28th, 2023
 - [NSA-3482](https://dyned.myjetbrains.com/youtrack/issue/NSA-3482) Change the backend URL with the new backend.
 - [NSA-3490](https://dyned.myjetbrains.com/youtrack/issue/NSA-3490) Read the duration values in comprehension to determine the time before playing teacher response.
