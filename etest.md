@@ -8,6 +8,9 @@ Application for Assessment Tests (Placement Tests or Certification Tests) system
 ## [2.18.19] on September 28th, 2023
 - [ET-522](https://dyned.myjetbrains.com/youtrack/issue/ET-522) Add the ICP code at the bottom.
 
+## [2.10.22] on January 31st, 2024
+- [ET-526](https://dyned.myjetbrains.com/youtrack/issue/ET-526) Can't Take E-Test after creating an account.
+
 ## [2.10.17] on August 21st, 2023
 - [ET-506](https://dyned.myjetbrains.com/youtrack/issue/ET-506) Fixed neoJr+: Disable Next button hover in CT.
 
