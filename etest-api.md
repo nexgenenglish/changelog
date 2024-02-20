@@ -5,6 +5,9 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## [v.1.10.21-0] on February 13th, 2024
+- [ETAPI-177](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-177) Inconsistency to generate PT and CT tests for the organizations.
+
 ## [v.1.10.15] on August 24th, 2023
 - [ETAPI-163](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-163) Prevent to have double token when already have PT/CT token.
 
