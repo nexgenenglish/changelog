@@ -5,6 +5,22 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study 
 
+## [v.1.6.0] on February 16th, 2024
+- [nSO-1058](https://dyned.myjetbrains.com/youtrack/issue/nSO-1058) Change the backend URL with the new backend.
+- [nSO-1135](https://dyned.myjetbrains.com/youtrack/issue/nSO-1135) neoJr+: L2U8ActionsMatch That's enough for now speech playing.
+- [nSO-1191](https://dyned.myjetbrains.com/youtrack/issue/nSO-1191) neoJr+: A1:P2 Level 4 Unit 4 Calendar Game did not stop at 00:00.
+-[nSO-1192](https://dyned.myjetbrains.com/youtrack/issue/nSO-1192) Fixed issue on staging site login.
+- [nSO-1194](https://dyned.myjetbrains.com/youtrack/issue/nSO-1194) Fixed the error that appears when logging with invalid password.
+- [nSO-1195](https://dyned.myjetbrains.com/youtrack/issue/nSO-1195) Customize Internal Server Error.
+- [nSO-1197](https://dyned.myjetbrains.com/youtrack/issue/nSO-1197) Vocabulary Focus.
+- [nSO-1202](https://dyned.myjetbrains.com/youtrack/issue/nSO-1202) neoPrepPlus: RFSU3VocabularyFocus only one question appears.
+- [nSO-1204](https://dyned.myjetbrains.com/youtrack/issue/nSO-1204) neoJr+: L4U5 Vocab only one dataset plays in Let's Practice.
+- [nSO-1206](https://dyned.myjetbrains.com/youtrack/issue/nSO-1206) neoJr+: L4U7Game ends at 00:03.
+- [nSO-1236](https://dyned.myjetbrains.com/youtrack/issue/nSO-1236) Removed neo Study in Search Engine that direct to Index dev and staging environment.
+- [nSO-1252](https://dyned.myjetbrains.com/youtrack/issue/nSO-1252) neoJr+: Adjust SR rules for Step 4 lessons in neoJr+ A1+:P1 and A1+:P2.
+- [nSo-1284](https://dyned.myjetbrains.com/youtrack/issue/nSO-1284) Redownload JCT when failed to load.
+- [nSO-1296](https://dyned.myjetbrains.com/youtrack/issue/nSO-1296) Fixed 500 - Internal server error when student logging.
+
 ## [v.1.5.2] on September 12th, 2023
 - [nSO-1079](https://dyned.myjetbrains.com/youtrack/issue/nSO-1079) Fixed issue in neoJr+: Calendar Game first two rows name not clickable.
 - [nSO-1161](https://dyned.myjetbrains.com/youtrack/issue/nSO-1161) Fixed issue for neoJr+: L6U5MT not getting any points on some templates.
