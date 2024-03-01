@@ -5,7 +5,13 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## [v.1.11.0] on February 28th, 2024
+- [ETAPI-170](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-170) Allow multiple plan token creation per UIC.
+- [ETAPI-174](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-174) Add plan parameter for API call consumed by UD for Candidates data table.
+- [ETAPI-175](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-175) Add new key object to identify candidate plan in data table.
+
 ## [v.1.10.21-0] on February 13th, 2024
+- [ETAPI-172](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-172) Make the API for checking email in front page.
 - [ETAPI-177](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-177) Inconsistency to generate PT and CT tests for the organizations.
 
 ## [v.1.10.15] on August 24th, 2023

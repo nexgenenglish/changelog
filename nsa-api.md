@@ -5,6 +5,12 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.14.1 on February 28th, 2024
+- [NSAAPI-657](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-657) Single Level : account is not disabled when the account has passed CT.
+
+# 1.14.0 on February 28th, 2024
+- [NSAAPI-649](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-649) Fixed Study Now that not working on nSO STG.
+
 # 1.13.17 on December 12th, 2023
 - [NSAAPI-637](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-637) Testing: Add a "Skip to next MT" button in staging apps.
 
