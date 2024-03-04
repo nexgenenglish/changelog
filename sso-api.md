@@ -4,6 +4,12 @@ title: SSO API
 
 # SSO API
 
+# 1.4.13 on March 3rd, 2024
+- [SSP-77](https://dyned.myjetbrains.com/youtrack/issue/SSO-77) Fixed error in the process of "Change Student Account" that showed processing since yesterday.
+
+# 1.4.11 on March 3rd, 2024
+- [SSO-75](https://dyned.myjetbrains.com/youtrack/issue/SSO-75) Fixed incorrect grammar for error message "email already exists".
+
 # 1.4.7 on November 8th, 2023
 - [SSO-71](https://dyned.myjetbrains.com/youtrack/issue/SSO-71) Fixed issue for keep prompting to change password.
 

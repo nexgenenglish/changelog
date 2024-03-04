@@ -5,6 +5,45 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+# [1.6.17] on March 3rd, 2024
+- [UD-3207](https://dyned.myjetbrains.com/youtrack/issue/UD-3207) Create Plan check box in Create/Edit Organization page.
+- [UD-3208](https://dyned.myjetbrains.com/youtrack/issue/UD-3208) Make the "Certificate Plan" drop down menu when generating PT token based on the organization plan settings and allow to create Multiple plan Token.
+- [UD-3209](https://dyned.myjetbrains.com/youtrack/issue/UD-3209) Add Certificate plan dropdown menu and display the student based on the selected values in the "Students" tab.
+- [UD-3210](https://dyned.myjetbrains.com/youtrack/issue/UD-3207) Add Certificate plan dropdown menu and display the candidate based on the selected values in the "Tests" tab.
+- [UD-3239](https://dyned.myjetbrains.com/youtrack/issue/UD-3239) Add an On/Off menu to lock the certificate issuance in Organization page.
+- [UD-3243](https://dyned.myjetbrains.com/youtrack/issue/UD-3243) Expiration Date (DD/MM/YYYY).
+- [UD-3247](https://dyned.myjetbrains.com/youtrack/issue/UD-3247) Email address exists message grammar error.
+- [UD-3263](https://dyned.myjetbrains.com/youtrack/issue/UD-3263) Improve error message when importing students and the expiration date exceeds the Organization.
+- [UD-3264](https://dyned.myjetbrains.com/youtrack/issue/UD-3264) Change Student Level: grammar error in success message.
+- [UD-3269](https://dyned.myjetbrains.com/youtrack/issue/UD-3269) Bulk change student account: grammar error in success message.
+- [UD-3270](https://dyned.myjetbrains.com/youtrack/issue/UD-3270) Bulk change student account: inconsistent date format in template.
+- [UD-3274](https://dyned.myjetbrains.com/youtrack/issue/UD-3274) Error 401 when trying to create the SOR report.
+- [UD-3279](https://dyned.myjetbrains.com/youtrack/issue/UD-3279) Add a button in UD to reinsert already generated certificate ID.
+- [UD-3294](https://dyned.myjetbrains.com/youtrack/issue/UD-3294) Transfer student to different course.
+- [UD-3295](https://dyned.myjetbrains.com/youtrack/issue/UD-3295) Add drop down menu to determine the registered student plan from Tests tab.
+- [UD-3296](https://dyned.myjetbrains.com/youtrack/issue/UD-3296) Add drop down menu to determine the registered student plan from Students tab.
+- [UD-3297](https://dyned.myjetbrains.com/youtrack/issue/UD-3297) Add drop down menu to determine the registered student plan from bulk import file template.
+- [UD-3308](https://dyned.myjetbrains.com/youtrack/issue/UD-3308) Add a course drop down in Student edit page.
+- [UD-3309](https://dyned.myjetbrains.com/youtrack/issue/UD-3309) Add drop down menu to change the student course from bulk student change level file template.
+- [UD-3316](https://dyned.myjetbrains.com/youtrack/issue/UD-3316) Create a student via bulk import if the student has an expiration date later that the organization expiration.
+- [UD-3317](https://dyned.myjetbrains.com/youtrack/issue/UD-3317) Error 500 when adding a class.
+- [UD-3318](https://dyned.myjetbrains.com/youtrack/issue/UD-3318) Bulk change student account: Expired Date format error.
+- [UD-3324](https://dyned.myjetbrains.com/youtrack/issue/UD-3324) Error when importing student if cert plan is blank.
+- [UD-3330](https://dyned.myjetbrains.com/youtrack/issue/UD-3330) Can't importing bulk change student level.
+- [UD-3338](https://dyned.myjetbrains.com/youtrack/issue/UD-3338) Grammar error.
+- [UD-3340](https://dyned.myjetbrains.com/youtrack/issue/UD-3340) Student Bulk Registration: No error when required email is missing.
+- [UD-3348](https://dyned.myjetbrains.com/youtrack/issue/UD-3348) Courses and Display tab for B2B org.
+- [UD-3350](https://dyned.myjetbrains.com/youtrack/issue/UD-3350) Change student level template: grammar errors in the Instruction section.
+- [UD-3354](https://dyned.myjetbrains.com/youtrack/issue/UD-3354) Remove "blank option" Cert Plan dropdown in the file template.
+- [UD-3364](https://dyned.myjetbrains.com/youtrack/issue/UD-3364) Select certification plan for the class.
+- [UD-3367](https://dyned.myjetbrains.com/youtrack/issue/UD-3367) All certifications are enable in the class.
+- [UD-3371](https://dyned.myjetbrains.com/youtrack/issue/UD-3371) Add Certificate plan dropdown menu and display the student based on the selected values in the "Classes" tab.
+- [UD-3398](https://dyned.myjetbrains.com/youtrack/issue/UD-3398) using Bulk change students account, if setting expired date, the time is 0 of that date, not 23:59:59 of that date.
+- [UD-3402](https://dyned.myjetbrains.com/youtrack/issue/UD-3402) Change all label from "Neo" to "neo”.
+- [UD-3403](https://dyned.myjetbrains.com/youtrack/issue/UD-3403) Change label “Go Home” to “Homepage” in all error page.
+- [UD-3408](https://dyned.myjetbrains.com/youtrack/issue/UD-3408) Use students as default when do search in search page.
+- [UD-3431](https://dyned.myjetbrains.com/youtrack/issue/UD-3431) Bulk registration template "certificate plan" doesn't match by org registered "certificate plan”.
+
 # [1.6.16.1] on January 5th, 2024
 - [UD-3238](https://dyned.myjetbrains.com/youtrack/issue/UD-3283) Fixed issue for cannot generate PT Report.
 - [UD-3307](https://dyned.myjetbrains.com/youtrack/issue/UD-3307) Fixed issue for cannot download study records and appointment using link.

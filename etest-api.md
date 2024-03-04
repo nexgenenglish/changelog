@@ -14,6 +14,12 @@ Service (API) to manage all the Assements Test (Placement test or the Certificat
 - [ETAPI-172](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-172) Make the API for checking email in front page.
 - [ETAPI-177](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-177) Inconsistency to generate PT and CT tests for the organizations.
 
+## [v.1.10.20-1] on January 8th, 2024
+- [ETAPI-171](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-171) Check the lock certificate issuance value in organization settings when automatically issue certificate feature is on. 
+
+## [v.1.10.20] on October 20th, 2023
+- [ETAPI-169](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-169) Error when trying to open the file Cert Test Review List.
+
 ## [v.1.10.15] on August 24th, 2023
 - [ETAPI-163](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-163) Prevent to have double token when already have PT/CT token.
 
