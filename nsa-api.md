@@ -10,6 +10,7 @@ Service (API) to manage neo Study App.
 
 # 1.14.0 on February 28th, 2024
 - [NSAAPI-649](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-649) Fixed Study Now that not working on nSO STG.
+- [NSAAPI-656](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-656) Added certificate_plan keys data.
 
 # 1.13.17 on December 12th, 2023
 - [NSAAPI-637](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-637) Testing: Add a "Skip to next MT" button in staging apps.

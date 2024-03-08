@@ -5,6 +5,9 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+# [1.6.17.1] on March 7th, 2024
+- [UD-3482](https://dyned.myjetbrains.com/youtrack/issue/UD-3482) Fixed Error 500 when adding new student accounts (Instituto Cosme Garcia & Dr. RAMÓN ROSA (Lempira).
+
 # [1.6.17] on March 3rd, 2024
 - [UD-3207](https://dyned.myjetbrains.com/youtrack/issue/UD-3207) Create Plan check box in Create/Edit Organization page.
 - [UD-3208](https://dyned.myjetbrains.com/youtrack/issue/UD-3208) Make the "Certificate Plan" drop down menu when generating PT token based on the organization plan settings and allow to create Multiple plan Token.
@@ -42,6 +45,7 @@ An universal dashboard to manage neo ecosystem.
 - [UD-3402](https://dyned.myjetbrains.com/youtrack/issue/UD-3402) Change all label from "Neo" to "neo”.
 - [UD-3403](https://dyned.myjetbrains.com/youtrack/issue/UD-3403) Change label “Go Home” to “Homepage” in all error page.
 - [UD-3408](https://dyned.myjetbrains.com/youtrack/issue/UD-3408) Use students as default when do search in search page.
+- [UD-3425](https://dyned.myjetbrains.com/youtrack/issue/UD-3425) Change the default billing link.
 - [UD-3431](https://dyned.myjetbrains.com/youtrack/issue/UD-3431) Bulk registration template "certificate plan" doesn't match by org registered "certificate plan”.
 
 # [1.6.16.1] on January 5th, 2024
