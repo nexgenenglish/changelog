@@ -5,10 +5,10 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study 
 
-## [v.1.6.1] on March 14th, 2024
+<!--## [v.1.6.1] on March 14th, 2024
 - [nSO-1073](https://dyned.myjetbrains.com/youtrack/issue/nSO-1073) Making sure the datetime related to study is in sync with the server time.
 - [nSO-1230](https://dyned.myjetbrains.com/youtrack/issue/nSO-1230) nSO seems to be freezing a lot-Reported by Milwaukee PS.
-- [nSO-1239](https://dyned.myjetbrains.com/youtrack/issue/nSO-1239) Testing: Add a "Skip to next MT" button in staging apps.
+- [nSO-1239](https://dyned.myjetbrains.com/youtrack/issue/nSO-1239) Testing: Add a "Skip to next MT" button in staging apps.-->
 
 ## [v.1.6.0] on February 16th, 2024
 - [nSO-1058](https://dyned.myjetbrains.com/youtrack/issue/nSO-1058) Change the backend URL with the new backend.
