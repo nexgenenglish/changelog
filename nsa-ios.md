@@ -5,6 +5,14 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+# [v1.22.1] on March 20th, 2024
+- [NSAA-3796](https://dyned.myjetbrains.com/youtrack/issue/NSA-3796) iOS: neo Jr+>preA1-P1:L1U6>Grammar:problems for distractors.
+- [NSA-3813](https://dyned.myjetbrains.com/youtrack/issue/NSA-3813) Added ICP code to neo Study and myneo for android and iOS.
+- [NSA-3826](https://dyned.myjetbrains.com/youtrack/issue/NSA-3826) iOS: wrong underline for EFS&RFS MT> fill-in passage part.
+- [NSA-3840](https://dyned.myjetbrains.com/youtrack/issue/NSA-3840) neoJr+: L3U4Game times out.
+- [NSA-3841](https://dyned.myjetbrains.com/youtrack/issue/NSA-3841) neoJr+: L3U4Grammar Your time is up speech ends lesson.
+- [NSA-3845](https://dyned.myjetbrains.com/youtrack/issue/NSA-3845) Spaces increase when the answer is clicked EFS&RFS U5 MT(neoP+>A2).
+
 ## [v1.22.0] on December 26th, 2023
 - [NSA-3667](https://dyned.myjetbrains.com/youtrack/issue/NSA-3667) neoJr+: Game advances automatically from Main Screen.
 - [NSA-3674](https://dyned.myjetbrains.com/youtrack/issue/NSA-3674) neoJr+: CT Review Lessons background is neo+ (blue).

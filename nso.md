@@ -5,10 +5,24 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study 
 
-<!--## [v.1.6.1] on March 14th, 2024
+[v.1.6.1] on March 26th, 2024
 - [nSO-1073](https://dyned.myjetbrains.com/youtrack/issue/nSO-1073) Making sure the datetime related to study is in sync with the server time.
+- [nSO-1200](https://dyned.myjetbrains.com/youtrack/issue/nSO-1200) The student can't complete the lesson because the app stops recording.
 - [nSO-1230](https://dyned.myjetbrains.com/youtrack/issue/nSO-1230) nSO seems to be freezing a lot-Reported by Milwaukee PS.
-- [nSO-1239](https://dyned.myjetbrains.com/youtrack/issue/nSO-1239) Testing: Add a "Skip to next MT" button in staging apps.-->
+- [nSO-1239](https://dyned.myjetbrains.com/youtrack/issue/nSO-1239) Testing: Add a "Skip to next MT" button in staging apps.
+- [nSO-1245](https://dyned.myjetbrains.com/youtrack/issue/nSO-1245) Screen freezing and asking "Are you there" or just simply freezing -KinderWorld Vietnam JSC.
+- [nSO-1257](https://dyned.myjetbrains.com/youtrack/issue/nSO-1257) App stops responding and you can't continue the lesson.
+- [nSO-1277](https://dyned.myjetbrains.com/youtrack/issue/nSO-1277) NSO: neo Jr+>preA1-P1:L1U6>Grammar:problems for distractors.
+- [nSO-1279](https://dyned.myjetbrains.com/youtrack/issue/nSO-1279) App stops responding and you can't continue the lesson - EduSol.
+- [nSO-1285](https://dyned.myjetbrains.com/youtrack/issue/nSO-1285) The buttons Resume, Exit or the "X" is not working in the information seccion of the CT..
+- [nSO-1301](https://dyned.myjetbrains.com/youtrack/issue/nSO-1301) 500 - Internal server error.
+- [nSO-1325](https://dyned.myjetbrains.com/youtrack/issue/nSO-1325) The fields flash and do not allow the user to select a word.
+- [nSO-1327](https://dyned.myjetbrains.com/youtrack/issue/nSO-1327) The fields flash and do not allow the user to select a word - Dialog - Is this your book.
+- [nSO-1328](https://dyned.myjetbrains.com/youtrack/issue/nSO-1328) The fields flash and do not allow the user to select a word - Dialog - How are you.
+- [nSO-1331](https://dyned.myjetbrains.com/youtrack/issue/nSO-1331) Fixed the lesson that is automatically repeated many times.
+- [nSO-1332](https://dyned.myjetbrains.com/youtrack/issue/nSO-1332) The fields flash and do not allow the user to select a word - Dialog - How are you?
+- [nSO-1333](https://dyned.myjetbrains.com/youtrack/issue/nSO-1333) Unable to complete the lesson- Carroll County Schools.
+
 
 ## [v.1.6.0] on February 16th, 2024
 - [nSO-1058](https://dyned.myjetbrains.com/youtrack/issue/nSO-1058) Change the backend URL with the new backend.

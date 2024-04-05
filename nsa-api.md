@@ -5,12 +5,35 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.14.4 on March 28th, 2024
+- [NSAAPI-648](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-648) Added additional time and total days.
+- [NSAAPI-653](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-653) Make interactivity points saved to databases capped when the gained points are more than capped required points.
+- [NSAAPI-665](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-665) Fixed account_active of API that does not work.
+
+# 1.14.4 on March 4th, 2024
+- [NSAAPI-662](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-662) CT status A1+ : P1 replaced with A1+ : P2.
+
+# 1.14.3 on March 4th, 2024
+- [NSAAPI-659](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-659) Fixed incorrect point on MT.
+- [NSAAPI-660](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-660) After studying one lesson, there is 0 points to next MT.
+
+# 1.14.2 on March 4th, 2024
+- [NSAAPI-658](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-658) result is null after using this api to check:{{DSA_API_HOST}}/admin/progressmain/13823393319@neo.com. 
+
 # 1.14.1 on February 28th, 2024
 - [NSAAPI-657](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-657) Single Level : account is not disabled when the account has passed CT.
 
 # 1.14.0 on February 28th, 2024
+- [NSAAPI-633](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-633) Added plan parameter for API call consumed by UD for Class / Student data table.
+- [NSAAPI-634](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-634) Added new key object to identify student plan in data table.
+- [NSAAPI-636](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-636) Make the current plan study data only included in calculation for Grading/Related points calculation.
+- [NSAAPI-645](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-645) Change of Cert Plan and level for the same student.
 - [NSAAPI-649](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-649) Fixed Study Now that not working on nSO STG.
+- [NSAAPI-655](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-655) Added plan information in get certificates API.
 - [NSAAPI-656](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-656) Added certificate_plan keys data.
+
+# 1.13.18 on January 5th, 2024
+- [NSAAPI-650](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-650) Disable after PT.
 
 # 1.13.17 on December 12th, 2023
 - [NSAAPI-637](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-637) Testing: Add a "Skip to next MT" button in staging apps.

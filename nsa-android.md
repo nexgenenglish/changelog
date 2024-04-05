@@ -5,6 +5,11 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.22.1] on March 20th, 2024
+- [NSA-3813](https://dyned.myjetbrains.com/youtrack/issue/NSA-3813) Added ICP code to neo Study and myneo for android and iOS.
+- [NSA-3831](https://dyned.myjetbrains.com/youtrack/issue/NSA-3831) Text is not writing in English.
+- [NSA-3852](https://dyned.myjetbrains.com/youtrack/issue/NSA-3852) When doing SR, there is no encourage sentences for NSA_v1.22.1.2024.02.04-prod-cn.
+
 ## [v1.22.0] on December 26th, 2023
 - [NSA-3657](https://dyned.myjetbrains.com/youtrack/issue/NSA-3657) Error java.lang.illegal State Exception.
 - [NSA-3666](https://dyned.myjetbrains.com/youtrack/issue/NSA-3666) The lesson description in the entry screen lesson is not centered.

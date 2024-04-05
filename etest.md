@@ -11,6 +11,9 @@ Application for Assessment Tests (Placement Tests or Certification Tests) system
 ## [2.10.22] on January 31st, 2024
 - [ET-526](https://dyned.myjetbrains.com/youtrack/issue/ET-526) Can't Take E-Test after creating an account.
 
+## [2.10.18] on April 1st, 2024
+- [ET-519](https://dyned.myjetbrains.com/youtrack/issue/ET-519) neoJr+: Next button too close to test answers.
+
 ## [2.10.17] on August 21st, 2023
 - [ET-506](https://dyned.myjetbrains.com/youtrack/issue/ET-506) Fixed neoJr+: Disable Next button hover in CT.
 

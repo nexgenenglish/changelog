@@ -5,6 +5,9 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+# [1.6.17.2] on April 1st, 2024
+- [UD-3499](https://dyned.myjetbrains.com/youtrack/issue/UD-3499) student got the message "Account Disabled! neo+ is not enabled for yourOrganization.Please contactyour plan administrator."
+
 # [1.6.17.1] on March 7th, 2024
 - [UD-3482](https://dyned.myjetbrains.com/youtrack/issue/UD-3482) Fixed Error 500 when adding new student accounts (Instituto Cosme Garcia & Dr. RAMÓN ROSA (Lempira).
 
@@ -58,6 +61,7 @@ An universal dashboard to manage neo ecosystem.
 - [UD-1108](https://dyned.myjetbrains.com/youtrack/issue/UD-1108) Token additional is set to "0" in the student study records report.
 - [UD-2395](https://dyned.myjetbrains.com/youtrack/issue/UD-2395) Billing Report.
 - [UD-2438](https://dyned.myjetbrains.com/youtrack/issue/UD-2438) Visibility of entire screen inside Class.
+- [UD-2921](https://dyned.myjetbrains.com/youtrack/issue/UD-2921) Exceptions after importing students.
 - [UD-2981](https://dyned.myjetbrains.com/youtrack/issue/UD-2981) Change the verification when register a student.
 - [UD-2990](https://dyned.myjetbrains.com/youtrack/issue/UD-2990) Support multiple student change Level selected by check listing the students.
 - [UD-3071](https://dyned.myjetbrains.com/youtrack/issue/UD-3071) Support bulk student change active/inactive and expiry date by uploading excel templates.
