@@ -5,6 +5,10 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.14.5 on April 22nd, 2024
+- [NSAAPI-667](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-667) CT on NSA for Android always loading -guanghua.
+- [NSAAPI-668](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-668) Fixed incorrect total study points.
+
 # 1.14.4 on March 28th, 2024
 - [NSAAPI-648](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-648) Added additional time and total days.
 - [NSAAPI-653](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-653) Make interactivity points saved to databases capped when the gained points are more than capped required points.
