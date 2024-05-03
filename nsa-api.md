@@ -5,6 +5,10 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.14.6 on April 28th, 2024
+- [NSAAPI-458](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-458) neoJr+: Step Completion Bonus points not awarded to lesson steps beyond the end of the Study Path.
+- [NSAAPI-672](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-672) Update account_type values in live_dev, when an account changed from trial to regular.
+
 # 1.14.5 on April 22nd, 2024
 - [NSAAPI-667](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-667) CT on NSA for Android always loading -guanghua.
 - [NSAAPI-668](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-668) Fixed incorrect total study points.

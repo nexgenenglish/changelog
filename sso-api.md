@@ -4,6 +4,9 @@ title: SSO API
 
 # SSO API
 
+# 1.4.14 on April 22nd, 2024
+- [SSO-80](https://dyned.myjetbrains.com/youtrack/issue/SSO-80) DE can change trial account's expired date more than 21 days.
+
 # 1.4.13 on March 3rd, 2024
 - [SSP-77](https://dyned.myjetbrains.com/youtrack/issue/SSO-77) Fixed error in the process of "Change Student Account" that showed processing since yesterday.
 
