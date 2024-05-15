@@ -5,6 +5,9 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+# [1.6.17.3] on May 14th, 2024
+- [UD-3602](https://dyned.myjetbrains.com/youtrack/issue/UD-3602) Fixed issue for cannot generate certificate.
+
 # [1.6.17.2] on April 1st, 2024
 - [UD-3499](https://dyned.myjetbrains.com/youtrack/issue/UD-3499) student got the message "Account Disabled! neo+ is not enabled for yourOrganization.Please contactyour plan administrator."
 
