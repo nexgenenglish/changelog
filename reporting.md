@@ -4,6 +4,9 @@ title: Reporting UD
 
 # Reporting
 
+![neo Reporting Scheduler Prod ROW](https://img.shields.io/endpoint?url=https%3A%2F%2Fhealthchecks.io%2Fb%2F2%2F8d6da4f2-c911-4351-be64-e663b2ea0bd1.shields)
+![neo Reporting Scheduler Prod CN](https://img.shields.io/endpoint?url=https%3A%2F%2Fhealthchecks.io%2Fb%2F2%2F981d4f5c-e0e8-4ea5-af2e-498ac7c8d4c3.shields)
+
 ## [1.5.7] on October 10th, 2023
 - [UD-2801](https://dyned.myjetbrains.com/youtrack/issue/UD-2801) Make the SOR generation files based on SOR code available.
 - [UD-2844](https://dyned.myjetbrains.com/youtrack/issue/UD-2844) Fixed wrong total weeks studied in student summary report.
