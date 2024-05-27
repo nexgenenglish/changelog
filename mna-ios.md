@@ -5,6 +5,15 @@ title: myneo App - iOS
 # myneo App - iOS
 myneo Application for iOS
 
+## [v.1.9.2] on May 15th, 2024
+- [MNA-575](https://dyned.myjetbrains.com/youtrack/issue/MNA-575) Fixed inconsistency schedule between myneo APP and neo Live Portal.
+- [MNA-576](https://dyned.myjetbrains.com/youtrack/issue/MNA-576) Fixed Placement Test screen that show no information about student's PT Level.
+- [MNA-583](https://dyned.myjetbrains.com/youtrack/issue/MNA-583) Fixed typo in English sub-header in Application Language page.
+- [MNA-584](https://dyned.myjetbrains.com/youtrack/issue/MNA-584) Cannot log into nsa app from mna.
+- [MNA-585](https://dyned.myjetbrains.com/youtrack/issue/MNA-585) Reschedule option Inconsistency between live portal and myneo app.
+- [MNA-589](https://dyned.myjetbrains.com/youtrack/issue/MNA-589) Add ICP code to neo Study and myneo for android and iOS.
+- [MNA-594](https://dyned.myjetbrains.com/youtrack/issue/MNA-594) Make myneo app support seamless login.
+
 ## [v.1.9.1] on October 23rd, 2023
 - [MNA-504](https://dyned.myjetbrains.com/youtrack/issue/MNA-504) Change the backend URL with the new backend.
 - [MNA-558](https://dyned.myjetbrains.com/youtrack/issue/MNA-558) DST Zone validation when created booking session [LIVE].

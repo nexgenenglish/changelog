@@ -5,7 +5,25 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study 
 
-[v.1.6.1] on March 26th, 2024
+## [v.1.6.2] on May 15th, 2024
+- [nSO-1265](https://dyned.myjetbrains.com/youtrack/issue/nSO-1265) Fixed issue for disabled button while doing SR.
+- [nSO-1303](https://dyned.myjetbrains.com/youtrack/issue/nSO-1303) Fixed issue for disabled button while doing SR.
+- [nSO-1319](https://dyned.myjetbrains.com/youtrack/issue/nSO-1319) neoJr+: L1U2Game ColoredObjects Your time is up speech keeps playing.
+- [nSO-1321](https://dyned.myjetbrains.com/youtrack/issue/nSO-1321) Make sure reading "is neo jr" value is same as NSA.
+- [nSO-1326](https://dyned.myjetbrains.com/youtrack/issue/nSO-1326) Fixed issue for Program froze-Carroll County Schools.
+- [nSO-1329](https://dyned.myjetbrains.com/youtrack/issue/nSO-1329) Fixed mic and repeat buttons that disabled while the students are studying - Bethlem.
+- [nSO-1344](https://dyned.myjetbrains.com/youtrack/issue/nSO-1344) Change the text at the end of the lesson for the guanghua plan.
+- [nSO-1346](https://dyned.myjetbrains.com/youtrack/issue/nSO-1346) neoJr+: L3U3Game Days Of The Week Game Repeats TimesUp speech upon Resume.
+- [nSO-1347](https://dyned.myjetbrains.com/youtrack/issue/nSO-1347) neoJr+: A1:P1 L3U5Grammar outline disappears.
+- [nSO-1348](https://dyned.myjetbrains.com/youtrack/issue/nSO-1348) Fixed SR issue for Mavir School.
+- [nSO-1349](https://dyned.myjetbrains.com/youtrack/issue/nSO-1349) Hide CT Passed bubble for Guanghua account.
+- [nSO-1350](https://dyned.myjetbrains.com/youtrack/issue/nSO-1350) Fixed Student's account that is freezing - Rural Virtual, WI, USA.
+- [nSO-1352](https://dyned.myjetbrains.com/youtrack/issue/nSO-1352) Fixed mic and repeat buttons that disabled while the students are studying -San Martin de Porres.
+- [nSO-1353](https://dyned.myjetbrains.com/youtrack/issue/nSO-1353) Fixed issue "that page cannot be found" after clicking Support Widget.
+- [nSO-1357](https://dyned.myjetbrains.com/youtrack/issue/nSO-1357) Fixed disabled buttons - San José de Malambo.
+- [nSO-1361](https://dyned.myjetbrains.com/youtrack/issue/nSO-1361) Fixed disabled buttons for HS - Instituto María Auxiliadora Tegucigalpa.
+
+## [v.1.6.1] on March 26th, 2024
 - [nSO-1073](https://dyned.myjetbrains.com/youtrack/issue/nSO-1073) Making sure the datetime related to study is in sync with the server time.
 - [nSO-1200](https://dyned.myjetbrains.com/youtrack/issue/nSO-1200) The student can't complete the lesson because the app stops recording.
 - [nSO-1230](https://dyned.myjetbrains.com/youtrack/issue/nSO-1230) nSO seems to be freezing a lot-Reported by Milwaukee PS.
