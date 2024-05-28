@@ -4,6 +4,14 @@ title: LIVE API
 
 # LIVE API
 
+# [v.1.1.15] on May 7th, 2024
+- [LIVEAPI-71](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-71) Prevent a student to join a live session multiple times.
+- [LIVEAPI-82](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-82) Create opentok streamlist.
+
+# [v.1.1.14] on May 7th, 2024
+- [LIVEAPI-57](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-57) Make list of Countries sorted Alphabetically.
+- [LIVEAPI-65](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-65) Fixed issue for booking session after having a maximum sessions per day.
+
 # [v.1.1.13] on December 5th, 2023
 - [LIVEAPI-78](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-78) Fixed issue for cannot book coach on iOS and Androd for myneo and PC.
 - [LIVEAPI-79](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-79) Fixed list of coaches that is different for different student accounts.

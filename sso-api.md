@@ -4,6 +4,9 @@ title: SSO API
 
 # SSO API
 
+# 1.4.15 on May 12th, 2024
+- [SSO-81](https://dyned.myjetbrains.com/youtrack/issue/SSO-81) Fixed issue for cannot change account type from trial to regular-DE.
+
 # 1.4.14 on April 22nd, 2024
 - [SSO-80](https://dyned.myjetbrains.com/youtrack/issue/SSO-80) DE can change trial account's expired date more than 21 days.
 

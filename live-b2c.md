@@ -5,6 +5,9 @@ title: neo Live B2C
 # Live B2C
 A website for neo students to study using Live Session.
 
+## [v.1.3.3] on May 28th, 2024
+- [NELB2C-1712](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1712) Fixed Reschedule Button that is visible after the session rescheduled.
+
 ## [v.1.3.2] on October 23rd, 2023
 - [NELB2C-1677](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1677) Change the text displayed in My record for UCAS and Guanghua Plan only.
 - [NELB2C-1678](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1678) Inconsistency between Live portal and myneo app.

@@ -9,6 +9,7 @@ neo Study application for Android
 - [NSA-3813](https://dyned.myjetbrains.com/youtrack/issue/NSA-3813) Added ICP code to neo Study and myneo for android and iOS.
 - [NSA-3831](https://dyned.myjetbrains.com/youtrack/issue/NSA-3831) Text is not writing in English.
 - [NSA-3852](https://dyned.myjetbrains.com/youtrack/issue/NSA-3852) When doing SR, there is no encourage sentences for NSA_v1.22.1.2024.02.04-prod-cn.
+- [NSA-3857](https://dyned.myjetbrains.com/youtrack/issue/NSA-3857) Change copyright to 2024.
 
 ## [v1.22.0] on December 26th, 2023
 - [NSA-3657](https://dyned.myjetbrains.com/youtrack/issue/NSA-3657) Error java.lang.illegal State Exception.

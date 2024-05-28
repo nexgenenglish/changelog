@@ -5,9 +5,15 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
-# 1.14.6 on April 28th, 2024
+# 1.14.7 on May 28th, 2024
+- [NSAAPI-674](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-674) Add a course-selection pulldown on the MyRecords screen.
+- [NSAAPI-681](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-681) Fixed issue for innactive account that can still take a test.
+- [NSAAPI-682](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-682) Added some keys to provide Study Information and Live Sessions.
+
+# 1.14.6 on April 30th, 2024
 - [NSAAPI-458](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-458) neoJr+: Step Completion Bonus points not awarded to lesson steps beyond the end of the Study Path.
 - [NSAAPI-672](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-672) Update account_type values in live_dev, when an account changed from trial to regular.
+- [NSAAPI-673](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-673) When start date is later than today, there is no notice for NSA.
 
 # 1.14.5 on April 22nd, 2024
 - [NSAAPI-667](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-667) CT on NSA for Android always loading -guanghua.

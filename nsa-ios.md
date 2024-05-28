@@ -12,6 +12,7 @@ neo Study application for iOS
 - [NSA-3840](https://dyned.myjetbrains.com/youtrack/issue/NSA-3840) neoJr+: L3U4Game times out.
 - [NSA-3841](https://dyned.myjetbrains.com/youtrack/issue/NSA-3841) neoJr+: L3U4Grammar Your time is up speech ends lesson.
 - [NSA-3845](https://dyned.myjetbrains.com/youtrack/issue/NSA-3845) Spaces increase when the answer is clicked EFS&RFS U5 MT(neoP+>A2).
+- [NSA-3857](https://dyned.myjetbrains.com/youtrack/issue/NSA-3857) Change copyright to 2024.
 
 ## [v1.22.0] on December 26th, 2023
 - [NSA-3667](https://dyned.myjetbrains.com/youtrack/issue/NSA-3667) neoJr+: Game advances automatically from Main Screen.
