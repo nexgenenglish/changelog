@@ -5,6 +5,9 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## [v.1.11.3] on June 5th, 2024
+- [ETAPI-179](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-179) Disabled ePT Token.
+
 ## [v.1.11.0] on February 28th, 2024
 - [ETAPI-170](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-170) Allow multiple plan token creation per UIC.
 - [ETAPI-174](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-174) Add plan parameter for API call consumed by UD for Candidates data table.
