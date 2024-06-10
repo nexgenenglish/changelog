@@ -5,6 +5,27 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+# [1.6.18] on June 10th, 2024
+- [UD-3241](https://dyned.myjetbrains.com/youtrack/issue/UD-3241) Period fee shows 0 though Period First and Period Last shows records or there is date for Reactivated At in billing report----impact.
+- [UD-3285](https://dyned.myjetbrains.com/youtrack/issue/UD-3285) "Type" Billing Report missing options in pull down menu.
+- [UD-3312](https://dyned.myjetbrains.com/youtrack/issue/UD-3312) Import List-of-Students for Change-Account takes too long.
+- [UD-3319](https://dyned.myjetbrains.com/youtrack/issue/UD-3319) Unable to close status messages.
+- [UD-3361](https://dyned.myjetbrains.com/youtrack/issue/UD-3361) Refresh the page after completing the Certificates report.
+- [UD-3363](https://dyned.myjetbrains.com/youtrack/issue/UD-3363) Add a course-selection pulldown on the MyRecords screen.
+- [UD-3376](https://dyned.myjetbrains.com/youtrack/issue/UD-3376) Bulk Change Student Level: failed message should be red.
+- [UD-3380](https://dyned.myjetbrains.com/youtrack/issue/UD-3380) Fixed issue for account who can study after take PT although PT is already disabled.
+- [UD-3395](https://dyned.myjetbrains.com/youtrack/issue/UD-3395) Change student level template: Required fields.
+- [UD-3400](https://dyned.myjetbrains.com/youtrack/issue/UD-3400) Student Edit: Date format consistency.
+- [UD-3521](https://dyned.myjetbrains.com/youtrack/issue/UD-3521) Fixed billing report that is not working using Tree option.
+- [UD-3530](https://dyned.myjetbrains.com/youtrack/issue/UD-3530) Can't choose force PT when change course in student tab.
+- [UD-3531](https://dyned.myjetbrains.com/youtrack/issue/UD-3531) Fixed incorrect account's type and expired date for old billing report.
+- [UD-3534](https://dyned.myjetbrains.com/youtrack/issue/UD-3534) Incorrect data under Token used.
+- [UD-3564](https://dyned.myjetbrains.com/youtrack/issue/UD-3564) Fixed issue for no PT result in Student Profile.
+- [UD-3568](https://dyned.myjetbrains.com/youtrack/issue/UD-3568) Combine billing report is not working.
+- [UD-3575](https://dyned.myjetbrains.com/youtrack/issue/UD-3575) UD - not recognizing Actions > Bulk Change student account > import list- El Paso CC, TX.
+- [UD-3658](https://dyned.myjetbrains.com/youtrack/issue/UD-3658) Expiration date is different on the Excel Template.
+- [UD-3661](https://dyned.myjetbrains.com/youtrack/issue/UD-3661) 500 server error when changing course plan for a student.
+
 # [1.6.17.3] on May 14th, 2024
 - [UD-3602](https://dyned.myjetbrains.com/youtrack/issue/UD-3602) Fixed issue for cannot generate certificate.
 
