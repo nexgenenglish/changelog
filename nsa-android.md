@@ -5,6 +5,28 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.24.0] on July 29th, 2024
+
+- [NSA-3955](https://dyned.myjetbrains.com/youtrack/issue/NSA-3955) neoJr.+: Review through MyLessons (Android)
+- [NSA-4011](https://dyned.myjetbrains.com/youtrack/issue/NSA-4011) Teacher Preview Mode - lessons
+- [NSA-4022](https://dyned.myjetbrains.com/youtrack/issue/NSA-4022) Lesson stuck , student can't to study
+- [NSA-3998](https://dyned.myjetbrains.com/youtrack/issue/NSA-3998) MyLessons: 3956.8a Lesson Info
+- [NSA-4007](https://dyned.myjetbrains.com/youtrack/issue/NSA-4007) MyLessons: 3956.10 Wrong MyLessons screen
+
+## [v1.23.0] on June 25th, 2024
+- [NSA-3978](https://dyned.myjetbrains.com/youtrack/issue/NSA-3978) when locking phone's screen and a reminder for exiting in NSA appear, click resume, courseware still go on for NSA_v1.23.0.2024.06.19-prod-cn
+- [NSA-3896](https://dyned.myjetbrains.com/youtrack/issue/NSA-3896) List all certifcates earned by students and group them by plan in My Certificates
+- [NSA-3907](https://dyned.myjetbrains.com/youtrack/issue/NSA-3907) could you add a reminder when student click exit in NSA?
+- [NSA-3913](https://dyned.myjetbrains.com/youtrack/issue/NSA-3913) The student report there is no audio played
+- [NSA-3973](https://dyned.myjetbrains.com/youtrack/issue/NSA-3973) Crash NSA android v1.23.0.2024.06.06 when click Try Now button.
+- [NSA-3905](https://dyned.myjetbrains.com/youtrack/issue/NSA-3905) Text is not visible on a Motorola G60s device
+- [NSA-3849](https://dyned.myjetbrains.com/youtrack/issue/NSA-3849) Support full background color theme for presentation/comprehension items in a lesson
+- [NSA-3934](https://dyned.myjetbrains.com/youtrack/issue/NSA-3934) com.nexgen.nsa.fragment.LessonFragment$PauseDialog$3.onClick
+- [NSA-3969](https://dyned.myjetbrains.com/youtrack/issue/NSA-3969) lesson is repeating over and over-A1-027_feu7_vocabulary_occupations2
+- [NSA-3982](https://dyned.myjetbrains.com/youtrack/issue/NSA-3982) huawei app store reject NSA_v1.23.0.2024.06.21-prod-cn
+- [NSA-3945](https://dyned.myjetbrains.com/youtrack/issue/NSA-3945) Change neo logo to nexgen neo logo on App Stores and NSO
+- [NSA-3931](https://dyned.myjetbrains.com/youtrack/issue/NSA-3931) Your app exceeds the Android vitals emerging bad behavior threshold
+
 ## [v1.22.1] on March 20th, 2024
 - [NSA-3813](https://dyned.myjetbrains.com/youtrack/issue/NSA-3813) Added ICP code to neo Study and myneo for android and iOS.
 - [NSA-3831](https://dyned.myjetbrains.com/youtrack/issue/NSA-3831) Text is not writing in English.

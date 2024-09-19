@@ -5,6 +5,19 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+## [v1.24.0] on July 29th, 2024
+- [NSA-3956](https://dyned.myjetbrains.com/youtrack/issue/NSA-3956) neoJr.+: Review through MyLessons (iOS)
+- [NSA-4001](https://dyned.myjetbrains.com/youtrack/issue/NSA-4001) MyLesson: 3956.3 Game is not being saved
+- [NSA-3998](https://dyned.myjetbrains.com/youtrack/issue/NSA-3998) MyLessons: 3956.8a Lesson Info
+- [NSA-4007](https://dyned.myjetbrains.com/youtrack/issue/NSA-4007) MyLessons: 3956.10 Wrong MyLessons screen
+
+## [v1.23.0] on June 25th, 2024
+- [NSA-3895](https://dyned.myjetbrains.com/youtrack/issue/NSA-3985) List all certifcates earned by students and group them by plan in My Certificates
+- [NSA-3908](https://dyned.myjetbrains.com/youtrack/issue/NSA-3908) could you add a reminder when student click exit in NSA?
+- [NSA-3850](https://dyned.myjetbrains.com/youtrack/issue/NSA-3850) Support full background color theme for presentation/comprehension items in a lesson
+- [NSA-3912](https://dyned.myjetbrains.com/youtrack/issue/NSA-3912) Can students spend more than 30 minutes studying just one lesson?
+- [NSA-3945](https://dyned.myjetbrains.com/youtrack/issue/NSA-3945) Change neo logo to nexgen neo logo on App Stores and NSO
+
 # [v1.22.1] on March 20th, 2024
 - [NSAA-3796](https://dyned.myjetbrains.com/youtrack/issue/NSA-3796) iOS: neo Jr+>preA1-P1:L1U6>Grammar:problems for distractors.
 - [NSA-3813](https://dyned.myjetbrains.com/youtrack/issue/NSA-3813) Added ICP code to neo Study and myneo for android and iOS.
