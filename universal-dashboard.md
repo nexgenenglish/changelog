@@ -7,34 +7,34 @@ An universal dashboard to manage neo ecosystem.
 
 # [1.6.19] on September 19th, 2024
 
-- [UD-3926]((https://dyned.myjetbrains.com/youtrack/issue/UD-3926) Server error to update certificate -MONICA ALCANTARA PAZ
-- [UD-3770]((https://dyned.myjetbrains.com/youtrack/issue/UD-3770) CAn't generate certificate ID when the status is passed
-- [UD-3733]((https://dyned.myjetbrains.com/youtrack/issue/UD-3733) when using create a new student in students Tab and setting expired date, the typed expired date does not work
-- [UD-3722]((https://dyned.myjetbrains.com/youtrack/issue/UD-3722) using bulk import new students, dashboard can't recoginze start date typed in template--impact
-- [UD-3712]((https://dyned.myjetbrains.com/youtrack/issue/UD-3712) Remove references to DynEd Scores in neojr+ test reporting and documentation
-- [UD-3352]((https://dyned.myjetbrains.com/youtrack/issue/UD-3352) New Certification Plan popups: need consistent label and names
-- [UD-3815]((https://dyned.myjetbrains.com/youtrack/issue/UD-3815) Setting Study "Target Points/Week" for Orgs with more than one course
-- [UD-3663]((https://dyned.myjetbrains.com/youtrack/issue/UD-3663) Improve error message when adding a student with no email address
-- [UD-3684]((https://dyned.myjetbrains.com/youtrack/issue/UD-3684) Student summary report disappears after it has been generated
-- [UD-3774]((https://dyned.myjetbrains.com/youtrack/issue/UD-3774) Add certificate plan column in Student Study Records report
-- [UD-3784]((https://dyned.myjetbrains.com/youtrack/issue/UD-3784) Request to correct language in UD
-- [UD-3806]((https://dyned.myjetbrains.com/youtrack/issue/UD-3806) Make the selected plan visible based on the available_on values
-- [UD-3807]((https://dyned.myjetbrains.com/youtrack/issue/UD-3807) Problem: allocate student to class
-- [UD-3817]((https://dyned.myjetbrains.com/youtrack/issue/UD-3817) Re: Neo Universal Dashboard sorting issue
-- [UD-3832]((https://dyned.myjetbrains.com/youtrack/issue/UD-3832) Setting Study "Target Points/Week" affects plan not Class
-- [UD-3866]((https://dyned.myjetbrains.com/youtrack/issue/UD-3866) neoJr+: new Grading Set PointsHour default value
-- [UD-3535]((https://dyned.myjetbrains.com/youtrack/issue/UD-3535) There is no status to show Expired organizations
-- [UD-3851]((https://dyned.myjetbrains.com/youtrack/issue/UD-3851) 401 Sorry, you are not authorized to access this page.
-- [UD-3850]((https://dyned.myjetbrains.com/youtrack/issue/UD-3850) Error 404 with some reports in the reports tab option in the neoD
-- [UD-3842]((https://dyned.myjetbrains.com/youtrack/issue/UD-3842) 500 error when loading a class
-- [UD-3386]((https://dyned.myjetbrains.com/youtrack/issue/UD-3386) 419: Sorry, your session has expired. Please refresh and try again.
-- [UD-3124]((https://dyned.myjetbrains.com/youtrack/issue/UD-3124) Make the timezone settings for newly created organzation follow the local computer timezone
-- [UD-3687]((https://dyned.myjetbrains.com/youtrack/issue/UD-3687) neoJr.+: Review through MyLessons (UD)
-- [UD-3656]((https://dyned.myjetbrains.com/youtrack/issue/UD-3656) Unable to generate Study Records Reports "cURL error 28"- EduTech
-- [UD-3714]((https://dyned.myjetbrains.com/youtrack/issue/UD-3714) cannot generate the template List-of-Student for change-account
-- [UD-3697]((https://dyned.myjetbrains.com/youtrack/issue/UD-3697)The format of SSO profile related to date is not correct
-- [UD-3696]((https://dyned.myjetbrains.com/youtrack/issue/UD-3696) The direct-register does not work correct
-- [UD-3740]((https://dyned.myjetbrains.com/youtrack/issue/UD-3740) Bulk change student account export problem
+- [UD-3926](https://dyned.myjetbrains.com/youtrack/issue/UD-3926) Server error to update certificate -MONICA ALCANTARA PAZ
+- [UD-3770](https://dyned.myjetbrains.com/youtrack/issue/UD-3770) CAn't generate certificate ID when the status is passed
+- [UD-3733](https://dyned.myjetbrains.com/youtrack/issue/UD-3733) when using create a new student in students Tab and setting expired date, the typed expired date does not work
+- [UD-3722](https://dyned.myjetbrains.com/youtrack/issue/UD-3722) using bulk import new students, dashboard can't recoginze start date typed in template--impact
+- [UD-3712](https://dyned.myjetbrains.com/youtrack/issue/UD-3712) Remove references to DynEd Scores in neojr+ test reporting and documentation
+- [UD-3352](https://dyned.myjetbrains.com/youtrack/issue/UD-3352) New Certification Plan popups: need consistent label and names
+- [UD-3815](https://dyned.myjetbrains.com/youtrack/issue/UD-3815) Setting Study "Target Points/Week" for Orgs with more than one course
+- [UD-3663](https://dyned.myjetbrains.com/youtrack/issue/UD-3663) Improve error message when adding a student with no email address
+- [UD-3684](https://dyned.myjetbrains.com/youtrack/issue/UD-3684) Student summary report disappears after it has been generated
+- [UD-3774](https://dyned.myjetbrains.com/youtrack/issue/UD-3774) Add certificate plan column in Student Study Records report
+- [UD-3784](https://dyned.myjetbrains.com/youtrack/issue/UD-3784) Request to correct language in UD
+- [UD-3806](https://dyned.myjetbrains.com/youtrack/issue/UD-3806) Make the selected plan visible based on the available_on values
+- [UD-3807](https://dyned.myjetbrains.com/youtrack/issue/UD-3807) Problem: allocate student to class
+- [UD-3817](https://dyned.myjetbrains.com/youtrack/issue/UD-3817) Re: Neo Universal Dashboard sorting issue
+- [UD-3832](https://dyned.myjetbrains.com/youtrack/issue/UD-3832) Setting Study "Target Points/Week" affects plan not Class
+- [UD-3866](https://dyned.myjetbrains.com/youtrack/issue/UD-3866) neoJr+: new Grading Set PointsHour default value
+- [UD-3535](https://dyned.myjetbrains.com/youtrack/issue/UD-3535) There is no status to show Expired organizations
+- [UD-3851](https://dyned.myjetbrains.com/youtrack/issue/UD-3851) 401 Sorry, you are not authorized to access this page.
+- [UD-3850](https://dyned.myjetbrains.com/youtrack/issue/UD-3850) Error 404 with some reports in the reports tab option in the neoD
+- [UD-3842](https://dyned.myjetbrains.com/youtrack/issue/UD-3842) 500 error when loading a class
+- [UD-3386](https://dyned.myjetbrains.com/youtrack/issue/UD-3386) 419: Sorry, your session has expired. Please refresh and try again.
+- [UD-3124](https://dyned.myjetbrains.com/youtrack/issue/UD-3124) Make the timezone settings for newly created organzation follow the local computer timezone
+- [UD-3687](https://dyned.myjetbrains.com/youtrack/issue/UD-3687) neoJr.+: Review through MyLessons (UD)
+- [UD-3656](https://dyned.myjetbrains.com/youtrack/issue/UD-3656) Unable to generate Study Records Reports "cURL error 28"- EduTech
+- [UD-3714](https://dyned.myjetbrains.com/youtrack/issue/UD-3714) cannot generate the template List-of-Student for change-account
+- [UD-3697](https://dyned.myjetbrains.com/youtrack/issue/UD-3697)The format of SSO profile related to date is not correct
+- [UD-3696](https://dyned.myjetbrains.com/youtrack/issue/UD-3696) The direct-register does not work correct
+- [UD-3740](https://dyned.myjetbrains.com/youtrack/issue/UD-3740) Bulk change student account export problem
 
 # [1.6.18] on June 10th, 2024
 - [UD-3241](https://dyned.myjetbrains.com/youtrack/issue/UD-3241) Period fee shows 0 though Period First and Period Last shows records or there is date for Reactivated At in billing report----impact.
