@@ -5,6 +5,14 @@ title: myneo App - Android
 # myneo App - Android
 myneo Application for Android
 
+## [v1.9.2] on May 15th, 2024
+- [MNA-607](https://dyned.myjetbrains.com/youtrack/issue/MNA-607) Change neo logo to nexgen neo logo on App Stores and NSO
+- [MNA-588](https://dyned.myjetbrains.com/youtrack/issue/MNA-588) Could you add ICP code to neo Study and myneo for android and iOS?
+- [MNA-586](https://dyned.myjetbrains.com/youtrack/issue/MNA-586) MNA_1.9.1.2023.10.09 and neo Study 1.22.0.2023.11.24 were rejected by Huawei app store
+- [MNA-578](https://dyned.myjetbrains.com/youtrack/issue/MNA-578) Media language: Spanish
+- [MNA-577](https://dyned.myjetbrains.com/youtrack/issue/MNA-577) Missing Spanish Localizations for days of the week
+- [MNA-595](https://dyned.myjetbrains.com/youtrack/issue/MNA-595) Make myneo app support seamless login
+
 ## [v1.9.1] on November 30th, 2023
 - [MNA-504](https://dyned.myjetbrains.com/youtrack/issue/MNA-504) Change the backend URL with the new backend.
 - [MNA-557](https://dyned.myjetbrains.com/youtrack/issue/MNA-557) DST Zone validation when created booking session [LIVE].
