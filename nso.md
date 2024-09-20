@@ -5,6 +5,31 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study 
 
+## [v.1.7.0] on July 31st, 2024
+- [nSO-1373](https://dyned.myjetbrains.com/youtrack/issue/nSO-1373) neoJr.+: Review through MyLessons(nso).
+- [nSO-1382](https://dyned.myjetbrains.com/youtrack/issue/nSO-1382) The microphone is deactivated.
+- [nSO-1389](https://dyned.myjetbrains.com/youtrack/issue/nSO-1389) MyLessons: 3956.8a Lesson Info.
+- [nSO-1399](https://dyned.myjetbrains.com/youtrack/issue/nSO-1399) Fixed inconsistency between nSO and nSA (heart button).
+- [nSO-1400](https://dyned.myjetbrains.com/youtrack/issue/nSO-1400) The lesson starts without showing the information about the lesson and step.
+- [nSO-1402](https://dyned.myjetbrains.com/youtrack/issue/nSO-1402) MyLessons: No MyLessons label on the Main Screen.
+- [nSO-1403](https://dyned.myjetbrains.com/youtrack/issue/nSO-1403) MyLessons: Adjust to fit screen height.
+- [nSO-1405](https://dyned.myjetbrains.com/youtrack/issue/nSO-1405) Error: Incorrect use of =<label for=FORM_ELEMENT>.
+- [nSo-1407](https://dyned.myjetbrains.com/youtrack/issue/nSO-1407) No Heart anim.
+- [nSO-1410](https://dyned.myjetbrains.com/youtrack/issue/nSO-1410) Every lesson is Song -> What's your name? Step 1.
+
+## [v.1.6.4] on August 4th, 2024
+- [nSO-1385](https://dyned.myjetbrains.com/youtrack/issue/nSO-1385) Sentence This chef is tasting a soup is not being recognize.
+
+## [v.1.6.3] on May 21st, 2024
+- [nSO-1317](https://dyned.myjetbrains.com/youtrack/issue/nSO-1317) List all certifcates earned by students and group them by plan in My Certificates.
+- [nSO-1318](https://dyned.myjetbrains.com/youtrack/issue/nSO-1318) Unable to replace the word with a different one.
+- [nSO-1345](https://dyned.myjetbrains.com/youtrack/issue/nSO-1345) neoJr+: L3U3Game Days Of The Week Game no popup anim.
+- [nSO-1358](https://dyned.myjetbrains.com/youtrack/issue/nSO-1358) Some questions are repeating two times before you select the answer.
+- [nSO-1359](https://dyned.myjetbrains.com/youtrack/issue/nSO-1359) neoJr+: L4U8Grammar missing target pic.
+- [nSO-1367](https://dyned.myjetbrains.com/youtrack/issue/nSO-1367) Change neo logo to nexgen neo logo on App Stores and NSO.
+- [nSO-1368](https://dyned.myjetbrains.com/youtrack/issue/nSO-1368) Duration, Duration Interval.
+- [nSO-1371](https://dyned.myjetbrains.com/youtrack/issue/nSO-1371) Error 500 at end of L5U2VocabularyQuiz.
+
 ## [v.1.6.2] on May 15th, 2024
 - [nSO-1265](https://dyned.myjetbrains.com/youtrack/issue/nSO-1265) Fixed issue for disabled button while doing SR.
 - [nSO-1303](https://dyned.myjetbrains.com/youtrack/issue/nSO-1303) Fixed issue for disabled button while doing SR.

@@ -5,6 +5,12 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## [v.1.11.5] on July 11th, 2024
+- [ETAPI-181](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-181) It seems the goal level is not correct?.
+
+## [V.1.11.4] on June 3rd, 2024
+- [ETAPI-180](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-180) The email is not matched strictly in the API.
+
 ## [v.1.11.3] on June 5th, 2024
 - [ETAPI-179](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-179) Disabled ePT Token.
 

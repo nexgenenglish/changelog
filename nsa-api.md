@@ -6,8 +6,11 @@ title: neo Study App API
 Service (API) to manage neo Study App.
 
 # 1.14.28 on September 10th, 2024
-- [nSO-1437](https://dyned.myjetbrains.com/youtrack/issue/nSO-1437) A student has not taken any mastery test - Gelvin Estuardo Avalos Amado (review CT on the first study)
-- [NSAAPI-708](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-708) Support total study point for multiple courses (et score)
+- [nSO-1437](https://dyned.myjetbrains.com/youtrack/issue/nSO-1437) A student has not taken any mastery test - Gelvin Estuardo Avalos Amado (review CT on the first study).
+- [NSAAPI-708](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-708) Support total study point for multiple courses (et score).
+- [NSAAPI-716](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-716) Update validation submit study records.
+- [NSAAPI-717](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-717) bug: Study Records Report.
+- [NSAAPI-719](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-719) Student got minus point.
 
 # 1.14.27 on August 26th, 2024
 - [NSAAPI-715](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-715) student passed CT and got certifate of B1+ by email but CT is unlocked again and ask student to do again (set Passed status home screen)
@@ -24,9 +27,10 @@ Service (API) to manage neo Study App.
 
 # 1.14.23 on August 18th, 2024
 - Update thumbnail mylesson to api/v2
-- [NSAAPI-708](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-708) Support total study point for multiple courses
-- [NSAAPI-709](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-709) fix force_repeat from home
-- [NSAAPI-711](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-711) neoJr+: Heart anim plays MyLessons disabled
+- [NSAAPI-708](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-708) Support total study point for multiple courses.
+- [NSAAPI-709](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-709) fix force_repeat from home.
+- [NSAAPI-711](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-711) neoJr+: Heart anim plays MyLessons disabled.
+- [NSAAPI-713](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-713) Wrong lesson displayed from the one that I was prompted to repeat.
 
 # 1.14.22 on August 18th, 2024
 #Update level name 1 to Part 1 mylesson neoJr+
@@ -42,7 +46,8 @@ Service (API) to manage neo Study App.
 #get mylesson based on study records (current level)
 
 # 1.14.18 on August 16th, 2024
-- [NSA-4029](https://dyned.myjetbrains.com/youtrack/issue/NSA-4029) MyLesson for the student account without neoJr+MVP upgrade
+- [NSAAPI-705](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-705) MyLesson for the student account without neoJr+MVP upgrade.
+- [NSA-4029](https://dyned.myjetbrains.com/youtrack/issue/NSA-4029) MyLesson for the student account without neoJr+MVP upgrade.
 
 # 1.14.17 on August 5th, 2024
 - [NSAAPI-703](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-703) Add Cert Plan Code & Name to DSA summary report
@@ -81,7 +86,8 @@ Service (API) to manage neo Study App.
 - [NSAAPI-690](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-690) app was frozen after my_lesson guanghua and ucas only
 
 # 1.14.8 (pending) on April, 2024
-- [NSAAPI-675](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-675) Add data flag that indicates the student 0rganizati0n code when study
+- [NSAAPI-675](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-675) Add data flag that indicates the student 0rganizati0n code when study.
+- [NSAAPI-686](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-686) neoJr.+: Review through MyLessons (Backend).
 #
 # 1.14.7 on May 28th, 2024
 - [NSAAPI-674](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-674) Add a course-selection pulldown on the MyRecords screen.
@@ -116,6 +122,7 @@ Service (API) to manage neo Study App.
 - [NSAAPI-657](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-657) Single Level : account is not disabled when the account has passed CT.
 
 # 1.14.0 on February 28th, 2024
+- [NSAAPI-632](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-632) Allow My Certificate to display all earned certificate for All plan.
 - [NSAAPI-633](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-633) Added plan parameter for API call consumed by UD for Class / Student data table.
 - [NSAAPI-634](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-634) Added new key object to identify student plan in data table.
 - [NSAAPI-636](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-636) Make the current plan study data only included in calculation for Grading/Related points calculation.
@@ -257,6 +264,10 @@ Service (API) to manage neo Study App.
 - [NSAAPI-531](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-531) Fixed typo in Review Lesson MT message.
 - [NSAAPI-532](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-532) Fixed typo in Review Lesson CT message.
 - [NSAAPI-534](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-534) Fixed iOS: Stuck at Ratios MT.
+
+# 1.10.13 on December 11th, 2022
+- [NSAAPI-528](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-528) Invalid character 'E' looking for beginning of value Weekly Progress.
+- [NSAAPI-529](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-529) Student took the same MT on two different devices.
 
 # 1.10.11 on November 29th, 2022
 - [NSAAPI-527](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-527) Fixed Points This Week value that is not correct in UD.
