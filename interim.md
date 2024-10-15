@@ -5,10 +5,13 @@ title: Interim
 # Neo Interim
 neo Interim is a microsite that provides middleware for neo Ecosystem.
 
-## [v.1.1.11] on September 19th, 2023
+## [v1.1.12] on October 15th, 2024
+- [UD-3996](https://dyned.myjetbrains.com/youtrack/issue/UD-3996) Changes to contact us form - Recipient.
+- [UD-3997](https://dyned.myjetbrains.com/youtrack/issue/UD-3997) info@nexgenenglishonline.co email messages.
 
+## [v.1.1.11] on September 19th, 2023
 - [UD-3849](https://dyned.myjetbrains.com/youtrack/issue/UD-3849) Could you please update the email template after taking ept?
-- [UD-3871](https://dyned.myjetbrains.com/youtrack/issue/UD-3871) could you please update the sms and email template ?
+- [UD-3871](https://dyned.myjetbrains.com/youtrack/issue/UD-3871) Could you please update the sms and email template ?
 
 ## [v.1.1.8] on August 21st, 2023
 - [UD-2853](https://dyned.myjetbrains.com/youtrack/issue/UD-2853) - Separate base url.
