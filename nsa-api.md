@@ -5,6 +5,10 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.14.29 on October 29th, 2024
+- [NSAAPI-714](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-714) Current level doesn't change when the admin user change expiration date for 30-Nov-2024.
+- [NSAAPI-721](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-721) Can't get data using https://dsaapi.dyned. com.cn/admin/study/neo0605@prep.com?start=2024-09-01&finish=2024-09-26.
+
 # 1.14.28 on September 10th, 2024
 - [nSO-1437](https://dyned.myjetbrains.com/youtrack/issue/nSO-1437) A student has not taken any mastery test - Gelvin Estuardo Avalos Amado (review CT on the first study).
 - [NSAAPI-708](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-708) Support total study point for multiple courses (et score).

@@ -5,6 +5,9 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## [v.1.11.8] on October 29th, 2024
+- [](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-182) Update Candidate Type.
+
 ## [v.1.11.5] on July 11th, 2024
 - [ETAPI-181](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-181) It seems the goal level is not correct?.
 
