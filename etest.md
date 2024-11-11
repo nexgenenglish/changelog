@@ -5,13 +5,16 @@ title: eTest Widget and Cloud
 # eTest Widget and Cloud
 Application for Assessment Tests (Placement Tests or Certification Tests) systems on neo.
 
-## [2.18.19] on September 28th, 2023
+## [2.18.19] on September 28th, 2024
 - [ET-522](https://dyned.myjetbrains.com/youtrack/issue/ET-522) Add the ICP code at the bottom.
+
+## [2.10.24] on July 8th, 2024
+- [ET-530](https://dyned.myjetbrains.com/youtrack/issue/ET-530) Remove references to DynEd Scores in neo test reporting and documentation.
 
 ## [2.10.22] on January 31st, 2024
 - [ET-526](https://dyned.myjetbrains.com/youtrack/issue/ET-526) Can't Take E-Test after creating an account.
 
-## [2.10.18] on April 1st, 2024
+## [2.10.18] on September 22nd, 2023
 - [ET-519](https://dyned.myjetbrains.com/youtrack/issue/ET-519) neoJr+: Next button too close to test answers.
 
 ## [2.10.17] on August 21st, 2023
