@@ -5,6 +5,24 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study 
 
+## [v.1.7.1] on November 13th, 2024
+- [nSO-1388](https://dyned.myjetbrains.com/youtrack/issue/nSO-1388) Delete alert SR Incorrect, do you want to force correct? Cancel or OK on nSO that show up on screen.
+- [nSO-1356](https://dyned.myjetbrains.com/youtrack/issue/nSO-1356) Buttons disabled nSO.
+- [nSO-1418](https://dyned.myjetbrains.com/youtrack/issue/nSO-1418) neoJr+: L2U7Game timer under tiles.
+- [nSO-1419](https://dyned.myjetbrains.com/youtrack/issue/nSO-1419) neoJr+: Auto Next Review Lessons no longer working.
+- [nSO-1429](https://dyned.myjetbrains.com/youtrack/issue/nSO-1429) Error in console while was studying - Maiyaira Del Carmen Bristan.
+- [nSO-1430](https://dyned.myjetbrains.com/youtrack/issue/nSO-1430) MyLessonsTeacherMode: Log out icon disappears.
+- [nSO-1433](https://dyned.myjetbrains.com/youtrack/issue/nSO-1433) NSO: neoJr+> Mylessons: no highlight when moving back from the upper level menu.
+- [nSO-1439](https://dyned.myjetbrains.com/youtrack/issue/nSO-1439) Check the student certificate plan in both progres_main and acl.
+- [nSO-1440](https://dyned.myjetbrains.com/youtrack/issue/nSO-1440) Fixed Cert_passed_single that show up on the main screen.
+- [nSO-1442](https://dyned.myjetbrains.com/youtrack/issue/nSO-1442) Change certificate plan guanghua to Business English-1 and change ucas to Business English-2 in Account.
+- [nSO-1444](https://dyned.myjetbrains.com/youtrack/issue/nSO-1444) Account: Replace variable name with human readable marketing name.
+- [nSO-1445](https://dyned.myjetbrains.com/youtrack/issue/nSO-1445) MyLessons: no initial highlight.
+- [nSO-1446](https://dyned.myjetbrains.com/youtrack/issue/nSO-1446) MyLessons: Left back arrow not working.
+- [nSO-1447](https://dyned.myjetbrains.com/youtrack/issue/nSO-1447) TeacherMode: Crash at log in.
+- [nSO-1448](https://dyned.myjetbrains.com/youtrack/issue/nSO-1448) Mastery test can't be completed.
+- [nSO-1450](https://dyned.myjetbrains.com/youtrack/issue/nSO-1450) Fixed issue for student who cannot upload profile picture in nSO.
+
 ## [v.1.7.0] on July 31st, 2024
 - [nSO-1373](https://dyned.myjetbrains.com/youtrack/issue/nSO-1373) neoJr.+: Review through MyLessons(nso).
 - [nSO-1382](https://dyned.myjetbrains.com/youtrack/issue/nSO-1382) The microphone is deactivated.

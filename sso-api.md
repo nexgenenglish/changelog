@@ -4,6 +4,9 @@ title: SSO API
 
 # SSO API
 
+# 1.5.1 on November 13th, 2024
+- [SSO-84](https://dyned.myjetbrains.com/youtrack/issue/SSO-84) Improve caching when select users from SSO
+
 # 1.4.15 on May 12th, 2024
 - [SSO-81](https://dyned.myjetbrains.com/youtrack/issue/SSO-81) Fixed issue for cannot change account type from trial to regular-DE.
 

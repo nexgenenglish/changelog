@@ -4,6 +4,11 @@ title: LIVE API
 
 # LIVE API
 
+# [v.1.1.17] on November 12th, 2024
+- [LIVEAPI-86](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-86) Reschedule session | the student can't reschedule the same date cause has already reached maximum booking.
+- [LIVEAPI-87](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-87) Error "Connection Failure" when Booking a coach and selecting "Date".
+- [LIVEAPI-90](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-90) Set schedule become previous day when the schedule range are 2 date.
+
 # [v.1.1.15] on May 7th, 2024
 - [LIVEAPI-71](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-71) Prevent a student to join a live session multiple times.
 - [LIVEAPI-82](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-82) Create opentok streamlist.

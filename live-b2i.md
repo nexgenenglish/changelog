@@ -5,6 +5,12 @@ title: neo Live B2I
 # Live B2I
 A website for DynEd students and coaches to study using Live Session and also for admins and affiliates to manage DynEd Live's environment.
 
+## [v.1.2.5] on November 12th, 2024
+- [DELB2I-1401](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1401) Fixed issue for cannot reset the password.
+- [DELB2I-1404](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1404) Use the neo PT value instead of DynEd Pro PT when adding a coach.
+- [DELB2I-1405](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1405) Coach Karen Moya needs her password to start his sessions | New Coach Creation Email.
+- [DELB2I-1410](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1410) Country Code does not automatically change after chosing the country when creating coach.
+- [DELB2I-1412](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1412) Coach Affilate needs his password (did not receive the notification email).
 
 ## [v.1.2.1-1] on October 11th, 2023
 - [DELB2I-1386](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1386) Hotfix bug fixing in coach schedule.

@@ -5,6 +5,18 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.14.30-3 on November 7th, 2024
+- [NSAAPI-729](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-729) Make the data returned in {{DSA_API_HOST_REPORT}}/student-summary-report/uic consider time period when returning the data.
+
+# 1.14.30-2 on November 4th, 2024
+- [NSAAPI-728](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-728) Add cert_plan_name under cert_level in the study record report API.
+
+# 1.14.30-1 on November 4th, 2024
+- [NSAAPI-726](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-726)(500) Internal Server Error when clicking study now.
+
+# 1.14.30-0 on October 29th, 2024
+- [NSAAPI-725](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-725) MyRecords Points don't reflect Grade Report points set.
+
 # 1.14.29 on October 29th, 2024
 - [NSAAPI-714](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-714) Current level doesn't change when the admin user change expiration date for 30-Nov-2024.
 - [NSAAPI-721](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-721) Can't get data using https://dsaapi.dyned. com.cn/admin/study/neo0605@prep.com?start=2024-09-01&finish=2024-09-26.
