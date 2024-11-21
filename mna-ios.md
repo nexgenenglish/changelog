@@ -5,6 +5,14 @@ title: myneo App - iOS
 # myneo App - iOS
 myneo Application for iOS
 
+## [v.1.9.3] on November 13th, 2024
+- [MNA-405](https://dyned.myjetbrains.com/youtrack/issue/MNA-405) Install button is not in the correct location.
+- [MNA-597](https://dyned.myjetbrains.com/youtrack/issue/MNA-597) List all certifcates earned by students and group them by plan in My Certificates.
+- [MNA-603](https://dyned.myjetbrains.com/youtrack/issue/MNA-603) Fixed alert "You already joined this sessionon other device."
+- [MNA-605](https://dyned.myjetbrains.com/youtrack/issue/MNA-605) Create Switch Device Feature.
+- [MNA-611](https://dyned.myjetbrains.com/youtrack/issue/MNA-611) Fixed Spanish Translation for "Gender".
+- [MNA-617](https://dyned.myjetbrains.com/youtrack/issue/MNA-617) Fixed inconsistency between Andriod, iOS and Live portal at the moment to transfer session from a device to another.
+
 ## [v.1.9.2] on May 15th, 2024
 - [MNA-575](https://dyned.myjetbrains.com/youtrack/issue/MNA-575) Fixed inconsistency schedule between myneo APP and neo Live Portal.
 - [MNA-576](https://dyned.myjetbrains.com/youtrack/issue/MNA-576) Fixed Placement Test screen that show no information about student's PT Level.

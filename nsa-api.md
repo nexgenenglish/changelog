@@ -5,6 +5,11 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.14.30.5 on November 14th, 2024
+- [NSAAPI-731](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-731) Student Study Records Report - Reason: Invalid argument supplied for foreach() Generated.
+- [NSAAPI-732](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-732) Create Student Study Records Report Error.
+- [NSAAPI-733](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-733) Fixed students status column that does not update when deactivating accounts.
+
 # 1.14.30-3 on November 7th, 2024
 - [NSAAPI-729](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-729) Make the data returned in {{DSA_API_HOST_REPORT}}/student-summary-report/uic consider time period when returning the data.
 

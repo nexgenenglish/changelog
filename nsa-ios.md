@@ -5,6 +5,17 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+## [v1.25.0] on November 19th, 2024
+- [NSA-4062](https://dyned.myjetbrains.com/youtrack/issue/NSA-4062) Fixed inconsistency between nSO and nSA - name for the lesson under teacher mode.
+- [NSA-4073](https://dyned.myjetbrains.com/youtrack/issue/NSA-4073) Remaining points in the summary screen do not decrease even if the study record is successfully submitted.
+- [NSA-4082](https://dyned.myjetbrains.com/youtrack/issue/NSA-4082) Improve the Tester Menu Interface.
+- [NSA-4106](https://dyned.myjetbrains.com/youtrack/issue/NSA-4106) Unable to scroll journey page on ios.
+- [NSA-4107](https://dyned.myjetbrains.com/youtrack/issue/NSA-4107) Main Screen Cannot see expanded rocket screen.
+- [NSA-4130](https://dyned.myjetbrains.com/youtrack/issue/NSA-4130) Unfolded MT screen no longer works.
+
+## [V1.24.1] on July 29th, 2024
+- [NSA-3995](https://dyned.myjetbrains.com/youtrack/issue/NSA-3995) for NSA v1.24.0-2407021558, there is no response for clicking study now. it happened twice.
+
 ## [v1.24.0] on July 29th, 2024
 - [NSA-3956](https://dyned.myjetbrains.com/youtrack/issue/NSA-3956) neoJr.+: Review through MyLessons (iOS).
 - [NSA-3998](https://dyned.myjetbrains.com/youtrack/issue/NSA-3998) MyLessons: 3956.8a Lesson Info.

@@ -5,7 +5,19 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.25.0] on November 19th, 2024
+- [NSA-3991](https://dyned.myjetbrains.com/youtrack/issue/NSA-3991) "Send Study Record Failed.Server Error" happened in these days especially between 11 PM to 9 AM.
+- [NSA-4062](https://dyned.myjetbrains.com/youtrack/issue/NSA-4062) Fixed inconsistency between nSO and nSA - name for the lesson under teacher mode.
+- [NSA-4077](https://dyned.myjetbrains.com/youtrack/issue/NSA-4077) NSA_v1.24.1.2024.08.14-prod-cn was rejected by xiaomi.
+- [NSA-4078](https://dyned.myjetbrains.com/youtrack/issue/NSA-4078) Android: newly added transcriptions don't work.
+- [NSA-4082](https://dyned.myjetbrains.com/youtrack/issue/NSA-4082) Improve the Tester Menu Interface.
+
 ## [1.24.1] on August 21st, 2024
+- [NSA-3977](https://dyned.myjetbrains.com/youtrack/issue/NSA-3977) Error: Send Study Records failed.
+- [NSA-4013](https://dyned.myjetbrains.com/youtrack/issue/NSA-4013) Go button is disabled.
+- [NSA-4020](https://dyned.myjetbrains.com/youtrack/issue/NSA-4020) Fixed incorrect graphic.
+- [NSA-4040](https://dyned.myjetbrains.com/youtrack/issue/NSA-4040) on NSA_v1.24.0.2024.07.22-prod-cn, green column became larger and larger if clicking repeat.
+- [NSA-4059](https://dyned.myjetbrains.com/youtrack/issue/NSA-4059) Error: Send Study Records Failed. Server error - Xochitl Adriana Vázquez Hernández.
 - [NSA-4075](https://dyned.myjetbrains.com/youtrack/issue/NSA-4075) Send Study Records Failed - Server error.
 
 ## [v1.24.0] on July 29th, 2024

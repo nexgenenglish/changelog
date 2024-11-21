@@ -5,6 +5,16 @@ title: myneo App - Android
 # myneo App - Android
 myneo Application for Android
 
+## [v1.9.3] on November 13th, 2024
+- [MNA-596](https://dyned.myjetbrains.com/youtrack/issue/MNA-596) List all certifcates earned by students and group them by plan in My Certificates.
+- [MNA-603](https://dyned.myjetbrains.com/youtrack/issue/MNA-603) Fixed alert "You already joined this sessionon other device."
+- [MNA-605](https://dyned.myjetbrains.com/youtrack/issue/MNA-605) Create Switch Device Feature.
+- [MNA-609](https://dyned.myjetbrains.com/youtrack/issue/MNA-609) Wrong account information.
+- [MNA-610](https://dyned.myjetbrains.com/youtrack/issue/MNA-610) Fixed Spanish Translation for "Change password".
+- [MNA-611](https://dyned.myjetbrains.com/youtrack/issue/MNA-611) Fixed Spanish Translation for "Gender".
+- [MNA-615](https://dyned.myjetbrains.com/youtrack/issue/MNA-615) Fixed error download failed.
+- [MNA-617](https://dyned.myjetbrains.com/youtrack/issue/MNA-617) Fixed inconsistency between Andriod, iOS and Live portal at the moment to transfer session from a device to another.
+
 ## [v1.9.2] on May 15th, 2024
 - [MNA-607](https://dyned.myjetbrains.com/youtrack/issue/MNA-607) Change neo logo to nexgen neo logo on App Stores and NSO
 - [MNA-588](https://dyned.myjetbrains.com/youtrack/issue/MNA-588) Could you add ICP code to neo Study and myneo for android and iOS?
