@@ -5,6 +5,11 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.14.32-1 on December 5th, 2024
+- [NSAAPI-730](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-730) Make the SOR available under My Certificate.
+- [NSAAPI-738](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-738) Support decimal study hours per week.
+- [NSAAPI-739](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-739) The 'total_study_days' is not correct.
+
 # 1.14.30.5 on November 14th, 2024
 - [NSAAPI-731](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-731) Student Study Records Report - Reason: Invalid argument supplied for foreach() Generated.
 - [NSAAPI-732](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-732) Create Student Study Records Report Error.
