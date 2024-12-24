@@ -5,6 +5,10 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.14.34 on December 23rd, 2024
+- [NSAAPI-741](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-741) SR Level: two selected.
+- [NSAAPI-742](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-742) SR requirement does not come up when SR level-Emerging Speaker.
+
 # 1.14.32-1 on December 5th, 2024
 - [NSAAPI-730](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-730) Make the SOR available under My Certificate.
 - [NSAAPI-738](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-738) Support decimal study hours per week.
