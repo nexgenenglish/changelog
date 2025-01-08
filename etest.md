@@ -8,6 +8,10 @@ Application for Assessment Tests (Placement Tests or Certification Tests) system
 ## [2.18.19] on September 28th, 2024
 - [ET-522](https://dyned.myjetbrains.com/youtrack/issue/ET-522) Add the ICP code at the bottom.
 
+## [2.10.25] on January 7th, 2025
+- [ET-534](https://dyned.myjetbrains.com/youtrack/issue/ET-534) Auto Issue disabled. Need different post CT message.
+- [ET-537](https://dyned.myjetbrains.com/youtrack/issue/ET-537) Add Kyrgyz for eTest Localization.
+
 ## [2.10.24] on July 8th, 2024
 - [ET-530](https://dyned.myjetbrains.com/youtrack/issue/ET-530) Remove references to DynEd Scores in neo test reporting and documentation.
 

@@ -9,6 +9,9 @@ Service (API) to manage neo Study App.
 - [NSAAPI-741](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-741) SR Level: two selected.
 - [NSAAPI-742](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-742) SR requirement does not come up when SR level-Emerging Speaker.
 
+# 1.14.33 on December 16th, 2024
+- [NSAAPI-724](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-724) neo prep+: Modify SR requirements for lower levels similar to neoJr+.
+
 # 1.14.32-1 on December 5th, 2024
 - [NSAAPI-730](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-730) Make the SOR available under My Certificate.
 - [NSAAPI-738](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-738) Support decimal study hours per week.
