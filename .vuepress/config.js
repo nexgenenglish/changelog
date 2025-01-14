@@ -31,7 +31,8 @@ module.exports = {
             '/voucher-generator',
             '/b2c-portal',
             '/reporting',
-            '/neo-bugs-reporting'
+            '/neo-bugs-reporting',
+            '/dsacontent-api'
         ]
     }
 }

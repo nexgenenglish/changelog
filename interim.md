@@ -5,6 +5,12 @@ title: Interim
 # Neo Interim
 neo Interim is a microsite that provides middleware for neo Ecosystem.
 
+## [v1.1.13.1] on January 13th, 2025
+- [UD-4139](https://dyned.myjetbrains.com/youtrack/issue/UD-4139) Trial Student: Confirmation email wrong copyright info.
+
+## [v1.1.13] on January 13th, 2025
+- [UD-4105](https://dyned.myjetbrains.com/youtrack/issue/UD-4105) [Interim] Account Deletion Request Mail Template.
+
 ## [v1.1.12] on October 15th, 2024
 - [UD-3996](https://dyned.myjetbrains.com/youtrack/issue/UD-3996) Changes to contact us form - Recipient.
 - [UD-3997](https://dyned.myjetbrains.com/youtrack/issue/UD-3997) info@nexgenenglishonline.co email messages.

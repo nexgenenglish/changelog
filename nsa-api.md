@@ -5,6 +5,9 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.14.36 on January 8th, 2025
+- [NSAAPI-747](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-747) Handle when class settings is still missing values in SSO data.
+
 # 1.14.34 on December 23rd, 2024
 - [NSAAPI-741](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-741) SR Level: two selected.
 - [NSAAPI-742](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-742) SR requirement does not come up when SR level-Emerging Speaker.
