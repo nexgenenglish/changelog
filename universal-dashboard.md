@@ -5,6 +5,29 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+# [1.6.19.3] on January 14th, 2025
+- [UD-3650](https://dyned.myjetbrains.com/youtrack/issue/UD-3650) Can't download SOR from UD.
+- [UD-3882](https://dyned.myjetbrains.com/youtrack/issue/UD-3882) Student Study Records Report typo in progress message.
+- [UD-3883](https://dyned.myjetbrains.com/youtrack/issue/UD-3883) "Undefined" text when selecting the certification plan in the "MyRecords" option.
+- [UD-3954](https://dyned.myjetbrains.com/youtrack/issue/UD-3954) Unable to create a student account with Latin alphabet with accents (diacritics)as part of the email address.
+- [UD-3956](https://dyned.myjetbrains.com/youtrack/issue/UD-3956) Issue with Student Bulk Registration - Still processing (case 3).
+- [UD-4025](https://dyned.myjetbrains.com/youtrack/issue/UD-4025) No Generate status message.
+- [UD-4026](https://dyned.myjetbrains.com/youtrack/issue/UD-4026) Error: Oops! Invalid/missing user (case 1).
+- [UD-4027](https://dyned.myjetbrains.com/youtrack/issue/UD-4027) My Records do not display the bar showing total points per week.
+- [UD-4029](https://dyned.myjetbrains.com/youtrack/issue/UD-4029) Error: Oops! Invalid/missing user (Case 2).
+- [UD-4031](https://dyned.myjetbrains.com/youtrack/issue/UD-4031) Myrecords info for a Force PT level is blank.
+- [UD-4032](https://dyned.myjetbrains.com/youtrack/issue/UD-4032) Generate all Certs that were earned but not generated.
+- [UD-4037](https://dyned.myjetbrains.com/youtrack/issue/UD-4037) Profile Picture: Error 422 message typo.
+- [UD-4041](https://dyned.myjetbrains.com/youtrack/issue/UD-4041) Study Records Report shows wrong Certification Plan name.
+- [UD-4053](https://dyned.myjetbrains.com/youtrack/issue/UD-4053) Target points showing as 0 - ITI Tunisia.
+- [UD-4056](https://dyned.myjetbrains.com/youtrack/issue/UD-4056) Class config sync feature.
+- [UD-4064](https://dyned.myjetbrains.com/youtrack/issue/UD-4064) Student Bulk Registration - the message never removed.
+- [UD-4076](https://dyned.myjetbrains.com/youtrack/issue/UD-4076) can't change trial account's expired date.
+- [UD-4091[(https://dyned.myjetbrains.com/youtrack/issue/UD-4091) the number of students is less than actual students in List-of-Students for Change-Level.
+- [UD-4103](https://dyned.myjetbrains.com/youtrack/issue/UD-4103) Change Student Account not loading - El Paso Community College, TX.
+- [UD-4111])https://dyned.myjetbrains.com/youtrack/issue/UD-4111) can't create PT token and organization using https://dashboard.neotebet.de/.
+- [UD-4138](https://dyned.myjetbrains.com/youtrack/issue/UD-4138) List-of-Students or Change-Level template does not certification plan neoPrep+ in the list (Column F).
+
 # [1.6.19] on September 19th, 2024
 - [UD-3124](https://dyned.myjetbrains.com/youtrack/issue/UD-3124) Make the timezone settings for newly created organzation follow the local computer timezone.
 - [UD-3352](https://dyned.myjetbrains.com/youtrack/issue/UD-3352) New Certification Plan popups: need consistent label and names.
