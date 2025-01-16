@@ -5,6 +5,9 @@ title: myneo App - iOS
 # myneo App - iOS
 myneo Application for iOS
 
+## [v1.10.0] on January 15th, 2025
+- [MNA-620](https://dyned.myjetbrains.com/youtrack/issue/MNA-620)Account Deletion Request
+
 ## [v.1.9.3] on November 13th, 2024
 - [MNA-405](https://dyned.myjetbrains.com/youtrack/issue/MNA-405) Install button is not in the correct location.
 - [MNA-597](https://dyned.myjetbrains.com/youtrack/issue/MNA-597) List all certifcates earned by students and group them by plan in My Certificates.

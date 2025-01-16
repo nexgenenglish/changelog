@@ -5,6 +5,10 @@ title: myneo App - Android
 # myneo App - Android
 myneo Application for Android
 
+## [v1.10.0] on January 15th, 2025
+- [MNA-619](https://dyned.myjetbrains.com/youtrack/issue/MNA-619) Account Deletion Request.
+- [MNA-622](https://dyned.myjetbrains.com/youtrack/issue/MNA-622) Session summary Page wrong - coach name should be Start time.
+
 ## [v1.9.3] on November 13th, 2024
 - [MNA-596](https://dyned.myjetbrains.com/youtrack/issue/MNA-596) List all certifcates earned by students and group them by plan in My Certificates.
 - [MNA-603](https://dyned.myjetbrains.com/youtrack/issue/MNA-603) Fixed alert "You already joined this sessionon other device."
