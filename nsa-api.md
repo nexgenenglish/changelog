@@ -5,6 +5,11 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1..14.36.1 on January 21st, 2025
+- [NSAAPI-748](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-748) The lesson cant be saved to 'mylesson' -- DE.
+- [NSAAPI-750](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-750) Average points per week shows blank when grading is disabled.
+- [NSAAPI-752](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-752) {{DSA_API_HOST_ADMIN}}/profile/email not updating the data to SSO.
+
 # 1.14.36 on January 8th, 2025
 - [NSAAPI-747](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-747) Handle when class settings is still missing values in SSO data.
 
