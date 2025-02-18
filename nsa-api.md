@@ -5,7 +5,22 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
-# 1..14.36.1 on January 21st, 2025
+# 1.14.39 on February 12th, 2025
+- [NSAAPI-759](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-759) Temporarily hide the SOR keys from API call return.
+
+# 1.14.38 on February 13th, 2025
+- [NSAAPI-745](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-745) Add TCA values to be consumed by NSA/NSO.
+- [NSAAPI-746](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-746) Show messaging for TCA enabled student that access PT from NSA.
+- [NSAAPI-751](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-751) Improve the message show for TCA message.
+
+# 1.14.37 on Febryary 12th, 2025
+- [NSAAPI-756](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-756) Validate the submit study records to prevents manual study data submission.
+
+# 1.14.36-2 on February 6th, 2025
+- [NSAAPI-754](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-754) Points this week has incorrect value under the student's tab.
+- [NSAAPI-755](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-755) Average Points per week under class view.
+
+# 1.14.36.1 on January 21st, 2025
 - [NSAAPI-748](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-748) The lesson cant be saved to 'mylesson' -- DE.
 - [NSAAPI-750](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-750) Average points per week shows blank when grading is disabled.
 - [NSAAPI-752](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-752) {{DSA_API_HOST_ADMIN}}/profile/email not updating the data to SSO.
@@ -13,12 +28,16 @@ Service (API) to manage neo Study App.
 # 1.14.36 on January 8th, 2025
 - [NSAAPI-747](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-747) Handle when class settings is still missing values in SSO data.
 
+# 1.14.35 on December 23rd, 2024
+- [NSAAPI-736](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-736) Fixed issue for no message when a certificate has been earned but not Generated.
+
 # 1.14.34 on December 23rd, 2024
 - [NSAAPI-741](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-741) SR Level: two selected.
 - [NSAAPI-742](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-742) SR requirement does not come up when SR level-Emerging Speaker.
 
 # 1.14.33 on December 16th, 2024
 - [NSAAPI-724](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-724) neo prep+: Modify SR requirements for lower levels similar to neoJr+.
+- [NSAAPI-740](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-740) Account Deletion Request [API].
 
 # 1.14.32-1 on December 5th, 2024
 - [NSAAPI-730](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-730) Make the SOR available under My Certificate.
