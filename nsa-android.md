@@ -8,6 +8,7 @@ neo Study application for Android
 ## [v1.25.0] on November 19th, 2024
 - [NSA-3991](https://dyned.myjetbrains.com/youtrack/issue/NSA-3991) "Send Study Record Failed.Server Error" happened in these days especially between 11 PM to 9 AM.
 - [NSA-4062](https://dyned.myjetbrains.com/youtrack/issue/NSA-4062) Fixed inconsistency between nSO and nSA - name for the lesson under teacher mode.
+- [NSA-4070](https://dyned.myjetbrains.com/youtrack/issue/NSA-4070) neo SR: Show 2 colors only: red and green (no black words).
 - [NSA-4077](https://dyned.myjetbrains.com/youtrack/issue/NSA-4077) NSA_v1.24.1.2024.08.14-prod-cn was rejected by xiaomi.
 - [NSA-4078](https://dyned.myjetbrains.com/youtrack/issue/NSA-4078) Android: newly added transcriptions don't work.
 - [NSA-4082](https://dyned.myjetbrains.com/youtrack/issue/NSA-4082) Improve the Tester Menu Interface.
