@@ -5,6 +5,33 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+# [1.6.20.1] on March 4th, 2025
+- [UD-4115](https://dyned.myjetbrains.com/youtrack/issue/UD-4115) Add a MyRecords report to the UD.
+
+# [1.6.20] on March 2nd, 2025
+- UD-3962](https://dyned.myjetbrains.com/youtrack/issue/UD-3962) The Profile Pictures are not shown in the student profile page.
+- [UD-4009](https://dyned.myjetbrains.com/youtrack/issue/UD-4009) New design for MyRecords PDF in nD & student accounts.
+- [UD-4090](https://dyned.myjetbrains.com/youtrack/issue/UD-4090) Create new MyRecords template (html + css).
+- [UD-4125](https://dyned.myjetbrains.com/youtrack/issue/UD-4125) Add toggle to enabled TCA On/Off for organization.
+- [UD-4126](https://dyned.myjetbrains.com/youtrack/issue/UD-4126) Add TCA permission settings for an Admin that have TCA enabled for it organization.
+- [UD-4127](https://dyned.myjetbrains.com/youtrack/issue/UD-4127) Add settings for TCA on/off in Class settings.
+- [UD-4128](https://dyned.myjetbrains.com/youtrack/issue/UD-4128) Add Generate cookies function for TCA validation.
+- [UD-4129](https://dyned.myjetbrains.com/youtrack/issue/UD-4129) Add cookies installation to a local computer.
+- [UD-4131](https://dyned.myjetbrains.com/youtrack/issue/UD-4131) Add cookies validation function.
+- [UD-4136](https://dyned.myjetbrains.com/youtrack/issue/UD-4136) Deactivate option is not turning off all its sub-organizations levels
+- [UD-4137](https://dyned.myjetbrains.com/youtrack/issue/UD-4137) Improve error message: Empty row, nothing has changed.
+- U[D-4145](https://dyned.myjetbrains.com/youtrack/issue/UD-4145) Typo - Failed to issued certificate.
+- [UD-4194](https://dyned.myjetbrains.com/youtrack/issue/UD-4194) Correct poor English message.
+- [UD-4209](https://dyned.myjetbrains.com/youtrack/issue/UD-4209) "Send SMS" option should be "disabled " by default.
+- [UD-4210](https://dyned.myjetbrains.com/youtrack/issue/UD-4210) "Send email" option should be disabled by default.
+- [UD-4219](https://dyned.myjetbrains.com/youtrack/issue/UD-4219) Error: 500 when adding a new Organization or Class.
+- [UD-4228](https://dyned.myjetbrains.com/youtrack/issue/UD-4228) MyRecord - Coaching Session.
+- [UD-4230](https://dyned.myjetbrains.com/youtrack/issue/UD-4230) MyRecords: Download button prints.
+- [UD-4234](https://dyned.myjetbrains.com/youtrack/issue/UD-4234) Option to Automatically move on from neojr+ to neoPrep+.
+- [UD-4236](https://dyned.myjetbrains.com/youtrack/issue/UD-4236) My Records - Certificate Awarded.
+- [UD-4239](https://dyned.myjetbrains.com/youtrack/issue/UD-4239) Incorrect study date in the class list.
+- [UD-4248](https://dyned.myjetbrains.com/youtrack/issue/UD-4248) Can't read plus (+) sign in MyRecords.
+
 # [1.6.19.3] on January 14th, 2025
 - [UD-3650](https://dyned.myjetbrains.com/youtrack/issue/UD-3650) Can't download SOR from UD.
 - [UD-3882](https://dyned.myjetbrains.com/youtrack/issue/UD-3882) Student Study Records Report typo in progress message.

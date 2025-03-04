@@ -5,6 +5,12 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.8.1 on March 3rd, 2025
+- [NSAAPI-766](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-766) Fix error in main screen that keep showing MT button even after student has taken MT.
+
+# 1.2.1 on March 2nd, 2025
+- [NSAAPI-762](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-762) Fixed seamless login API that does not work.
+
 # 1.14.39 on February 12th, 2025
 - [NSAAPI-759](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-759) Temporarily hide the SOR keys from API call return.
 
