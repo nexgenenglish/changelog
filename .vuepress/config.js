@@ -32,7 +32,8 @@ module.exports = {
             '/b2c-portal',
             '/reporting',
             '/neo-bugs-reporting',
-            '/dsacontent-api'
+            '/dsacontent-api',
+            '/cert-issuanceAPI'
         ]
     }
 }

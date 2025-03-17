@@ -12,6 +12,12 @@ Service (API) to manage neo Study App.
 # 1.2.1 on March 2nd, 2025
 - [NSAAPI-762](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-762) Fixed seamless login API that does not work.
 
+# 1.14.40 on February 24th, 2025
+- [NSAAPI-754](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-754) Points this week has incorrect value under the student's tab.
+- [NSAAPI-758](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-758)Option to Automatically move on from neojr+ to neoPrep+.
+- [NSAAPI-760](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-760) Disable button after a successful delete request.
+- [NSAAPI-763](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-763)Error something went wrong (lesson) instead of CT prompt.
+
 # 1.14.39 on February 12th, 2025
 - [NSAAPI-759](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-759) Temporarily hide the SOR keys from API call return.
 
