@@ -5,6 +5,9 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+# [1.6.20.2] on March 10th, 2025
+- [UD-4240](https://dyned.myjetbrains.com/youtrack/issue/UD-4240) The organization 'impact-zhongyuanhaineng2024.4.2025.3' may not be in the sub organization of Billing, because we could not find it in the billing report of Impact.
+
 # [1.6.20.1] on March 4th, 2025
 - [UD-4115](https://dyned.myjetbrains.com/youtrack/issue/UD-4115) Add a MyRecords report to the UD.
 

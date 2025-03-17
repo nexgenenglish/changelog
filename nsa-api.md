@@ -7,6 +7,7 @@ Service (API) to manage neo Study App.
 
 # 1.8.1 on March 3rd, 2025
 - [NSAAPI-766](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-766) Fix error in main screen that keep showing MT button even after student has taken MT.
+- [NSAAPI-767](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-767) 500 - Internal server Error.
 
 # 1.2.1 on March 2nd, 2025
 - [NSAAPI-762](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-762) Fixed seamless login API that does not work.
