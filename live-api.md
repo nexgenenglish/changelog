@@ -7,6 +7,9 @@ title: LIVE API
 # [v.1.1.20] on January 27th, 2025
 - [LIVEAPI-93](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-93) Error failed to download video.
 
+# [v.1.1.19] on December 12th, 2024
+- [LIVEAPI-91](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-91) Updated the sms reminder for live.
+
 # [v.1.1.17] on November 12th, 2024
 - [LIVEAPI-86](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-86) Reschedule session | the student can't reschedule the same date cause has already reached maximum booking.
 - [LIVEAPI-87](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-87) Error "Connection Failure" when Booking a coach and selecting "Date".

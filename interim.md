@@ -5,6 +5,10 @@ title: Interim
 # Neo Interim
 neo Interim is a microsite that provides middleware for neo Ecosystem.
 
+## [1.1.13.2] on March 5th, 2025
+- [UD-4247](https://dyned.myjetbrains.com/youtrack/issue/UD-4247) Add Coach/student SMS reminder.
+- [UD-4276](https://dyned.myjetbrains.com/youtrack/issue/UD-4276) Improve the SMS validation before sending.
+
 ## [v1.1.13.1] on January 13th, 2025
 - [UD-4139](https://dyned.myjetbrains.com/youtrack/issue/UD-4139) Trial Student: Confirmation email wrong copyright info.
 

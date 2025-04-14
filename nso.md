@@ -5,6 +5,12 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study 
 
+## [v.1.8.2] on April 14th, 2025
+- [nSO-1540](https://dyned.myjetbrains.com/youtrack/issue/nSO-1540) The TCA is not checked if taking the PT link within expanded points menu.
+
+## [v.1.8.1] on February 6th, 2025
+- [nSO-1508](https://dyned.myjetbrains.com/youtrack/issue/nSO-1508) error: Submit Lesson Failed - nSO Staging.
+
 ## [v.1.7.1] on November 13th, 2024
 - [nSO-1388](https://dyned.myjetbrains.com/youtrack/issue/nSO-1388) Delete alert SR Incorrect, do you want to force correct? Cancel or OK on nSO that show up on screen.
 - [nSO-1356](https://dyned.myjetbrains.com/youtrack/issue/nSO-1356) Buttons disabled nSO.
