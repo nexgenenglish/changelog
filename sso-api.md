@@ -4,6 +4,9 @@ title: SSO API
 
 # SSO API
 
+# 1.5.3 on March 17th, 2025
+- [SSO-87](https://dyned.myjetbrains.com/youtrack/issue/SSO-87) Added logs for setting the expired date of organizaiton under API https://ssoapi.dyned.com.cn/organization/001-UKY-FOF-04Z-E83-3VJ.
+
 # 1.5.1 on November 13th, 2024
 - [SSO-84](https://dyned.myjetbrains.com/youtrack/issue/SSO-84) Improve caching when select users from SSO
 
