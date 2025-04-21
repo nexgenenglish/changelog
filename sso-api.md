@@ -4,6 +4,9 @@ title: SSO API
 
 # SSO API
 
+# 1.5.4 on April 8th, 2025
+- [SSO-88](https://dyned.myjetbrains.com/youtrack/issue/SSO-88) Add options to select NSA Study type.
+
 # 1.5.3 on March 17th, 2025
 - [SSO-87](https://dyned.myjetbrains.com/youtrack/issue/SSO-87) Added logs for setting the expired date of organizaiton under API https://ssoapi.dyned.com.cn/organization/001-UKY-FOF-04Z-E83-3VJ.
 

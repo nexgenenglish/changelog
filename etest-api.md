@@ -5,6 +5,9 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## [v.1.11.20] on April 14th, 2025
+- [ETAPI-200](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-200) Fixed missing student username.
+
 ## [v.1.11.9] on January 6th, 2025
 - [ETAPI-186](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-186) use cp_name from live_dev.dsa_cert_plans when sending request to interim when do a certificate request.
 
