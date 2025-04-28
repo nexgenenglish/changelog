@@ -31,6 +31,7 @@ Application for Assessment Tests (Placement Tests or Certification Tests) system
 - [ET-500](https://dyned.myjetbrains.com/youtrack/issue/ET-500) Translate from English to Turkish - Message after taking Assessment Test.
 
 ## [2.10.15] on May 22nd, 2023
+- [ET-486](https://dyned.myjetbrains.com/youtrack/issue/ET-486) DE student report there is no sound for some questions when they do ept in DE app. 
 - [ET-496](https://dyned.myjetbrains.com/youtrack/issue/ET-496) Fixing issue for some quesitons that cannot be played normally on iPhone 12 pro，ios16.3.1 using DE app.
 
 ## [2.10.14] on May 5th, 2023
@@ -47,6 +48,9 @@ Application for Assessment Tests (Placement Tests or Certification Tests) system
 ## [2.10.10] on January 23ed, 2023
 - [ET-461](https://dyned.myjetbrains.com/youtrack/issue/ET-461) Fixed issue for text position.
 -[ET-484](https://dyned.myjetbrains.com/youtrack/issue/ET-484) Set a test taker's attempt limit when taking the Assesment Test.
+
+## [2.10.9] on May 21st, 2023
+- [ET-483](https://dyned.myjetbrains.com/youtrack/issue/ET-483) Failed a Certificate Test Three Times.
 
 ## [2.10.7] on November 26th, 2022
 - [ET-469](https://dyned.myjetbrains.com/youtrack/issue/ET-469) neoJr+: Next button enabled in Assessment Test.
@@ -74,6 +78,7 @@ Application for Assessment Tests (Placement Tests or Certification Tests) system
 
 ## [2.10.3] on January 3rd, 2022
 - [ET-440](https://dyned.myjetbrains.com/youtrack/issue/ET-440) Support multiple geo locations.
+- [ET-438](https://dyned.myjetbrains.com/youtrack/issue/ET-438) Update the reminder.
 - [ET-439](https://dyned.myjetbrains.com/youtrack/issue/ET-439) Fixed line format for audio and text question.
 - [ET-440](https://dyned.myjetbrains.com/youtrack/issue/ET-440) Changed alert wording for Chinese translation in home page.
 

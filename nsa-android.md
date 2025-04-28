@@ -5,6 +5,16 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.27.0] on March 17th, 2025
+- [NSA-4200](https://dyned.myjetbrains.com/youtrack/issue/NSA-4200) Add header NS-Application-Name for each request to backend.
+- [NSA-4206](https://dyned.myjetbrains.com/youtrack/issue/NSA-4206) Add Account deletion request menu.
+
+## [v1.26.0] on December 24th, 2024
+- [NSA-4124](https://dyned.myjetbrains.com/youtrack/issue/NSA-4124) neo prep+: Modify SR requirements for lower levels similar to neoJr+.
+- [NSA-4148](https://dyned.myjetbrains.com/youtrack/issue/NSA-4148) Android: 2 minor bugs for RFS MTs.
+- [NSA-4170](https://dyned.myjetbrains.com/youtrack/issue/NSA-4170) nSA stopped when the users go to MyCertification option.
+- [NSA-4176](https://dyned.myjetbrains.com/youtrack/issue/NSA-4176) NSA V1.26.0 crashed when testing NSA-4148.
+
 ## [v1.25.0] on November 19th, 2024
 - [NSA-3991](https://dyned.myjetbrains.com/youtrack/issue/NSA-3991) "Send Study Record Failed.Server Error" happened in these days especially between 11 PM to 9 AM.
 - [NSA-4062](https://dyned.myjetbrains.com/youtrack/issue/NSA-4062) Fixed inconsistency between nSO and nSA - name for the lesson under teacher mode.
@@ -12,8 +22,13 @@ neo Study application for Android
 - [NSA-4077](https://dyned.myjetbrains.com/youtrack/issue/NSA-4077) NSA_v1.24.1.2024.08.14-prod-cn was rejected by xiaomi.
 - [NSA-4078](https://dyned.myjetbrains.com/youtrack/issue/NSA-4078) Android: newly added transcriptions don't work.
 - [NSA-4082](https://dyned.myjetbrains.com/youtrack/issue/NSA-4082) Improve the Tester Menu Interface.
+- [NSA-4092](https://dyned.myjetbrains.com/youtrack/issue/NSA-4092) [Android Vitals] Crash rate exceeds overall bad behavior threshold #1.
+- [NSA-4093](https://dyned.myjetbrains.com/youtrack/issue/NSA-4093) [Android Vitals] Crash rate exceeds device bad behavior threshold #2.
+- [NSA-4095](https://dyned.myjetbrains.com/youtrack/issue/NSA-4095) [Android Vitals] Crash rate exceeds overall bad behavior threshold #3.
+- [NSA-4108](https://dyned.myjetbrains.com/youtrack/issue/NSA-4108) Android 14 animation issue in HomeScreen.
+- [NSA-4115](https://dyned.myjetbrains.com/youtrack/issue/NSA-4115) App displays and downloads the wrong certificate - Cert Lock option is enabled.
 
-## [1.24.1] on August 21st, 2024
+## [v1.24.1] on August 21st, 2024
 - [NSA-3977](https://dyned.myjetbrains.com/youtrack/issue/NSA-3977) Error: Send Study Records failed.
 - [NSA-4013](https://dyned.myjetbrains.com/youtrack/issue/NSA-4013) Go button is disabled.
 - [NSA-4020](https://dyned.myjetbrains.com/youtrack/issue/NSA-4020) Fixed incorrect graphic.

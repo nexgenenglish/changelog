@@ -74,6 +74,7 @@ myneo Application for iOS
 - [MNA-468](https://dyned.myjetbrains.com/youtrack/issue/MNA-468) Fixed inconsistency text between iOS and Android.
 - [MNA-476](https://dyned.myjetbrains.com/youtrack/issue/MNA-476) Fixed issue for sessions scheduled for tomorrow are listed under "Today's".
 - [MNA-478](https://dyned.myjetbrains.com/youtrack/issue/MNA-478) Fixed issue for timezone utc when booking live session.
+- [MNA-483](https://dyned.myjetbrains.com/youtrack/issue/MNA-483) Student From Korea can't join session.
 
 ## [v.1.7.4] on June 30th, 2022
 - [MNA-393](https://dyned.myjetbrains.com/youtrack/issue/MNA-393) Prevent non-registered users from accessing the Placement Test in MNA.

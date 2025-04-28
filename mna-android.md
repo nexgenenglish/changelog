@@ -84,6 +84,7 @@ myneo Application for Android
 - [MNA-478](https://dyned.myjetbrains.com/youtrack/issue/MNA-478) Fixed issue for timezone utc when booking live session.
 - [MNA-480](https://dyned.myjetbrains.com/youtrack/issue/MNA-480) Changed some wordings in booking option.
 - [MNA-481](https://dyned.myjetbrains.com/youtrack/issue/MNA-481) Fixed app crash when open in Amazon device.
+- [MNA-483](https://dyned.myjetbrains.com/youtrack/issue/MNA-483) Student From Korea can't join session.
 
 ## [v.1.7.3] on June 30th, 2022
 - [MNA-370](https://dyned.myjetbrains.com/youtrack/issue/MNA-370) Delete rating notice.

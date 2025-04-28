@@ -5,6 +5,10 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## [v.1.11.21] on April 15th, 2025
+- [ETAPI-201](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-201) Fixed issue: unable to take CT test.
+- [ETAPI-202](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-202) Fixed CT issue in the Second Attempt.
+
 ## [v.1.11.20] on April 14th, 2025
 - [ETAPI-200](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-200) Fixed missing student username.
 

@@ -5,16 +5,29 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+## [v1.27.0] on March 17th, 2025
+- [NSA-4160](https://dyned.myjetbrains.com/youtrack/issue/NSA-4160) student can't edit mylessons though she got an notice"You have maximum mylesson tosave".
+- [NSA-4162](https://dyned.myjetbrains.com/youtrack/issue/NSA-4162) iOS: step 4 displays differently from Android.
+- [NSA-4200](https://dyned.myjetbrains.com/youtrack/issue/NSA-4200) Add header NS-Application-Name for each request to backend.
+- [NSA-4201](https://dyned.myjetbrains.com/youtrack/issue/NSA-4201) AE U3P1>Language Exercises>Focus Exercises: it shows different on iOS and fine on Android.
+- [NSA-4206](https://dyned.myjetbrains.com/youtrack/issue/NSA-4206) Add Account deletion request menu.
+
 ## [v1.26.0] on December 24th, 2024
+- [NSA-4124](https://dyned.myjetbrains.com/youtrack/issue/NSA-4124) neo prep+: Modify SR requirements for lower levels similar to neoJr+.
+- [NSA-4134](https://dyned.myjetbrains.com/youtrack/issue/NSA-4143) Account: Profile picture skewed.
+- [NSA-4136](https://dyned.myjetbrains.com/youtrack/issue/NSA-4136) neoFlight>B1+ >AE Unit 1> Part 1 ATIS 1: text pop ups work fine on Android but not on iOS.
+- [NSA-4137](https://dyned.myjetbrains.com/youtrack/issue/NSA-4137) neo flight: SR V1 not recognized on nsa and nso.
 - [NSA-4142](https://dyned.myjetbrains.com/youtrack/issue/NSA-4142)neoFlight>B1+ >AE Unit 1> Part 1 ATIS 2: the text 'r/w 28 closed' pops up on Android but not on iOS.
 - [NSA-4175](https://dyned.myjetbrains.com/youtrack/issue/NSA-4175) neoflight>AE U2 Part 2> Language Exercise>Key Phrases: two phrases are difficult to recognize.
 
 ## [v1.25.0] on November 19th, 2024
 - [NSA-4062](https://dyned.myjetbrains.com/youtrack/issue/NSA-4062) Fixed inconsistency between nSO and nSA - name for the lesson under teacher mode.
+- [NSA-4072](https://dyned.myjetbrains.com/youtrack/issue/NSA-4072) neo SR: Show 2 colors only: red and green (no black words) [ios].
 - [NSA-4073](https://dyned.myjetbrains.com/youtrack/issue/NSA-4073) Remaining points in the summary screen do not decrease even if the study record is successfully submitted.
 - [NSA-4082](https://dyned.myjetbrains.com/youtrack/issue/NSA-4082) Improve the Tester Menu Interface.
 - [NSA-4106](https://dyned.myjetbrains.com/youtrack/issue/NSA-4106) Unable to scroll journey page on ios.
 - [NSA-4107](https://dyned.myjetbrains.com/youtrack/issue/NSA-4107) Main Screen Cannot see expanded rocket screen.
+- [NSA-4114](https://dyned.myjetbrains.com/youtrack/issue/NSA-4114) neo+: Font size changes in MT fill-in-the-blank short passage dataset questions.
 - [NSA-4130](https://dyned.myjetbrains.com/youtrack/issue/NSA-4130) Unfolded MT screen no longer works.
 
 ## [V1.24.1] on July 29th, 2024

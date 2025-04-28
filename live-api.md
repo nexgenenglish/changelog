@@ -9,6 +9,10 @@ title: LIVE API
 
 # [v.1.1.19] on December 12th, 2024
 - [LIVEAPI-91](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-91) Updated the sms reminder for live.
+- [LIVEAPI-92](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-92) Fixed error rate coach.
+
+## [V.1.1.18] on November 28th, 2024
+- [LIVEAPI-89](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-89) Create the API available on LiveB2c project into Live API.
 
 # [v.1.1.17] on November 12th, 2024
 - [LIVEAPI-86](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-86) Reschedule session | the student can't reschedule the same date cause has already reached maximum booking.
@@ -51,6 +55,9 @@ title: LIVE API
 # [v.1.1.9] on August 21st, 2023
 - [LIVEAPI-54](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-54) Fixed issue for different coach's schedule between coach and student account.
 - [LIVEAPI-55](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-55) Disable buy token feature. 
+
+# [v.1.1.8] on August 23rd, 2023
+- [LIVEAPI-54](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-54) Students see their coach Karla O. Alvarado, but with an incomplete agenda.
 
 # [v.1.1.7] on May 9th, 2023
 - [LIVEAPI-47](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-47) Changed the backend URL with the new backend.

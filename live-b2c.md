@@ -5,6 +5,10 @@ title: neo Live B2C
 # Live B2C
 A website for neo students to study using Live Session.
 
+## [v.1.10.0] on February 25th, 2025
+- [NELB2C-1763](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1763) Issue with share screen button.
+- [NELB2C-1766](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1766) Message to Download on the Google Play.
+
 ## [v.1.3.4] on November 12th, 2024
 - [NELB2C-1541](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1541) Fixed error in Coaching Sessions.
 - [NELB2C-1679](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1679) A student can join a live session multiple times.
@@ -16,6 +20,7 @@ A website for neo students to study using Live Session.
 
 ## [v.1.3.3] on May 28th, 2024
 - [NELB2C-1712](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1712) Fixed Reschedule Button that is visible after the session rescheduled.
+- [NELB2C-1738](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1738) Change query get token raw API.
 
 ## [v.1.3.2] on October 23rd, 2023
 - [NELB2C-1677](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1677) Change the text displayed in My record for UCAS and Guanghua Plan only.
@@ -86,6 +91,7 @@ A website for neo students to study using Live Session.
 
 ## [v.1.1.19] on May 30th, 2022
 - [NELB2C-1431](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1431) Updated Layout Booking coach in desktop with new design.
+- [NELB2C-1432](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1432) Fixed echoes when sharing.
 - [NELB2C-1435](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1435) Updated Layout Booking coach in mobile with new design.
 - [NELB2C-1437](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1437) Fixed Agora PreCall test that not working properly in Firefox and Safari.
 - [NELB2C-1468](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1468) Updated token flow.

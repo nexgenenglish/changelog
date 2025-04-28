@@ -5,6 +5,9 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+# [1.6.20.3] on April 8th, 2025
+- [UD-4298](https://dyned.myjetbrains.com/youtrack/issue/UD-4298) Add options to select NSA Study type.
+
 # [1.6.20.2] on March 10th, 2025
 - [UD-4240](https://dyned.myjetbrains.com/youtrack/issue/UD-4240) The organization 'impact-zhongyuanhaineng2024.4.2025.3' may not be in the sub organization of Billing, because we could not find it in the billing report of Impact.
 

@@ -4,12 +4,32 @@ title: B2C Portal
 
 # B2C Portal
 
+## [v.1.1.38] on April 8th, 2025
+- [mns-866](https://dyned.myjetbrains.com/youtrack/issue/mns-866) Previous CT level are not open for student with menu type.
+
+## [v.1.1.37] on December 4th, 2024
+- [mns-860](https://dyned.myjetbrains.com/youtrack/issue/mns-860) Move Certificate Path to under User Image Path.
+- [mns-861](https://dyned.myjetbrains.com/youtrack/issue/mns-861) Error: Sorry, This page is Under Maintenance.
+
+## [v.1.1.36] on October 10th, 2024
+- [mns-857](https://dyned.myjetbrains.com/youtrack/issue/mns-857) Disable email delivery when generate-sr-report API is hit.
+
+## [v.1.1.35] on September 13th, 2024
+- [mns-854](https://dyned.myjetbrains.com/youtrack/issue/mns-854) Change all Cera font into Calibri.
+
+## [v.1.1.34] on July 23th, 2024
+- [mns-846](https://dyned.myjetbrains.com/youtrack/issue/mns-846) Include the email address in the error message when the email is invalid.
+- [mns-847](https://dyned.myjetbrains.com/youtrack/issue/mns-847) Email address already exists as student, because phone number validation is failed.
+- [mns-848](https://dyned.myjetbrains.com/youtrack/issue/mns-848) Coud you show the 'fullname' on profile?
+- [mns-850](https://dyned.myjetbrains.com/youtrack/issue/mns-850) The API to change the duration does not work correct.
+- [mns-852](https://dyned.myjetbrains.com/youtrack/issue/mns-852) Student can't Sign In in neo Study.
+- [mns-853](https://dyned.myjetbrains.com/youtrack/issue/mns-853) If creating student in organization with 'disable student after pt', the neo account using api to create will be disabled
+
 ## [v.1.1.32] on January 9th, 2023
 - [mns-839](https://dyned.myjetbrains.com/youtrack/issue/mns-839) Placement Test Tile on MNA 1.9.1 production error 500.
 - [mns-841](https://dyned.myjetbrains.com/youtrack/issue/mns-841) Prevent the same email for 2 roles.
 - [mns-842](https://dyned.myjetbrains.com/youtrack/issue/mns-842) Insert cp_id into b2cp_user_et.
 - [mns-844](https://dyned.myjetbrains.com/youtrack/issue/mns-844) Fixed inactive account after register from student tab.
-
 
 ## [v.1.1.31] on October 18th, 2023
 - [mns-832](https://dyned.myjetbrains.com/youtrack/issue/mns-832) Fixed issue for Reset Password.
@@ -42,7 +62,6 @@ title: B2C Portal
 - [mns-814](https://dyned.myjetbrains.com/youtrack/issue/mns-814) Set unlock status CT on bulk import API.
 - [mns-815](https://dyned.myjetbrains.com/youtrack/issue/mns-815) Co Branding logo on certificate.
 - [mns-821](https://dyned.myjetbrains.com/youtrack/issue/mns-821) Use eTest logo as default for certificate when toggle on.
-
 
 ## [v.1.1.24] on September 22nd, 2022
 - [MNS-807](https://dyned.myjetbrains.com/youtrack/issue/mns-807) Fixed neo Certificate PDFs that are not sized correctly.

@@ -33,6 +33,8 @@ A website for DynEd students and coaches to study using Live Session and also fo
 - [DELB2I-1366](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1366) Make the database connection port configurable.
 
 ## [v.1.1.24] on December 26th, 2022
+- [DELB2I-1360](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1360) Error in reporting account.
+- [DELB2I-1361](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1361) Error in Region Monitor account.
 - [DELB2I-1362](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1362) The chat does not work on live.
 - [DELB2I-1363](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1363) Session Recording.
 - [DELB2I-1364](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1364) Check different local time and server time.

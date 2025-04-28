@@ -10,6 +10,10 @@ title: SSO API
 # 1.5.3 on March 17th, 2025
 - [SSO-87](https://dyned.myjetbrains.com/youtrack/issue/SSO-87) Added logs for setting the expired date of organizaiton under API https://ssoapi.dyned.com.cn/organization/001-UKY-FOF-04Z-E83-3VJ.
 
+# 1.5.2 on February 13th, 2025
+- [SSO-85](https://dyned.myjetbrains.com/youtrack/issue/SSO-85) provide tca_enabled from organization/classes settings.
+- [SSO-86](https://dyned.myjetbrains.com/youtrack/issue/SSO-86) The log recorded for TCA settings change is not matching the events.
+
 # 1.5.1 on November 13th, 2024
 - [SSO-84](https://dyned.myjetbrains.com/youtrack/issue/SSO-84) Improve caching when select users from SSO
 
@@ -27,6 +31,7 @@ title: SSO API
 
 # 1.4.7 on November 8th, 2023
 - [SSO-71](https://dyned.myjetbrains.com/youtrack/issue/SSO-71) Fixed issue for keep prompting to change password.
+- [SSO-73](https://dyned.myjetbrains.com/youtrack/issue/SSO-73) Prevent the same email for 2 roles.
 
 # JWT v1.1.6 on August 31st, 2023
 - [SSO-69](https://dyned.myjetbrains.com/youtrack/issue/SSO-69) Fixed incorrect error message when the email account is typed with diacritics.

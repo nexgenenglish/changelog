@@ -11,6 +11,18 @@ Browser based neo Study
 ## [v.1.8.1] on February 6th, 2025
 - [nSO-1508](https://dyned.myjetbrains.com/youtrack/issue/nSO-1508) error: Submit Lesson Failed - nSO Staging.
 
+## [v.1.8.0] on February 27th, 2025
+- [nSO-1423](https://dyned.myjetbrains.com/youtrack/issue/nSO-1423) neoJr+: No Are you there speech.
+- [nSO-1428](https://dyned.myjetbrains.com/youtrack/issue/nSO-1428) neo SR: Show 2 colors only: red and green (no black words).
+- [nSO-1452](https://dyned.myjetbrains.com/youtrack/issue/nSO-1452) neo prep+: Modify SR requirements for lower levels similar to neoJr+.
+- [nSO-1483](https://dyned.myjetbrains.com/youtrack/issue/nSO-1483) Make the SOR available under my Certificate.
+- [nSO-1496](https://dyned.myjetbrains.com/youtrack/issue/nSO-1496) Validate TCA cookies when user try to access Placement Test.
+- [nSO-1497](https://dyned.myjetbrains.com/youtrack/issue/nSO-1497) NSO: step 4 displays differently from Android.
+- [nSO-1501](https://dyned.myjetbrains.com/youtrack/issue/nSO-1501) neoFlight: Submit Lesson Failed error.
+- [nSO-1502](https://dyned.myjetbrains.com/youtrack/issue/nSO-1502) neoFlight: Unit 1 Part 1 SR unrecognized words.
+- [nSO-1510](https://dyned.myjetbrains.com/youtrack/issue/nSO-1510) Incorrect time stamp in the study records.
+- [nSO-1511](https://dyned.myjetbrains.com/youtrack/issue/nSO-1511) Number of SR attempts is 2 instead of 3 during SR lesson.
+
 ## [v.1.7.1] on November 13th, 2024
 - [nSO-1388](https://dyned.myjetbrains.com/youtrack/issue/nSO-1388) Delete alert SR Incorrect, do you want to force correct? Cancel or OK on nSO that show up on screen.
 - [nSO-1356](https://dyned.myjetbrains.com/youtrack/issue/nSO-1356) Buttons disabled nSO.
@@ -89,7 +101,6 @@ Browser based neo Study
 - [nSO-1331](https://dyned.myjetbrains.com/youtrack/issue/nSO-1331) Fixed the lesson that is automatically repeated many times.
 - [nSO-1332](https://dyned.myjetbrains.com/youtrack/issue/nSO-1332) The fields flash and do not allow the user to select a word - Dialog - How are you?
 - [nSO-1333](https://dyned.myjetbrains.com/youtrack/issue/nSO-1333) Unable to complete the lesson- Carroll County Schools.
-
 
 ## [v.1.6.0] on February 16th, 2024
 - [nSO-1058](https://dyned.myjetbrains.com/youtrack/issue/nSO-1058) Change the backend URL with the new backend.
