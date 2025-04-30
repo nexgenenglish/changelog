@@ -12,6 +12,22 @@ Service (API) to manage all the Assements Test (Placement test or the Certificat
 ## [v.1.11.20] on April 14th, 2025
 - [ETAPI-200](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-200) Fixed missing student username.
 
+## [v.1.11.18] on April 13th, 2025
+- [ETAPI-183](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-183) eTest Server not available. Please contact your administrator.
+- [ETAPI-190](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-190) Placement Test is not working - COPRODELI - DOCENTES - Peru.
+- [ETAPI-191](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-191) Certification Test is not working - Grupo EduTech.
+- [ETAPI-192](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-192) Issue with Assessment Test -Edutech.
+- [ETAPI-193](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-193) Certification Test slow from device and computer -Edutech.
+- [ETAPI-194](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-194) Students can not take their assessment tests and certificate tests - IRCA.
+- [ETAPI-198](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-198) Fetch the latest PT result for student who moved automatically from neoJr to NeoPrep+ and did the neoprep+ PT.
+- [ETAPI-199](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-199) It seems that in CT of PreA1: P1 some answers are not showed entirely.
+
+## [v.1.11.16] on March 17th, 2025
+- [ETAPI-189](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-189) Fixed the api that does not work.
+
+## [v.1.11.14] on March 17th, 2025
+- [ETAPI-188](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-188) Option to Automatically move on from neojr+ to neoPrep+
+
 ## [v.1.11.9] on January 6th, 2025
 - [ETAPI-186](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-186) use cp_name from live_dev.dsa_cert_plans when sending request to interim when do a certificate request.
 

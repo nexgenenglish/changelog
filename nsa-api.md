@@ -12,6 +12,18 @@ Service (API) to manage neo Study App.
 # 1.2.1 on March 2nd, 2025
 - [NSAAPI-762](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-762) Fixed seamless login API that does not work.
 
+# 1.14.45 on April 27th, 2025
+- [NSAAPI-777](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-777) Fixed error: Certification Test - Error: Failed Download lesson. Please...
+- [NSAAPI-778](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-778) Fixed issue for can't do CT on ios device for on of the account.
+
+# 1.14.44 on April 22nd, 2025
+- [NSAAPI-776](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-776) Can't create all level after take force pt for Menu type.
+
+# 1.14.43 on April 22nd, 2025
+- [nsaapi-769](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-769) menu : Please remove the “preview” label For lessons that have only one step.
+- [NSAAPI-771](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-771) Improve the messaging when the CT is still locked when there's MT in the unit that hasn't been done.
+- [NSAAPI-772](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-772) Don't mark the Unit as completed when the MT is not done
+
 # 1.14.40 on February 24th, 2025
 - [NSAAPI-754](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-754) Points this week has incorrect value under the student's tab.
 - [NSAAPI-758](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-758)Option to Automatically move on from neojr+ to neoPrep+.

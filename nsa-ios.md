@@ -5,6 +5,28 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+## [v1.28.0] on April 22nd, 2025
+- [NSA-4231](https://dyned.myjetbrains.com/youtrack/issue/NSA-4231) Remove or hide Account deletion request menu for neoStudy cn version.
+- [NSA-4234](https://dyned.myjetbrains.com/youtrack/issue/NSA-4234) Change background from neojr+ to neoprep+.
+- [NSA-4235](https://dyned.myjetbrains.com/youtrack/issue/NSA-4235) Try Now: Speech Practice not working.
+- [NSA-4265](https://dyned.myjetbrains.com/youtrack/issue/NSA-4265) MENU: MT can be accessed even if it is not yet eligible to open MT.
+- [NSA-4271](https://dyned.myjetbrains.com/youtrack/issue/NSA-4271) MENU : The button X on entry screen lesson can't does not work.
+- [NSA-4272](https://dyned.myjetbrains.com/youtrack/issue/NSA-4272) MENU : when click button back "X" on summary screen, it will be directed to the home screen.
+- [NSA-4274](https://dyned.myjetbrains.com/youtrack/issue/NSA-4274) neoJr+: X back button no longer works.
+- [NSA-4278](https://dyned.myjetbrains.com/youtrack/issue/NSA-4278) neoJr+: Step Level Text is Preview only.
+- [NSA-4279](https://dyned.myjetbrains.com/youtrack/issue/NSA-4279) Title of Step 2 & 3 inconsistent.
+- [NSA-4297](https://dyned.myjetbrains.com/youtrack/issue/NSA-4297) neoPrep+: C1 Really Small Planet Icon.
+- [NSA-4305](https://dyned.myjetbrains.com/youtrack/issue/NSA-4305) neoPrep+: C1 back button screen refresh not working properly.
+- [NSA-4309](https://dyned.myjetbrains.com/youtrack/issue/NSA-4309) Neo+: error step titles for step 2-5.
+- [NSA-4312](https://dyned.myjetbrains.com/youtrack/issue/NSA-4312) neoJr+: Why is there a new planet on the screen?
+- [NSA-4313](https://dyned.myjetbrains.com/youtrack/issue/NSA-4313) neoPrep+: CT prompt at the wrong time after doing a Review Lesson.
+- [NSA-4318](https://dyned.myjetbrains.com/youtrack/issue/NSA-4318) The planet covers Unit name on iOS NSA 1.28.0 (2504071316) but on android it does not.
+- [NSA-4333](https://dyned.myjetbrains.com/youtrack/issue/NSA-4333) menu : after submitting the MT review, the page displayed is wrong.
+- [NSA-4338](https://dyned.myjetbrains.com/youtrack/issue/NSA-4338) X back button from Review Lesson not working.
+- [NSA-4340](https://dyned.myjetbrains.com/youtrack/issue/NSA-4340) neo+: Previous Scroll Up Header visible.
+- [NSA-4346](https://dyned.myjetbrains.com/youtrack/issue/NSA-4346) menu : account "menu" changes to account “main” when change application language in ios and can't study.
+- [NSA-4351](https://dyned.myjetbrains.com/youtrack/issue/NSA-4351) Crash when leaving app idle.
+
 ## [v1.27.0] on March 17th, 2025
 - [NSA-4160](https://dyned.myjetbrains.com/youtrack/issue/NSA-4160) student can't edit mylessons though she got an notice"You have maximum mylesson tosave".
 - [NSA-4162](https://dyned.myjetbrains.com/youtrack/issue/NSA-4162) iOS: step 4 displays differently from Android.

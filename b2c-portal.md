@@ -5,6 +5,7 @@ title: B2C Portal
 # B2C Portal
 
 ## [v.1.1.38] on April 8th, 2025
+- [mns-863](https://dyned.myjetbrains.com/youtrack/issue/mns-863) Student Certificates report still processing.
 - [mns-866](https://dyned.myjetbrains.com/youtrack/issue/mns-866) Previous CT level are not open for student with menu type.
 
 ## [v.1.1.37] on December 4th, 2024

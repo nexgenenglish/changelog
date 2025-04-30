@@ -5,6 +5,28 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.28.0] on April 22nd, 2025
+- [NSA-4224](https://dyned.myjetbrains.com/youtrack/issue/NSA-4224) Student reported neoStudy often crashed on Xiaomi phone--DE.
+- [NSA-4225](https://dyned.myjetbrains.com/youtrack/issue/NSA-4225) neoStudy ask student repeat the same lesson again and again--DE and impact.
+- [NSA-4229](https://dyned.myjetbrains.com/youtrack/issue/NSA-4229) Possible crash when closing dialog box.
+- [NSA-4230](https://dyned.myjetbrains.com/youtrack/issue/NSA-4230) Remove or hide Account deletion request menu for neoStudy cn version.
+- [NSA-4234](https://dyned.myjetbrains.com/youtrack/issue/NSA-4234) Change background from neojr+ to neoprep+.
+- [NSA-4278](https://dyned.myjetbrains.com/youtrack/issue/NSA-4278) neoJr+: Step Level Text is Preview only.
+- [NSA-4279](https://dyned.myjetbrains.com/youtrack/issue/NSA-4279) Title of Step 2 & 3 inconsistent.
+- [NSA-4280](https://dyned.myjetbrains.com/youtrack/issue/NSA-4280) For NSA_v1.28.0.2025.03.28-dev-cn, app crash after doing MT.
+- [NSA-4308](https://dyned.myjetbrains.com/youtrack/issue/NSA-4308) neo+>B1: engine crashed after clicking on the "X".
+- [NSA-4309](https://dyned.myjetbrains.com/youtrack/issue/NSA-4309) Neo+: error step titles for step 2-5.
+- [NSA-4312](https://dyned.myjetbrains.com/youtrack/issue/NSA-4312) neoJr+: Why is there a new planet on the screen?
+- [NSA-4315](https://dyned.myjetbrains.com/youtrack/issue/NSA-4315) No x button in the CT page.
+- [NSA-4318](https://dyned.myjetbrains.com/youtrack/issue/NSA-4318) The planet covers Unit name on iOS NSA 1.28.0 (2504071316) but on android it does not.
+- [NSA-4321](https://dyned.myjetbrains.com/youtrack/issue/NSA-4321) Android: different Lesson Menu text order.
+- [NSA-4331](https://dyned.myjetbrains.com/youtrack/issue/NSA-4331) on NSA_v1.28.0.2025.04.07-dev-cn,after MT, clicking home, app will dowload courses..
+- [NSA-4354](https://dyned.myjetbrains.com/youtrack/issue/NSA-4354) Comprehension Response is stuck on Android.
+- [NSA-4356](https://dyned.myjetbrains.com/youtrack/issue/NSA-4356) Overlapping text for lesson name.
+- [NSA-4358](https://dyned.myjetbrains.com/youtrack/issue/NSA-4358) nSA crash -Huawei P30 Lite.
+- [NSA-4365](https://dyned.myjetbrains.com/youtrack/issue/NSA-4365) There is no blue background on Text.
+- [NSA-4372](https://dyned.myjetbrains.com/youtrack/issue/NSA-4372) Certificate plan is not visible in Android on My Account page.
+
 ## [v1.27.0] on March 17th, 2025
 - [NSA-4200](https://dyned.myjetbrains.com/youtrack/issue/NSA-4200) Add header NS-Application-Name for each request to backend.
 - [NSA-4206](https://dyned.myjetbrains.com/youtrack/issue/NSA-4206) Add Account deletion request menu.

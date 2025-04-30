@@ -9,7 +9,12 @@ Browser based neo Study
 - [nSO-1540](https://dyned.myjetbrains.com/youtrack/issue/nSO-1540) The TCA is not checked if taking the PT link within expanded points menu.
 
 ## [v.1.8.1] on February 6th, 2025
+- [nSO-1251](https://dyned.myjetbrains.com/youtrack/issue/nSO-1251) Screen is not auto scaling, you need to scroll down - Ultrakids.
+- [nSO-1416](https://dyned.myjetbrains.com/youtrack/issue/nSO-1416) neoJr+: L2U7Game Clocks does not stop.
+- [nSO-1504](https://dyned.myjetbrains.com/youtrack/issue/nSO-1504) neoFlight: U1P2 Step 2 Display Text under Repeat and Text buttons.
 - [nSO-1508](https://dyned.myjetbrains.com/youtrack/issue/nSO-1508) error: Submit Lesson Failed - nSO Staging.
+- [nSO-1532](https://dyned.myjetbrains.com/youtrack/issue/nSO-1532) neoJr+: CT Review Lesson tile is too big.
+- [nSO-1533](https://dyned.myjetbrains.com/youtrack/issue/nSO-1533) neoJr+: CT Review Lesson blank.
 
 ## [v.1.8.0] on February 27th, 2025
 - [nSO-1423](https://dyned.myjetbrains.com/youtrack/issue/nSO-1423) neoJr+: No Are you there speech.

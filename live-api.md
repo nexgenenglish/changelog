@@ -4,6 +4,9 @@ title: LIVE API
 
 # LIVE API
 
+# [v.1.1.21] on April 22nd, 2025
+- [LIVEAPI-94](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-94) Move sms to interim.
+
 # [v.1.1.20] on January 27th, 2025
 - [LIVEAPI-93](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-93) Error failed to download video.
 
