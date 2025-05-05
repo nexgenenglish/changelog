@@ -9,6 +9,22 @@ A website for neo students to study using Live Session.
 - [NELB2C-1763](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1763) Issue with share screen button.
 - [NELB2C-1766](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1766) Message to Download on the Google Play.
 
+## [v.1.3.7] on May 1st, 2025
+- [NELB2C-1775](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1775) Numbers overlapping from the students’ view of their My Records - SIS VanPhuc.
+- [NELB2C-1776](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1776) Change Cera fonts into Goli.
+- [NELB2C-1777](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1777) Mastery Tests records are not displayed on "MyRecords".
+- [NELB2C-1778](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1778) For menu account,in my records, Study Percentages in Level- Last 4Weeks show unnormal.
+
+## [v.1.3.6] on April 13th, 2025
+- [NELB2C-1773](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1773) Fixed neoJr+: MyRecords PHP Error.
+- [NELB2C-1774](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1774) Create new MyRecords template (html + css).
+
+## [v.1.3.5] on November 3rd, 2024
+- [NELB2C-1753](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1753) Make "Please Check Network Before Join" font colored red
+- [NELB2C-1758](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1758) Fixed neoJr: MyRecords Error 404.
+- [NELB2C-1763](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1763) Fixed issue with share screen button.
+- [NELB2C-1766](ps://dyned.myjetbrains.com/youtrack/issue/NELB2C-1766) Message to Download on the Google Play.
+
 ## [v.1.3.4] on November 12th, 2024
 - [NELB2C-1541](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1541) Fixed error in Coaching Sessions.
 - [NELB2C-1679](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1679) A student can join a live session multiple times.
