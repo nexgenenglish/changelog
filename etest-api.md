@@ -5,6 +5,10 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## [v.1.11.22] on April 20th, 2025
+- [ETAPI-203](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-203) Though choosing "Issue certificates automatically after Certification Test', Certification is not issued automatically--leader.
+- [ETAPI-205](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-205) Open CT for chenzhanfeng@xiesa-cn.com. Because student report when entering CT, app didn't let him do and give him 0 directly--langyi.
+
 ## [v.1.11.21] on April 15th, 2025
 - [ETAPI-201](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-201) Fixed issue: unable to take CT test.
 - [ETAPI-202](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-202) Fixed CT issue in the Second Attempt.

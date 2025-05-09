@@ -26,6 +26,8 @@ neo Study application for Android
 - [NSA-4358](https://dyned.myjetbrains.com/youtrack/issue/NSA-4358) nSA crash -Huawei P30 Lite.
 - [NSA-4365](https://dyned.myjetbrains.com/youtrack/issue/NSA-4365) There is no blue background on Text.
 - [NSA-4372](https://dyned.myjetbrains.com/youtrack/issue/NSA-4372) Certificate plan is not visible in Android on My Account page.
+- [NSA-4385](https://dyned.myjetbrains.com/youtrack/issue/NSA-4385) Xiaomi reject NSA_v1.28.0.2025.04.16-prod-cn because neo Privacy Policy is English.
+- [NSA-4389](https://dyned.myjetbrains.com/youtrack/issue/NSA-4389) Huawei app store reject NSA_v1.28.0.2025.04.16-prod-cn because app crashed when clicking "try now".
 
 ## [v1.27.0] on March 17th, 2025
 - [NSA-4200](https://dyned.myjetbrains.com/youtrack/issue/NSA-4200) Add header NS-Application-Name for each request to backend.

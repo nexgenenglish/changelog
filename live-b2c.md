@@ -14,6 +14,7 @@ A website for neo students to study using Live Session.
 - [NELB2C-1776](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1776) Change Cera fonts into Goli.
 - [NELB2C-1777](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1777) Mastery Tests records are not displayed on "MyRecords".
 - [NELB2C-1778](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1778) For menu account,in my records, Study Percentages in Level- Last 4Weeks show unnormal.
+- [NELB2C-1779](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1779) The student report the weekly report is not correct -- DE.
 
 ## [v.1.3.6] on April 13th, 2025
 - [NELB2C-1773](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1773) Fixed neoJr+: MyRecords PHP Error.
