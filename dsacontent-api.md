@@ -4,6 +4,9 @@ title: DSA Content API
 
 # DSA Content API
 
+## [v.1.1.25] on May 12th, 2025
+- [DSACAPI-15](https://dyned.myjetbrains.com/youtrack/issue/DSACAPI-15) Internal server Error - tester accounts.
+
 ## [v.1.1.24] on April 27th, 2025
 - [DSACAPI-14](https://dyned.myjetbrains.com/youtrack/issue/DSACAPI-14) Fixed issue for the account with teacher's role that cannot access lesson.
 
