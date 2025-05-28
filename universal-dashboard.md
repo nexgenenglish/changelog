@@ -5,6 +5,30 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+# [1.6.21] on May 26th, 2025
+- [UD-2608](https://dyned.myjetbrains.com/youtrack/issue/UD-2608) Performance issue when editing classes.
+- [UD-3279](https://dyned.myjetbrains.com/youtrack/issue/UD-3279) Add a button in UD to reinsert already generated certificate ID.
+- [UD-3405](https://dyned.myjetbrains.com/youtrack/issue/UD-3405) Display organization name instead of UIC in search page.
+- [UD-3827](https://dyned.myjetbrains.com/youtrack/issue/UD-3827) Change course level and expiration date for student accounts in a class. 
+- [UD-3847](https://dyned.myjetbrains.com/youtrack/issue/UD-3847) Students certificate(s) is in progress.
+- [UD-4009](https://dyned.myjetbrains.com/youtrack/issue/UD-4009) New design for MyRecords PDF in nD & student accounts.
+- [UD-4060](https://dyned.myjetbrains.com/youtrack/issue/UD-4060) How to disable send notification.
+- [UD-4195](https://dyned.myjetbrains.com/youtrack/issue/UD-4195) Dialog box does not close automatically after 24 hours: "Report of generate earned ..."
+- [UD-4229](https://dyned.myjetbrains.com/youtrack/issue/UD-4229) Bulk change students account with exceptions.
+- [UD-4258](https://dyned.myjetbrains.com/youtrack/issue/UD-4258) My Records. The total number of points is not visible.
+- [UD-4261](https://dyned.myjetbrains.com/youtrack/issue/UD-4261) Unable to close dialog box after generating My Records Report.
+- [UD-4262](https://dyned.myjetbrains.com/youtrack/issue/UD-4262) newMyRecords: Print pdf not single page A4.
+- [UD-4282](https://dyned.myjetbrains.com/youtrack/issue/UD-4282) Add a dropdown menu to select the specific student plan / all plan that student has in student detail page.
+- [UD-4313](https://dyned.myjetbrains.com/youtrack/issue/UD-4313) MyRecords Report did not contain all the students in a class.
+- [UD-4314](https://dyned.myjetbrains.com/youtrack/issue/UD-4314) Add MyRecords in the reports history.
+- [UD-4332](https://dyned.myjetbrains.com/youtrack/issue/UD-4332) It takes a long time to create a new class - UNI - UPH.
+- [UD-4361](https://dyned.myjetbrains.com/youtrack/issue/UD-4361) Your account has been temporarily disabled. Please contact your Administrator for 15079163590@witsbox.com
+- [UD-4366](https://dyned.myjetbrains.com/youtrack/issue/UD-4366) Summary Report in process for more than 30 minutes.
+- [UD-4374](https://dyned.myjetbrains.com/youtrack/issue/UD-4374) Could you please update the SMS signature?
+- [UD-4379](https://dyned.myjetbrains.com/youtrack/issue/UD-4379) 500 Whoops, something went wrong on our servers, when the admin user try to edit the classes.
+- [UD-4381](https://dyned.myjetbrains.com/youtrack/issue/UD-4381) 500 Whoops, something went wrong on our servers when the admin user try to create a class.
+- [UD-4391](https://dyned.myjetbrains.com/youtrack/issue/UD-4391) Neo Universal Dashboard Whoops! Something went wrong. Please contact webmaster for further details.
+
 # [1.6.20.3] on April 8th, 2025
 - [UD-4298](https://dyned.myjetbrains.com/youtrack/issue/UD-4298) Add options to select NSA Study type.
 

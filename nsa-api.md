@@ -12,6 +12,12 @@ Service (API) to manage neo Study App.
 # 1.2.1 on March 2nd, 2025
 - [NSAAPI-762](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-762) Fixed seamless login API that does not work.
 
+# 1.14.49 May 26th, 2025
+- [NSAAPI-785](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-785) Make the unit picture link taken from CDN link.
+
+# 1.14.48 on May 26th, 2025
+- [NSAAPI-781](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-781) Make the myrecords API accept level parameter.
+
 # 1.14.46 on May 1st, 2025
 - [NSAAPI-779](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-779) neoPrep+>C1-Bridge>Unit 4：Listening 7 should be learned first and then Language Skills 7.
 
