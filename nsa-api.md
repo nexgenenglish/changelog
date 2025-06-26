@@ -9,8 +9,15 @@ Service (API) to manage neo Study App.
 - [NSAAPI-766](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-766) Fix error in main screen that keep showing MT button even after student has taken MT.
 - [NSAAPI-767](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-767) 500 - Internal server Error.
 
-# 1.2.1 on March 2nd, 2025
+# JWT 1.2.3 on June 24th, 2025
+- [NSAAPI-786](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-786) it pops up "Send Study Record Failed".
+
+# JWT 1.2.1 on March 2nd, 2025
 - [NSAAPI-762](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-762) Fixed seamless login API that does not work.
+
+# 1.14.50 on June 24th, 2025
+- [NSAAPI-783](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-783) Make all the values in percentage rounded up for the data percentage in each of the reports.
+- [NSAAPI-793](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-793) new menu: Missing SR Levels menu item.
 
 # 1.14.49 May 26th, 2025
 - [NSAAPI-785](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-785) Make the unit picture link taken from CDN link.

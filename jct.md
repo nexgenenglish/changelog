@@ -5,6 +5,9 @@ title: JCT
 # JCT
 **JCT** is an interactive web based application interface where a team of course designer setup and create DynEd Course Study that will be used by neo Study App.
 
+## [V.1.2.31] on May 30th, 2025
+- [JCT-216](https://dyned.myjetbrains.com/youtrack/issue/JCT-216) When trying to replace an audio on JCT, the replaced audio can't be selected.
+
 ## [V.1.2.29] on April 6th, 2025
 - [JCT-215](https://dyned.myjetbrains.com/youtrack/issue/JCT-215) Add unit image set mechanisme for displayed in NSA menu as unit icon.
 

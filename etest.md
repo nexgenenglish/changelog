@@ -8,6 +8,9 @@ Application for Assessment Tests (Placement Tests or Certification Tests) system
 ## [2.18.19] on September 28th, 2024
 - [ET-522](https://dyned.myjetbrains.com/youtrack/issue/ET-522) Add the ICP code at the bottom.
 
+## [2.10.28] on June 2nd, 2025
+- [ET-566](https://dyned.myjetbrains.com/youtrack/issue/ET-566) The language for ept is not matched -- DE.
+
 ## [2.10.26] on April 8th, 2025
 - [ET-560](https://dyned.myjetbrains.com/youtrack/issue/ET-560) neo+>A2>Unit 6>CT: Error message pops up on iOS and stuck on Android.
 

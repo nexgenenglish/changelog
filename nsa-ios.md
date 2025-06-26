@@ -5,6 +5,29 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+## [v1.28.1] on June 17th, 2025
+- [NSA-4261](https://dyned.myjetbrains.com/youtrack/issue/NSA-4261) There should be some gap here.
+- [NSA-4285](https://dyned.myjetbrains.com/youtrack/issue/NSA-4285) neoPrep+: B1 Unit 6 Default icons.
+- [NSA-4286](https://dyned.myjetbrains.com/youtrack/issue/NSA-4286) neoPrep+: B1 Unit 9 Default icons.
+- [NSA-4288](https://dyned.myjetbrains.com/youtrack/issue/NSA-4288) neoPrep+: B1+ Unit 2 Default icons.
+- [NSA-4289](https://dyned.myjetbrains.com/youtrack/issue/NSA-4289) neoPrep+: B1+ U5 Default icons.
+- [NSA-4290](https://dyned.myjetbrains.com/youtrack/issue/NSA-4290) neoPrep+: B2 Unit 3 Default icons.
+- [NSA-4292](https://dyned.myjetbrains.com/youtrack/issue/NSA-4292) neoPrep+ : B2 Unit 6 Default icons.
+- [NSA-4293](https://dyned.myjetbrains.com/youtrack/issue/NSA-4293) neoPrep+: B2+ Unit 1 Default icons.
+- [NSA-4294](https://dyned.myjetbrains.com/youtrack/issue/NSA-4294) neoPrep+: B2+ Unit 4 Default icons.
+- [NSA-4296](https://dyned.myjetbrains.com/youtrack/issue/NSA-4296) neoPrep+: C1 Unit 1 Default icons.
+- [NSA-4298](https://dyned.myjetbrains.com/youtrack/issue/NSA-4298) neoPrep+: C1 Unit 5 Default icons.
+- [NSA-4353](https://dyned.myjetbrains.com/youtrack/issue/NSA-4353) neo+: C1 head pics chopped on iPad.
+- [NSA-4364](https://dyned.myjetbrains.com/youtrack/issue/NSA-4364) neo new version: The picture on top of the unit interface is too big..
+- [NSA-4369](https://dyned.myjetbrains.com/youtrack/issue/NSA-4369) Welcome Assessment Test Alert box disappeared.
+- [NSA-4376](https://dyned.myjetbrains.com/youtrack/issue/NSA-4376) No indication that you need to scroll down to see all the lessons.
+- [NSA-4381](https://dyned.myjetbrains.com/youtrack/issue/NSA-4381) Change CERA font into Goli.
+- [NSA-4395](https://dyned.myjetbrains.com/youtrack/issue/NSA-4395) For menu account, when doing PT, if I click not now, I can't go back to the screen of doing pt.
+- [NSA-4441](https://dyned.myjetbrains.com/youtrack/issue/NSA-4441) Bottom of screen can't show clearly.
+- [NSA-4445](https://dyned.myjetbrains.com/youtrack/issue/NSA-4445) new menu: Lessons displayed in random order.
+- [NSA-4461](https://dyned.myjetbrains.com/youtrack/issue/NSA-4461) iOS: the text in reading passages seems not as bold as on Android.
+- [NSA-4474](https://dyned.myjetbrains.com/youtrack/issue/NSA-4474) new menu: Wrong Number of Steps.
+
 ## [v1.28.0] on April 22nd, 2025
 - [NSA-4231](https://dyned.myjetbrains.com/youtrack/issue/NSA-4231) Remove or hide Account deletion request menu for neoStudy cn version.
 - [NSA-4234](https://dyned.myjetbrains.com/youtrack/issue/NSA-4234) Change background from neojr+ to neoprep+.

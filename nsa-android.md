@@ -5,6 +5,22 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.28.1] on June 17th, 2025
+- [NSA-3948](https://dyned.myjetbrains.com/youtrack/issue/NSA-3948) null mediaplayerError.00210.mp3.
+- [NSA-4261](https://dyned.myjetbrains.com/youtrack/issue/NSA-4261) There should be some gap here.
+- [NSA-4376](https://dyned.myjetbrains.com/youtrack/issue/NSA-4376) No indication that you need to scroll down to see all the lessons.
+- [NSA-4381](https://dyned.myjetbrains.com/youtrack/issue/NSA-4381) Change CERA font into Goli.
+- [NSA-4395](https://dyned.myjetbrains.com/youtrack/issue/NSA-4395) For menu account, when doing PT, if I click not now, I can't go back to the screen of doing pt.
+- [NSA-4402](https://dyned.myjetbrains.com/youtrack/issue/NSA-4402) The student report is crashed during study -- DE.
+- [NSA-4405](https://dyned.myjetbrains.com/youtrack/issue/NSA-4405) It pops up the error during study -- DE.
+- [NSA-4410](https://dyned.myjetbrains.com/youtrack/issue/NSA-4410) neoPrep+>B2>U4 (refer to RFS U15)> Dictation, sentences are not fully displayed..
+- [NSA-4412](https://dyned.myjetbrains.com/youtrack/issue/NSA-4412) Text for "Mastery Test" does not show completely.
+- [NSA-4420](https://dyned.myjetbrains.com/youtrack/issue/NSA-4420) neoJr+: text covered by the function buttons..
+- [NSA-4435](https://dyned.myjetbrains.com/youtrack/issue/NSA-4435) Android: correct answer is wrong for the first try.
+- [NSA-4448](https://dyned.myjetbrains.com/youtrack/issue/NSA-4448) Error null - MediaPlayerError: 04780.mp3.
+- [NSA-4450](https://dyned.myjetbrains.com/youtrack/issue/NSA-4450) Message to take the Assessment Test is coming up after completing the test.
+- [NSA-4474](https://dyned.myjetbrains.com/youtrack/issue/NSA-4474) new menu: Wrong Number of Steps.
+
 ## [v1.28.0] on April 22nd, 2025
 - [NSA-4224](https://dyned.myjetbrains.com/youtrack/issue/NSA-4224) Student reported neoStudy often crashed on Xiaomi phone--DE.
 - [NSA-4225](https://dyned.myjetbrains.com/youtrack/issue/NSA-4225) neoStudy ask student repeat the same lesson again and again--DE and impact.
