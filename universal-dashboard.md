@@ -5,6 +5,9 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+# [1.6.21.1] on July 7th, 2025
+- [UD-4399](https://dyned.myjetbrains.com/youtrack/issue/UD-4399) API to Print MyRecords from B2C.
+
 # [1.6.21] on May 26th, 2025
 - [UD-2608](https://dyned.myjetbrains.com/youtrack/issue/UD-2608) Performance issue when editing classes.
 - [UD-3279](https://dyned.myjetbrains.com/youtrack/issue/UD-3279) Add a button in UD to reinsert already generated certificate ID.

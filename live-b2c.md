@@ -9,6 +9,14 @@ A website for neo students to study using Live Session.
 - [NELB2C-1763](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1763) Issue with share screen button.
 - [NELB2C-1766](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1766) Message to Download on the Google Play.
 
+## [v.1.3.8] on July 6th, 2025
+- [NELB2C-1782](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1782) Text overlaps under MyRecords -Earned Study points.
+- [NELB2C-1783](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1783) Improvement-Allow for MyRecords to be print it via nso/nsa.
+- [NELB2C-1785](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1785) MyRecords: Different Certificates Awarded displayed in ud vs nsa/nso.
+- [NELB2C-1786](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1786) My Records has a different plan of certification between Dashboard and nSO - Prod. server.
+- [NELB2C-1788](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1788) MyRecords: Wrong Mastery Test count in nsa/nso.
+- [NELB2C-1789](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1789) MyRecords: Need smaller percent format.
+
 ## [v.1.3.7] on May 1st, 2025
 - [NELB2C-1775](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1775) Numbers overlapping from the students’ view of their My Records - SIS VanPhuc.
 - [NELB2C-1776](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1776) Change Cera fonts into Goli.
