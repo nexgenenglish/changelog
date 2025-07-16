@@ -15,6 +15,9 @@ Service (API) to manage neo Study App.
 # JWT 1.2.1 on March 2nd, 2025
 - [NSAAPI-762](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-762) Fixed seamless login API that does not work.
 
+# 1.14.51 on July 13th, 2025
+- [NSAAPI-802](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-802) Reject a study data submitted when the student level is changed mid lesson.
+
 # 1.14.50 on June 24th, 2025
 - [NSAAPI-783](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-783) Make all the values in percentage rounded up for the data percentage in each of the reports.
 - [NSAAPI-793](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-793) new menu: Missing SR Levels menu item.
