@@ -8,6 +8,12 @@ Application for Assessment Tests (Placement Tests or Certification Tests) system
 ## [2.18.19] on September 28th, 2024
 - [ET-522](https://dyned.myjetbrains.com/youtrack/issue/ET-522) Add the ICP code at the bottom.
 
+## [2.10.30] on June 18th, 2025
+- [ET-569](https://dyned.myjetbrains.com/youtrack/issue/ET-569) Can't click start test after change language.
+
+## [2.10.29] on June 10th, 2025
+- [ET-568](https://dyned.myjetbrains.com/youtrack/issue/ET-568) The dial code cannot change with geographic location.
+
 ## [2.10.28] on June 2nd, 2025
 - [ET-566](https://dyned.myjetbrains.com/youtrack/issue/ET-566) The language for ept is not matched -- DE.
 

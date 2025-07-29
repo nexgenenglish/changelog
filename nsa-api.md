@@ -15,12 +15,19 @@ Service (API) to manage neo Study App.
 # JWT 1.2.1 on March 2nd, 2025
 - [NSAAPI-762](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-762) Fixed seamless login API that does not work.
 
+# 1.14.52 on July 20th, 2025
+- [NSAAPI-806](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-806) Menu version -- Make it unaccessable for the levels upper than current level.
+- [NSAAPI-807](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-807) Add unit completion data for student in menu type for my record page.
+- [NSAAPI-810](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-810) new menu: MyRecords Mastery Tests status.
+
 # 1.14.51 on July 13th, 2025
 - [NSAAPI-802](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-802) Reject a study data submitted when the student level is changed mid lesson.
+- [NSAAPI-804](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-804) Next Study Button will display an error review_exit_test_unlocked.
 
 # 1.14.50 on June 24th, 2025
 - [NSAAPI-783](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-783) Make all the values in percentage rounded up for the data percentage in each of the reports.
 - [NSAAPI-793](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-793) new menu: Missing SR Levels menu item.
+- [NSAAPI-798](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-798) Unable to load CT STG
 
 # 1.14.49 May 26th, 2025
 - [NSAAPI-785](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-785) Make the unit picture link taken from CDN link.

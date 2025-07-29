@@ -4,6 +4,9 @@ title: SSO API
 
 # SSO API
 
+# 1.5.5 on July 10th, 2025
+- [SSO-89](https://dyned.myjetbrains.com/youtrack/issue/SSO-89) Please record change password from UD to SSO log.
+
 # 1.5.4 on April 8th, 2025
 - [SSO-88](https://dyned.myjetbrains.com/youtrack/issue/SSO-88) Add options to select NSA Study type.
 
