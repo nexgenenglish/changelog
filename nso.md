@@ -5,6 +5,75 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study 
 
+## [v.1.9.0] on July 30th, 2025
+- [nSO-1360](https://dyned.myjetbrains.com/youtrack/issue/nSO-1360) neoJr+: L3U5Game repeats dataset when interrupted.
+- [nSO-1421](https://dyned.myjetbrains.com/youtrack/issue/nSO-1421) Error syncing when nSO page expires due to inactivity.
+- [nSO-1466](https://dyned.myjetbrains.com/youtrack/issue/nSO-1466) There are 3 rockets when logging in.
+- [nSO-1512](https://dyned.myjetbrains.com/youtrack/issue/nSO-1512) neo with Menu Option mode.
+- [nSO-1531](https://dyned.myjetbrains.com/youtrack/issue/nSO-1531) neoJr+: CT Review Lessons status not updating.
+- [nSO-1543](https://dyned.myjetbrains.com/youtrack/issue/nSO-1543) Certification Test button is enabled before completing the content.
+- [nSO-1544](https://dyned.myjetbrains.com/youtrack/issue/nSO-1544) New menu: There is no indication that the step has been completed.
+- [nSO-1545](https://dyned.myjetbrains.com/youtrack/issue/nSO-1545) New menu: Unable to access the Mastery Test.
+- [nSO-1546](https://dyned.myjetbrains.com/youtrack/issue/nSO-1546) New menu nso: no Welcome to the PT alert box.
+- [nSO-1547](https://dyned.myjetbrains.com/youtrack/issue/nSO-1547) Show the imagen for 200 * 200 in the steps of the unit 3.
+- [nSO-1548](https://dyned.myjetbrains.com/youtrack/issue/nSO-1548) APP_DEBUG is set to true while APP_ENV is not local This could make your application vulnerable to remote execution. Read more about Ignition security. /var/www/nso/.
+- [nSO-1550](https://dyned.myjetbrains.com/youtrack/issue/nSO-1550) New menu nso neoJr: Need to remove step label from one-step lessons.
+- [nSO-1555](https://dyned.myjetbrains.com/youtrack/issue/nSO-1555) New menu nso neojr: Step label only says "Review".
+- [nSO-1558](https://dyned.myjetbrains.com/youtrack/issue/nSO-1558) New menu neojr: need larger A1:P1 icon and font.
+- [nSO-1561](https://dyned.myjetbrains.com/youtrack/issue/nSO-1561) New menu: Lesson Menu pic too big.
+- [nSO-1562](https://dyned.myjetbrains.com/youtrack/issue/nSO-1562) New menu: Unit icon not updating.
+- [nSO-1563](https://dyned.myjetbrains.com/youtrack/issue/nSO-1563) new menu: Unit icons are square.
+- [nSO-1564](https://dyned.myjetbrains.com/youtrack/issue/nSO-1564) New menu: CEFR Level icon used as default icon in Lesson Menu page.
+- [nSO-1565](https://dyned.myjetbrains.com/youtrack/issue/nSO-1565) Login error alert box visible.
+- [nSO-1566](https://dyned.myjetbrains.com/youtrack/issue/nSO-1566) New menu: CEFR Levels not locked.
+- [nSO-1574](https://dyned.myjetbrains.com/youtrack/issue/nSO-1574) New menu: Width of menu is too wide.
+- [nSO-1575](https://dyned.myjetbrains.com/youtrack/issue/nSO-1575) Exclamation mark in the Review Lessons should be changed to an "i".
+- [nSO-1576](https://dyned.myjetbrains.com/youtrack/issue/nSO-1576) Audio issue with Mastery test before completing - UNI - UPH.
+- [nSO-1585](https://dyned.myjetbrains.com/youtrack/issue/nSO-1585) neoPrep+: A2+ not loading Error 500 DEV.
+- [nSO-1586](https://dyned.myjetbrains.com/youtrack/issue/nSO-1586) New menu: ReferenceError: summaryScreen is not defined.
+- [nSO-1587](https://dyned.myjetbrains.com/youtrack/issue/nSO-1587) Welcome Assessment Test Alert box disappeared.
+- [nSO-1590](https://dyned.myjetbrains.com/youtrack/issue/nSO-1590) New menu: Uncaught TypeError.
+- [nSO-1592](https://dyned.myjetbrains.com/youtrack/issue/nSO-1592) New menu: stuck at End of Lesson screen.
+- [nSO-1594](https://dyned.myjetbrains.com/youtrack/issue/nSO-1594) Account: Email field overlaps Certification Plan field.
+- [nSO-1598](https://dyned.myjetbrains.com/youtrack/issue/nSO-1598) New menu: Resume Exit Screen visible after signin.
+- [nSO-1599](https://dyned.myjetbrains.com/youtrack/issue/nSO-1599) Error 504 APP_DEBUG APP_ENV error.
+- [nSO-1600](https://dyned.myjetbrains.com/youtrack/issue/nSO-1600) Error 419 Page expired.
+- [nSO-1602](https://dyned.myjetbrains.com/youtrack/issue/nSO-1602) New menu: Missing MyCertificates in Hamburger Menu.
+- [nSO-1604](https://dyned.myjetbrains.com/youtrack/issue/nSO-1604) new menu: Show/hide SR Levels and MyCertificates menu item.
+- [nSO-1605](https://dyned.myjetbrains.com/youtrack/issue/nSO-1605) Questions repeat at the end of the Mastery Test -Colegio Los Ángeles.
+- [nSO-1607](https://dyned.myjetbrains.com/youtrack/issue/nSO-1607) Audio overlapped during the MT - Colegio Los Ángeles.
+- [nSO-1608](https://dyned.myjetbrains.com/youtrack/issue/nSO-1608) New menu: nso step alert box header.
+- [nSO-1613](https://dyned.myjetbrains.com/youtrack/issue/nSO-1613) New menu: done CT Review Lessons not opaque.
+- [nSO-1614](https://dyned.myjetbrains.com/youtrack/issue/nSO-1614) New menu: neoPrep A1 U7 Listening no graphics.
+- [nSO-1618](https://dyned.myjetbrains.com/youtrack/issue/nSO-1618) New menu: nso header width too wide.
+- [nSO-1619](https://dyned.myjetbrains.com/youtrack/issue/nSO-1619) Uncaught SyntaxError when loading step 3 lesson neo Jr / Step 4 neo Prep+.
+- [nSO-1620](https://dyned.myjetbrains.com/youtrack/issue/nSO-1620) New menu: CT Review Lesson Congrats Blank Test.
+- [nSO-1623](https://dyned.myjetbrains.com/youtrack/issue/nSO-1623) Graphic overlap for MyLessons.
+- [nSO-1624](https://dyned.myjetbrains.com/youtrack/issue/nSO-1624) The text is outside the box.
+- [nSO-1626](https://dyned.myjetbrains.com/youtrack/issue/nSO-1626) in staging-nso, "sign out" in menu can't not be clicked.
+- [nSO-1628])https://dyned.myjetbrains.com/youtrack/issue/nSO-1628) New menu: App in frozen state after resizing window.
+- [nSO-1630](https://dyned.myjetbrains.com/youtrack/issue/nSO-1630) For staging nso, there is no points after finishing neojr+A1:P1-Unit1-Song(where is eddy?)-step1.
+- [nSO-1631](https://dyned.myjetbrains.com/youtrack/issue/nSO-1631) Can't see myrecords page for staging nso.
+- [nSO-1632](https://dyned.myjetbrains.com/youtrack/issue/nSO-1632) The width of the box displaying the course name is different from that of the box for playing the course for staging nso.
+- [nSO-1636](https://dyned.myjetbrains.com/youtrack/issue/nSO-1636) New menu: neoJr+ PreA1:P1>Unit 2: no check mark for this unit.
+- [nSO-1637](https://dyned.myjetbrains.com/youtrack/issue/nSO-1637) New menu: SR Text behind graphic.
+- [nSO-1638](https://dyned.myjetbrains.com/youtrack/issue/nSO-1638) MENU : Mastery Test and Repeat Lesson Buttons Are Unresponsive When Clicked.
+- [nSO-1640](https://dyned.myjetbrains.com/youtrack/issue/nSO-1640) The repeat button does not work.
+- [nSO-1641](https://dyned.myjetbrains.com/youtrack/issue/nSO-1641) new menu: The points shown with nso is not correct.
+- [nSO-1642](https://dyned.myjetbrains.com/youtrack/issue/nSO-1642) New Menu：neoJr+ Pre A1:P1>Unit 5>Grammar>Yes/No: can't run properly.
+- [nSO-1644](https://dyned.myjetbrains.com/youtrack/issue/nSO-1644) It always loading while click the 'step 3 record'.
+- [nSO-1652](https://dyned.myjetbrains.com/youtrack/issue/nSO-1652) Text does not fit on the boxes.
+- [nSO-1657](https://dyned.myjetbrains.com/youtrack/issue/nSO-1657) New menu: Mastery Test button unlocked and unit not completed.
+- [nSO-1659](https://dyned.myjetbrains.com/youtrack/issue/nSO-1659) Text does not fit on the text box.
+- [nSO-1662](https://dyned.myjetbrains.com/youtrack/issue/nSO-1662) New menu: Repeat button for nSA type menu on nSO.
+- [nSO-1664](https://dyned.myjetbrains.com/youtrack/issue/nSO-1664) Error 404 after completing the MT.
+- [nSO-1669](https://dyned.myjetbrains.com/youtrack/issue/nSO-1669) New menu - Repeat button.
+- [nSO-1670](https://dyned.myjetbrains.com/youtrack/issue/nSO-1670) New menu: Missing back X button End of Lesson Page.
+- [nSO-1672](https://dyned.myjetbrains.com/youtrack/issue/nSO-1672) Study path: End-of-Lesson Page Repeat button not working.
+- [nSO-1673](https://dyned.myjetbrains.com/youtrack/issue/nSO-1673) For staging-nso, there is no points shown after finishing a lesson-neo+.
+- [nSO-1675](https://dyned.myjetbrains.com/youtrack/issue/nSO-1675) New menu: study level locked with a blank OK button.
+- [nSO-1691](https://dyned.myjetbrains.com/youtrack/issue/nSO-1691) For staging nso, if I click repeat after finishing one lesson, though I click X or refresh nso page, can't go to main screen.
+
 ## [v.1.8.2] on April 14th, 2025
 - [nSO-1540](https://dyned.myjetbrains.com/youtrack/issue/nSO-1540) The TCA is not checked if taking the PT link within expanded points menu.
 

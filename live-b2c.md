@@ -25,6 +25,7 @@ A website for neo students to study using Live Session.
 - [NELB2C-1779](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1779) The student report the weekly report is not correct -- DE.
 
 ## [v.1.3.6] on April 13th, 2025
+- [NELB2C-1769](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1769) Create the live version of new MyRecord Page.
 - [NELB2C-1773](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1773) Fixed neoJr+: MyRecords PHP Error.
 - [NELB2C-1774](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1774) Create new MyRecords template (html + css).
 

@@ -5,6 +5,12 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## [v.1.11.28] on July 31st, 2025
+- [ETAPI-212](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-212) Error with CT - neoPrep+_ A1 Level.
+
+## [v.1.11.27] on July 28th, 2025
+- [ETAPI-211](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-211) Error: This email address is already used.
+
 ## [v.1.11.26] on June 23rd, 2025
 - [ETAPI-208](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-208) No message to indicate the student has already taken the assessment test.
 - [ETAPI-209](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-209) The CT started from question 22/25.

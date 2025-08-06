@@ -64,6 +64,7 @@ neo Study application for iOS
 - [NSA-4137](https://dyned.myjetbrains.com/youtrack/issue/NSA-4137) neo flight: SR V1 not recognized on nsa and nso.
 - [NSA-4142](https://dyned.myjetbrains.com/youtrack/issue/NSA-4142)neoFlight>B1+ >AE Unit 1> Part 1 ATIS 2: the text 'r/w 28 closed' pops up on Android but not on iOS.
 - [NSA-4175](https://dyned.myjetbrains.com/youtrack/issue/NSA-4175) neoflight>AE U2 Part 2> Language Exercise>Key Phrases: two phrases are difficult to recognize.
+- [NSA-4177](https://dyned.myjetbrains.com/youtrack/issue/NSA-4177) SR Level not checked.
 
 ## [v1.25.0] on November 19th, 2024
 - [NSA-4062](https://dyned.myjetbrains.com/youtrack/issue/NSA-4062) Fixed inconsistency between nSO and nSA - name for the lesson under teacher mode.

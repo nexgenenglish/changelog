@@ -8,6 +8,9 @@ Application for Assessment Tests (Placement Tests or Certification Tests) system
 ## [2.18.19] on September 28th, 2024
 - [ET-522](https://dyned.myjetbrains.com/youtrack/issue/ET-522) Add the ICP code at the bottom.
 
+## [2.10.31] on July 25th, 2025
+- [ET-567](https://dyned.myjetbrains.com/youtrack/issue/ET-567) No message to indicate the student has already taken the assessment test.
+
 ## [2.10.30] on June 18th, 2025
 - [ET-569](https://dyned.myjetbrains.com/youtrack/issue/ET-569) Can't click start test after change language.
 
