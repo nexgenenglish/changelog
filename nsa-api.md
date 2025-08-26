@@ -15,6 +15,12 @@ Service (API) to manage neo Study App.
 # JWT 1.2.1 on March 2nd, 2025
 - [NSAAPI-762](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-762) Fixed seamless login API that does not work.
 
+# 1.14.54 on August 20th, 2025
+- [NSAAPI-734](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-734) neoView: Teacher Account for neo+ needed.
+- [NSAAPI-812](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-812) new menu: SKIP Step 1 not skipping.
+- [NSAAPI-813](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-813) new menu: the completion rate sometimes shows and sometimes doesn't show.
+- [NSAAPI-814](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-814) Percentage doesn't reflect what is studied.
+
 # 1.14.52 on July 20th, 2025
 - [NSAAPI-806](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-806) Menu version -- Make it unaccessable for the levels upper than current level.
 - [NSAAPI-807](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-807) Add unit completion data for student in menu type for my record page.

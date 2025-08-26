@@ -5,6 +5,19 @@ title: myneo App - Android
 # myneo App - Android
 myneo Application for Android
 
+## [v1.10.2] August 25th, 2025
+- [MNA-614](https://dyned.myjetbrains.com/youtrack/issue/MNA-614) MediaCodecVideoRenderer error when playing video.
+
+## [v1.10.1] August 25th, 2025
+- [MNA-623](https://dyned.myjetbrains.com/youtrack/issue/MNA-623) Take a free Placement Test option is no longer available.
+- [MNA-624](https://dyned.myjetbrains.com/youtrack/issue/MNA-624) Need new Twitter logo.
+- [MNA-631](https://dyned.myjetbrains.com/youtrack/issue/MNA-631) Change CERA font into Goli.
+- [MNA-632](https://dyned.myjetbrains.com/youtrack/issue/MNA-632) for MNA_1.10.1.2025.05.16-cnProd, when being installed for the first time and click login, app crashed.
+- [MNA-633](https://dyned.myjetbrains.com/youtrack/issue/MNA-633) Myneo keep crashing when clicking Sign in.
+- [MNA-640](https://dyned.myjetbrains.com/youtrack/issue/MNA-640) Inconsistency between Android & iOS when displaying the list of languages.
+- [MNA-645](https://dyned.myjetbrains.com/youtrack/issue/MNA-645) Sorry, This page is under Maintenance!
+- [MNA-646](https://dyned.myjetbrains.com/youtrack/issue/MNA-646) mna app crashed when viewing FAQ.
+
 ## [v1.10.0] on January 15th, 2025
 - [MNA-619](https://dyned.myjetbrains.com/youtrack/issue/MNA-619) Account Deletion Request.
 - [MNA-622](https://dyned.myjetbrains.com/youtrack/issue/MNA-622) Session summary Page wrong - coach name should be Start time.

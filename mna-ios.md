@@ -5,6 +5,18 @@ title: myneo App - iOS
 # myneo App - iOS
 myneo Application for iOS
 
+## [v1.10.1] August 25th, 2025
+- [MNA-623](https://dyned.myjetbrains.com/youtrack/issue/MNA-623) Take a free Placement Test option is no longer available.
+- [MNA-624](https://dyned.myjetbrains.com/youtrack/issue/MNA-624) Need new Twitter logo.
+- [MNA-628](https://dyned.myjetbrains.com/youtrack/issue/MNA-628) Join session button remains grayed out if the device has the wrong time.
+- [MNA-631](https://dyned.myjetbrains.com/youtrack/issue/MNA-631) Change CERA font into Goli.
+- [MNA-635](https://dyned.myjetbrains.com/youtrack/issue/MNA-635) X logo goes to twitter.com.
+- [MNA-638](https://dyned.myjetbrains.com/youtrack/issue/MNA-638) After stopped sharing screen, the sharing screen is not stopped.
+- [MNA-640](https://dyned.myjetbrains.com/youtrack/issue/MNA-640) Inconsistency between Android & iOS when displaying the list of languages.
+- [MNA-645](https://dyned.myjetbrains.com/youtrack/issue/MNA-645) Sorry, This page is under Maintenance!
+- [MNA-648](https://dyned.myjetbrains.com/youtrack/issue/MNA-648) Live btn doesn't work.
+- [MNA-650](https://dyned.myjetbrains.com/youtrack/issue/MNA-650) Error to click Live on myneo App on iOS.
+
 ## [v1.10.0] on January 15th, 2025
 - [MNA-620](https://dyned.myjetbrains.com/youtrack/issue/MNA-620)Account Deletion Request
 

@@ -7,6 +7,7 @@ neo Study application for iOS
 
 ## [v1.28.1] on June 17th, 2025
 - [NSA-4261](https://dyned.myjetbrains.com/youtrack/issue/NSA-4261) There should be some gap here.
+- [NSA-4266](https://dyned.myjetbrains.com/youtrack/issue/NSA-4266) Menu display on Iphone SE is not full.
 - [NSA-4285](https://dyned.myjetbrains.com/youtrack/issue/NSA-4285) neoPrep+: B1 Unit 6 Default icons.
 - [NSA-4286](https://dyned.myjetbrains.com/youtrack/issue/NSA-4286) neoPrep+: B1 Unit 9 Default icons.
 - [NSA-4288](https://dyned.myjetbrains.com/youtrack/issue/NSA-4288) neoPrep+: B1+ Unit 2 Default icons.
@@ -20,11 +21,20 @@ neo Study application for iOS
 - [NSA-4353](https://dyned.myjetbrains.com/youtrack/issue/NSA-4353) neo+: C1 head pics chopped on iPad.
 - [NSA-4364](https://dyned.myjetbrains.com/youtrack/issue/NSA-4364) neo new version: The picture on top of the unit interface is too big..
 - [NSA-4369](https://dyned.myjetbrains.com/youtrack/issue/NSA-4369) Welcome Assessment Test Alert box disappeared.
-- [NSA-4376](https://dyned.myjetbrains.com/youtrack/issue/NSA-4376) No indication that you need to scroll down to see all the lessons.
+- [NSA-4370](https://dyned.myjetbrains.com/youtrack/issue/NSA-4370) Unable to change password.
+- [NSA-4374](https://dyned.myjetbrains.com/youtrack/issue/NSA-4374) Text of the image don't change as quickly.
+- [NSA-4376](https://dyned.myjetbrains.com/youtrack/issue/NSA-4376) No indication that you need to scroll down to see all the lessons. 
+- [NSA-4377](https://dyned.myjetbrains.com/youtrack/issue/NSA-4377) neo+: Header text visible in transition.
 - [NSA-4381](https://dyned.myjetbrains.com/youtrack/issue/NSA-4381) Change CERA font into Goli.
 - [NSA-4395](https://dyned.myjetbrains.com/youtrack/issue/NSA-4395) For menu account, when doing PT, if I click not now, I can't go back to the screen of doing pt.
+- [NSA-4430](https://dyned.myjetbrains.com/youtrack/issue/NSA-4430) The next step button is not clickable -- impact.
+- [NSA-4434](https://dyned.myjetbrains.com/youtrack/issue/NSA-4434) CT Review Lesson Back button not working.
+- [NSA-4438](https://dyned.myjetbrains.com/youtrack/issue/NSA-4438) new menu: Certification Test button halo.
 - [NSA-4441](https://dyned.myjetbrains.com/youtrack/issue/NSA-4441) Bottom of screen can't show clearly.
+- [NSA-4443](https://dyned.myjetbrains.com/youtrack/issue/NSA-4443) new menu: Mastery Test button halo.
 - [NSA-4445](https://dyned.myjetbrains.com/youtrack/issue/NSA-4445) new menu: Lessons displayed in random order.
+- [NSA-4456](https://dyned.myjetbrains.com/youtrack/issue/NSA-4456) new menu neoJr+: Conversation Step 3 Different font.
+- [NSA-4458](https://dyned.myjetbrains.com/youtrack/issue/NSA-4458) new menu neoJr+: Grammar answer not bold.
 - [NSA-4461](https://dyned.myjetbrains.com/youtrack/issue/NSA-4461) iOS: the text in reading passages seems not as bold as on Android.
 - [NSA-4474](https://dyned.myjetbrains.com/youtrack/issue/NSA-4474) new menu: Wrong Number of Steps.
 

@@ -4,6 +4,11 @@ title: B2C Portal
 
 # B2C Portal
 
+## [v.1.1.39] on August 25th, 2025
+- [mns-864](https://dyned.myjetbrains.com/youtrack/issue/mns-864) nSO_500 Internal Server Error and nSA_Fetching Data.
+- [mns-873](https://dyned.myjetbrains.com/youtrack/issue/mns-873) Add Optional Column When Register a Student.
+- [mns-877](https://dyned.myjetbrains.com/youtrack/issue/mns-877) Maximum length is 11 digits for the Phone Number to upload students.
+
 ## [v.1.1.38] on April 8th, 2025
 - [mns-863](https://dyned.myjetbrains.com/youtrack/issue/mns-863) Student Certificates report still processing.
 - [mns-866](https://dyned.myjetbrains.com/youtrack/issue/mns-866) Previous CT level are not open for student with menu type.
