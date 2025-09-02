@@ -15,6 +15,27 @@ Service (API) to manage neo Study App.
 # JWT 1.2.1 on March 2nd, 2025
 - [NSAAPI-762](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-762) Fixed seamless login API that does not work.
 
+# 1.14.56 on September 1st, 2025
+- [NSAAPI-826](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-826) The current Level is twice when the current Level and Goal Level are the same.
+
+# 1.14.55 on August 31st, 2025
+- [NSAAPI-784](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-784) new menu: To add the progress circle for the unit and the lesson.
+- [NSAAPI-787](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-787) new menu: MT congrats msg needs a period.
+-[ NSAAPI-788](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-788) neo+ menu version: MT is unlocked before a unit is completed.
+- [NSAAPI-792](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-792) Backend: neoPrep+: No current level highlight.
+- [NSAAPI-796](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-796) for neo+5@menu.com, student did not finish all lesson for A1+U3, but U3 shows it was completed.
+- [NSAAPI-797](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-797) new menu: CT Review Lesson Thumbnails become opaque.
+- [NSAAPI-800](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-800) new menu: CT Review Lessons status not updating.
+- [NSAAPI-805](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-805) new menu: no force repeat in neither NSO nor NSA.
+- [NSAAPI-808](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-808) Make the calculation the same between Student Page and MyRecords.
+- [NSAAPI-815](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-815) NSO-stage-CN--The MT cant be started.
+- [NSAAPI-817](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-817) Wrong CT attempt number.
+- [NSAAPI-819](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-819) Incorrect value for Grading Report.
+- [NSAAPI-821](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-821) Some students have points in the column Points this week but they have not studied this week.
+- [NSAAPI-822](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-822) The Current Level is twice.
+- [NSAAPI-823](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-823) new menu neoJr+: Stuck on Step 2.
+- [NSAAPI-824](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-824) Provide a message when the CT token is not created yet.
+
 # 1.14.54 on August 20th, 2025
 - [NSAAPI-734](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-734) neoView: Teacher Account for neo+ needed.
 - [NSAAPI-812](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-812) new menu: SKIP Step 1 not skipping.

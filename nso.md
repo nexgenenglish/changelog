@@ -5,6 +5,56 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study 
 
+## [v.1.9.1] on August 31st, 2025
+- [nSO-1297](https://dyned.myjetbrains.com/youtrack/issue/nSO-1297) Different font for the phrase: They live in different countries.
+- [nSO-1298](https://dyned.myjetbrains.com/youtrack/issue/nSO-1298) Complete the answer for the words (Tony doesn't).
+- [nSO-1299](https://dyned.myjetbrains.com/youtrack/issue/nSO-1299) Text is out of the white box.
+- [nSO-1386](https://dyned.myjetbrains.com/youtrack/issue/nSO-1386) Reminder text Do you want to exit?.
+- [nSO-1475](https://dyned.myjetbrains.com/youtrack/issue/nSO-1475) Overlapping words.
+- [nSO-1503](https://dyned.myjetbrains.com/youtrack/issue/nSO-1503) Screen Resolution issue- Caroll County Schools.
+- [nSO-1516](https://dyned.myjetbrains.com/youtrack/issue/nSO-1516) Change background from neojr+ to neoprep+.
+- [nSO-1559](https://dyned.myjetbrains.com/youtrack/issue/nSO-1559) new menu: C1 and C1 Bridge need larger icon and font.
+- [nSO-1581](https://dyned.myjetbrains.com/youtrack/issue/nSO-1581) Google Chrome page zoom out does not scale the app correctly.
+- [nSO-1589](https://dyned.myjetbrains.com/youtrack/issue/nSO-1589) new menu: To add the progress circle for the unit and the lesson.
+- [nSO-1593](https://dyned.myjetbrains.com/youtrack/issue/nSO-1593) 500 - Internal server error when login with tester accounts.
+- [nSO-1634](https://dyned.myjetbrains.com/youtrack/issue/nSO-1634) nso: “Hold to speak: not fully shown in Step 4.
+- [nSO-1646](https://dyned.myjetbrains.com/youtrack/issue/nSO-1646) New menu>nso: problems in RFS Reading.
+- [nSO-1647](https://dyned.myjetbrains.com/youtrack/issue/nSO-1647) nso: the text keeps green when playing TR.
+- [nSO-1648](https://dyned.myjetbrains.com/youtrack/issue/nSO-1648) New menu>nso: text bold in Grammar Focus.
+- [nSO-1650](https://dyned.myjetbrains.com/youtrack/issue/nSO-1650) There is no level icon for menu account of guanghua and ucas plan.
+- [nSO-1656](https://dyned.myjetbrains.com/youtrack/issue/nSO-1656) Stuck after changing level to ForcePT mid lesson.
+-[ nSO-1658](https://dyned.myjetbrains.com/youtrack/issue/nSO-1658) new menu: no current level highlight.
+- [nSO-1661](https://dyned.myjetbrains.com/youtrack/issue/nSO-1661) Over the image for the MT has the 0%.
+- [nSO-1665](https://dyned.myjetbrains.com/youtrack/issue/nSO-1665) new menu: two squares on Main CEFR Screen.
+- [nSO-1668](https://dyned.myjetbrains.com/youtrack/issue/nSO-1668) new menu: nso Need Percent Complete Checkmarks.
+- [nSO-1671](https://dyned.myjetbrains.com/youtrack/issue/nSO-1671) new menu: Account info off page scale window.
+- [nSO-1674](https://dyned.myjetbrains.com/youtrack/issue/nSO-1674) No Congratulatiopns message in NSO after passing an MT.
+- [nSO-1680](https://dyned.myjetbrains.com/youtrack/issue/nSO-1680) neojr+ L1-4: 5 dots page shows before entering a step.
+- [nSO-1687](https://dyned.myjetbrains.com/youtrack/issue/nSO-1687) Delete MyRecords item hidden.
+- [nSO-1690](https://dyned.myjetbrains.com/youtrack/issue/nSO-1690) Exit button doesn't work when repeating a lesson.
+- [nSO-1695](https://dyned.myjetbrains.com/youtrack/issue/nSO-1695) neojr+>A1:P2>Game:Activities and chores: continue study after time out.
+- [nSO-1696](https://dyned.myjetbrains.com/youtrack/issue/nSO-1696) for staging-nso, there is Mylessons icon for neo+ menu version in the Upload Profile Picture page.
+- [nSO-1698](https://dyned.myjetbrains.com/youtrack/issue/nSO-1698) NSO: add goal level highlight.
+- [nSO-1700](https://dyned.myjetbrains.com/youtrack/issue/nSO-1700) new menu: nso-The unit progress is not checked even the lessons are finished.
+- [nSO-1703](https://dyned.myjetbrains.com/youtrack/issue/nSO-1703) neoPrep+>A2+>U2>Language Skills: TR text drops down and Qs played twice.
+- [nSO-1706](https://dyned.myjetbrains.com/youtrack/issue/nSO-1706) nso prod--The image display is disordered after adjusting Zoom.
+- [nSO-1713](https://dyned.myjetbrains.com/youtrack/issue/nSO-1713) new menu: There is no progress circle shown under unit.
+- [nSO-1714](https://dyned.myjetbrains.com/youtrack/issue/nSO-1714) The text Hold to Speak is out the area.
+- [nSO-1715](https://dyned.myjetbrains.com/youtrack/issue/nSO-1715) The picture on the right and the Text Hold to Speak are out the area.
+- [nSO-1716](https://dyned.myjetbrains.com/youtrack/issue/nSO-1716) Repetitive Comprehension Check Qs.
+- [nSO-1718](https://dyned.myjetbrains.com/youtrack/issue/nSO-1718) nso menu version: neoJr+ A1+P1 U2: Listening Men and Women-- picture position error.
+- [nSO-1721](https://dyned.myjetbrains.com/youtrack/issue/nSO-1721) Don't cache the value from SSO profile for users loged in.
+- [nSO-1731](https://dyned.myjetbrains.com/youtrack/issue/nSO-1731) EBTN Units - Graphs Too Close to the Right Edge.
+- [nSO-1732](https://dyned.myjetbrains.com/youtrack/issue/nSO-1732) TeacherMode: neojr Song Conversation too wide.
+- [nSO-1736](https://dyned.myjetbrains.com/youtrack/issue/nSO-1736) Teacher Account Lessons Display out of the main area.
+- [nSO-1738](https://dyned.myjetbrains.com/youtrack/issue/nSO-1738) new menu: Leave Site button goes to wrong page.
+- [nSO-1739](https://dyned.myjetbrains.com/youtrack/issue/nSO-1739) Submit lesson failed.
+- [nSO-1741](https://dyned.myjetbrains.com/youtrack/issue/nSO-1741) new menu: Current Level Highlight Disappears.
+- [nSO-1742](https://dyned.myjetbrains.com/youtrack/issue/nSO-1742) new menu: Current Level Highlight.
+- [nSO-1743](https://dyned.myjetbrains.com/youtrack/issue/nSO-1743) new menu: Mastery Test timer off screen.
+- [nSO-1745](https://dyned.myjetbrains.com/youtrack/issue/nSO-1745) NSO-stage -- The image is not displayed correctly, and it has a border.
+- [nSO-1746](https://dyned.myjetbrains.com/youtrack/issue/nSO-1746) neo+ Teacher Account: Picture goes out of the frame.
+
 ## [v.1.9.0] on July 30th, 2025
 - [nSO-1360](https://dyned.myjetbrains.com/youtrack/issue/nSO-1360) neoJr+: L3U5Game repeats dataset when interrupted.
 - [nSO-1421](https://dyned.myjetbrains.com/youtrack/issue/nSO-1421) Error syncing when nSO page expires due to inactivity.

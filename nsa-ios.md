@@ -5,6 +5,25 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+## [v1.28.2] on August 31st, 2025
+- [NSA-4302](https://dyned.myjetbrains.com/youtrack/issue/NSA-4302) iOS: neoPrep+: No current level highlight.
+- [NSA-4397](https://dyned.myjetbrains.com/youtrack/issue/NSA-4397) There is no level icon for menu account of guanghua and ucas plan.
+- [NSA-4444](https://dyned.myjetbrains.com/youtrack/issue/NSA-4444) new menu: To add the progress circle for the unit and the lesson.
+- [NSA-4469](https://dyned.myjetbrains.com/youtrack/issue/NSA-4469) Need to remove period after Hold to Speak label.
+- [NSA-4477](https://dyned.myjetbrains.com/youtrack/issue/NSA-4477) new menu: neoJr+ A1+:P2 Unit 1 Vocab Default graphics.
+- [NSA-4485](https://dyned.myjetbrains.com/youtrack/issue/NSA-4485) Start time is after End Time.
+- [NSA-4507](https://dyned.myjetbrains.com/youtrack/issue/NSA-4507) Status bar switches from white to black.
+- [NSA-4519](https://dyned.myjetbrains.com/youtrack/issue/NSA-4519) The front part does not display images -- DE.
+- [NSA-4529](https://dyned.myjetbrains.com/youtrack/issue/NSA-4529) new menu: Forced Repeat need fail msg.
+- [NSA-4534](https://dyned.myjetbrains.com/youtrack/issue/NSA-4534) NSA: add goal level highlight.
+- [NSA-4535](https://dyned.myjetbrains.com/youtrack/issue/NSA-4535) NSA: App icon and logo update.
+- [NSA-4541](https://dyned.myjetbrains.com/youtrack/issue/NSA-4541) Request to make opacity for CT Review Lessons more noticeable.
+- [NSA-4552](https://dyned.myjetbrains.com/youtrack/issue/NSA-4552) MyLessons in neoJr standard version is not activated.
+- [NSA-4554](https://dyned.myjetbrains.com/youtrack/issue/NSA-4554) [iOS] Stuck in the end of the Lesson.
+- [NSA-4555](https://dyned.myjetbrains.com/youtrack/issue/NSA-4555) Fix the flow the page after finished the Lesson.
+- [NSA-4558](https://dyned.myjetbrains.com/youtrack/issue/NSA-4558) TeacherMode: SKIP freezes app.
+- [NSA-4559](https://dyned.myjetbrains.com/youtrack/issue/NSA-4559) TeacherMode: Stuck at end of lesson. 
+
 ## [v1.28.1] on June 17th, 2025
 - [NSA-4261](https://dyned.myjetbrains.com/youtrack/issue/NSA-4261) There should be some gap here.
 - [NSA-4266](https://dyned.myjetbrains.com/youtrack/issue/NSA-4266) Menu display on Iphone SE is not full.
@@ -39,6 +58,7 @@ neo Study application for iOS
 - [NSA-4474](https://dyned.myjetbrains.com/youtrack/issue/NSA-4474) new menu: Wrong Number of Steps.
 
 ## [v1.28.0] on April 22nd, 2025
+- [NSA-4210](https://dyned.myjetbrains.com/youtrack/issue/NSA-4210) neo with Menu Option mode.
 - [NSA-4231](https://dyned.myjetbrains.com/youtrack/issue/NSA-4231) Remove or hide Account deletion request menu for neoStudy cn version.
 - [NSA-4234](https://dyned.myjetbrains.com/youtrack/issue/NSA-4234) Change background from neojr+ to neoprep+.
 - [NSA-4235](https://dyned.myjetbrains.com/youtrack/issue/NSA-4235) Try Now: Speech Practice not working.

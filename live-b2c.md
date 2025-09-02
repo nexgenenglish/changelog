@@ -9,6 +9,16 @@ A website for neo students to study using Live Session.
 - [NELB2C-1763](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1763) Issue with share screen button.
 - [NELB2C-1766](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1766) Message to Download on the Google Play.
 
+## [v.1.3.9] on August 31st, 2025
+- [NELB2C-1787](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1787) My Records Study Time in Level is different between Dashboard and nSA / nSO - Prod server.
+- [NELB2C-1794](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1794) MyRecords: Missing Week 3.
+- [NELB2C-1795](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1795) new menu: MyRecords consistent time label.
+- [NELB2C-1796](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1796) Study Percentages still has decimal places.
+- [NELB2C-1797](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1797) MyRecords: Missing points text.
+- [NELB2C-1798](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1798) In myRecords, mastery test part, change the passed MT dots to Checkmarks icon. The rest of the MTs rules stay the same.
+- [NELB2C-1800](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1800) new menu: Make the Myrecord for Student with menu type.
+- [NELB2C-1803](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1803) PointS to complete level in MyRecords.
+
 ## [v.1.3.8] on July 6th, 2025
 - [NELB2C-1782](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1782) Text overlaps under MyRecords -Earned Study points.
 - [NELB2C-1783](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1783) Improvement-Allow for MyRecords to be print it via nso/nsa.
