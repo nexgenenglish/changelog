@@ -7,6 +7,9 @@ title: Reporting UD
 ![neo Reporting Scheduler Prod ROW](https://img.shields.io/endpoint?url=https%3A%2F%2Fhealthchecks.io%2Fb%2F2%2F8d6da4f2-c911-4351-be64-e663b2ea0bd1.shields)
 ![neo Reporting Scheduler Prod CN](https://img.shields.io/endpoint?url=https%3A%2F%2Fhealthchecks.io%2Fb%2F2%2F981d4f5c-e0e8-4ea5-af2e-498ac7c8d4c3.shields)
 
+## [1.8.1] on September 3rd, 2025
+- [UD-4457](https://dyned.myjetbrains.com/youtrack/issue/UD-4457) Student Summary Report more than an hour old and has not been generated.
+
 ## [1.9.0] on September 1st, 2025
 - [UD-4770](https://dyned.myjetbrains.com/youtrack/issue/UD-4470) Move "Student Records Study Report" to reporting services for ease maintain all report in one place.
 
