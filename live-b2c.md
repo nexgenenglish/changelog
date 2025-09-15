@@ -5,10 +5,6 @@ title: neo Live B2C
 # Live B2C
 A website for neo students to study using Live Session.
 
-## [v.1.10.0] on February 25th, 2025
-- [NELB2C-1763](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1763) Issue with share screen button.
-- [NELB2C-1766](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1766) Message to Download on the Google Play.
-
 ## [v.1.3.9] on August 31st, 2025
 - [NELB2C-1787](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1787) My Records Study Time in Level is different between Dashboard and nSA / nSO - Prod server.
 - [NELB2C-1794](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1794) MyRecords: Missing Week 3.
