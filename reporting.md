@@ -7,6 +7,16 @@ title: Reporting UD
 ![neo Reporting Scheduler Prod ROW](https://img.shields.io/endpoint?url=https%3A%2F%2Fhealthchecks.io%2Fb%2F2%2F8d6da4f2-c911-4351-be64-e663b2ea0bd1.shields)
 ![neo Reporting Scheduler Prod CN](https://img.shields.io/endpoint?url=https%3A%2F%2Fhealthchecks.io%2Fb%2F2%2F981d4f5c-e0e8-4ea5-af2e-498ac7c8d4c3.shields)
 
+## [1.11.0] on September 30th, 2025
+- [UD-4568](https://dyned.myjetbrains.com/youtrack/issue/UD-4568) Study records report has different values on some of the columns.
+- [UD-4582](https://dyned.myjetbrains.com/youtrack/issue/UD-4582) Study Records Report does not have live and token information.
+
+## [1.10.0] on September 11th, 2025
+- [UD-4401](https://dyned.myjetbrains.com/youtrack/issue/UD-4401) Make all the values in percentage rounded up for the data percentage in each of the reports (Reporting).
+- [UD-4565](https://dyned.myjetbrains.com/youtrack/issue/UD-4565) Add the optional student colums in Student summary report.
+- [UD-4566](https://dyned.myjetbrains.com/youtrack/issue/UD-4566) Add the optional student colums in Student Study record report.
+- [UD-4567](https://dyned.myjetbrains.com/youtrack/issue/UD-4567) Add the optional student colums in Student PT report.
+
 ## [1.8.1] on September 3rd, 2025
 - [UD-4457](https://dyned.myjetbrains.com/youtrack/issue/UD-4457) Student Summary Report more than an hour old and has not been generated.
 

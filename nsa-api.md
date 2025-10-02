@@ -11,9 +11,23 @@ Service (API) to manage neo Study App.
 
 # JWT 1.2.3 on June 24th, 2025
 - [NSAAPI-786](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-786) it pops up "Send Study Record Failed".
-
+ 
 # JWT 1.2.1 on March 2nd, 2025
 - [NSAAPI-762](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-762) Fixed seamless login API that does not work.
+
+# 1.14.59 on September 30th, 2025
+- [NSAAPI-835](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-835) The study records on 'myrecords' is not correct.
+- [NSAAPI-837](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-837) Inconsistency in level completion percent for Search and Student tab when comparing with MyRecords.
+
+# 1.14.58 on September 30th, 2025
+- [NSAAPI-833](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-833) Make "Points in Level" in my record page , the actual study points for menu type students.
+- [NSAAPI-834](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-834) Students are still prompted to take the Placement Test.
+
+# 1.14.57 on September 15th, 2025
+- [NSAAPI-828](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-828) Two CT Fail attempt entries after 1 fail.
+- [NSAAPI-829](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-829) new menu: SR force repeat again and again.
+- [NSAAPI-831](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-831) neoView NSO: Can't proceed after Step 2 and no comprehension check in Step 2.
+- [NSAAPI-832](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-832) Remaining point to next MT isn't up to date.
 
 # 1.14.56 on September 1st, 2025
 - [NSAAPI-826](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-826) The current Level is twice when the current Level and Goal Level are the same.
