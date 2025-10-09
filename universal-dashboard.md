@@ -5,6 +5,10 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+[1.6.22.3] on October 8th, 2025
+- [UD-4604](https://dyned.myjetbrains.com/youtrack/issue/UD-4604) Student's password and Parent phone number are being changed if auto filled is enabled in Google Chrome.
+- [UD-4624](https://dyned.myjetbrains.com/youtrack/issue/UD-4624) Make the change password action separated from edit users.
+
 # [1.6.22] on September 2nd, 2025
 - [UD-3709](https://dyned.myjetbrains.com/youtrack/issue/UD-3709) Student Summary Report more than an hour old and has not been generated.
 - [UD-3816](https://dyned.myjetbrains.com/youtrack/issue/UD-3816) Use the same messaging and completion percentage used in the "Student Records Study Report" for the "Student Summary Report" Also please change the sentence "This takes minutes.
