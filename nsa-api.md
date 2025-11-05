@@ -15,6 +15,24 @@ Service (API) to manage neo Study App.
 # JWT 1.2.1 on March 2nd, 2025
 - [NSAAPI-762](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-762) Fixed seamless login API that does not work.
 
+# 1.15.3 on November 3rd, 2025
+- [NSAAPI-850](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-850) It pops up error while studying.
+
+# 1.15.2 on November 3rd, 2025
+- [NSAAPI-845](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-845) Typo admin change level msg: organization.
+- [NSAAPI-846](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-846) Typo admin change level msg: neojr_plus.
+- [NSAAPI-847](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-847) Typo in the word: available.
+- [NSAAPI-848](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-848) Add additional validation when the data collection doesn't have duration related information.
+- [NSAAPI-849](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-849) new menu: CT and CT Review Lesson buttons are enabled lessons not done yet.
+- [NSAAPI-852](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-852) Typo in the word "available".
+
+# 1.15.1 on October 13th, 2025
+- [NSAAPI-837](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-837) Inconsistency in level completion percent for Search and Student tab when comparing with MyRecords.
+- [NSAAPI-840](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-840) all MTs have pass, but the MT dots in My Records not fulfilled.
+- [NSAAPI-841](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-841) Make the change Level API validate the certificate plan requested.
+- [NSAAPI-842](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-842) Information for Last Certificate Passed is not displayed under student tab.
+- [NSAAPI-844](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-844) Error-Something went wrong (lesson).
+
 # 1.14.59 on September 30th, 2025
 - [NSAAPI-835](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-835) The study records on 'myrecords' is not correct.
 - [NSAAPI-837](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-837) Inconsistency in level completion percent for Search and Student tab when comparing with MyRecords.

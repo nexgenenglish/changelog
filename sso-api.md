@@ -4,6 +4,9 @@ title: SSO API
 
 # SSO API
 
+# 1.6.0 on November 3rd, 2025
+- [SSO-95](https://dyned.myjetbrains.com/youtrack/issue/SSO-95) There's no log in SSO when change password and change level event
+
 # 1.5.5 on July 10th, 2025
 - [SSO-89](https://dyned.myjetbrains.com/youtrack/issue/SSO-89) Please record change password from UD to SSO log.
 
