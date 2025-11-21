@@ -5,6 +5,9 @@ title: Interim
 # Neo Interim
 neo Interim is a microsite that provides middleware for neo Ecosystem.
 
+## [1.1.13.6] on November 19th, 2025
+- [UD-4711](https://dyned.myjetbrains.com/youtrack/issue/UD-4711) Change the certificate issueance to new URL.
+
 ## [1.1.13.4] on June 12th, 2025
 - [UD-4403](https://dyned.myjetbrains.com/youtrack/issue/UD-4403) Could you please update the sms template and signature for neo confirm?
 - [UD-4419](https://dyned.myjetbrains.com/youtrack/issue/UD-4419) Update sms signature.

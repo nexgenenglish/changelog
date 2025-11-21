@@ -4,6 +4,18 @@ title: B2C Portal
 
 # B2C Portal
 
+## [v.1.1.39.4] on November 16th, 2025
+- [mns-883](https://dyned.myjetbrains.com/youtrack/issue/mns-883) Student who moved from neoJr to neoPrep+ couldn't get the certificate updated for neoJr plan certificate.
+
+## [v.1.1.39.3] on November 16th, 2025
+- [mns-882](https://dyned.myjetbrains.com/youtrack/issue/mns-882) Start date can be set prior to the Registration Date.
+
+## [v.1.1.39.2] on November 16th, 2025
+- [mns-881](https://dyned.myjetbrains.com/youtrack/issue/mns-881) Unable to download the certificate.
+
+## [v.1.1.39.1] on November 16th, 2025
+- [mns-879](https://dyned.myjetbrains.com/youtrack/issue/mns-879) Create privacy policy and eula for mna page.
+
 ## [v.1.1.39] on August 25th, 2025
 - [mns-864](https://dyned.myjetbrains.com/youtrack/issue/mns-864) nSO_500 Internal Server Error and nSA_Fetching Data.
 - [mns-873](https://dyned.myjetbrains.com/youtrack/issue/mns-873) Add Optional Column When Register a Student.

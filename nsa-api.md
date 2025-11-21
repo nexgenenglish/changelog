@@ -15,6 +15,9 @@ Service (API) to manage neo Study App.
 # JWT 1.2.1 on March 2nd, 2025
 - [NSAAPI-762](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-762) Fixed seamless login API that does not work.
 
+# 1.15.4 on November 16th, 2025
+- [NSAAPI-851](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-851) The expiration for neo account is invalid.
+
 # 1.15.3 on November 3rd, 2025
 - [NSAAPI-850](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-850) It pops up error while studying.
 

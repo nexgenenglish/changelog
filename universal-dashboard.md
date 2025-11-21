@@ -5,11 +5,18 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+# [1.7.1] on November 19th, 2025
+- [UD-4661](https://dyned.myjetbrains.com/youtrack/issue/UD-4661) Add organization name and description in SSO When adding or editing an organization.
+- [UD-4680](https://dyned.myjetbrains.com/youtrack/issue/UD-4680) Add a New User: Server Access check boxes.
+- [UD-4683](https://dyned.myjetbrains.com/youtrack/issue/UD-4683) Server cannot be selected.
+- [UD-4688](https://dyned.myjetbrains.com/youtrack/issue/UD-4688) ERROR 500 when requesting password reset.
+
 # [1.7.0] on November 2nd, 2025
 - [UD-4420](https://dyned.myjetbrains.com/youtrack/issue/UD-4420) Certificates Awarded to Date inconsistency.
 - [UD-4509](https://dyned.myjetbrains.com/youtrack/issue/UD-4509) Student Create: new parent phone number field wrong data type.
 - [UD-4589](https://dyned.myjetbrains.com/youtrack/issue/UD-4589) hide "Points to complete level" section for menu type students.
 - [UD-4619](https://dyned.myjetbrains.com/youtrack/issue/UD-4619) Change Student Account still processing - EduTech.
+- [UD-4992](https://dyned.myjetbrains.com/youtrack/issue/UD-4492) Add third backend server for UD.
 
 # [1.6.22.3] on October 8th, 2025
 - [UD-4604](https://dyned.myjetbrains.com/youtrack/issue/UD-4604) Student's password and Parent phone number are being changed if auto filled is enabled in Google Chrome.

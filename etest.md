@@ -8,6 +8,12 @@ Application for Assessment Tests (Placement Tests or Certification Tests) system
 ## [2.18.19] on September 28th, 2024
 - [ET-522](https://dyned.myjetbrains.com/youtrack/issue/ET-522) Add the ICP code at the bottom.
 
+## [2.11.1] on November 16th, 2025
+- [ET-578](https://dyned.myjetbrains.com/youtrack/issue/ET-578) The CT/PT cant be started Harmony OS 4.0.
+
+## [2.11.0] on November 16th, 2025
+- [ET-586](https://dyned.myjetbrains.com/youtrack/issue/ET-586) User cant take CT, there is no response.
+
 ## [2.10.32] on October 14th, 2025
 - [ET-583](https://dyned.myjetbrains.com/youtrack/issue/ET-583) Include student's name or email address in the congratulations’ screen after passing CT.
 
