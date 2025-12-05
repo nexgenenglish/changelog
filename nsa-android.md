@@ -5,6 +5,24 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.28.3] on December 3rd, 2025
+- [NSA-4521](https://dyned.myjetbrains.com/youtrack/issue/NSA-4521) Lesson Name inconsistency.
+- [NSA-4549](https://dyned.myjetbrains.com/youtrack/issue/NSA-4549) The NSA_v1.28.2.2025.07.18-prod-cn.apk stuck.
+- [NSA-4569](https://dyned.myjetbrains.com/youtrack/issue/NSA-4569) The height of Unit list changes itself when it scrolls down.
+- [NSA-4574](https://dyned.myjetbrains.com/youtrack/issue/NSA-4574) send lesson type "repeat_lesson" in Repeat Lesson for type user MENU.
+- [NSA-4580](https://dyned.myjetbrains.com/youtrack/issue/NSA-4580) neo study app crashed after click on Print-MyRecords.
+- [NSA-4582](https://dyned.myjetbrains.com/youtrack/issue/NSA-4582) App must support 16 KB memory page sizes.
+- [NSA-4585](https://dyned.myjetbrains.com/youtrack/issue/NSA-4585) Add third server option for NSA.
+- [NSA-4600](https://dyned.myjetbrains.com/youtrack/issue/NSA-4600) It pops up the 400 error on NSA.
+- [NSA-4603](https://dyned.myjetbrains.com/youtrack/issue/NSA-4603) App closes after pressing "X" button on PT result page.
+- [NSA-4608](https://dyned.myjetbrains.com/youtrack/issue/NSA-4608) Refresh total points when viewing MyRecords.
+- [NSA-4611](https://dyned.myjetbrains.com/youtrack/issue/NSA-4611) neostudy has stopped.
+- [NSA-4613](https://dyned.myjetbrains.com/youtrack/issue/NSA-4613) Text area gets covered by the virtual keyboard.
+- [NSA-4614](https://dyned.myjetbrains.com/youtrack/issue/NSA-4614) Error: permissions denied when trying to attach a file.
+- [NSA-4634](https://dyned.myjetbrains.com/youtrack/issue/NSA-4634) The nsa loads the privacy-policy and eula very slow.
+- [NSA-4655](https://dyned.myjetbrains.com/youtrack/issue/NSA-4655) The study time is not correct.
+- [NSA-4658](https://dyned.myjetbrains.com/youtrack/issue/NSA-4658) neo study error.
+
 ## [v1.28.2] on August 31st, 2025
 - [NSA-4397](https://dyned.myjetbrains.com/youtrack/issue/NSA-4397) There is no level icon for menu account of guanghua and ucas plan.
 - [NSA-4444](https://dyned.myjetbrains.com/youtrack/issue/NSA-4444) new menu: To add the progress circle for the unit and the lesson.

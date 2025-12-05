@@ -5,6 +5,15 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+## [v1.28.3] on December 3rd, 2025
+- [NSA-4521](https://dyned.myjetbrains.com/youtrack/issue/NSA-4521) Lesson Name inconsistency.
+- [NSA-4579](https://dyned.myjetbrains.com/youtrack/issue/NSA-4579) Unable to download MyRecords.pdf.
+- [NSA-4585](https://dyned.myjetbrains.com/youtrack/issue/NSA-4585) Add third server option for NSA.
+- [NSA-4630](https://dyned.myjetbrains.com/youtrack/issue/NSA-4630) Users created on Brazil server are able to login on ROW server.
+- [NSA-4634](https://dyned.myjetbrains.com/youtrack/issue/NSA-4634) The nsa loads the privacy-policy and eula very slow.
+- [NSA-4643](https://dyned.myjetbrains.com/youtrack/issue/NSA-4643) Signin Screen: Previous user appears after EULA.
+- [NSA-4658](https://dyned.myjetbrains.com/youtrack/issue/NSA-4658) neo study error.
+
 ## [v1.28.2] on August 31st, 2025
 - [NSA-4302](https://dyned.myjetbrains.com/youtrack/issue/NSA-4302) iOS: neoPrep+: No current level highlight.
 - [NSA-4397](https://dyned.myjetbrains.com/youtrack/issue/NSA-4397) There is no level icon for menu account of guanghua and ucas plan.
