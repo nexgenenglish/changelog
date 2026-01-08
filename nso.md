@@ -5,6 +5,37 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study 
 
+## [1.9.2] on January 5th, 2026
+- [nSO-1243](https://dyned.myjetbrains.com/youtrack/issue/nSO-1243) Problems with recording on Neo -Saigon South neoPrep+.
+- [nSO-1514](https://dyned.myjetbrains.com/youtrack/issue/nSO-1554) new menu nso neojr: Missing back X button in Lesson Title Page.
+- [nSO-1569](https://dyned.myjetbrains.com/youtrack/issue/nSO-1569) Request to make opacity for CT Review Lessons more noticeable - nSO.
+- [nSO-1667](https://dyned.myjetbrains.com/youtrack/issue/nSO-1667) new menu: nso Force Repeat end of lesson screen errors.
+- [nSO-1683](https://dyned.myjetbrains.com/youtrack/issue/nSO-1683) new menu: New Lesson View flashes in at the bottom of the screen.
+- [nSO-1709](https://dyned.myjetbrains.com/youtrack/issue/nSO-1709) Error with the audio during review lesson for CT Pre A1.
+- [nSO-1729](https://dyned.myjetbrains.com/youtrack/issue/nSO-1729) nsostage-cn - There is no score shown after taking MT.
+- [nSO-1733](https://dyned.myjetbrains.com/youtrack/issue/nSO-1733) TeacherMode: SKIP does not work.
+- [nSO-1748](https://dyned.myjetbrains.com/youtrack/issue/nSO-1748) new menu: text moved down in MT Reading passage part.
+- [nSO-1760](https://dyned.myjetbrains.com/youtrack/issue/nSO-1760) new menu: WARNING: Invalid JSON content format.
+- [nSO-1761](https://dyned.myjetbrains.com/youtrack/issue/nSO-1761) nso: the green circle keeps on the screen when repeating the Q audio-timer runs out.
+- [nSO-1767](https://dyned.myjetbrains.com/youtrack/issue/nSO-1767) Uncaught TypeError when viewing MyRecords.
+- [nSO-1769](https://dyned.myjetbrains.com/youtrack/issue/nSO-1769) new menu neo+: Stuck on Step 2 when hitting SKIP.
+- [nSO-1772](https://dyned.myjetbrains.com/youtrack/issue/nSO-1772) neo Jr. -Some words are not recognized in nSO - Vocabulary (Every Objects) -> Step 4 (Speak).
+- [nSO-1788](https://dyned.myjetbrains.com/youtrack/issue/nSO-1788) SentenceFocus: Two correct answer sentences.
+- [nSO-1789](https://dyned.myjetbrains.com/youtrack/issue/nSO-1789) Upload Profile Picture failed when uploading file with HEIC format.
+- [nSO-1792](https://dyned.myjetbrains.com/youtrack/issue/nSO-1792) SR a little hard in Interactive Speaking Parts.
+- [nSO-1801](https://dyned.myjetbrains.com/youtrack/issue/nSO-1801) new menu: Wrong end of lesson screen.
+- [nSO-1802](https://dyned.myjetbrains.com/youtrack/issue/nSO-1802) new menu: Unrecognized SR sequence.
+- [nSO-1803](https://dyned.myjetbrains.com/youtrack/issue/nSO-1803) Uncaught (in promise) TypeError: Cannot destructive property 'summary' of 'data.additional_property' as it is undefined at submitLesson at async Object.onFinish.
+- [nSO-1807](https://dyned.myjetbrains.com/youtrack/issue/nSO-1807) Submit lesson failed error.
+- [nSO-1815](https://dyned.myjetbrains.com/youtrack/issue/nSO-1815) The number to display "Points to next Mastery test" is not visible.
+- [nSO-1816](https://dyned.myjetbrains.com/youtrack/issue/nSO-1816) Speech Recognition does not accept correct phrase ("Sorry, I'm not interested") in activity.
+- [nSO-1817](https://dyned.myjetbrains.com/youtrack/issue/nSO-1817) Error with Speech Recognition in the entire step 5 - Video Interactions A UFO Interview.
+- [nSO-1831](https://dyned.myjetbrains.com/youtrack/issue/nSO-1831) Text overlaps with repeat and mic icons.
+- [nSO-1840](https://dyned.myjetbrains.com/youtrack/issue/nSO-1840) The cheating issue on nso.
+- [nSO-1841](https://dyned.myjetbrains.com/youtrack/issue/nSO-1841) new FE DEV: Content Security Policy of your site blocks some resources.
+- [nSO-1842](https://dyned.myjetbrains.com/youtrack/issue/nSO-1842) new FE DEV: Not Supported Error.
+- [nSO-1846](https://dyned.myjetbrains.com/youtrack/issue/nSO-1846) No points remaining showed after the of a lesson-stg.
+
 ## [v.1.9.1] on August 31st, 2025
 - [nSO-1297](https://dyned.myjetbrains.com/youtrack/issue/nSO-1297) Different font for the phrase: They live in different countries.
 - [nSO-1298](https://dyned.myjetbrains.com/youtrack/issue/nSO-1298) Complete the answer for the words (Tony doesn't).

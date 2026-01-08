@@ -15,8 +15,20 @@ Service (API) to manage neo Study App.
 # JWT 1.2.1 on March 2nd, 2025
 - [NSAAPI-762](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-762) Fixed seamless login API that does not work.
 
+# 1.15.12 on January 5th, 2026
+- [NSAAPI-868](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-868) Sorting Issue on current_level Column and Unsupported Sorting for Previous Course.
+- [NSAAPI-869](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-869) MyRecords Percentage Not Synced.
+
+# 1.15.11 on January 5th, 2026
+- [NSAAPI-865](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-865) Wrong Last Study Date when viewing students via class tab.
+- [NSAAPI-866](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-866) Last study date from class tab error it shows 01-jan-02.
+
+# 1.15.10 on December 11th, 2025
+- [NSAAPI-864](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-864) The login prompt asks to check the network connection.
+
 # 1.15.4 on November 16th, 2025
 - [NSAAPI-851](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-851) The expiration for neo account is invalid.
+- [NSAAPI-861](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-861) mylessons disable.
 
 # 1.15.3 on November 3rd, 2025
 - [NSAAPI-850](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-850) It pops up error while studying.

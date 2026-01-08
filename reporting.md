@@ -7,6 +7,13 @@ title: Reporting UD
 ![neo Reporting Scheduler Prod ROW](https://img.shields.io/endpoint?url=https%3A%2F%2Fhealthchecks.io%2Fb%2F2%2F8d6da4f2-c911-4351-be64-e663b2ea0bd1.shields)
 ![neo Reporting Scheduler Prod CN](https://img.shields.io/endpoint?url=https%3A%2F%2Fhealthchecks.io%2Fb%2F2%2F981d4f5c-e0e8-4ea5-af2e-498ac7c8d4c3.shields)
 
+## [1.11.2] on December 23rd, 2025
+- [UD-4341](https://dyned.myjetbrains.com/youtrack/issue/UD-4341) The failed jobs on reporting horizon.
+- [UD-4596](https://dyned.myjetbrains.com/youtrack/issue/UD-4596) Missing previous certified level in new Study Records Report.
+- [UD-4626](https://dyned.myjetbrains.com/youtrack/issue/UD-4626) Number of Students that are Billable is not correct.
+- [UD-4643](https://dyned.myjetbrains.com/youtrack/issue/UD-4643) Study Records Report-Total Coaching Points is set to "0".
+- [UD-4756](https://dyned.myjetbrains.com/youtrack/issue/UD-4756) There is no other status besides of passed in MT Score and Exit Test Score column.
+
 ## [1.11.0] on September 30th, 2025
 - [UD-4568](https://dyned.myjetbrains.com/youtrack/issue/UD-4568) Study records report has different values on some of the columns.
 - [UD-4582](https://dyned.myjetbrains.com/youtrack/issue/UD-4582) Study Records Report does not have live and token information.
