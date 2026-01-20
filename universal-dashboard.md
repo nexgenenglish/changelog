@@ -5,6 +5,14 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+# [1.7.2.2] on January 14th, 2026
+- [UD-4720](https://dyned.myjetbrains.com/youtrack/issue/UD-4720) error with the path for the following organization: (ZZ - Colegio Juan Jacobo Rousseau - 2023) - (HS - Lehnsen Roosevelt).
+- [UD-4793](https://dyned.myjetbrains.com/youtrack/issue/UD-4793) The administrator user can see a class that does not belong to her organization.
+- [UD-4797](https://dyned.myjetbrains.com/youtrack/issue/UD-4794) The admin created a class under a organization but was created under a different organization.
+
+# [1.7.2.1] on January 14TH, 2026
+- [UD-4784](https://dyned.myjetbrains.com/youtrack/issue/UD-4784) Make the organization summary settings page synced with the actual organization settings.
+
 # [1.7.1] on November 19th, 2025
 - [UD-4661](https://dyned.myjetbrains.com/youtrack/issue/UD-4661) Add organization name and description in SSO When adding or editing an organization.
 - [UD-4680](https://dyned.myjetbrains.com/youtrack/issue/UD-4680) Add a New User: Server Access check boxes.

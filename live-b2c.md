@@ -5,6 +5,26 @@ title: neo Live B2C
 # Live B2C
 A website for neo students to study using Live Session.
 
+## [v.1.3.12] on January 18th, 2026
+- [NELB2C-1830](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1830) The unit completion percentage and progress to level certificate is not updating when changing level.
+
+## [v.1.3.11] on January 18th, 2026
+- [NELB2C-1770](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1770) Error failed to download - Agora.
+- [NELB2C-1781](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1781) Add a dropdown menu to select which level data to show in My records page.
+- [NELB2C-1818](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1818) Php Error in Live session page in the study records section for Agora.
+- [NELB2C-1821](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1821) Update RTM SDK Agora to version 2.2.2.
+- [NELB2C-1823](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1823) 404 ERRORS and ERR CONNECTION RESET.
+- [NELB2C-1826](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1826) App prompts user to download myneo app when accessing help icon ?
+- [NELB2C-1827](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1827) Fixed text position on MNA Myrecords.
+- [NELB2C-1833](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1833) MyRecords after finishing a level.
+- [NELB2C-1834](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1834) MyRecords: No circle icon for a failed CT.
+- [NELB2C-1835](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1835) My Records has a different value for % listening on Android device.
+
+## [v.1.3.10] on January 18th, 2026
+- [NELB2C-1806](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1806) My Records has Pronunciation Column for neo Jr.
+- [NELB2C-1809](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1809) new menu: MyRecords duplicate weeks.
+- [NELB2C-1811](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1811) HIde "Points to complete level" section for menu type student.
+
 ## [v.1.3.9] on August 31st, 2025
 - [NELB2C-1787](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1787) My Records Study Time in Level is different between Dashboard and nSA / nSO - Prod server.
 - [NELB2C-1794](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1794) MyRecords: Missing Week 3.
