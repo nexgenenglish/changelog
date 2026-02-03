@@ -5,6 +5,9 @@ title: neo Live B2I
 # Live B2I
 A website for DynEd students and coaches to study using Live Session and also for admins and affiliates to manage DynEd Live's environment.
 
+## [v.1.2.7] on February 20th, 2025
+- [DELB2I-1414](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1414) from DB can see Oct 3's live session record for Jenny, but can't see it for live admin and Jenny's live account.
+
 ## [v.1.2.5] on November 12th, 2024
 - [DELB2I-1401](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1401) Fixed issue for cannot reset the password.
 - [DELB2I-1404](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1404) Use the neo PT value instead of DynEd Pro PT when adding a coach.

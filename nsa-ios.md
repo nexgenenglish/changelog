@@ -10,6 +10,7 @@ neo Study application for iOS
 - [NSA-4579](https://dyned.myjetbrains.com/youtrack/issue/NSA-4579) Unable to download MyRecords.pdf.
 - [NSA-4585](https://dyned.myjetbrains.com/youtrack/issue/NSA-4585) Add third server option for NSA.
 - [NSA-4630](https://dyned.myjetbrains.com/youtrack/issue/NSA-4630) Users created on Brazil server are able to login on ROW server.
+- [NSA-4633](https://dyned.myjetbrains.com/youtrack/issue/NSA-4633) File of MyRecords does not download.
 - [NSA-4634](https://dyned.myjetbrains.com/youtrack/issue/NSA-4634) The nsa loads the privacy-policy and eula very slow.
 - [NSA-4643](https://dyned.myjetbrains.com/youtrack/issue/NSA-4643) Signin Screen: Previous user appears after EULA.
 - [NSA-4658](https://dyned.myjetbrains.com/youtrack/issue/NSA-4658) neo study error.
@@ -92,6 +93,7 @@ neo Study application for iOS
 ## [v1.27.0] on March 17th, 2025
 - [NSA-4160](https://dyned.myjetbrains.com/youtrack/issue/NSA-4160) student can't edit mylessons though she got an notice"You have maximum mylesson tosave".
 - [NSA-4162](https://dyned.myjetbrains.com/youtrack/issue/NSA-4162) iOS: step 4 displays differently from Android.
+- [NSA-4198](https://dyned.myjetbrains.com/youtrack/issue/NSA-4198) Cert_passed_single.
 - [NSA-4200](https://dyned.myjetbrains.com/youtrack/issue/NSA-4200) Add header NS-Application-Name for each request to backend.
 - [NSA-4201](https://dyned.myjetbrains.com/youtrack/issue/NSA-4201) AE U3P1>Language Exercises>Focus Exercises: it shows different on iOS and fine on Android.
 - [NSA-4206](https://dyned.myjetbrains.com/youtrack/issue/NSA-4206) Add Account deletion request menu.

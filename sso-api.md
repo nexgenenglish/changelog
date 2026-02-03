@@ -4,6 +4,9 @@ title: SSO API
 
 # SSO API
 
+# 1.6.4 on January 20th, 2026
+- [SSO-98](https://dyned.myjetbrains.com/youtrack/issue/SSO-98) Change the student account and register new students, is taking too long time - Status in processing.
+
 # 1.6.0 on November 3rd, 2025
 - [SSO-95](https://dyned.myjetbrains.com/youtrack/issue/SSO-95) There's no log in SSO when change password and change level event
 

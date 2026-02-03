@@ -5,6 +5,9 @@ title: JCT
 # JCT
 **JCT** is an interactive web based application interface where a team of course designer setup and create DynEd Course Study that will be used by neo Study App.
 
+## [V.1.2.36] on January 18th, 2026
+- [JCT-221](https://dyned.myjetbrains.com/youtrack/issue/JCT-221) the clone function doesn't work.
+
 ## [V.1.2.35] on January 14th, 2026
 - [JCT-220](https://dyned.myjetbrains.com/youtrack/issue/JCT-220) the text '0' can't show in the new templates.
 

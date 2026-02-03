@@ -33,7 +33,8 @@ module.exports = {
             '/reporting',
             '/neo-bugs-reporting',
             '/dsacontent-api',
-            '/cert-issuanceAPI'
+            '/cert-issuanceAPI',
+            '/jwt-api',
         ]
     }
 }

@@ -5,6 +5,9 @@ title: neo Study Online
 # neo Study Online
 Browser based neo Study 
 
+# 1.14.42 on March 3rd, 2025
+- [NSAAPI-766](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-766) Fix error in main screen that keep showing MT button even after student has taken MT.
+
 ## [1.9.2] on January 5th, 2026
 - [nSO-1243](https://dyned.myjetbrains.com/youtrack/issue/nSO-1243) Problems with recording on Neo -Saigon South neoPrep+.
 - [nSO-1514](https://dyned.myjetbrains.com/youtrack/issue/nSO-1554) new menu nso neojr: Missing back X button in Lesson Title Page.

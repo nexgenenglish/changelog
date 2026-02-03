@@ -5,15 +5,16 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
-# 1.8.1 on March 3rd, 2025
-- [NSAAPI-766](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-766) Fix error in main screen that keep showing MT button even after student has taken MT.
-- [NSAAPI-767](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-767) 500 - Internal server Error.
+# 1.15.15-1 on February 3rd, 2026
+- [NSAAPI-878](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-878) Error 429. Something went wrong - nSA.
 
-# JWT 1.2.3 on June 24th, 2025
-- [NSAAPI-786](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-786) it pops up "Send Study Record Failed".
- 
-# JWT 1.2.1 on March 2nd, 2025
-- [NSAAPI-762](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-762) Fixed seamless login API that does not work.
+# 1.15.15 on January 26th, 2026
+- [NSAAPI-876](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-876) Learning process crashes.
+
+# 1.15.14 on January 8th, 2026
+- [NSAAPI-870](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-870) Incorrect Percent level display.
+- [NSAAPI-872](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-872) After completing units from 2 to 8 and MTs, the Certification Test is unlocked.
+- [NSAAPI-874](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-874) MT Score shows a percentage sign.
 
 # 1.15.12 on January 5th, 2026
 - [NSAAPI-868](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-868) Sorting Issue on current_level Column and Unsupported Sorting for Previous Course.
@@ -124,6 +125,9 @@ Service (API) to manage neo Study App.
 - [NSAAPI-771](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-771) Improve the messaging when the CT is still locked when there's MT in the unit that hasn't been done.
 - [NSAAPI-772](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-772) Don't mark the Unit as completed when the MT is not done.
 - [NSAAPI-774](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-774) Check the MT open setting in UD setting for determining the Unit checklist.
+
+# 1.14.42 on March 3rd, 2025
+- [NSAAPI-767](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-767) 500 - Internal server Error.
 
 # 1.14.40 on February 24th, 2025
 - [NSAAPI-754](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-754) Points this week has incorrect value under the student's tab.
