@@ -5,6 +5,13 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.15.15-7 on February 10th, 2026
+- [NSAAPI-880](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-880) The date time is in the API is not correct.
+- [NSAAPI-883](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-883) Dashboard does not display values in “Grade” and “Average Points per Week” columns.
+
+# 1.15.15-5 on February 5th, 2026
+- [NSAAPI-879](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-879) The text is not correct.
+
 # 1.15.15-1 on February 3rd, 2026
 - [NSAAPI-878](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-878) Error 429. Something went wrong - nSA.
 
