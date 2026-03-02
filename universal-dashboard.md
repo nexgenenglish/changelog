@@ -5,6 +5,15 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+# [1.7.3] on February 22nd, 2026
+- [UD-4453](https://dyned.myjetbrains.com/youtrack/issue/UD-4453) Add the ability to add the 2nd organization logo.
+- [UD-4578](https://dyned.myjetbrains.com/youtrack/issue/UD-4578) Parent Phone number field allows text input.
+- [UD-4601](https://dyned.myjetbrains.com/youtrack/issue/UD-4601) Error 500 when clicking on MyRecords.
+- [UD-4791](https://dyned.myjetbrains.com/youtrack/issue/UD-4791) Please update ct status from open to locked.
+- [UD-4809](https://dyned.myjetbrains.com/youtrack/issue/UD-4809) Request is still using tebetutara2 token instead of the admin that did the request.
+- [UD-4821](https://dyned.myjetbrains.com/youtrack/issue/UD-4821) Logo 2 reverts to Logo 1.
+- [UD-4843](https://dyned.myjetbrains.com/youtrack/issue/UD-4843) Wrong registration date in the student profile.
+
 # [1.7.2.2] on January 14th, 2026
 - [UD-4720](https://dyned.myjetbrains.com/youtrack/issue/UD-4720) error with the path for the following organization: (ZZ - Colegio Juan Jacobo Rousseau - 2023) - (HS - Lehnsen Roosevelt).
 - [UD-4793](https://dyned.myjetbrains.com/youtrack/issue/UD-4793) The administrator user can see a class that does not belong to her organization.

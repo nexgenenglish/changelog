@@ -5,6 +5,9 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## [V.1.11.36] on February 24th, 2026
+- [ETAPI-222](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-222) The student took the Assessment Test, but it continues to show as Force PT.
+
 ## [V.1.11.30] on August 25th, 2025
 - [ETAPI-215](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-215)
 
