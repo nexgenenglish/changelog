@@ -11,6 +11,9 @@ title: JCT
 ## [V.1.2.35] on January 14th, 2026
 - [JCT-220](https://dyned.myjetbrains.com/youtrack/issue/JCT-220) the text '0' can't show in the new templates.
 
+## [V.1.2.34] on December 9th, 2025
+- [JCT-219](https://dyned.myjetbrains.com/youtrack/issue/JCT-219) FE U2>Letters A-D:can't regenerate the lesson.
+
 ## [V.1.2.32-0] on November 16th, 2025
 - [JCT-217](https://dyned.myjetbrains.com/youtrack/issue/JCT-217) Add brazil for Available ON on DSA_FLOW.
 

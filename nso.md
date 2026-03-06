@@ -8,6 +8,9 @@ Browser based neo Study
 # 1.14.42 on March 3rd, 2025
 - [NSAAPI-766](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-766) Fix error in main screen that keep showing MT button even after student has taken MT.
 
+## [1.9.3] on January 5th, 2026
+- [nSO-1876](https://dyned.myjetbrains.com/youtrack/issue/nSO-1876) Unable to open the PT test page.
+
 ## [1.9.2] on January 5th, 2026
 - [nSO-1243](https://dyned.myjetbrains.com/youtrack/issue/nSO-1243) Problems with recording on Neo -Saigon South neoPrep+.
 - [nSO-1514](https://dyned.myjetbrains.com/youtrack/issue/nSO-1554) new menu nso neojr: Missing back X button in Lesson Title Page.
@@ -38,6 +41,8 @@ Browser based neo Study
 - [nSO-1841](https://dyned.myjetbrains.com/youtrack/issue/nSO-1841) new FE DEV: Content Security Policy of your site blocks some resources.
 - [nSO-1842](https://dyned.myjetbrains.com/youtrack/issue/nSO-1842) new FE DEV: Not Supported Error.
 - [nSO-1846](https://dyned.myjetbrains.com/youtrack/issue/nSO-1846) No points remaining showed after the of a lesson-stg.
+- [nSO-1858](https://dyned.myjetbrains.com/youtrack/issue/nSO-1858) new FE: playback recorded audio level way lower than narrator.
+- [nSO-1865](https://dyned.myjetbrains.com/youtrack/issue/nSO-1865) There is no color coded feedback on some SR lessons when running via nSO.
 
 ## [v.1.9.1] on August 31st, 2025
 - [nSO-1297](https://dyned.myjetbrains.com/youtrack/issue/nSO-1297) Different font for the phrase: They live in different countries.

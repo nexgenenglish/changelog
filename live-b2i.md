@@ -5,8 +5,12 @@ title: neo Live B2I
 # Live B2I
 A website for DynEd students and coaches to study using Live Session and also for admins and affiliates to manage DynEd Live's environment.
 
-## [v.1.2.7] on February 20th, 2025
+## [v.1.2.7] on February 20th, 2026
 - [DELB2I-1414](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1414) from DB can see Oct 3's live session record for Jenny, but can't see it for live admin and Jenny's live account.
+- [DELB2I-1420](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1420) Student Token Histories returns no data.
+
+## [v.1.2.6] on December 1st, 2025
+- [DELB2I-1415](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1415) Spam email from DynEd Live" <mobilesupport@dyned.com>.
 
 ## [v.1.2.5] on November 12th, 2024
 - [DELB2I-1401](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1401) Fixed issue for cannot reset the password.
@@ -14,6 +18,10 @@ A website for DynEd students and coaches to study using Live Session and also fo
 - [DELB2I-1405](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1405) Coach Karen Moya needs her password to start his sessions | New Coach Creation Email.
 - [DELB2I-1410](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1410) Country Code does not automatically change after chosing the country when creating coach.
 - [DELB2I-1412](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1412) Coach Affilate needs his password (did not receive the notification email).
+
+## [v.1.2.4] on October 28th, 2025
+- [DELB2I-1419](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1419) PHP error when trying to run the session simulator.
+- [DELB2I-1425](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1425) Update RTM SDK Agora to version 2.2.2.
 
 ## [v.1.2.1-1] on October 11th, 2023
 - [DELB2I-1386](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1386) Hotfix bug fixing in coach schedule.

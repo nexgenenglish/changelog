@@ -5,8 +5,11 @@ title: myneo App - Android
 # myneo App - Android
 myneo Application for Android
 
-## [v1.10.2] August 25th, 2025
+## [v1.10.2] November 25th, 2025
+- [MNA-612](https://dyned.myjetbrains.com/youtrack/issue/MNA-612) Inconsistency between Android and iOS.
 - [MNA-614](https://dyned.myjetbrains.com/youtrack/issue/MNA-614) MediaCodecVideoRenderer error when playing video.
+- [MNA-658](https://dyned.myjetbrains.com/youtrack/issue/MNA-658) MyNeo app cannot download pdf on Print-MyRecords.
+- [MNA-665](https://dyned.myjetbrains.com/youtrack/issue/MNA-665) Loading process does not stop.
 
 ## [v1.10.1] August 25th, 2025
 - [MNA-623](https://dyned.myjetbrains.com/youtrack/issue/MNA-623) Take a free Placement Test option is no longer available.

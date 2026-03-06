@@ -5,6 +5,10 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.15.15-8 on March 2nd, 2026
+- [NSAAPI-882](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-882)The API only returns data at the current level.
+- [NSAAPI-884](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-884) The Get Unit Progress API is not correct?
+
 # 1.15.15-7 on February 10th, 2026
 - [NSAAPI-880](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-880) The date time is in the API is not correct.
 - [NSAAPI-883](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-883) Dashboard does not display values in “Grade” and “Average Points per Week” columns.

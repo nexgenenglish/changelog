@@ -5,6 +5,27 @@ title: myneo App - iOS
 # myneo App - iOS
 myneo Application for iOS
 
+## [v1.10.2] on November 25th, 2025
+- [MNA-402](https://dyned.myjetbrains.com/youtrack/issue/MNA-402) Localization (Spanish) issue with one sentence at the login screen.
+- [MNA-403](https://dyned.myjetbrains.com/youtrack/issue/MNA-403) Localized spanish text for "Sign in".
+- [MNA-407](https://dyned.myjetbrains.com/youtrack/issue/MNA-407) Localization for the word "Open" in Spanish.
+- [MNA-409](https://dyned.myjetbrains.com/youtrack/issue/MNA-409) FAQ does not display Articles in Spanish.
+- [MNA-471](https://dyned.myjetbrains.com/youtrack/issue/MNA-471) Date Format: Is it possible to display the user's phone's Date and Date Format?
+- [MNA-479](https://dyned.myjetbrains.com/youtrack/issue/MNA-479) The button reschedule will change to download recording when scrolling display.
+- [MNA-612](https://dyned.myjetbrains.com/youtrack/issue/MNA-612) Inconsistency between Android and iOS.
+- [MNA-641](https://dyned.myjetbrains.com/youtrack/issue/MNA-641) MyRecord file does not download.
+- [MNA-654](https://dyned.myjetbrains.com/youtrack/issue/MNA-654) Remove the buy Token button.
+- [MNA-666](https://dyned.myjetbrains.com/youtrack/issue/MNA-666) URLSessionTask failed with error: The request timed out.
+- [MNA-667](https://dyned.myjetbrains.com/youtrack/issue/MNA-667) The Text part for Recorded session was displayed incorrectly in IOS.
+- [MNA-668](https://dyned.myjetbrains.com/youtrack/issue/MNA-668) MNA - social media page error.
+- [MNA-675](https://dyned.myjetbrains.com/youtrack/issue/MNA-675) The app crashes when tapping the Save button on the Account Info page.
+- [MNA-676](https://dyned.myjetbrains.com/youtrack/issue/MNA-676) The Media page does not display any content.
+- [MNA-677](https://dyned.myjetbrains.com/youtrack/issue/MNA-677) During the live session using an Aggora account, the student cannot see the coach, and the connection alert remains on the screen.
+- [MNA-678](https://dyned.myjetbrains.com/youtrack/issue/MNA-678) When clicking the network icon during live mode, the displayed page is incorrect, and an error occurs.
+- [MNA-682](https://dyned.myjetbrains.com/youtrack/issue/MNA-682) Crash after viewing recorded session.
+- [MNA-687](https://dyned.myjetbrains.com/youtrack/issue/MNA-687) Not able to see and change the Phone number.
+- [MNA-689](https://dyned.myjetbrains.com/youtrack/issue/MNA-689) Unable to attach a file when contacting support for help.
+
 ## [v1.10.1] August 25th, 2025
 - [MNA-623](https://dyned.myjetbrains.com/youtrack/issue/MNA-623) Take a free Placement Test option is no longer available.
 - [MNA-624](https://dyned.myjetbrains.com/youtrack/issue/MNA-624) Need new Twitter logo.

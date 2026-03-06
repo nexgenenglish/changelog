@@ -5,15 +5,20 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
-## [v1.28.3] on December 3rd, 2025
+## [v1.28.3] on December 4th, 2025
 - [NSA-4521](https://dyned.myjetbrains.com/youtrack/issue/NSA-4521) Lesson Name inconsistency.
 - [NSA-4579](https://dyned.myjetbrains.com/youtrack/issue/NSA-4579) Unable to download MyRecords.pdf.
 - [NSA-4585](https://dyned.myjetbrains.com/youtrack/issue/NSA-4585) Add third server option for NSA.
+- [NSA-4607](https://dyned.myjetbrains.com/youtrack/issue/NSA-4607) iPad: neoView no scrollable interface.
+- [NSA-4618](https://dyned.myjetbrains.com/youtrack/issue/NSA-4618) FAQ Attachment Icon does not work.
 - [NSA-4630](https://dyned.myjetbrains.com/youtrack/issue/NSA-4630) Users created on Brazil server are able to login on ROW server.
+- [NSA-4631](https://dyned.myjetbrains.com/youtrack/issue/NSA-4631) Unable to login once you switch servers.
+- [NSA-4632](https://dyned.myjetbrains.com/youtrack/issue/NSA-4632) Field of white color on the screen of My Record.
 - [NSA-4633](https://dyned.myjetbrains.com/youtrack/issue/NSA-4633) File of MyRecords does not download.
 - [NSA-4634](https://dyned.myjetbrains.com/youtrack/issue/NSA-4634) The nsa loads the privacy-policy and eula very slow.
 - [NSA-4643](https://dyned.myjetbrains.com/youtrack/issue/NSA-4643) Signin Screen: Previous user appears after EULA.
 - [NSA-4658](https://dyned.myjetbrains.com/youtrack/issue/NSA-4658) neo study error.
+- [NSA-4661](https://dyned.myjetbrains.com/youtrack/issue/NSA-4661) Bug Fix Request-Access Issue.
 
 ## [v1.28.2] on August 31st, 2025
 - [NSA-4302](https://dyned.myjetbrains.com/youtrack/issue/NSA-4302) iOS: neoPrep+: No current level highlight.
