@@ -5,6 +5,13 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.28.4] on April 8th, 2026
+- [NSA-4705](https://dyned.myjetbrains.com/youtrack/issue/NSA-4705) Android: Video Interactions only have two SR attempts.
+- [NSA-4711](https://dyned.myjetbrains.com/youtrack/issue/NSA-4711) Change color coded feedback for SR.
+- [NSA-4714](https://dyned.myjetbrains.com/youtrack/issue/NSA-4714) Error: finish_at invalid datetime format when syncing records.
+- [NSA-4716](https://dyned.myjetbrains.com/youtrack/issue/NSA-4716) Add u unique identifier for study data to detect suspectible cheating data. 
+- [NSA-4730](https://dyned.myjetbrains.com/youtrack/issue/NSA-4730) My Records-numbers are not justified right.
+
 ## [v1.28.3] on December 3rd, 2025
 - [NSA-4521](https://dyned.myjetbrains.com/youtrack/issue/NSA-4521) Lesson Name inconsistency.
 - [NSA-4549](https://dyned.myjetbrains.com/youtrack/issue/NSA-4549) The NSA_v1.28.2.2025.07.18-prod-cn.apk stuck.

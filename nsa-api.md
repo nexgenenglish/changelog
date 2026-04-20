@@ -5,6 +5,18 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.15.15-16 on April 16th, 2026
+- [NSAAPI-897](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-897) Make the thumbnail of Units taken from the CDN link.
+
+# 1.15.15-14 on April 8th, 2026
+- [NSAAPI-895](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-895) It returns null to run "Get Unit Progress API".
+
+# 1.15.15-13 on April 8th, 2026
+- [NSAAPI-891](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-891) Grade Column Shows 0% in Grading Report While Student Summary Report Shows Correct Values.
+
+# 1.15.15-9 on April 9th, 2026
+- [NSAAPI-887](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-887) neo Dashbord takes a long time to display list of students- UTN Profesional.
+
 # 1.15.15-8 on March 2nd, 2026
 - [NSAAPI-882](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-882)The API only returns data at the current level.
 - [NSAAPI-884](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-884) The Get Unit Progress API is not correct?

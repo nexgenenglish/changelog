@@ -5,6 +5,10 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+# [1.7.3.1] on April 2nd, 2026
+- [UD-4907](https://dyned.myjetbrains.com/youtrack/issue/UD-4907) CAN'T CHANGE PASSWORD.
+- [UD-4908](https://dyned.myjetbrains.com/youtrack/issue/UD-4908) After do change and save on a admin user - the China server is selected.
+
 # [1.7.3] on February 22nd, 2026
 - [UD-4453](https://dyned.myjetbrains.com/youtrack/issue/UD-4453) Add the ability to add the 2nd organization logo.
 - [UD-4578](https://dyned.myjetbrains.com/youtrack/issue/UD-4578) Parent Phone number field allows text input.

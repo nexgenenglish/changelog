@@ -5,6 +5,16 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+## [v1.28.4] on April 8th, 2026
+- [NSA-4684](https://dyned.myjetbrains.com/youtrack/issue/NSA-4684) new FE iOS: correct answer anim does not play.
+- [nsa-4695](https://dyned.myjetbrains.com/youtrack/issue/NSA-4695) iOS: the text in comprehension doesn't show.
+- [NSA-4703](https://dyned.myjetbrains.com/youtrack/issue/NSA-4703) iOS: the background alphabets are smaller.
+- [NSA-4711](https://dyned.myjetbrains.com/youtrack/issue/NSA-4711) Change color coded feedback for SR.
+- [NSA-4712](https://dyned.myjetbrains.com/youtrack/issue/NSA-4712) It pops up error while the lesson is finished -DE.
+- [NSA-4714](https://dyned.myjetbrains.com/youtrack/issue/NSA-4714) Error: finish_at invalid datetime format when syncing records.
+- [NSA-4716](https://dyned.myjetbrains.com/youtrack/issue/NSA-4716) Add u unique identifier for study data to detect suspectible cheating data. 
+- [NSA-4730](https://dyned.myjetbrains.com/youtrack/issue/NSA-4730) My Records-numbers are not justified right.
+
 ## [v1.28.3] on December 4th, 2025
 - [NSA-4521](https://dyned.myjetbrains.com/youtrack/issue/NSA-4521) Lesson Name inconsistency.
 - [NSA-4579](https://dyned.myjetbrains.com/youtrack/issue/NSA-4579) Unable to download MyRecords.pdf.
