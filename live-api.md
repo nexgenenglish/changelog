@@ -4,6 +4,9 @@ title: LIVE API
 
 # LIVE API
 
+# [v.1.1.25] on May 7th, 2026
+- [LIVEAPI-106](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-106) live:Wrongly scheduled course, no message notification.
+
 # [v.1.1.23] on August 25th, 2025
 - [LIVEAPI-98](https://dyned.myjetbrains.com/youtrack/issue/LIVEAPI-98) Rearranging the sequence of the Live coaches in the list (China Server).
 

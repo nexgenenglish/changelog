@@ -8,6 +8,9 @@ Application for Assessment Tests (Placement Tests or Certification Tests) system
 ## [2.18.19] on September 28th, 2024
 - [ET-522](https://dyned.myjetbrains.com/youtrack/issue/ET-522) Add the ICP code at the bottom.
 
+## [2.11.7] on June 4th, 2026
+- [ET-605](https://dyned.myjetbrains.com/youtrack/issue/ET-605) Incorrect Correlations
+
 ## [2.11.2] on January 22nd, 2026
 - [ET-590](https://dyned.myjetbrains.com/youtrack/issue/ET-590) The default language before starting the test is Bahasa.
 

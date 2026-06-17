@@ -4,6 +4,9 @@ title: B2C Portal
 
 # B2C Portal
 
+## [v.1.7.3] on May 8th, 2026
+- [mns-894](https://dyned.myjetbrains.com/youtrack/issue/mns-894) Student Name in the certificate is truncated.
+
 ## [v.1.1.39.4] on November 16th, 2025
 - [mns-883](https://dyned.myjetbrains.com/youtrack/issue/mns-883) Student who moved from neoJr to neoPrep+ couldn't get the certificate updated for neoJr plan certificate.
 

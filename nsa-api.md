@@ -5,8 +5,42 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.16.9 on June 4th, 2026
+- [NSAAPI-919](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-919) Class tab shows incorrect student performance values compared to Student Summary Report.
+
+# 1.16.6 on May 13th, 2026
+- [NSAAPI-914](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-914) Search by fullname on quick search does not work in the class.
+- [NSAAPI-915](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-915) Incorrect study time under class tab.
+
+# 1.16.5 on May 8th, 2026
+- [NSAAPI-727](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-727) Prevents students from signing in in more than 1 devices for MNA and NSA and NSO.
+- [NSAAPI-894](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-894) Apply a single sign one mechanisme to detect signed in student in NSA/NSO and only allow 1 session for NSA/NSO.
+- [NSAAPI-910](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-910) new FE: A1+:P1 Unit 3 Study Path wrong.
+- [NSAAPI-912](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-912) Add search parameter to allow more refined search.
+- [NSAAPI-913](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-913) Incorrect Study Weeks and Study Time values under Class Tab (Knowledge Group – Panama).
+
+# 1.16.4 on May 5th, 2026
+- [NSAAPI-907](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-907) Issue: Student status.
+- [NSAAPI-908](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-908) Active Students are showing Inactive in Classes.
+- [NSAAPI-909](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-909) Last Study Date is not being displayed under classes tab.
+
+# 1.16.2 on April 26th, 2026
+- [NSAAPI-901](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-901) "Points This Week" is not displaying the points earned by the students.
+- [NSAAPI-902](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-902) The student's account appears repeatedly.
+- [NSAAPI-903](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-903) Search returned two identical accounts.
+
+# 1.16.1 on April 27th, 2026
+- [NSAAPI-900](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-900) units not normal.
+- [NSAAPI-904](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-904) Search returns the same result four times for 4d37@dongba.sg.
+
+# 1.16.0 on April 26th, 2026
+- [NSAAPI-862](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-862) Add a search function for searching user data based on their data in u_profile in SSO database.
+
 # 1.15.15-16 on April 16th, 2026
 - [NSAAPI-897](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-897) Make the thumbnail of Units taken from the CDN link.
+
+# 1.15.15-15 on April 10th, 2026
+- [NSAAPI-896](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-896) Something’s strange with the “Average Points Per Week” data.
 
 # 1.15.15-14 on April 8th, 2026
 - [NSAAPI-895](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-895) It returns null to run "Get Unit Progress API".
@@ -15,6 +49,7 @@ Service (API) to manage neo Study App.
 - [NSAAPI-891](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-891) Grade Column Shows 0% in Grading Report While Student Summary Report Shows Correct Values.
 
 # 1.15.15-9 on April 9th, 2026
+- [NSAAPI-885](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-885) Study time in level is not displayed under student tab.
 - [NSAAPI-887](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-887) neo Dashbord takes a long time to display list of students- UTN Profesional.
 
 # 1.15.15-8 on March 2nd, 2026

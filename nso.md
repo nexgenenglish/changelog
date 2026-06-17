@@ -8,8 +8,23 @@ Browser based neo Study
 # 1.14.42 on March 3rd, 2025
 - [NSAAPI-766](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-766) Fix error in main screen that keep showing MT button even after student has taken MT.
 
-## [1.9.3] on January 5th, 2026
+## [1.9.3] on February 9th, 2026
+- [nSO-1609](https://dyned.myjetbrains.com/youtrack/issue/nSO-1609) Start time is after End Time.
+- [nSO-1795](https://dyned.myjetbrains.com/youtrack/issue/nSO-1795) Student is not able to complete the lesson - ITI - neo + (University clients).
+- [nSO-1836](https://dyned.myjetbrains.com/youtrack/issue/nSO-1836) Is it possbile to optimize it?
+- [nSO-1863](https://dyned.myjetbrains.com/youtrack/issue/nSO-1863) neo+ -> A2 -> At a Restaurant -> Step 5 (Early Speaker - Review).
+- [nSO-1866](https://dyned.myjetbrains.com/youtrack/issue/nSO-1866) Pronunciations for the sentence Sorry, I’m not interested?
+- [nSO-1871](https://dyned.myjetbrains.com/youtrack/issue/nSO-1871) student's study time is wrong.
 - [nSO-1876](https://dyned.myjetbrains.com/youtrack/issue/nSO-1876) Unable to open the PT test page.
+- [nSO-1878](https://dyned.myjetbrains.com/youtrack/issue/nSO-1878) new FE: Previous text not erased.
+- [nSO-1884](https://dyned.myjetbrains.com/youtrack/issue/nSO-1884) new FE: pocketsphinx.wasm very slow to load.
+- [nSO-1885](https://dyned.myjetbrains.com/youtrack/issue/nSO-1885) Set forward the clock in the computer for testing on nSO-STG.
+- [nSO-1888](https://dyned.myjetbrains.com/youtrack/issue/nSO-1888) new FE: U2 Vocab Step 2 Graphic not same size.
+- [nSO-1891](https://dyned.myjetbrains.com/youtrack/issue/nSO-1891) Error loading C1 Bridge icon.
+- [nSo-1893](https://dyned.myjetbrains.com/youtrack/issue/nSO-1893) new FE: wasm streaming error.
+- [nSO-1896](https://dyned.myjetbrains.com/youtrack/issue/nSO-1896) ebtn SR: 40% of not recognized.
+- [nSO-1897](https://dyned.myjetbrains.com/youtrack/issue/nSO-1897) ebtn SR: .005 not recognized.
+- [nSO-1907](https://dyned.myjetbrains.com/youtrack/issue/nSO-1907) PT error.
 
 ## [1.9.2] on January 5th, 2026
 - [nSO-1243](https://dyned.myjetbrains.com/youtrack/issue/nSO-1243) Problems with recording on Neo -Saigon South neoPrep+.

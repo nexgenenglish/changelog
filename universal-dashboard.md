@@ -5,6 +5,21 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+# [1.8.0] on June 9th, 2026
+- [UD-2646](https://dyned.myjetbrains.com/youtrack/issue/UD-2646) Add log when Organization settings is changed by Admin.
+- [UD-4831](https://dyned.myjetbrains.com/youtrack/issue/UD-4831) Add new settings for Allowing Kids friendly login mechanism.
+- [UD-4865](https://dyned.myjetbrains.com/youtrack/issue/UD-4865) Bypass the email address validation when doing bulk import for Kids friendly enabled organzation.
+- [UD-4906](https://dyned.myjetbrains.com/youtrack/issue/UD-4906) Make Kids friendly import excel files history available for download.
+- [UD-4925](https://dyned.myjetbrains.com/youtrack/issue/UD-4925) Improve the fetch mechanisme in Classes tab when the page have pagination.
+- [UD-4927](https://dyned.myjetbrains.com/youtrack/issue/UD-4927) Add the password column for kids friendly bulk import files.
+- [UD-4972](https://dyned.myjetbrains.com/youtrack/issue/UD-4972) Kids Friendly login with two certification plan.
+- [UD-4975](https://dyned.myjetbrains.com/youtrack/issue/UD-4975) Incorrect path for the organizations.
+- [UD-4976](https://dyned.myjetbrains.com/youtrack/issue/UD-4976) Kids Friendly Login using edit password allows more than two digits.
+- [UD-4977](https://dyned.myjetbrains.com/youtrack/issue/UD-4977) Able to create a new student via Action option.
+- [UD-4838](https://dyned.myjetbrains.com/youtrack/issue/UD-4838) Template shows a different Expiration Date.
+- [UD-4957](https://dyned.myjetbrains.com/youtrack/issue/UD-4957) Candidates: pt report two format.
+0 [UD-5002](https://dyned.myjetbrains.com/youtrack/issue/UD-5002) Kids: Wrong last data entry appears.
+
 # [1.7.3.1] on April 2nd, 2026
 - [UD-4907](https://dyned.myjetbrains.com/youtrack/issue/UD-4907) CAN'T CHANGE PASSWORD.
 - [UD-4908](https://dyned.myjetbrains.com/youtrack/issue/UD-4908) After do change and save on a admin user - the China server is selected.
