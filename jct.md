@@ -8,6 +8,8 @@ title: JCT
 ## [V.1.2.38] on April 13th, 2026
 - [JCT-223](https://dyned.myjetbrains.com/youtrack/issue/JCT-223) Put the thumbnail lesson api merge into studypath. 
 
+## [V.1.2.37] on March 23rd, 2026
+- [JCT-222](https://dyned.myjetbrains.com/youtrack/issue/JCT-222) neoJr+>L3U1>Song: some pages can't edit.
 
 ## [V.1.2.36] on January 18th, 2026
 - [JCT-221](https://dyned.myjetbrains.com/youtrack/issue/JCT-221) the clone function doesn't work.

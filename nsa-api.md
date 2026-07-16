@@ -5,8 +5,17 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.17.2 on July 8th, 2026
+- [NSAAPI-931](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-931) student has more than 100% in the column Level Completion Completed - Case 1.
+
+# 1.16.12 on June 25th, 2026
+- [NSAAPI-920](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-920) Update Student Transfer API for Bulk Class Assignment.
+
 # 1.16.9 on June 4th, 2026
 - [NSAAPI-919](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-919) Class tab shows incorrect student performance values compared to Student Summary Report.
+
+# 1.16.8 on July 4th, 2026
+- [NSAAPI-918](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-918) the api for UD students page sometimes return 500 or slow when the number of student is big.
 
 # 1.16.6 on May 13th, 2026
 - [NSAAPI-914](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-914) Search by fullname on quick search does not work in the class.
@@ -23,6 +32,9 @@ Service (API) to manage neo Study App.
 - [NSAAPI-907](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-907) Issue: Student status.
 - [NSAAPI-908](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-908) Active Students are showing Inactive in Classes.
 - [NSAAPI-909](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-909) Last Study Date is not being displayed under classes tab.
+
+# 1.16.3 on April 28th, 2026
+- [NSAAPI-906](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-906) Request: Students cannot access the review lessons, the “Review Lessons” button in their app is NOT active.
 
 # 1.16.2 on April 26th, 2026
 - [NSAAPI-901](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-901) "Points This Week" is not displaying the points earned by the students.

@@ -5,6 +5,14 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+# [1.8.0.2] on July 14th, 2026
+- [UD-5082](https://dyned.myjetbrains.com/youtrack/issue/UD-5082) Cannot unlock CT by hand after failed test 4 times.
+
+# [1.8.0.1] on June 22nd, 2026
+- [UD-5041](https://dyned.myjetbrains.com/youtrack/issue/UD-5041) Error: No matching records found.
+- [UD-5048](https://dyned.myjetbrains.com/youtrack/issue/UD-5048) Fixed issue: The sorting function is not working correctly.
+- [UD-5058](https://dyned.myjetbrains.com/youtrack/issue/UD-5058) Exclude the changes in these fields for Organisations logging.
+
 # [1.8.0] on June 9th, 2026
 - [UD-2646](https://dyned.myjetbrains.com/youtrack/issue/UD-2646) Add log when Organization settings is changed by Admin.
 - [UD-4831](https://dyned.myjetbrains.com/youtrack/issue/UD-4831) Add new settings for Allowing Kids friendly login mechanism.
@@ -32,6 +40,7 @@ An universal dashboard to manage neo ecosystem.
 - [UD-4809](https://dyned.myjetbrains.com/youtrack/issue/UD-4809) Request is still using tebetutara2 token instead of the admin that did the request.
 - [UD-4821](https://dyned.myjetbrains.com/youtrack/issue/UD-4821) Logo 2 reverts to Logo 1.
 - [UD-4843](https://dyned.myjetbrains.com/youtrack/issue/UD-4843) Wrong registration date in the student profile.
+- [UD-5004](https://dyned.myjetbrains.com/youtrack/issue/UD-5004) Kids: Able to enter email address.
 
 # [1.7.2.2] on January 14th, 2026
 - [UD-4720](https://dyned.myjetbrains.com/youtrack/issue/UD-4720) error with the path for the following organization: (ZZ - Colegio Juan Jacobo Rousseau - 2023) - (HS - Lehnsen Roosevelt).
@@ -545,6 +554,7 @@ An universal dashboard to manage neo ecosystem.
 - [UD-1656](https://dyned.myjetbrains.com/youtrack/issue/UD-1656) - Updated allowing organization have no expired date.
 - [UD-1675](https://dyned.myjetbrains.com/youtrack/issue/UD-1675) - Updated allowing organization admin to update organization details.
 - [UD-1711](https://dyned.myjetbrains.com/youtrack/issue/UD-1711) - Fixed issue for cannot edit an organization's name.
+- [UD-4966](https://dyned.myjetbrains.com/youtrack/issue/UD-4966) Error: student study data are not reflected.
 
 ## [1.6.3] on May 6th, 2022
 - Installing laravel horizon to manage all queue and background jobs

@@ -11,6 +11,12 @@ Application for Assessment Tests (Placement Tests or Certification Tests) system
 ## [2.11.7] on June 4th, 2026
 - [ET-605](https://dyned.myjetbrains.com/youtrack/issue/ET-605) Incorrect Correlations
 
+## [2.11.6] on May 10th, 2026
+- [ET-611](https://dyned.myjetbrains.com/youtrack/issue/ET-611) Allow only single active session for PT/CT per user.
+
+## [2.11.3] on April 2nd, 2026
+- [ET-610](https://dyned.myjetbrains.com/youtrack/issue/ET-610) Add log for CT/PT taken that can be used to identified if the test is taken on different devices.
+
 ## [2.11.2] on January 22nd, 2026
 - [ET-590](https://dyned.myjetbrains.com/youtrack/issue/ET-590) The default language before starting the test is Bahasa.
 
