@@ -8,6 +8,9 @@ Browser based neo Study
 # 1.14.42 on March 3rd, 2025
 - [NSAAPI-766](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-766) Fix error in main screen that keep showing MT button even after student has taken MT.
 
+## [1.9.3.1] on July 22nd, 2026
+- [nSO-1987](https://dyned.myjetbrains.com/youtrack/issue/nSO-1987) Login failed in nSO - ordoñez@uesgd.com.
+
 ## [1.9.3] on February 9th, 2026
 - [nSO-1609](https://dyned.myjetbrains.com/youtrack/issue/nSO-1609) Start time is after End Time.
 - [nSO-1795](https://dyned.myjetbrains.com/youtrack/issue/nSO-1795) Student is not able to complete the lesson - ITI - neo + (University clients).

@@ -5,6 +5,16 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+# [1.8.1] on July 22nd, 2026
+- [UD-4997](https://dyned.myjetbrains.com/youtrack/issue/UD-4997) Change-class-student-level-template from the class is empty.
+- [UD-5019](https://dyned.myjetbrains.com/youtrack/issue/UD-5019) Clarification Request: “End Period” resets to current date after leaving and re-entering Universal Dashboard.
+- [UD-5036](https://dyned.myjetbrains.com/youtrack/issue/UD-5036) Warning message in an imported student history file.
+- [UD-5042](https://dyned.myjetbrains.com/youtrack/issue/UD-5042) Last Coaching Session column is available for Organizations that do not have live enable.
+- [UD-5058](https://dyned.myjetbrains.com/youtrack/issue/UD-5058) Exclude the changes in these fields for Organisations logging.
+- [UD-5059](https://dyned.myjetbrains.com/youtrack/issue/UD-5059) UD - Columns within Class not filtering.
+- [UD-5067](https://dyned.myjetbrains.com/youtrack/issue/UD-5067) Wrong success message after bulk transfer students to class.
+- [UD-5072](https://dyned.myjetbrains.com/youtrack/issue/UD-5072) Optimize the way to export student list to bulk transfer class.
+
 # [1.8.0.2] on July 14th, 2026
 - [UD-5082](https://dyned.myjetbrains.com/youtrack/issue/UD-5082) Cannot unlock CT by hand after failed test 4 times.
 
