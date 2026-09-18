@@ -5,6 +5,12 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+# [1.8.1.1] on August 10th, 2026
+- [UD-5097](https://dyned.myjetbrains.com/youtrack/issue/UD-5097) Sort: No wait cursor.
+- [UD-5100](https://dyned.myjetbrains.com/youtrack/issue/UD-5100) Prevents diacritic characters (non standard character being used for email address.
+- [UD-5102](https://dyned.myjetbrains.com/youtrack/issue/UD-5102) Add Course to Bulk Transfer Student to Class Template.
+- [UD-5111](https://dyned.myjetbrains.com/youtrack/issue/UD-5111) Update the edit class when update the student CT status using the bulk update student endpoints.
+
 # [1.8.1] on July 22nd, 2026
 - [UD-4997](https://dyned.myjetbrains.com/youtrack/issue/UD-4997) Change-class-student-level-template from the class is empty.
 - [UD-5019](https://dyned.myjetbrains.com/youtrack/issue/UD-5019) Clarification Request: “End Period” resets to current date after leaving and re-entering Universal Dashboard.

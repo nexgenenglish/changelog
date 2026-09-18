@@ -8,6 +8,22 @@ Browser based neo Study
 # 1.14.42 on March 3rd, 2025
 - [NSAAPI-766](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-766) Fix error in main screen that keep showing MT button even after student has taken MT.
 
+## [1.9.4] on August 4th, 2026
+- [nSO-1643](https://dyned.myjetbrains.com/youtrack/issue/nSO-1643) neo Prep+ Some sentences with numbers are not being recognized.
+- [nSO-1880](https://dyned.myjetbrains.com/youtrack/issue/nSO-1880) Typo in SR response text.
+- [nSO-1901](https://dyned.myjetbrains.com/youtrack/issue/nSO-1901) new FE: Duplicate datasets.
+- [nSO-1931](https://dyned.myjetbrains.com/youtrack/issue/nSO-1931) new FE: Comprehension debug data.
+- [nSO-1956](https://dyned.myjetbrains.com/youtrack/issue/nSO-1956) new FE: MT continues in the background.
+- [nSO-1957](https://dyned.myjetbrains.com/youtrack/issue/nSO-1957) new FE: Resume/Exit overlay appears twice.
+- [nSO-1966](https://dyned.myjetbrains.com/youtrack/issue/nSO-1966) Only allow 1 session per user nso.
+- [nSO-1975](https://dyned.myjetbrains.com/youtrack/issue/nSO-1975)Bold text used.
+- [nSO-1978](https://dyned.myjetbrains.com/youtrack/issue/nSO-1978) A problem with one lesson - I said the “correct Answer” and the audio says that it is incorrect, and the correct answer is the sentence that appear in red color letters.
+- [nSO-1979](https://dyned.myjetbrains.com/youtrack/issue/nSO-1979) Technical Issue: Database / Content Desynchronization in A2-B1 Level Video Tasks.
+- [nSO-1980](https://dyned.myjetbrains.com/youtrack/issue/nSO-1980) nso does not recognize the answers - Speech Practice (Buying a Car).
+- [nSO-1981](https://dyned.myjetbrains.com/youtrack/issue/nSO-1981) mismatch between the options and the correct answers.
+- [nSO-1983](https://dyned.myjetbrains.com/youtrack/issue/nSO-1983) Answers during the lesson are shown as incorrect.
+- [nSO-1993](https://dyned.myjetbrains.com/youtrack/issue/nSO-1993) Starter in Main Screen.
+
 ## [1.9.3.1] on July 22nd, 2026
 - [nSO-1987](https://dyned.myjetbrains.com/youtrack/issue/nSO-1987) Login failed in nSO - ordoñez@uesgd.com.
 
@@ -47,6 +63,7 @@ Browser based neo Study
 - [nSO-1788](https://dyned.myjetbrains.com/youtrack/issue/nSO-1788) SentenceFocus: Two correct answer sentences.
 - [nSO-1789](https://dyned.myjetbrains.com/youtrack/issue/nSO-1789) Upload Profile Picture failed when uploading file with HEIC format.
 - [nSO-1792](https://dyned.myjetbrains.com/youtrack/issue/nSO-1792) SR a little hard in Interactive Speaking Parts.
+- [nSO-1793](https://dyned.myjetbrains.com/youtrack/issue/nSO-1793) A1+ Focus Exercise Item not aligned to the center.
 - [nSO-1801](https://dyned.myjetbrains.com/youtrack/issue/nSO-1801) new menu: Wrong end of lesson screen.
 - [nSO-1802](https://dyned.myjetbrains.com/youtrack/issue/nSO-1802) new menu: Unrecognized SR sequence.
 - [nSO-1803](https://dyned.myjetbrains.com/youtrack/issue/nSO-1803) Uncaught (in promise) TypeError: Cannot destructive property 'summary' of 'data.additional_property' as it is undefined at submitLesson at async Object.onFinish.

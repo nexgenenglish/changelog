@@ -8,6 +8,9 @@ Application for Assessment Tests (Placement Tests or Certification Tests) system
 ## [2.18.19] on September 28th, 2024
 - [ET-522](https://dyned.myjetbrains.com/youtrack/issue/ET-522) Add the ICP code at the bottom.
 
+## [2.11.8] on August 10th, 2026
+- [ET-613](https://dyned.myjetbrains.com/youtrack/issue/ET-613) PT: DynEd Header on PT Results Screen.
+
 ## [2.11.7] on June 4th, 2026
 - [ET-605](https://dyned.myjetbrains.com/youtrack/issue/ET-605) Incorrect Correlations
 

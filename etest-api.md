@@ -5,6 +5,13 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## [V.1.11.41] on August 24th, 2026
+- [ETAPI-231](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-231) PT TEST
+
+## [V.1.11.40] on July 14th, 2026
+- [ETAPI-228](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-228) PT Result: etest level Starters or Starter?
+- [ETAPI-229](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-229) PT result is not visible in the student's profile.
+
 ## [V.1.11.39] on May 10th, 2026
 - [ETAPI-227](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-227) Allow only single active session for PT/CT per user.
 

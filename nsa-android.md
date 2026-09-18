@@ -5,6 +5,35 @@ title: neo Study App - Android
 # neo Study App - Android
 neo Study application for Android
 
+## [v1.28.5] on August 10th, 2026
+- [NSA-4707](https://dyned.myjetbrains.com/youtrack/issue/NSA-4707) Android: fontAlignment doesn't work.
+- [NSA-4726](https://dyned.myjetbrains.com/youtrack/issue/NSA-4726) Prevents the app to be able to take a screenshot.
+- [NSA-4740](https://dyned.myjetbrains.com/youtrack/issue/NSA-4740) iOS：repeat button is disabled.
+- [NSA-4744](https://dyned.myjetbrains.com/youtrack/issue/NSA-4744) Allow only 1 session per user for NSA.
+- [NSA-4745](https://dyned.myjetbrains.com/youtrack/issue/NSA-4745) new FE: Disable QW constraint if QW=0 for low number of remaining datasets [Android].
+- [NSA-4760](https://dyned.myjetbrains.com/youtrack/issue/NSA-4760) Android: Reading passage not showing correctly after clicking on the "Listen" button..
+- [NSA-4774](https://dyned.myjetbrains.com/youtrack/issue/NSA-4775) Android: timer runs more than the duration setting.
+- [NSA-4775](https://dyned.myjetbrains.com/youtrack/issue/NSA-4775) Android: timer runs more than the duration setting.
+- [NSA-4778](https://dyned.myjetbrains.com/youtrack/issue/NSA-4778) No points added when clicking on the record button in step 4.
+- [NSA-4797](https://dyned.myjetbrains.com/youtrack/issue/NSA-4797) Inconsistent message between nsa and nso when using more than one device.
+- [NSA-4803](https://dyned.myjetbrains.com/youtrack/issue/NSA-4803) Starter in Main Screen.
+- [NSA-4805](https://dyned.myjetbrains.com/youtrack/issue/NSA-4805) The app goes to the background when click X after finishing the CT.
+- [NSA-4807](https://dyned.myjetbrains.com/youtrack/issue/NSA-4807) Call API JWT /logout.
+- [NSA-4808](https://dyned.myjetbrains.com/youtrack/issue/NSA-4808) Failed to get the lesson (Unauthorized) Exit or Retry (nSA_Android_STG).
+- [NSA-4821](https://dyned.myjetbrains.com/youtrack/issue/NSA-4821) Android: fontAlignment doesn't work.
+- [NSA-4822](https://dyned.myjetbrains.com/youtrack/issue/NSA-4822) Prevents the app to be able to take a screenshot.
+- [NSA-4824](https://dyned.myjetbrains.com/youtrack/issue/NSA-4824) iOS：repeat button is disabled.
+- [NSA-4826](https://dyned.myjetbrains.com/youtrack/issue/NSA-4726) Allow only 1 session per user for NSA.
+- [NSA-4827](https://dyned.myjetbrains.com/youtrack/issue/NSA-4827) new FE: Disable QW constraint if QW=0 for low number of remaining datasets [Android].
+- [NSA-4836](https://dyned.myjetbrains.com/youtrack/issue/NSA-4836) Android: Reading passage not showing correctly after clicking on the "Listen" button.
+- [NSA-4840](https://dyned.myjetbrains.com/youtrack/issue/NSA-4840) Android: timer runs more than the duration setting.
+- [NSA-4841](https://dyned.myjetbrains.com/youtrack/issue/NSA-4841) No points added when clicking on the record button in step 4.
+- [NSA-4843](https://dyned.myjetbrains.com/youtrack/issue/NSA-4843) Inconsistent message between nsa and nso when using more than one device.
+- [NSA-4845](https://dyned.myjetbrains.com/youtrack/issue/NSA-4845) Starter in Main Screen.
+- [NSA-4846](https://dyned.myjetbrains.com/youtrack/issue/NSA-4846) The app goes to the background when click X after finishing the CT.
+- [NSA-4847](https://dyned.myjetbrains.com/youtrack/issue/NSA-4847) Call API JWT /logout.
+- [NSA-4848](https://dyned.myjetbrains.com/youtrack/issue/NSA-4848) Failed to get the lesson (Unauthorized) Exit or Retry (nSA_Android_STG).
+
 ## [v1.28.4] on April 8th, 2026
 - [NSA-4705](https://dyned.myjetbrains.com/youtrack/issue/NSA-4705) Android: Video Interactions only have two SR attempts.
 - [NSA-4711](https://dyned.myjetbrains.com/youtrack/issue/NSA-4711) Change color coded feedback for SR.

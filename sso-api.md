@@ -4,6 +4,15 @@ title: SSO API
 
 # SSO API
 
+# 1.6.11 on August 13th, 2026
+- [SSO-107](https://dyned.myjetbrains.com/youtrack/issue/SSO-107) the data keys return null when {{SSO_API_HOST}}/uic/001-5WR-IZ5-ODW-SYQ-AUM-CTN/admin returned no data.
+
+# 1.6.10 on August 13th, 2026
+- [SSO-106](https://dyned.myjetbrains.com/youtrack/issue/SSO-106) The numbers of data in {{SSO_API_HOST}}/uic/001-xxx/admin is not matching the actual data returned.
+
+# 1.6.9 on August 13th, 2026
+- [SSO-105](https://dyned.myjetbrains.com/youtrack/issue/SSO-105) Only include admin and teacher for {{SSO_API_HOST}}/uic/001-xxx-xxx/admin.
+
 # 1.6.4 on January 20th, 2026
 - [SSO-98](https://dyned.myjetbrains.com/youtrack/issue/SSO-98) Change the student account and register new students, is taking too long time - Status in processing.
 

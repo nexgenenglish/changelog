@@ -5,6 +5,16 @@ title: neo Live B2I
 # Live B2I
 A website for DynEd students and coaches to study using Live Session and also for admins and affiliates to manage DynEd Live's environment.
 
+## [v.1.3.0] on August 10th, 2026
+- [DELB2I-1443](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1443) Search returns no information.
+- [DELB2I-1447](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1447) Fixed style broken.
+
+## [v.1.2.9] on August 10th, 2026
+- [DELB2I-1445](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1445) Coach Day OFF Request.
+
+## [v.1.2.8] on August 10th, 2026
+- [DELB2I-1446](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1446) Session reporting returns no data.
+
 ## [v.1.2.7] on February 20th, 2026
 - [DELB2I-1414](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1414) from DB can see Oct 3's live session record for Jenny, but can't see it for live admin and Jenny's live account.
 - [DELB2I-1420](https://dyned.myjetbrains.com/youtrack/issue/DELB2I-1420) Student Token Histories returns no data.

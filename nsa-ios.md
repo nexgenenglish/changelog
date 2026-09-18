@@ -5,6 +5,39 @@ title: neo Study App - iOS
 # neo Study App - iOS
 neo Study application for iOS
 
+## [v1.28.5] on August 10th, 2026
+- [NSA-4803](https://dyned.myjetbrains.com/youtrack/issue/NSA-4803) Starter in Main Screen.
+- [NSA-4707](https://dyned.myjetbrains.com/youtrack/issue/NSA-4707) Android: fontAlignment doesn't work.
+- [NSA-4726](https://dyned.myjetbrains.com/youtrack/issue/NSA-4726) Prevents the app to be able to take a screenshot.
+- [NSA-4740](https://dyned.myjetbrains.com/youtrack/issue/NSA-4740) iOS：repeat button is disabled.
+- [NSA-4743](https://dyned.myjetbrains.com/youtrack/issue/NSA-4743) iOS: the reading text can't automatically move.
+- [NSA-4744](https://dyned.myjetbrains.com/youtrack/issue/NSA-4744) Allow only 1 session per user for NSA.
+- [NSA-4746](https://dyned.myjetbrains.com/youtrack/issue/NSA-4746) new FE: Disable QW constraint if QW=0 for low number of remaining datasets [iOS].
+- [NSA-4747](https://dyned.myjetbrains.com/youtrack/issue/NSA-4747) MT total time shows differently.
+- [NSA-4748](https://dyned.myjetbrains.com/youtrack/issue/NSA-4748) new FE: MT timer didn't start.
+- [NSA-4756](https://dyned.myjetbrains.com/youtrack/issue/NSA-4756) neo+-B2+: Unit 4 Speech Practice- no options.
+- [NSA-4763](https://dyned.myjetbrains.com/youtrack/issue/NSA-4763) Display incomplete.
+- [NSA-4769](https://dyned.myjetbrains.com/youtrack/issue/NSA-4769) Could you please help fix the issue with one of our student’s Neo App?
+- [NSA-4797](https://dyned.myjetbrains.com/youtrack/issue/NSA-4797) Inconsistent message between nsa and nso when using more than one device.
+- [NSA-4798](https://dyned.myjetbrains.com/youtrack/issue/NSA-4798) nSA on iOS is not showing the answer on the screen - Speech Practice (Buying a Car).
+- [NSA-4807](https://dyned.myjetbrains.com/youtrack/issue/NSA-4807) Call API JWT /logout.
+- [NSA-4821](https://dyned.myjetbrains.com/youtrack/issue/NSA-4821) Android: fontAlignment doesn't work.
+- [NSA-4822](https://dyned.myjetbrains.com/youtrack/issue/NSA-4822) Prevents the app to be able to take a screenshot.
+- [NSA-4824](https://dyned.myjetbrains.com/youtrack/issue/NSA-4824) iOS：repeat button is disabled.
+- [NSA-4825](https://dyned.myjetbrains.com/youtrack/issue/NSA-4825) iOS: the reading text can't automatically move.
+- [NSA-4826](https://dyned.myjetbrains.com/youtrack/issue/NSA-4726) Allow only 1 session per user for NSA.
+- [NSA-4828](https://dyned.myjetbrains.com/youtrack/issue/NSA-4828) new FE: Disable QW constraint if QW=0 for low number of remaining datasets [iOS].
+- [NSA-4829](https://dyned.myjetbrains.com/youtrack/issue/NSA-4829) MT total time shows differently.
+- [NSA-4830](https://dyned.myjetbrains.com/youtrack/issue/NSA-4830) new FE: MT timer didn't start.
+- [NSA-4833](https://dyned.myjetbrains.com/youtrack/issue/NSA-4833) neo+-B2+: Unit 4 Speech Practice- no options.
+- [NSA-4835](https://dyned.myjetbrains.com/youtrack/issue/NSA-4835) Display incomplete.
+- [NSA-4839](https://dyned.myjetbrains.com/youtrack/issue/NSA-4839) Could you please help fix the issue with one of our student’s Neo App?
+- [NSA-4843](https://dyned.myjetbrains.com/youtrack/issue/NSA-4843) Inconsistent message between nsa and nso when using more than one device.
+- [NSA-4844](https://dyned.myjetbrains.com/youtrack/issue/NSA-4844) nSA on iOS is not showing the answer on the screen - Speech Practice (Buying a Car). 
+- [NSA-4845](https://dyned.myjetbrains.com/youtrack/issue/NSA-4845) Starter in Main Screen.
+- [NSA-4847](https://dyned.myjetbrains.com/youtrack/issue/NSA-4847) Call API JWT /logout.
+
+
 ## [v1.28.4] on April 8th, 2026
 - [NSA-4684](https://dyned.myjetbrains.com/youtrack/issue/NSA-4684) new FE iOS: correct answer anim does not play.
 - [nsa-4695](https://dyned.myjetbrains.com/youtrack/issue/NSA-4695) iOS: the text in comprehension doesn't show.

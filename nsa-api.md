@@ -5,6 +5,32 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.17.10 on September 15th, 2026
+- [NSAAPI-939](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-939) One lesson of neoview has undelivered blue icons.
+- [NSAAPI-940](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-940) Student blocked after failing Certification Test on third attempt – neoJr+
+- [NSAAPI-941](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-941) The lesson does not have images in the dialog box - STG.
+- [NSAAPI-942](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-942) DEV: error after finishing a neoflight lesson.
+- [NSAAPI-944](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-944) Coaching points are incorrect.
+
+# 1.17.8 on July 30th, 2026
+- [NSAAPI-937](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-937) Fixed points error.
+
+# 1.17.7 on July 30th, 2026
+- [NSAAPI-938](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-938) Server errors when using nso and neo dashboard.
+
+# 1.17.5 on July 27th. 2026
+- [NSAAPI-934](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-934) Score disappeared.
+- [NSAAPI-935](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-935) The Class endpoints still return date time related data in UTC instead of the organization time zone settings.
+- [NSAAPI-936](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-936) “Average Points Per Week” in Dashboard does not update when the reporting period is changed.
+
+# 1.17.4 on July 21st, 2026
+- [NSAAPI-928](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-928) Sorting function required.
+
+# 1.17.3 on July 14th, 2026
+- [NSAAPI-927](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-927) Improve Export Class Performance by Replacing Per-User Requests with Batch Processing.
+- [NSAAPI-929](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-929) User API logic error.
+- [NSAAPI-932](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-932) MyRecords does not display both completed Mastery Tests for certified Pre A1 students.
+
 # 1.17.2 on July 8th, 2026
 - [NSAAPI-931](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-931) student has more than 100% in the column Level Completion Completed - Case 1.
 
