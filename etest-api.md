@@ -5,6 +5,10 @@ title: eTest API
 # eTest API
 Service (API) to manage all the Assements Test (Placement test or the Certification Test) systems on neo.
 
+## [V.1.11.42] on October 7th, 2026
+- [ETAPI-232](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-232) Create API endpoints to transfer student to other organization.
+- [ETAPI-233](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-233) Create API to rename candidates email.
+
 ## [V.1.11.41] on August 24th, 2026
 - [ETAPI-231](https://dyned.myjetbrains.com/youtrack/issue/ETAPI-231) PT TEST
 

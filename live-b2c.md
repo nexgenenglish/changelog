@@ -5,6 +5,16 @@ title: neo Live B2C
 # Live B2C
 A website for neo students to study using Live Session.
 
+## [v.1.4.1] on October 7th, 2026
+- [NELB2C-1820](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1820) Please change live session time to server time.
+- [NELB2C-1831](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1831) Student can see coach video again after coach disconnected - opentok.
+- [NELB2C-1841](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1841) Since the use of mysql 8.4 valid user can't login.
+- [NELB2C-1842](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1842) Fixed getdotenv.
+- [NELB2C-1845](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1845) When taking live session, The student can't see My Records..
+- [NELB2C-1846](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1846) Update the myrecord page for menu type student.
+- [NELB2C-1849](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1849) Axios Error Code 401.
+- [NELB2C-1852](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1852) Errors in developer console.
+
 ## [v.1.3.12] on January 18th, 2026
 - [NELB2C-1830](https://dyned.myjetbrains.com/youtrack/issue/NELB2C-1830) The unit completion percentage and progress to level certificate is not updating when changing level.
 

@@ -5,6 +5,13 @@ title: neo Study App API
 # neo Study App API
 Service (API) to manage neo Study App.
 
+# 1.18.2 on October 8th. 2026
+- [NSAAPI-952](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-952) neoJr+ Pre-A1:P2 CT: Missing icon in CT Review Grid.
+
+# 1.18.0 on September 30th, 2026
+- [NSAAPI-947](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-947) Error: Whoops something went wrong.
+- [NSAAPI-948](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-948) Allow roles teacher to unlock CT.
+
 # 1.17.10 on September 15th, 2026
 - [NSAAPI-939](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-939) One lesson of neoview has undelivered blue icons.
 - [NSAAPI-940](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-940) Student blocked after failing Certification Test on third attempt – neoJr+

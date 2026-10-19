@@ -5,6 +5,18 @@ title: Universal Dashboard
 # neo Universal Dashboard
 An universal dashboard to manage neo ecosystem.
 
+# [1.8.2.2] on October 8th, 2026
+- [UD-5161](https://dyned.myjetbrains.com/youtrack/issue/UD-5161) Password reset error: 500.
+
+# [1.8.2.1] on September 29th, 2026
+- [UD-5163](https://dyned.myjetbrains.com/youtrack/issue/UD-5163) Allow roles teacher to unlock CT.
+
+# [1.8.2] on October 7th, 2026
+- [UD-4970](https://dyned.myjetbrains.com/youtrack/issue/UD-4970) Update the API call related to Live moved to liveapi services.
+- [UD-5075](https://dyned.myjetbrains.com/youtrack/issue/UD-5075) PT Results: DynEd header exists.
+- [UD-5105](https://dyned.myjetbrains.com/youtrack/issue/UD-5105) Update the myrecord page for menu type student.
+- [UD-5122](https://dyned.myjetbrains.com/youtrack/issue/UD-5122) Bulk Transfer Students to another class not working.
+
 # [1.8.1.1] on August 10th, 2026
 - [UD-5097](https://dyned.myjetbrains.com/youtrack/issue/UD-5097) Sort: No wait cursor.
 - [UD-5100](https://dyned.myjetbrains.com/youtrack/issue/UD-5100) Prevents diacritic characters (non standard character being used for email address.
@@ -56,6 +68,7 @@ An universal dashboard to manage neo ecosystem.
 - [UD-4809](https://dyned.myjetbrains.com/youtrack/issue/UD-4809) Request is still using tebetutara2 token instead of the admin that did the request.
 - [UD-4821](https://dyned.myjetbrains.com/youtrack/issue/UD-4821) Logo 2 reverts to Logo 1.
 - [UD-4843](https://dyned.myjetbrains.com/youtrack/issue/UD-4843) Wrong registration date in the student profile.
+- [UD-5000](https://dyned.myjetbrains.com/youtrack/issue/UD-5000) kids: Able to create an 8 digit password.
 - [UD-5004](https://dyned.myjetbrains.com/youtrack/issue/UD-5004) Kids: Able to enter email address.
 
 # [1.7.2.2] on January 14th, 2026

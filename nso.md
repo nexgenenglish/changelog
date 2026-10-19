@@ -8,6 +8,24 @@ Browser based neo Study
 # 1.14.42 on March 3rd, 2025
 - [NSAAPI-766](https://dyned.myjetbrains.com/youtrack/issue/NSAAPI-766) Fix error in main screen that keep showing MT button even after student has taken MT.
 
+## [1.9.7] on October 15th, 2026
+- [nSO-2015](https://dyned.myjetbrains.com/youtrack/issue/nSO-2015) Microphone Does Not Detect Student's Voice During SR.
+- [nSO-2016](https://dyned.myjetbrains.com/youtrack/issue/nSO-2016) Issues with microphone in neo Study Online - Case 2.
+- [nSO-2017](https://dyned.myjetbrains.com/youtrack/issue/nSO-2017) Issues with microphone in neo Study Online - Case 1.
+- [nSO-2018](https://dyned.myjetbrains.com/youtrack/issue/nSO-2018) Mic Error In the middle of lesson, after 2 attempt.
+- [nSO-2019](https://dyned.myjetbrains.com/youtrack/issue/nSO-2019) Audio Recording Failure in Speaking Units.
+
+## [1.9.6] on October 5th, 2026
+- [nSO-1977](https://dyned.myjetbrains.com/youtrack/issue/nSO-1977) An inconsistency between nSO- STG and nSA- STG: neo+ -> A1+ -> Module 1 Unit 4 -> Step 4.
+- [nSO-2003](https://dyned.myjetbrains.com/youtrack/issue/nSO-2003) neoPrep+: CT Review Lesson Grid Info Icon not working.
+- [nSO-2009](https://dyned.myjetbrains.com/youtrack/issue/nSO-2009) Unable to complete the lesson: 010_ndem5u2_directions_citydirections.
+
+## [1.9.5] on October 5th, 2026
+- [nSO-1340](https://dyned.myjetbrains.com/youtrack/issue/nSO-1340) neoJr+: L2MT1 Text not bold.
+- [nSO-1994](https://dyned.myjetbrains.com/youtrack/issue/nSO-1994) SR Correct Text is left-aligned not centered.
+- [nSO-1995](https://dyned.myjetbrains.com/youtrack/issue/nSO-1995) Hold to Speak label is not centered.
+- [nSO-1999](https://dyned.myjetbrains.com/youtrack/issue/nSO-1999) nso: extra text in Dictation.
+
 ## [1.9.4] on August 4th, 2026
 - [nSO-1643](https://dyned.myjetbrains.com/youtrack/issue/nSO-1643) neo Prep+ Some sentences with numbers are not being recognized.
 - [nSO-1880](https://dyned.myjetbrains.com/youtrack/issue/nSO-1880) Typo in SR response text.
